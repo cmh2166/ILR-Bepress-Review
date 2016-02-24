@@ -10,7 +10,7 @@ Formats available via the Bepress OAI feed:
 - simple dc (same as oai-dc, so skipped)
 - qdc or qualified dublin core
 - etdms
-- 
+
 ##OAI-DC Review
 **File**: ilr-bepress.oai.dc.xml, harvested February 24th, 2016.
 
