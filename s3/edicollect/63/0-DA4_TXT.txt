@@ -1,1386 +1,0 @@
-Disability Employment Policies and Practices in Private and Federal Sector Organizations
-
-
-Susanne M. Bruyère
-
-
-
-Funds for the preparation of this report have been provided by the Program on Employment and Disability in the School of Industrial and Labor Relations Extension Division at Cornell University.
-The research discussed in this publication has been funded by the:
-* US Department of Education, National Institute on Disability and Rehabilitation Research, Research and Demonstration Grant to Cornell University (#H133A70005)
-* Presidential Task Force on Employment of Adults with Disabilities
-
-
-Acknowledgements
-
-The author would like to acknowledge the significant contribution of a number of individuals in the design and implementation of the research and the preparation of this report. My sincere thanks must go to Sara VanLooy, Research and Administrative Assistant in the Program on Employment and Disability, who has contributed many hours of assistance in the writing of prior reports, design of tables, and proofing of drafts of this report. Julie Manners has provided the design expertise needed for the preparation of our final reports. David Esquith and Joseph DePhillips, project officers from the National Institute on Disability and Rehabilitation Research, have provided oversight and guidance to the research and demonstration project funding the private sector research. Yasamin DicCiccio, Lisa Horn, and the telephone team from the Cornell University Computer Assisted Survey Team (CAST), are responsible for the excellent response rates which we are able to report from our surveys. Sue Meisinger and Allison Branick from the Society of Human Resource Management, Bruce Flynn and Ann Makowski from the Washington Business Group on Health, and David Stapleton and Gina Livermore from the Lewin Group have been our collaborators for the private sector survey, and have contributed to survey design, piloting, as well as analysis of data and writing of the final report. Richard Horne, Senior Policy Analyst with the Presidential Task Force on Employment of Adults with Disabilities has been our collaborator and the co-author of the federal sector survey and resulting report. My thanks must also go to Dr. Katherine Seelman from the National Institute on Disability and Rehabilitation Research of the US Department of Education and Becky Ogle from the Presidential Task Force on Adults with Disabilities, within the Department of Labor, for the support they have provided for these efforts by making funding available from their respective organizations. Without the assistance, support, and conceptual and research contribution of these many contributors, this effort would not have been possible. 
-
-
-Contents
-Acknowledgements	2
-Contents	3
-About This Report	6
-Survey Purpose	6
-The Survey Sponsors	6
-The Survey Collaborators	7
-The Survey Methodology	8
-The Survey Instruments	8
-Sampling Methodology	8
-Executive Summary	9
-Survey Results	10
-Respondent Characteristics	10
-Organizations are Making Workplace Disability Accommodations	11
-Making Pre-employment Accommodations	12
-Respondents Less Familiar with Accommodations for People with Visual or Auditory Impairments	12
-Respondents Identify Barriers to Employment and Advancement for People with Disabilities	13
-Majority Have Not Experienced Disability Claims Under the ADA	14
-Labor Unions Often Involved in the Accommodation Process	15
-Interactions Between Disability Nondiscrimination and Other Employment Legislation	15
-HR Professionals/Employer Representatives Receive Training on Accommodation Related Topics	16
-Resources Used to Resolve Disability Nondiscrimination Issues	16
-Media Most Used to Address ADA Issues	17
-Disability Management/Return-to-Work Programs Contribute to Disability Civil Rights Compliance	18
-Summary and Implications	18
-Organization Accommodation Structure	18
-Supports Needed for Specific Populations	19
-Employ Diversity Strategies	19
-Engage Unions	19
-Increase Supervisors’ Knowledge of Accommodations	20
-Alternative Dispute Resolution	20
-Use of Disability Management Programs	20
-Disability Employment and Training Policy	20
-Further Research Needed	21
-Appendix A: Survey for private sector	21
-Appendix B: Survey for federal sector	21
-Appendix C:  Demographic Information	21
-Appendix D: Organizational Resources on the ADA and Accommodation	24
-Appendix E: Related Print and Web-based Resources	26
-Online Cornell ADA Resources and Information Available	26
-Human Resource Issues	26
-Reasonable Accommodations for Specific Disability Populations	27
-US EEOC On-Line ADA-Related Publications	28
-Resources for the HR Professional Relating to the ADA	29
-Loose-leaf series:	29
-Membership services:	29
-Figures	29
-Figure 1 Distribution of Organization Size at Location by private and Federal Sectors	29
-Figure 2: Distribution of Number of Years with Organization by Private and Federal Sectors	30
-Figure 3: Percent Reporting What Their Organization Does to Meet the Needs of Employees with Disabilities by Private and Federal Sectors	31
-Figure 4: Distribution of Reasons Accommodation Data is Kept by private and Federal Sectors	32
-Figure 5: Percent Reporting Difficult or Very Difficult to Make Changes by Private and Federal Sectors (of those who made changes)	33
-Figure 6: Percent Reporting Familiar or Very Familiar with Applicant Interviewing Issues by Private and Federal Sectors	34
-Figure 7: Percent Reporting Barriers to Employment or Advancement for persons with Disabilities by Private and Federal Sectors	35
-Figure 8: Percent Reporting Effective of Very Effective Means of reducing barriers to Employment for persons with Disabilities by Private and Federal Sectors	36
-Figure 9: Percent Reporting Difficult or Very Difficult to Make Changes to Meet Needs of Employees with Disabilities by Private and Federal Sectors (of those who have made the change)	37
-Figure 10: Distribution of Types of Access Provided to People with Disabilities by Private and Federal Sectors	38
-Figure 11: Distribution of a Grievance / Dispute Resolution Process	39
-Figure 12: Percent Experiencing Disability Claims Under the ADA by Private and Federal Sectors	39
-Figure 13:  Distribution of Organizations where Employees are Covered by a Collective Bargaining Agreement	40
-Figure 14: Percent Reporting Ways of Union Involvement in the Accommodation Process by Private and Federal Sectors	41
-Figure 15: Percent Reporting Frequently or Occasionally Uncertain about ADA & Work-Related Injury by Private and Federal Sectors	42
-Figure 16: Percent Reporting Frequently or Occasionally Uncertain about the ADA and the FMLA	42
-Figure 17: Percent Reporting Frequently or Occasionally Uncertain about the ADA & the Occupational Safety & Health Act Issues by Private and Federal Sectors	43
-Figure 18: Percent Reporting Frequently or Occasionally Uncertain about the ADA and the Drug Free Workplace Act by Private and Federal Sectors	43
-Figure 19: Percent reporting Employees trained in ADA Topics by Private and Federal Sectors	44
-Figure 20: Resources Used to Resolve Accommodation and Disability Nondiscrimination Issues in Federal Agencies	46
-Figure 21:  Resources Used to Resolve Accommodation and Disability Nondiscrimination Issues in Private Sector Organizations	46
-Figure 22: Distribution of Informational Mediums Used to Address ADA Issues by Private and Federal Sectors	47
-Figure 23: Distribution of Return to Work or Disability Management Programs by Private and Federal Sectors	48
-Figure 24: Percent Reporting a Great Deal or Somewhat of a Contribution Due to the Return to Work Program by Private and Federal Sectors (of those with a program)	48
-
-
-About This Report
-Survey Purpose
-The research described in this report is the result of two separate research initiatives funded to Cornell University to examine employer practices in response to the employment provisions (Title I) of the Americans with Disabilities Act of 1990 (ADA) and related civil rights legislation. Approximately one in six people has a disability, yet people with disabilities are often greatly under or unemployed compared to their non-disabled peers. This represents a significant loss of willing and able talent to both private and public sector organizations, as well as loss of income and social and economic participation for people with disabilities. This disparity is a function of inequity that has permeated social policy, access to education, training, and employment, as well as society’s attitudes. To address this disparity, both the US Department of Education National Institute on Disability and Rehabilitation Research and the Department of Labor’s Presidential Task Force on Employment of Adults with Disabilities have separately funded initiatives to examine employer practices in response to the ADA.
-
-The research described in this report is based on the premise that the implementation of the employment provisions of this disability nondiscrimination legislation falls largely in the realm of the functioning of human resource (HR) professionals. HR professionals are responsible for the recruitment, pre-employment screening and other workplace practices that affect the hiring and retention of workers with and without disabilities. The purpose of NIDRR-funded research on private sector businesses has been to identify how HR professionals have responded to this legislation to date, and thereby learn what further can be done to support their very critical role in minimizing workplace nondiscrimination for people with disabilities. The research initiative sponsored by the Presidential Task Force on Employment of Adults with Disabilities has as its focus to examine the response of federal agencies to the employment provisions of the ADA, as well as the Rehabilitation Act of 1973, as amended.
-
-This report combines the research efforts and resulting analyses from two separate surveys of private and federal sector employers, on their policies and practices in implementing disability nondiscrimination legislation. Private sector employers have been covered by disability nondiscrimination legislation in the employment setting since the passage of the Americans with Disabilities Act of 1990. Federal sector employers have been covered by comparable legislation since the Rehabilitation Act of 1973. The comparison today of their policies and practices enable us to not only compare between sectors, but to also analyze whether the extent of impact of such legislation on employer actions may change and be enhanced with the passage of time. In addition, we can also look across sectors to identify the policies and practices that best minimize or eliminate discrimination and maximize employment opportunities for people with disabilities.
-
-The Survey Sponsors
-This research has been made possible by funding to Cornell University from two sponsors. The US Department of Education National Institute on Disability and Rehabilitation Research (NIDRR) funded a separate Research and Demonstration grant to Cornell University for the research which involved private sector employers (grant No. H133A70005). The survey, a collaborative effort of the Society for Human Resource Management (SHRM), Cornell University, the Washington Business Group on Health (WBGH), and the Lewin Group, focuses on the many issues employers face when implementing the requirements of the Americans with Disabilities Act of 1990. The Presidential Task Force on Employment of Adults with Disabilities was created by Executive Order 13078 on March 13, 1998 to create a coordinated and aggressive national policy to increase the employment rate of persons with disabilities. One part of the effort is a survey of federal agency practices in the employment of people with disabilities, and it is this research, con-ducted by Cornell University, which is described here.
-
-The Survey Collaborators
-Cornell University, founded in 1868, is one of the Ivy League institutions in the Northeastern United States, and is based upon a unique integration of publicly and privately funded colleges. Cornell University has seventeen thousand students and fifteen hundred faculty, engaged in eighty-five graduate level and hundreds of undergraduate level fields of study. The Program on Employment and Disability in the Extension Division of the School of Industrial and Labor Relations at Cornell University has provided continuing education and technical assistance, nationally and regionally, on issues surrounding the workplace and disability since 1968. The Program contributes to development of inclusive workplace systems and communities for people with disabilities through research, the development of training materials, dissemination of this information in training efforts regionally, nationally, and internationally, provision of technical assistance on related topics, and production of scholarly materials.
-
-The Society for Human Resource Management (SHRM) provides education and information services, conferences and seminars, government and media representation, online services and publications to more than 125,000 professional and student members throughout the world. The Society is a founding member of the North American Human Resource Management Association (NAHRMA) and the World Federation of Personnel Management Associations (WFPMA). On behalf of NAHRMA, SHRM also serves as President of WFPMA.
-
-For 25 years, The Washington Business Group on Health (WBGH) has been the only national nonprofit organization devoted exclusively to the analysis of health policy and workplace disability issues from the perspective of large employers. WBGH has long been in the vanguard of integrated health and disability management program development, convening the first National Disability Management Conference in 1986, developing an integrated vision of organized systems of care in 1994, and pioneering the link between health, disability, and organizational performance through its productivity initiative in 1998. WBGH has maintained the Resources Network on Accommodations for Employees with Psychiatric Disabilities since 1993.
-
-The Lewin Group is an internationally recognized research and consulting firm with a 25-year history of providing research and consulting services in healthcare, disability policy, and other human resource areas to the federal government, state and local governments, and the private sector. Lewin staff working on this project are from the Applied Economics Group, which is well known for its work on disability and employment issues. The Lewin Group is a subsidiary of Quintiles Transnational Corporation, the world’s leading provider of clinical research services.
-
-The Presidential Task Force on Employment of Adults with Disabilities was created by Executive Order to create a coordinated and aggressive national policy to increase the employment rate of persons with disabilities. This initiative involves improving the coordination of existing federal programs, as well as identifying and recommending actions to remove employment barriers for persons with disabilities that either exist in current programs, or are not being adequately addressed by these programs.
-
-
-The Survey Methodology
-The Survey Instruments
-Two ten-page parallel surveys covering issues dealing with the employment provisions of the Americans with Disabilities Act of 1990 (ADA), and for federal sector organizations the Rehabilitation Act of 1973 as amended, were used to survey a random sample of the membership of the Society for Human Resource Management (SHRM), the entire membership of the Washington Business Group on Health (WBGH), and the human resource (HR) and equal employment opportunity (EEO) personnel in US federal agencies. The surveys included items covering: the reasonable accommodation process; recruitment, pre-employment screening, testing, and new employee orientation; health and other benefits of employment; opportunities for promotion/training; disciplinary process/grievance, dismissal or termination; interaction with labor/industrial/collective bargaining issues and other employment legislation; personnel training on the ADA and the Rehabilitation Act; resources used and found most helpful in handling disability nondiscrimination and accommodation disputes; and the role of disability management programs in contributing to the accommodation process and workplace acceptance of employees with disabilities. Copies of the survey instruments are included in Appendices A and B of this report. 
-
-Sampling Methodology
-A stratified sample by employer size was drawn from the total membership of the Society for Human Resource Management. The Washington Business Group on Health total membership group was surveyed.
-
-A sample of 1,402 names, telephone numbers, and addresses of the Society for Human Resource Management (SHRM) members was obtained from SHRM. These members were randomly selected based on the size of the organization they worked for. The goal was to have a random sample of individuals from small, medium, and large organizations in the US. Based on the distribution of members by organization size, a random sample was drawn proportional to the population within size strata. Interviews were conducted over the telephone from July 9, 1998 through November 10, 1998 by the Computer-Assisted Survey Team at Cornell University, using a computer-assisted telephone interviewing (CATI) system. A letter explaining the project was sent one week prior to the initial telephone call. 813 responses (a 73 percent response rate) were received. The response rates were similar for each size group. 
-
-The Washington Business Group on Health (WBGH) study was conducted on the 164 WBGH member companies. Surveys were mailed to members in late July, 1998. In early September, 1998, telephone calls were made to 127 non-respondents. Respondents were offered the options of returning a mail questionnaire, a fax questionnaire, or completing the survey by telephone. Calls were ended after two weeks. A 32 percent (n=52) response rate was obtained. For the federal sector agency representatives, a list was obtained of all human resource and Equal Employment Opportunity personnel across all 96 US federal agencies. A preliminary letter was sent out prior to the survey initiation from the Chair of the Presidential Task Force, Rebecca Ogle, to all agency heads, alerting them about the survey and clarifying its purpose. A letter was sent to each potential interviewee approximately two weeks prior to the initiation of the survey. The survey was conducted during July and August 1999, by telephone from Cornell University by the Computer Assisted Survey Team (CAST), using a Computer Assisted Telephone Interview (CATI) system. A total of 403 surveys were completed, out of 415 agency representatives who were contacted (a 97 percent response rate).
-
-Executive Summary
-* Cornell University has conducted a survey of private sector and federal human resource representatives about their response in policy and practice to disability nondiscrimination legislation. 
-* Results are based on feedback from approximately 800+ private sector and 400+ federal sector employer representatives, mostly HR representatives, since an HR membership organization (SHRM) was surveyed and HR practice and employment disability nondiscrimination was a significant focus of interest. 
-* Results suggest that both private and federal sector employers are responding to their respective disability nondiscrimination legislation by making accommodations needed by applicants and employees with disabilities. 
-* In terms of who makes the final decision about accommodation, among private sector employers, the HR staff either alone or in combination with others makes the final decision on accommodations. In federal sector organizations, the supervisor of the employee making the request most often makes this decision. 
-* Only thirteen percent of private sector respondents and 14 percent of federal respondents do not keep any data on accommodations. The federal agency respondents most frequently reported keeping data to fulfill reporting requirements. For private sector organizations, the most frequently reported reason was to make future accommodations. 
-* Both private sector and federal organizations report difficulty responding to requests to make information accessible for people with visual or learning impairments and making information accessible for hearing impaired people. Private sector respondents reported more difficulty with making information accessible for persons with visual impairments (36 percent compared to 14 percent for private sector respondents). 
-* Federal employers reported more difficulty with making adjustments to medical tests to minimize discrimination against applicants with disabilities in the pre-employment process (6 percent of federal respondents compared to 4 percent of the private sector). 
-* Private sector employers reported a greater degree of familiarity than their federal counterparts with: framing questions to applicants about the ability to perform specific job tasks rather than about the disability; restrictions on obtaining medical examinations and medical history; restrictions on eliciting information on medical issues affecting applicants’ health and safety on the job; and knowing when to ask an applicant about how s/he would perform certain job tasks. 
-* More federal HR representative respondents reported familiarity with accessing sign language interpreters, using a text telephone to set up interviews, using a reader to assist a person with a visual or learning disability, and adapting print material to accessible formats for people with visual disabilities. 
-* In both respondent groups, cost of training, super-vision, and of accommodations for applicants or employees with disabilities are not seen as the most significant barriers to the employment or advancement for persons with disabilities. 
-* In both employer groups, the change most often made, but also seen as the most difficult to make was changing co-worker or supervisor attitudes toward the employee with a disability. 
-* Wheelchair accessibility was the type of access most often provided across both respondent groups to ensure that people with disabilities have equitable access to meetings, promotional or social opportunities, and/or training. 
-* Federal respondents report significantly more disability claims across all areas than private sector respondents. The most common complaint filed against the private sector group was alleged wrongful dismissal followed by failure to accommodate. The most commonly experienced complaints by the federal group was failure to provide accommodation, followed by failure to promote. 
-* Private sector respondents reported significantly less certainty about the interaction of the ADA and other employment and health and safety legislation than their federal counterparts. 
-* An area in which respondents from both groups expressed an interest in gaining further information or training was accommodations for persons with mental health disabilities. 
-* Across both groups, legal counsel was very often used to resolve disability nondiscrimination and accommodation disputes, and alternative dispute resolution was a least used resource.   
-* Respondents from both groups identify print/video resources as the top preferred medium to address disability nondiscrimination issues. 
-* The majority of respondents in each of the sampled groups reported having formal or informal disability management or return to work programs, and that such programs contribute positively to disability employment civil rights legislation compliance. 
-
-See Figure 1
-
-See Figure 2
-
-
-Survey Results
-
-Respondent Characteristics
-Specific demographics for each of the groups sampled are provided in Appendix C. Individual reports for each of these membership groups are available from the membership organizations and Cornell University.1  In the comparative sample for this report, there is representation of employers throughout the size spectrum, as evidenced in Figure 1. It is important to note that there is a significant difference in the size of employers represented in the samples for the two groups. There are significantly more respondents from small employers (under 250 employees) in the private sector sample (40 percent, compared to 21 percent in the federal, as shown in Figure 1). There are also significantly more large employers in the federal samples, both in the 1,500-4,999 employees category (13 percent of private sector employers, 27 percent of federal), and in the 5,000 and above category (14 percent for private sector, 23 percent for federal). While the term “private sector” is used throughout, about four percent of those respondents listed “public administration” as their industry type.
-
-There was also a statistically significant difference between groups where the respondents’ number of years with the organization is concerned. Approximately seven of ten employer representatives responding to these surveys from private sector organizations were with their respective organizations ten or fewer years (See Figure 2).
-
-See Figure 3
-
-Federal agency representatives, in contrast, were predominantly with their agencies for more than ten years (30 percent had been employed with their agencies for 11-20 years, 29 percent more than 20 years. 
-
-Organizations are Making Workplace Disability Accommodations
-
-As evidenced in Figure 3, private sector organizations and federal agencies are responding to disability nondiscrimination legislation by making accommodations for applicants and employees with disabilities. Across eleven possible areas where accommodation could be made, survey respondents most commonly reported making changes by making existing facilities accessible, being flexible in the application of HR policies, and restructuring jobs and work hours. Other often-made changes by both groups were modifying the work environment and making transportation accommodations. Least often made accommodations were in the areas of modifying training materials and making changes in supervisory methods. There was a statistically significant difference in the groups’ responses to making these changes in all of the eleven categories, with federal agencies more likely to have made each change. Private sector organizations were also more likely to indicate that they had never been asked to make the changes. 
-
-When asked whether data was kept on accommodations, there again was a statistically significant difference between sample groups. Thirteen percent of all private sector respondents and 14 percent of federal respondents do not keep data on accommodations. Of those who do keep data, the most often cited reasons are for reporting requirements and future accommodations (see Figure 4). More federal respondents reported keeping data to fulfill reporting requirements (48 percent for private sector, 62 percent for federal), but the numbers in each group keeping data for future accommodations was quite similar (52 percent and 49 percent respectively). 
-See Figure 4
-
-When asked “who holds the responsibility for making the final decision regarding the provision of an accommodation,” the responses varied between groups. The most common response among private sector respondents was that HR staff alone (27 percent) or together with another person (10 percent) made the decision. A similar percentage of federal employees indicated that the decision was made by the immediate supervisor of the employee requesting the accommodation (27 percent), while in only a small percentage of federal respondents’ agencies was that decision made by HR (six percent). Among both groups, approximately one of six respondents said that there is no single party responsible for the final decision (18 percent for private sector, 16 percent for federal). 
-
-Making Pre-employment Accommodations
-
-Those surveyed were asked about their response to making changes in the recruitment, pre-employment screening, testing and orientation processes to comply with the ADA, and the degree of difficulty they experienced in making these changes. Across the ten possible areas where changes might have been made, 10-60 percent of all organizations reported not having needed to make these changes. Of those who did need to make changes in these processes in response to the ADA, most respondents indicated that they were relatively easy to make. Areas that respondents in both sectors indicated were more difficult to change were making information accessible for people with visual or learning impairments and making information accessible for people with hearing impairments. There was a statistically significant difference between sectors in their response in seven of the ten categories for accommodation. For example, private sector respondents reported more difficulty with making information accessible for persons with visual impairments (36 percent compared to 14 percent for federal respondents), and private sector employers reported more difficulty with providing information in an accessible way for people with hearing impairments (23 percent and 8 percent, for private sector and federal respondents  respectively). Federal agency representatives expressed less difficulty in every listed change except for one: providing medical tests post offer, which four percent of private sector respondents found difficult, compared to six percent of federal respondents (see Figure 5). It might be interesting to further explore whether the perception of these accommodations being less difficult by federal organizations is a function of having had more time under these requirements, as a function of the Rehabilitation Act of 1973.
-
-See Figure 5
-
-Respondents Less Familiar with Accommodations for People with Visual or Auditory Impairments
-
-Respondents were presented with a number of employment disability nondiscrimination compliance considerations in the applicant interview process and asked how familiar their organizations’ interview staff are with each of these elements (see Figure 6). In general, respondents reported the highest levels of familiarity with framing questions about job tasks, restrictions on eliciting medical information, when to ask about how the applicant would perform job tasks, and restrictions on obtaining medical information. Across groups, respondents were much less familiar with accommodations for people with visual or hearing impairments such as adapting print materials for people with visual impairments, use of a reader for a person with a visual impairment, and the use of TTY/text telephones to set up interviews. Federal sector respondents indicated a much greater familiarity with accessing sign language interpreters, however (33 percent of private sector compared to 76 percent of federal respondents reported their staff was “familiar” or “very familiar” with this issue). Federal respondents, while least familiar with accommodations for visual or hearing impairments, were far more familiar with them than their private sector counterparts. The private sector and federal respondents showed statistically significant differences in their responses in all of the areas presented, but one, restrictions eliciting medical information. 
-
-See Figure 6
-
-See Figure 7
-
-
-Respondents Identify Barriers to Employment and Advancement for People with Disabilities
-Respondents were presented with seven possible barriers to the employment and advancement of people with disabilities. There was a statistically significant difference between private and federal sector respondents in two of the areas, although in general the profile of perceived barriers, in terms of overall percentage of response, was similar (see Figure 7). Interestingly, in both the federal and private sectors, cost of training, supervision, and of accommodations for applicants or employees with disabilities, were least likely to be rated as significant continuing barriers, compared to other areas. The largest continuing barriers to employment and advancement for persons with disabilities reported by both federal and private sector employers were lack of related experience (49 percent reported by private sector and 53 percent by federal), and lack of requisite skills and training in the applicant or employee with a disability (39 percent for private sector respondents and 45 percent for federal). The next most often cited was supervisor knowledge of how to make accommodations (31 percent in the private sector group and 34 percent in the federal). Attitudes or stereotypes among co-workers and supervisors towards persons with disabilities was seen as the third most significant barrier among federal respondents (43 percent), and fifth among private sector respondents (22 percent).
-
-
-Not only were respondents asked to identify possible employment and advancement barriers, but they were also asked to rate the effectiveness of six listed means of reducing such barriers (see Figure 8). The top means identified by both sectors was the same, that being visible top management commitment (81 percent for the private sector respondents, 90 percent for federal). The next three most popular means to reduce barriers were ranked very closely within both respondent groups, though there was a statistically significant difference between groups. These means were: staff training, with 62 percent of private sector and 71 percent of federal reporting this as an effective or very effective way of reducing barriers; mentoring   (59 and 71 percent for private sector and federal, respectively); and on-site consultation or technical assistance (58 percent and 71 percent, respectively). Tax incentives were seen as the least effective means to reduce such barriers by private sector employers; indeed only 26 percent reported these as effective or very effective in reducing barriers. A parallel item on special budget allocations as a way to reduce accommodation costs to employers was asked on the federal survey. Sixty-nine percent of those interviewed saw this as effective or very effective in reducing barriers. 
-
-See Figure 8
-
-See Figure 9
-
-
-In both sample groups, those surveyed were asked about whether they had made certain changes in the workplace in order to meet the needs of employees with disabilities, and asked to rate the degree of difficulty in making those changes (see Figure 9). In both groups, the change most often made, but also seen as the most difficult to make, was changing co-worker or supervisor attitudes toward the employee with a disability (32 percent of private sector and 33 percent of federal representatives indicated this change was “difficult” or “very difficult”). The majority of respondents in both groups have made all of the listed modifications to organizational policies and practices to help overcome the barriers to employment and advancement faced by people with disabilities. Changes made by more than three quarters of respondents’ organizations include: ensuring equal pay and benefits, creating flexibility in the performance management system, modifying the return to work policy, and adjusting leave policies. 
-
-Wheelchair accessibility was reported as the type of access most often provided across both groups (82 percent for private sector, 95 percent for federal) to ensure that people with disabilities have equitable access to meetings, promotional or social opportunities, and/or training (see Figure 10). The second most commonly provided type of access for federal respondents was communication access for the hearing impaired (91 percent of federal respondents), while for private sector respondents it was time flexibility in test taking (45 percent of private sector respondents). 
-
-See Figure 10
-
-See Figure 11
-
-See Figure 12
-
-See Figure 13
-
-Majority Have Not Experienced Disability Claims Under the ADA
-In general, many respondents reported never having experienced most listed claims under the ADA. This may be because many respondents reported having a dispute or grievance resolution process for accommodations. Almost three-quarters of private sector respondents (72 percent) reported such a process, while 93 percent of federal respondents did (see Figure 11). 
-
-Private sector respondents reported significantly fewer claims filed against them under the ADA than did federal respondents. Failure to provide reasonable accommodation was reported by federal respondents as the most often experienced claim by agencies, at 36 percent (see Figure 12). Second most often experienced by federal respondents was failure to promote, at 26 percent. The most commonly filed claim for private sector respondents was wrongful discharge (19 percent). Next most often experienced was the claim of failure to provide reasonable accommodation, experienced by 14 percent of private sector respondents. The claim least often experienced by both groups was that of wage disputes (2 percent for private sector, 4 percent for federal), followed by the claim of denied or reduced benefits (2 percent of private sector and 5 percent of federal respondents experienced this). 
-
-
-Labor Unions Often Involved in the Accommodation Process
-In general, federal agency workplaces were more significantly unionized (73 percent) than the private sector (23 percent) (see Figure 13). If unionized, respondents were asked to report the ways in which unions were involved in the accommodation process. Figure 14 provides information on this comparison. In both groups, among respondents who have collective bargaining agreements and have union involvement in the accommodation process, unions were most often used to provide representation in discussions about the accommodation process (69 percent for private sector, 75 percent for federal). For private sector respondents, the next most common union involvements were providing advice/ information on ways to accommodate employees with disabilities (61 percent) and providing representation in grievance proceedings (45 percent). 
-
-See Figure 14
-
-Federal agency respondents reported that the second and third most common union involvements were consulting on revising employment policy (68 percent) and providing advice/information on ways to accommodate (67 percent). Unions were less often used by both groups to provide information on employee rights (33 percent for private sector, 56 percent for federal). 
-
-Interactions Between Disability Nondiscrimination and Other Employment Legislation
-Interviewees were asked about their degree of uncertainty about the interaction between disability nondiscrimination legislation and other employment and health and safety legislation. In the private sector survey, organization representatives were asked about their perceptions of degree of uncertainty between the ADA and the Family and Medical Leave Act (FMLA), State Workers’ Compensation law requirements, the Occupational Safety and Health Act (OSHA), and the Drug-Free Workplace or Omnibus Transportation Employee Testing Acts. In the federal surveys, the same questions were asked, and additional information was elicited about the degree of uncertainty respondents experienced in implementing the Rehabilitation Act’s requirements on affirmative action and purchasing accessible technology and equipment. 
-
-Across all of these categories, there was a statistically significant difference in the groups’ responses. Private sector respondents reported significantly more uncertainty about the interaction of the ADA and other employment and health and safety legislation than their federal counterparts. The areas of greatest uncertainty for private sector respondents were in coordination of the ADA and the Family and Medical Leave Act, and the interplay between the ADA and work-related injury. Results were similar among respondents from the federal sector. Private sector respondents were much less uncertain about the interaction between the ADA and Occupational Safety and Health issues and the Drug-Free Workplace Act, while federal respondents showed similar levels of uncertainty to the other areas (see Figures 15-18). 
-
-
-See Figure 15
-
-See Figure 16
-
-See Figure 17
-
-See Figure 18
-
-See Figure 19
-
-See Figure 20
-
-
-HR Professionals/Employer Representatives Receive Training on Accommodation Related Topics
-The private sector survey asked respondents if their organizations’ employees have been trained in twelve ADA related areas, and the federal survey added two additional Rehabilitation-Act related questions (see Figure 19). The training profiles for both groups were, on the whole, very similar. The areas in which training was most often conducted were the accommodation process (91 percent and 87 percent, respectively for the private sector and federal sectors) and non-discriminatory recruiting and hiring (85 percent and 91 percent, respectively). Areas where the least training was conducted were allowable limitations on health plans, interaction with other legislation, written resources on accommodations, and accommodations for people with mental health disabilities. 
-
-For each training area, respondents were asked if they would like to receive more information on the subject. Both respondent groups expressed the most interest in further information on accommodations for persons with mental health disabilities (65 percent of private sector respondents, and 69 percent of federal respondents desired more information). Private sector respondents also wanted more information on equal access (61 percent) and the accommodation process (60 percent). Federal respondents wanted to receive more information on Rehabilitation Act requirements (66 percent), interaction with other employment legislation (64 percent), available print or organizational resources (64 percent), and limitations allowed to health plans (64 percent). 
-
-Resources Used to Resolve Disability Nondiscrimination Issues
-The survey asked respondents to rate twelve often-used resources to handle accommodations and disability nondiscrimination issues. Figures 20 and 21 present the prioritization of use in each of the respective  respondent groups. Across both groups, internal legal counsel ranked highly as a resource often used to resolve ADA disputes (82 and 85 percent for the private and federal sectors respectively). This was the most-often used resource for the private sector group, and a close second in the federal group, topped only by the agency EEO office (90 percent for federal respondents). The next most often used in the private sector were professional societies such as the Society for Human Resource Management (SHRM), and safety and disability staff within the organization. For the federal group, after EEO and legal advisors the next most often used resources to resolve ADA disputes were safety staff and state rehabilitation agencies (72 and 70 percent). 
-
-Among the least used resources in this listing were dispute resolution centers or mediation (10 percent) or union representatives (11 percent) in the private sector and external legal counsel (13 percent) for the federal sector respondents. By contrast, almost half of the federal sector respondents reported using alternative dispute resolution/mediation and the union representative to resolve accommodation and disability nondiscrimination issues (52 and 49 percent respectively). 
-
-See Figure 21
-
-
-Respondents were also asked to rate the degree of helpfulness of those resources that they used. Legal counsel was rated the most helpful resource by private sector respondents (87 percent found it helpful or very helpful), while disability management staff came in first in the federal sample (84 percent).  
-
-Media Most Used to Address ADA Issues
-Survey informants were also asked the informational media used to address their ADA issues and their degree of helpfulness (see Figure 22). There was a statistically significant difference between sample groups in all categories, but respondents from both identified print/video resources as the top preferred medium (73 percent for private sector, 81 percent for federal). For private sector respondents this was followed by on-site consultation, newsletters, and web sites or listserves. Federal employees ranked web sites or listserves second after print/video, followed by on-site consultation, and newsletters. Least favored for both groups was telephone consultation (31 percent of private sector, 51 percent of federal). 
-
-
-See Figure 22
-
-See Figure 23
-
-See Figure 24
-
-Disability Management/Return-to-Work Programs Contribute to Disability Civil Rights Compliance
-Organizational representatives were asked if they had a disability management or return to work program, and the degree to which that program contributes to compliance with disability nondiscrimination legislation in their organization. The majority of respondents in both groups reported having formal  or informal programs (see Figure 23), though the private sector group had a significantly higher number. As illustrated in Figure 24, of those who have disability management or return to work programs, they report that these programs contributed to implementation of the ADA in a number of ways, including (in order of priority): importance of confidentiality (85 and 89 percent for the private and federal sectors respectively); raising acceptance for persons with disabilities in the workplace (73 and 88 percent respectively); increasing supervisor awareness of the accommodation process (75 and 87 percent respectively); and creating an organizational structure for accommodations (71 and 79 percent respectively).
-
-
-Summary and Implications
-This report identifies how private sector and federal employers are responding to the employment disability nondiscrimination requirements of the Americans with Disabilities Act and the Rehabilitation Act. This research indicates that while much progress has been made, there remain many barriers to the recruitment, hiring, retention, and career advancement of adults with disabilities in the work-force that warrant consideration. The results of these surveys suggest some areas for further consideration to approach these remaining barriers. We will discuss these as structures in the organization that facilitate accommodation, supports needed for specific populations, use of diversity strategies, engaging unions, increasing supervisor knowledge of accommodations, use of alternative dispute resolution and disability management programs, and the implications for disability and employment training policy and further research needed. 
-
-Organization Accommodation Structure
-Most organizations in both sectors report having made accommodations for their employees with disabilities. However, the structure for keeping data and who makes the final decision on accommodations is quite different. More federal respondents reported keeping data to fulfill reporting requirements, but the numbers in each group keeping data for future accommodations was quite similar. Private sector organizations may want to consider the accommodation process and the benefits of having a more formalized reporting mechanism, such as the federal sector has. In the private sector, the HR professional most often makes the decision about the accommodation, while in the federal, the immediate supervisor is most often cited as the final decision-maker in accommodation decisions. This suggests that data gathering about accommodations made and who informs this recordkeeping may be different between these organizational structures. Also, information and training about disability nondiscrimination legislation requirements may need to be focused on these different personnel within each sector. 
-
-Supports Needed for Specific Populations
-The majority of organizations from both sectors report having made changes in their existing recruitment, pre-employment screening, testing, and orientation procedures in order to comply with disability nondiscrimination and civil rights laws. However, making information accessible for a person with a visual or learning disability, or a person who is deaf or hard of hearing, was an area reported more difficult than others. Respondents indicated that their interview staff are least familiar with interview considerations relating to people with visual or auditory impairments, such as using a text telephone or relay service to set up interviews with deaf or hard of hearing applicants, using a reader to assist a person with a visual impairment or learning disability, or with adapting print materials used in interviews to large print, diskette, or Braille. This finding is particularly significant in the federal sector in light of the recent addition of Section 508 to the Rehabilitation Act. Section 508 mandates that all federal technology purchases be fully accessible to employees with disabilities. Significant technical assistance and training at the federal agency level will be required if Section 508 is to be successfully implemented. Similarly, in the private sector, with an aging workforce, knowledge of accommodations for persons with visual and hearing impairments will become increasingly important for employers. It is estimated that the US workforce in the 55-64 year old range will increase 40 percent in the next ten years. 
-
-Another area for further exploration is the workplace supports needed for persons with psychiatric disabilities. Respondents in both the private sector and federal sectors indicated a need for further information on accommodations for this population. This, again, may be a place where federal and private sector employers can join to find effective solutions to enhance the hiring and retention of this group. 
-
-Exploration of how the federal sector can use the proposed new hiring authorities for this group, as well as how to provide supports in both sectors once individuals have been employed, need to be examined. 
-
-Employ Diversity Strategies
-Some remaining barriers to employment for persons with disabilities identified by both sectors were in the workplace itself. Attitudes toward people with disabilities continues as a workplace integration issue, even though this was an area where most organizations in both sectors reported having made changes. Perhaps in both sectors this is an area that can be merged with diversity programming or addressed independently with continued training across all personnel. It would be a valuable discussion with both private sector and federal employers as to whether the presence of diversity programs has been of any assistance in addressing issues of disability nondiscrimination and negative attitudes or stereotypes toward persons with disabilities. Since diversity pro-grams are increasing in popularity in the private sector, joint exploration with private sector employers of application of this use might be most beneficial. 
-
-Engage Unions
-In workplaces which had unions, whether private sector or federal sector, when unions were involved, they were reportedly beneficial in the accommodation process. Focus groups with unions might be a good place to continue information gathering in this process to learn more about barriers to employment for people with disabilities, and how unions can be engaged to help to address continuing attitudinal issues toward persons with disabilities. 
-
-Increase Supervisors’ Knowledge of Accommodations
-Supervisors’ lack of knowledge about accommodations was also reported as an ongoing barrier in the work environment for persons with disabilities. Since the majority of training in both employment sectors has been focused on human resource personnel in the past, this is not surprising, and a place where training and technical assistance should be focused in the future. Supervisors are an integral part of the accommodation process in most workplaces. And, since supervisors reportedly make the final decision on accommodations in most federal workplaces, it is imperative that they have the training needed to be able to make appropriate decisions and access needed resources for particular accommodation requests. 
-
-Alternative Dispute Resolution
-Alternative dispute resolution was reported by both groups as an infrequently used alternative for resolving conflicts around accommodations. The length of time for processing these disputes in both private and public sectors continues to increase. It would appear that significant further work must be done to encourage and inform dispute resolution, particularly on accommodation issues, earlier on and closer to the workplace. Alternative dispute resolution is an area that is gaining in popularity in the private sector, and again may be an area that the federal sector might want to further explore. An example that might be worth promoting is setting up teams across departments that represent the various interested parties in the accommodation process such as the person with a disability, HR representative, super-visor, health and safety representative, union, and EEO representative. 
-
-Use of Disability Management Programs
-Both sectors reported that having a formal or informal disability management program contributes to implementation of civil rights laws for people with disabilities. This is an area that should be further explored as a programmatic structure for support for workplace disability nondiscrimination policies and practices. 
-
-Disability Employment and Training Policy
-One of the areas across both private sector and federal organizations seen as a remaining barrier to the employment of people with disabilities is the lack of requisite training, skills, and related work experience in persons with disabilities. These identified barriers have implications for employment and disability social policy changes that advance the interests of people with disabilities in the employment and training arena. It is imperative that initiatives such as those in existence under the Workforce Investment Act include people with disabilities in their mandate and implementation. This means not only having the direction for such inclusion written into the legislation and resulting regulations, but also making certain that implementation at the local level takes into account the unique service delivery needs of such system users. Success at this level calls for skilled professionals who will understand and be able to identify the service needs of persons with disabilities to assist them in making meaningful choices for training and subsequent employment. This also necessitates physical and communication accessibility of such service systems. Thus, regulations must be written for emerging workforce investment initiatives that require the opportunity for full participation of people with disabilities.  
-
-Also of interest for further study is the perspective of private sector employers about the effectiveness of tax incentives as a means to remove barriers for persons with disabilities in the hiring and retention employment processes. Tax incentives were seen as the least effective means to reduce such barriers, by private sector employers; indeed only 26% reported these as effective or very effective in reducing barriers. A parallel item on special budget allocations as a way to reduce accommodation costs to employers was asked on the federal survey. Sixty-nine percent of those interviewed saw this as effective or very effective in reducing barriers. 
-
-As evidenced by this research, private sector and federal organizations are making significant strides in responding to employment disability nondiscrimination legislation such as the ADA and the Rehabilitation Act to change internal business organization environments and policies to respond to the law. Such efforts must be complemented by supporting national employment and training policies that provide persons with disabilities with training and experience resulting in skills that are marketable in a labor market that needs skilled workers. 
-
-Further Research Needed
-The results discussed in this report indicate a need for further research. One direction for further research is to gain the perspective of nondiscriminatory practices from employees with disabilities, supervisors, and co-workers. Another area for future research in the federal sector’s further examination of the efficacy of federal training programs and Section 508, supporting technology applications. This report highlights many areas where the federal government can and should provide additional promotion, outreach, and technical assistance to federal agencies on accommodation and nondiscrimination issues. 
-
-In the private sector, business leadership such as organizations like the Washington Business Group on Health and the Society for Human Resource Management, can play a significant leadership and educational role for American business. This includes making available more information on accommodations for people with visual and hearing disabilities and people with psychiatric disabilities; maximizing the benefits of disability management programs in encouraging accommodation in the workplace for employees with disabilities; and the application of alternative dispute resolution to the accommodation and disability nondiscrimination process. 
-
-Appendix A: Survey for private sector
-
-Appendix B: Survey for federal sector
-Appendix C:  Demographic Information
-
-Organization Size at Location
-(percent of respondents)SHRMWBGHPTFEAD0-142%0%215-2532126-5054251-24932616250-4991326500-1499222221500-249976132500-34994263500-49993075000+107323Don’t Know**0**Refused**41** Less than one percent
-Type of Industry
-(percent of respondents)SHRMWBGHPTFEADAgriculture/ Forestry/ Fishing1%2%NAConstruction**2NAFinance88NAHigh tech/Computers/Telecom715NAInsurance513NAManufacturing – Durable1615NAManufacturing – non-durable819NAMining10NAPublic Administration42NAReal estate**0NARetail Trade34NAService388NATransportation24NAUtilities34NAWholesale Trade30NAOther**2NADon’t know**0NARefused02NA** -- Less than one percent
-NA – Not offered as an option with this group
-Title of Respondent (Non-Federal)
-(percent of respondents)SHRMWBGHPTFEADPresident/Owner1%4%NAVice President913NADirector2719NAAssistant Director14NAManager3646NAAssistant manager10NASupervisor22NAAdministrative Assistant20NAOther54NAAdministrator42NAAnalyst**0NARep/ Specialist/coordinator/ Associate84NASenior Rep / Specialist20NAGeneralist10NADon’t Know**0NARefused02NATitle of Respondent (Federal)Director/ChiefNANA41%Deputy Assistant SecretaryNANA2Deputy DirectorNANA4Personnel managerNANA18OfficerNANA9SpecialistNANA10Program Co-ordinatorNANA3OtherNANA13DKNANA0RefusedNANA0** -- Less than one percent
-NA – Not offered as an option with this group
-Function of Respondent
-(percent of respondents)SHRMWBGHPTFEADAdministrative7%2%9EEO/Affirmative Action2835Benefits3150Compensation100Disability**253Diversity**01Employee Relations461Employment/Recruitment222Health/Safety/Security160HR (aka Generalist692341Labor/Industrial Relations12**Legal**0**Organizational Development**00Training & Development100Other10108Don’t Know**00Refused020** -- Less than one percent
-Number of Years with Organization
-(percent of respondents)US
-(including SHRM and WBGH)PTFEAD<216%62-531166-10222011-20213020+1029
-Level of organization Where Reporting From
-(percent of respondents)SHRMWBGHPTFEADCorporate60%81%NADivision/Dept/Plant/Facility3917NARefused12NAEntire Agency (including regions)NANA49%HQ OnlyNANA9Regional onlyNANA40RefusedNANA2
-Appendix D:
-Organizational Resources on the ADA and Accommodation
-
-ADA Disability and Business Technical Assistance Center (USA)
-Information line: 8009494232 (Voice/TTY)
-
-Cornell University
-Program on Employment and Disability
-School of Industrial and Labor Relations
-106 ILR Extension
-Ithaca, NY  14853-3901, USA
-607-255-7727 (Voice)
-607-255-2891 (TTY)
-607-255-2763 (Fax)
-http:///www.ilr.cornell.edu/ped
-ilr_ped@cornell.edu
-
-Job Accommodation Network (USA)
-1-800-526-7234 for accommodation information
-1-800-ADA-WORK for ADA information
-304-293-5407 (fax)
-http://janweb.icdi.wvu.edu
-
-President’s Committee on Employment of People with Disabilities (USA)
-202-376-6200 (Voice)
-202-376-6205 (TTY)
-http://www.pcepd.gov
-
-U.S. Department of Education National Institute on Disability and Rehabilitation Research
-400 Maryland Avenue, SW
-Washington, DC 20202-2572, USA
-202/708-5366 (Voice, Dept. of Ed. main #)
-http://www.ed.gov/offices/OSERS/NIDRR/
-
-U.S. Department of Labor: Office of Federal Contractor Compliance Programs (OFCCP)
-Department of Labor
-Frances Perkins Building
-200 Constitution Avenue NW
-Washington, DC 20210
-888-376-3227 (Voice)
-202-219-9475 (voice)
-202-208-0452 (TTY)
-
-http://www.dol.gov/dol/esa
-
-U.S. Equal Employment Opportunity Commission
-1801 L St. NW
-Washington, DC  20507, USA
-Technical Assistance:		
-8006694000 (Voice)
-8008003302 (TTY)
-Publications:
-800669EEOC (Voice)
-8008003302 (TTY)
-http://www.eeoc.gov
-
-U.S. Office of Personnel Management
-(for federal employment information)
-1900 E Street NW
-Washington, DC 20415
-202-606-2700 (voice)
-912-744-2299 (TTY)
-http://www.opm.gov
-
-Washington Business Group on Health (WBGH)
-Bruce G. Flynn
-Director, Disability Management
-777 N. Capitol Street, N.E.
-Suite 800
-Washington, DC  20002, USA
-202-408-9320 (Voice)
-202-408-9332 (Fax)
-202-408-9333 (TTY)
-flynn@wbgh.com
-
-Appendix E:
-Related Print and Web-based Resources
-
-Online Cornell ADA Resources and Information Available
-
-The following titles are available free for download at
-
- http://www.ilr.cornell.edu/ped/ada
-
-They can also be obtained for a small fee from the Program on Employment and Disability (contact information is included in the “Related Resources” section).
-
-Human Resource Issues
-
- A Human Resource Perspective on Implementing the ADA 
-
- Pre-employment Screening Considerations and the ADA
-
-Pre-Employment Testing and the ADA
-
-Reasonable Accommodation Under the ADA
-
-Health Benefit Plans and the ADA
-
-The Americans with Disabilities Act of 1990 and Injured Workers
-
-The ADA and Collective Bargaining Issues
-
-The ADA and Personnel Training
-
-The ADA and Total Quality Management
-
-Cultural Diversity and the ADA
-
-Reasonable Accommodations for Specific Disability Populations
-
- Working Effectively with People Who are Deaf or Hard of Hearing
-
- Working Effectively with People Who Are Blind or Visually Impaired
-
-Working Effectively with Persons Who Have Cognitive Disabilities
-
-Workplace Accommodations for Persons with Musculoskeletal Disorders
-
-Working Effectively with Employees Who Have Sustained a Brain Injury
-
-Employing and Accommodating Workers with Psychiatric Disabilities
-
-Employing and Accommodating Individuals with Histories of Alcohol and Drug  Abuse
-
-Employment Considerations for People Who Have Diabetes
-
-Accommodating the Allergic Employee in the Workplace
-
-Causes of Poor Indoor Air Quality and What You Can Do About It
-
-Working Effectively with People with Learning Disabilities and Attention Deficit  Hyperactivity Disorder
-
- Working Effectively with Individuals Who Are HIV-Positive
-
-Copies of Executive Summaries of Cornell University’s survey of employer practices in response to the ADA can be viewed or downloaded at 
-
-http://www.ilr.cornell.edu/ped/projects/ADA%20Projects/IEP/surveys.html
-
-Access For All
-http://www.ilr.cornell.edu/ped/accessforall
-A web-based guide for human-resource professionals
-on how to accommodate individuals with visual and
-hearing disabilities.
-
-US EEOC On-Line ADA-Related Publications
-
-The following documents are all available on the World Wide Web at the URL:
-http://www.eeoc.gov/policy/guidance.html
-
-
-Enforcement Guidance: Reasonable Accommodation and Undue Hardship under the Americans with Disabilities Act   3/1/99
-
-EEOC Enforcement Guidance on the Americans with Disabilities Act and Psychiatric Disabilities Date issued 3/25/97 (Also available in PDF format)
-
-Letter to National Labor Relations Board stating the Commission's position that, under limited 	specified circumstances, Title I of the ADA permits an employer to give a union medical information about an applicant or employee. Date Issued 11/1/96
-
-EEOC Enforcement Guidance: Workers' Compensation and the ADA Date Issued 9-3-96
-
-ADA Enforcement Guidance: Preemployment Disability-Related Questions and Medical	 Examinations Date issued 10/10/95 (Also available in PDF format)
-
-Interim Enforcement Guidance on the Application of the Americans with Disabilities Act of 	1990 to Disability-based Distinctions in Employer Provided Health Insurance	 Date issued 6/8/93 (Also available in PDF format)
-
-Facts About the Family and Medical Leave Act, the Americans with Disabilities Act, and Title VII of the Civil Rights Act of 1964
-
-
-Resources for the HR Professional Relating to the ADA
-
-Loose-leaf series:
-
-ADA Compliance Guide
-Thompson Publishing Group, Inc.
-1725 K St. NW
-Washington, DC  20006
-1-800-677-3789
-
-BNA Policy and Practice Series
-Bureau of National Affairs, Inc. 
-1231 25th St. N.W.
-Washington, DC 20037
-
-Human Resource Management
-CCH, Inc.
-4025 W. Peterson Ave.
-Chicago, IL 60646-6085
-(800) 344-3734
-www.cch.com
-
-
-Membership services:
-
-Society for Human Resource Management (SHRM)
-A fax-on-demand system that allows SHRM members to receive publications on the ADA and other HR-related topics.  See http://www.shrm.org or call (800) 283-7476.
-
-HR Advisor
-http://www.advisor.riag.com
-An extensive library of information for HR professionals
-
-
-Figures
-
-Figure 1 Distribution of Organization Size at Location by private and Federal Sectors
-Percentages are percent of all respondents
-
-Less than 250 Employees:
-Private: 40 percent 
-Federal: 21 Percent
-
-250-499 Employees
-Private: 12 percent
-Federal 6 percent
-
-500-1499 employees
-Private: 21 percent
-Federal: 22 percent
-
-1500-4999 employees
-Private: 13 percent
-Federal: 27 percent
-
-5000 or more employees
-Private: 14 percent
-Federal 23 percent
-
-Note: statistically significantly different across sectors (p< 0.06)
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations.  S. Bruyère, Cornell University, 2000.
-
-End of Figure 1
-
-
-Figure 2: Distribution of Number of Years with Organization by Private and Federal Sectors 
-Percentages are percent of All Respondents
-
-Less than 2 years: 
-Private: 16 percent
-Federal: 6 percent
-
-2-5 years: 
-Private: 31 percent
-Federal: 16 percent
-
-
-
-6-10 years
-Private: 22 percent
-Federal: 20 percent
-
-
-11-20 years
-Private: 21 percent
-Federal: 30 percent
-
-More than 20 years: 
-Private: 10 percent
-Federal: 29 percent
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 2
-
-
-Figure 3: Percent Reporting What Their Organization Does to Meet the Needs of Employees with Disabilities by Private and Federal Sectors
-
-Percentage is Percent Reporting Yes of All Respondents
-
-Made existing facilities accessible:
-Private: 82%
-Federal: 93%
-
-Restructured jobs and/or work hours:
-Private: 69%
-Federal: 87%
-
-Reassignment to vacant positions:
-Private: 46%
-Federal: 57%
-
-Modified Equipment:
-Private: 59%
-Federal: 90%
-
-Modified Training Material: 
-Private: 31%
-Federal: 49%
-
-
-
-Provided Readers or Interpreters: 
-Private: 36%
-Federal: 79%
-
-
-Flexible HR policy:
-Private: 79%
-Federal: 93%
-
-Changed Supervisory Methods: 
-Private: 35%
-Federal: 55%
-
-Transportation Accommodations: 
-Private: 66% 
-Federal: 86%
-
-Written job instructions:
-Private: 64%
-Federal: 69%
-
-Modified Work Environment:
-Private: 62%
-Federal: 93%
-
-Note: All statistically significantly different across sectors (p< .05)
-
-Private sector organizations were more likely than the federal sector to say they never need to make the change. 
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 3
-
-
-
-Figure 4: Distribution of Reasons Accommodation Data is Kept by private and Federal Sectors
-
-Percentage is Percent Reporting Yes of All Respondents 
-
-For Future Accommodations: 
-Private: 52%
-Federal: 49%
-
-Tracking Costs: 
-Private: 31%
-Federal: 41%
-
-Dispute Resolution: 
-Private: 41%
-Federal: 50%
-
-Reporting Requirements: 
-Private: 48%
-Federal: 62%
-
-Claim Handling: 
-Private: 48%
-Federal: 40%
-
-Note: All statistically significantly across sectors (p< .05)
-
-13% of all private sector respondents and 14% of all federal respondents do not keep data on accommodations. 
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 4
-
-
-
-Figure 5: Percent Reporting Difficult or Very Difficult to Make Changes by Private and Federal Sectors (of those who made changes) 
-
-Recruiting locations accessible:
-Private: 5%
-Federal: 3%
-
-Change wording of job application:
-Private: 6%
-Federal: 3%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Changing interview Questions:
-Private: 9%
-Federal: 5%
-Note: Statistically significantly different across sectors (p< .05). 
-
-
-Interview Location Accessible:
-Private: 4%
-Federal: 3%
-
-Modify Pre-employment testing:
-Private: 10%
-Federal: 9%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Medical tests Post-Offer:
-Private: 4%
-Federal: 6%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Employee Orientation Accessible: 
-Private: 3%
-Federal: 2%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Information for Hearing Impaired; 
-Private: 23%
-Federal: 8%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Information for Visually Impaired: 
-Private: 36%
-Federal: 14%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Restrooms Accessible: 
-Private: 14%
-Federal 10%
-
-Between 10-60% of all organizations did not need to make these changes.  Percentages also do not include those who were not able to make the change.  
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 5
-
-
-
-Figure 6: Percent Reporting Familiar or Very Familiar with Applicant Interviewing Issues by Private and Federal Sectors
-
-Percentage is Percent of all Respondents
-
-Framing Questions about Job Tasks: 
-Private: 88%
-Federal: 79%
-Note: Statistically significantly different across sectors (p< .05). 
-
-
-Restrictions on obtaining medical information:
-Private: 76%
-Federal: 71%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Restrictions eliciting medical information: 
-Private: 85%
-Federal: 81%
-
-When to ask about job tasks: 
-Private: 83%
-Federal: 79%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Accessing Sign Language Interpreters: 
-Private: 33%
-Federal: 76%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Using TTY to set up interviews: 
-Private: 23%
-Federal: 54% 
-Note: Statistically significantly different across sectors (p< .05). 
-
-Using a Reader: 
-Private: 31%
-Federal: 58%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Adapting Print Material: 
-Private: 28%
-Federal: 45%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 6
-
-
-
-Figure 7: Percent Reporting Barriers to Employment or Advancement for persons with Disabilities by Private and Federal Sectors 
-
-Percentage is Percent Reporting Yes of All Respondents
-
-Cost of Accommodation:
-Private: 16%
-Federal: 19%
-
-Cost of Training: 
-Private: 9%
-Federal: 11%
-
-Cost of Supervision:
-Private: 12%
-Federal: 10%
-
-Attitudes / Stereotypes: 
-Private: 22%
-Federal: 43%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Supervisor Knowledge of Accommodation: 
-Private: 31%
-Federal: 34%
-
-Lack of Requisite Skills / Training: 
-Private: 39%
-Federal: 45%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Lack of Related Experience: 
-Private: 49%
-Federal: 53%
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 7
-
-
-Figure 8: Percent Reporting Effective of Very Effective Means of reducing barriers to Employment for persons with Disabilities by Private and Federal Sectors
-
-Percent Reporting Effective or Very Effective of All Respondents
-
-Employer tax incentives / special budgets:
-Private: 26%
-Federal: 69%
-Note: Statistically significantly different across sectors (p< .05). 
-
-
-Short-term outside assistance: 
-Private: 41%
-Federal: 43%
-
-Staff training: 
-Private: 62%
-Federal: 71%
-Note: Statistically significantly different across sectors (p< .05). 
-
-On-site consultation / technical assistance: 
-Private: 58%
-Federal: 71%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Mentoring: 
-Private: 59%
-Federal: 71%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Visible top-management commitment: 
-Private: 81%
-Federal: 90%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 8
-
-
-
-Figure 9: Percent Reporting Difficult or Very Difficult to Make Changes to Meet Needs of Employees with Disabilities by Private and Federal Sectors (of those who have made the change)
-
-Percent Reporting Difficult or Very Difficult 
-
-Change in Leave Policy: 
-Private: 10%
-Federal: 8%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Adjusting Medical Policies: 
-Private: 7%
-Federal: 9%
-
-Changing Coworker / Supervisor Attitudes: 
-Private: 32% 
-Federal: 33%
-
-Ensuring Equal pay & Benefits: 
-Private: 2%
-Federal: 4%
-
-Creating Management System: 
-Private: 17%
-Federal: 15%
-
-Modifying Return to Work Policy:
-Private: 17%
-Federal: 11%
-Note: Statistically significantly different across sectors (p< .05). 
-
-
-Note: Percentages do not include those who didn’t make the change. 
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 9
-
-
-Figure 10: Distribution of Types of Access Provided to People with Disabilities by Private and Federal Sectors
-
-Percent of All Respondents
-
-Wheelchair Access: 
-Private: 82%
-Federal: 95%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Communication Access for Hearing Impaired:
-Private: 43%
-Federal: 91%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Communication Access for Visually Impaired: 
-Private: 37%
-Federal: 77%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Time Flexibility in Test Taking: 
-Private: 45%
-Federal: 39%
-
-Removing Volatile / Scented Substances: 
-Private: 32%
-Federal: 48%
-Note: Statistically significantly different across sectors (p< .05). 
-
-Note: The majority who didn’t provide, never needed to as opposed to not able to.  
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 10
-
-
-
-Figure 11: Distribution of a Grievance / Dispute Resolution Process 
-
-Percent Reporting Yes of All Respondents
-Private: 72%
-Federal: 93%
-Note: Statistically significantly different across sectors (p= .001). 
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-
-Figure 12: Percent Experiencing Disability Claims Under the ADA by Private and Federal Sectors
-
-Percent Reporting Yes of All Respondents
-
-Wrongful Discharge:
-Private: 19%
-Federal: 22%
-
-Failure to provide reasonable accommodation: 
-Private: 14%
-Federal: 36%
-
-Failure to hire: 
-Private: 6%
-Federal: 17%
-
-Harassment: 
-Private: 8%
-Federal: 19%
-
-Unfair Discipline:
-Private: 8%
-Federal: 20%
-
-Failure to rehire:
-Private: 3%
-Federal: 8%
-
-Layoff:
-Private: 6%
-Federal: 8%
-
-
-Denied or reduced benefits:
-Private: 2%
-Federal: 5%
-
-Failure to promote:
-Private: 5%
-Federal: 26%
-
-Wage dispute:
-Private: 2%
-Federal: 4%
-
-Suspension:
-Private: 2%
-Federal: 16%
-
-Note: All statistically significantly different across sectors (p< .05). 
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 12
-
-Figure 13:  Distribution of Organizations where Employees are Covered by a Collective Bargaining Agreement 
-
-Percent Reporting Yes of All Respondents
-Private: 23% 
-Federal: 73%
-Note: Statistically significantly different across sectors (p= .001).
-
-Approximately 66% of all private sector and 71% of all federal organizations that have a collective bargaining agreement have union involvement in the accommodation process.  
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 13
-
-
-
-Figure 14: Percent Reporting Ways of Union Involvement in the Accommodation Process by Private and Federal Sectors
-
-Percent of Reporting Involvement (of all Respondents)
-
-Provide information on Rights: 
-Private: 33%
-Federal: 56%
-Note: All statistically significantly different across sectors (p< .05). 
-
-Provide advice on accommodation:
-Private: 61%
-Federal: 67%
-
-Provide representation in discussion:
-Private: 69%
-Federal: 75%
-
-Provide representation in grievance:
-Private: 45%
-Federal: 60%
-Note: All statistically significantly different across sectors (p< .05). 
-
-Consult on revising employment policy:
-Private: 39%
-Federal: 68%
-Note: All statistically significantly different across sectors (p< .05). 
-
-Percentages are of those who have a collective bargaining agreement and have union involvement in accommodation process.  
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-
-End of Figure 14
-
-
-Figure 15: Percent Reporting Frequently or Occasionally Uncertain about ADA & Work-Related Injury by Private and Federal Sectors
-
-Percentage is Percent Reporting Yes of All Respondents
-
-Injured Workers also covered by ADA:
-Private: 58%
-Federal: 35%
-
-Injured Worker Entitled to Accommodation:
-Private: 46%
-Federal: 26%
-
-Injured Worker be Terminated:
-Private: 54%
-Federal: 39%
-
-Length of Search for Modified Work:
-Private: 53%
-Federal: 37%
-
-Light Duty Considered Accommodation:
-Private: 57%
-Federal: 38%
-
-Safety Issues Returning to Job:
-Private: 48%
-Federal: 33%
-
-Note: All statistically significantly different across sectors (p< .05). 
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 15
-
-
-
-Figure 16: Percent Reporting Frequently or Occasionally Uncertain about the ADA and the FMLA
-
-Percentage is Percent Frequently and Occasionally Uncertain of All Respondents
-
-FMLA leave also covered by ADA:
-Private: 58%
-Federal: 37%
-
-Coordination of ADA / FMLA / WC Disability Leaves:
-Private: 63%
-Federal: 40%
-
-Note: Statistically significantly different across sectors.  
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 16
-
-
-
-Figure 17: Percent Reporting Frequently or Occasionally Uncertain about the ADA & the Occupational Safety & Health Act Issues by Private and Federal Sectors
-
-Percentage is Percent Reporting Frequently and Occasionally Uncertain of All Respondents
-
-Discipline Employees at Risk to self / others:
-Private: 42% 
-Federal: 33%
-
-Health / Safety Supercede Confidentiality:
-Private: 49%
-Federal: 39%
-
-Worksite Modifications constitute Accommodation:
-Private: 46%
-Federal: 28%
-
-Note: All statistically significantly different across sectors (p< .05). 
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 17
-
-
-
-Figure 18: Percent Reporting Frequently or Occasionally Uncertain about the ADA and the Drug Free Workplace Act by Private and Federal Sectors
-
-Percentage is Percent Reporting Frequently and Occasionally Uncertain of All Respondents
-
-Alcohol User Covered by ADA:
-Private: 36%
-Federal: 35%
-
-Illegal Drug User Covered by ADA:
-Private: 26%
-Federal: 27%
-
-Past Drug User covered by ADA:
-Private: 30%
-Federal: 33%
-
-Suspend Employee with Drug Use:
-Private: 30%
-Federal: 28%
-
-Note: All statistically significantly different across sectors (p< .05). 
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 18
-
-
-
-Figure 19: Percent reporting Employees trained in ADA Topics by Private and Federal Sectors 
-
-Percentage is Percent Reporting Yes of All Respondents
-
-
-Non-discriminatory Recruiting:
-Private: 85%
-Federal: 91%
-
-Accommodation Process:
-Private: 91%
-Federal: 87%
-Note: All statistically significantly different across sectors (p< .05). 
-
-Equal Access:
-Private: 61%
-Federal: 79%
-Note: All statistically significantly different across sectors (p< .05). 
-
-Mental Health Problems: 
-Private: 49%
-Federal: 61%
-Note: All statistically significantly different across sectors (p< .05). 
-
-Defining Job Functions:
-Private: 80%
-Federal: 78%
-Note: All statistically significantly different across sectors (p< .05). 
-
-Confidentiality Requirements:
-Private: 87%
-Federal: 85%
-Note: All statistically significantly different across sectors (p< .05). 
-
-Limitation on Health Plans:
-Private: 51%
-Federal: 38%
-Note: All statistically significantly different across sectors (p< .05). 
-
-Non-discriminatory Discipline:
-Private: 85%
-Federal: 87%
-Note: All statistically significantly different across sectors (p< .05). 
-
-Conflict Resolution:
-Private: 54%
-Federal: 77%
-Note: All statistically significantly different across sectors (p< .05). 
-
-
-
-Disability Awareness / Sensitivity:
-Private: 66%
-Federal: 84%
-Note: All statistically significantly different across sectors (p< .05). 
-
-Interaction with Legislation:
-Private: 51%
-Federal: 50%
-Note: All statistically significantly different across sectors (p< .05). 
-
-Written Resources on Accommodations:
-Private: 45%
-Federal: 58%
-Note: All statistically significantly different across sectors (p< .05). 
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 19
-
-
-
-Figure 20: Resources Used to Resolve Accommodation and Disability Nondiscrimination Issues in Federal Agencies
-
-Percentage is Percent Utilizing 
-
-Corporate / Agency EEO Office: 90%
-
-Legal Counsel (internal): 85%
-
-Safety / Ergonomics: 72%
-
-State Vocational Rehabilitation: 70%
-
-US EEOC: 66%
-
-Disability Management / Benefits Staff: 62%
-
-Dispute Resolution Center / Mediator: 52%
-
-Union Representative: 49%
-
-Job Accommodation Network: 43%
-
-Local Independent Living Centers: 39%
-
-Regional ADA Technical Assistance Center: 20%
-
-Legal Counsel (external): 13%
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 20
-
-
-
-Figure 21:  Resources Used to Resolve Accommodation and Disability Nondiscrimination Issues in Private Sector Organizations
-
-Legal Counsel (external): 82%
-
-Professional Society / Business Organization: 61%
-
-Safety / Ergonomics Staff: 54%
-
-Disability Management / Benefits Staff: 54%
-
-Corporate / Agency EEOC Office: 41%
-
-State Vocational Rehabilitation Agencies: 39%
-
-US EEOC: 33%
-
-Local Independent Living Centers: 22%
-
-Job Accommodation Network: 22%
-
-Regional ADA Technical Assistance Center: 15%
-
-Union Representative: 11%
-
-Dispute Resolution Center / Mediator: 10%
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 21
-
-
-
-Figure 22: Distribution of Informational Mediums Used to Address ADA Issues by Private and Federal Sectors 
-
-Percentage is Percent of All Respondents
-
-Print / Video:
-Private: 73%
-Federal: 81%
-
-Telephone Consultation:
-Private: 31% 
-Federal: 51%
-
-On-site Consultation:
-Private: 46%
-Federal: 74%
-
-Website / List Serve:
-Private: 34%
-Federal: 78%
-
-Newsletter:
-Private: 42%
-Federal: 57%
-
-Note: All statistically significantly different across sectors (p< .05). 
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 22
-
-
-
-Figure 23: Distribution of Return to Work or Disability Management Programs by Private and Federal Sectors
-
-Percentage is Percent Responding Yes of All Respondents
-
-Formal Program:
-Private: 45%
-Federal: 42%
-
-Informal Program:
-Private: 34%
-Federal: 24%
-
-Note: Statistically significantly different across sectors (p= .00). 
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 23
-
-
-
-Figure 24: Percent Reporting a Great Deal or Somewhat of a Contribution Due to the Return to Work Program by Private and Federal Sectors (of those with a program)
-
-Percentage is Percent Reporting a Great deal of Somewhat (of all respondents)
-
-Supervisor Awareness of Accommodation: 
-Private: 75%
-Federal: 87%
-
-Organizational Structure for Accommodations: 
-Private: 71%
-Federal: 79%
-
-Importance of Confidentiality:
-Private: 85%
-Federal: 89%
-
-Raising Acceptance: 
-Private: 73%
-Federal: 88%
-
-Note: All statistically significantly different across sectors (p< .05). 
-
-Source: Disability Employment Policies and Practices in Private and Federal Sector Organizations. S. Bruyère, Cornell University, 2000.
-
-End of Figure 24
-1 Executive summaries of the SHRM and WBGH reports are available on-line from Cornell University at http://www.ilr.cornell.edu/ped/ projects/ADA_Projects/IEP/surveys.html. Copies of the Washington Business Group on Health full report are on-line at http://www.ilr. cornell.edu/ped/projects/ IDI/IDI_Projects/CS.html. Copies of the full SHRM report are available from the SHRMStore at 1-800-444-5006.
-

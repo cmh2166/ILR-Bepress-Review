@@ -2,12 +2,13 @@
 
 ##Metadata Review
 
-Total records in all feeds: 36020
+Total records in all feeds as of this review: 24,824
+Data harvested last on April 25th, 2016.
 
-Formats available via the Bepress OAI feed: 
+OAI-PMH Metadata Formats available via the Bepress OAI feed: 
 
 - oai-dc
-- simple dc (same as oai-dc, so skipped)
+- simple dc
 - qdc or qualified dublin core
 - etdms
 
@@ -35,15 +36,23 @@ collection_completeness 87.886721
    average_completeness 75.561412
 ```
 
+##Simple Dublin Core Review
+**File**: ilr-bepress.oai.sdc.xml
+
+**Overview**:
+```
+```
+
+
 ##QDC Review
-**File**: ilr-bepress.oai.qdc.xml, harvested February 24th, 2016.
+**File**: ilr-bepress.oai.qdc.xml
 
 **Overview**:
 ```
 ```
 
 ##ETDMS Review
-**File**: ilr-bepress.oai.etdms.xml, harvested February 24th, 2016.
+**File**: ilr-bepress.oai.etdms.xml
 
 **Overview**:
 ```

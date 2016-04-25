@@ -1,540 +1,0 @@
-
-
-
-
-Identity and Disability in the Workplace
-
-
-
-
-
-
-
-Susanne M. Bruyère, Ph.D., CRC
-William Erickson, M.S.
-And
-Joshua T. Ferrentino1
-Cornell University
-School of Industrial and Labor Relations Extension Division
-Program on Employment and Disability
-Ithaca, New York  14853-3901
-
-
-
-
-
-
-Prepared for
-William and Mary Law Journal
-
-Published as Bruyère , S., Erickson, W., & Ferrentino, J. (2003) Identity and disability in the workplace.  William and Mary Law Review 44(3), 1173-1196.
-
-This article does not exactly replicate the final version published in the William and Mary Law Review.  It is not the copy of record.
-
-
-
-Introduction and Overview
-
-      It is estimated that 19.3% of Americans are people with disabilities, or approximately one in every seven of us.2 Individuals with disabilities are less likely to be employed when compared to their non-disabled peers.  This represents a significant loss to both private and public sector organizations of willing and able talent, as well as a  loss of income and social and economic participation for people with disabilities. Individuals with disabilities continue to experience low levels of employment, even though it has been over a decade since Congress passed the Americans with Disabilities Act of 1990 (ADA), prohibiting disability discrimination.3 According to a recent study using the Census Bureau’s Current Population Survey (CPS) for working-age civilians in 1999, 34% of men and 33% of women with work disabilities were employed during 1999, compared to 95% of men and 82% of women without work disabilities (Burkhauser, Daly, Houtenville and Nargis, 2002). Men and women with disabilities also worked approximately one-third fewer hours on average than those without disabilities. This disparity is a function of inequities in social policy, access to education, training, and employment, as well as society’s attitudes towards people with disabilities.
-      To illustrate this disparity pictorially, Figure 1 presents the relative employment rate of men with disabilities compared to their non-disabled peers on a state-by-state comparison (Houtenville, 2001).4  (The relative employment rate is the unemployment of those with disabilities as a percentage of the employment rate of those with and without disabilities.  The larger the number is, the closer are the employment rates of those with and without disabilities.  For further information see Houtenville 2000.5
-      The purpose of this article is to examine and discuss factors within the workplace that may affect the ability of individuals with disabilities to access and retain employment.  The analysis is based on findings from a Cornell University study of human resource professionals in both the private and federal sectors (Bruyère, 2000b).  Part I provides an overview of the study, selected key findings about remaining barriers, and implications for needed future workplace interventions based on the survey responses.  Part II reviews selected literature addressing the workplace issues identified in the study. Part III exampines some of the concepts and possible solutions regarding workplace discrimination and responses to the accommodation needs of applicants and workers with disabilities. In the conclusion, we discuss where further research is needed to address remaining employment inequities for people with disabilities 
-      
-      I: Perceptions of HR Professionals About Accommodating 
-      Persons with Disabilities -- the Cornell Study
-      
-A: Background of the Study
-      Two parallel ten-page surveys were distributed to a random sample of the membership of the Society for Human Resource Management (SHRM), the entire membership of the Washington Business Group on Health (WBGH), and the Human Resource (HR) and Equal Employment Opportunity (EEO) personnel in federal agencies.  The surveys covered some of the employment provisions of the Americans with Disabilities Act of 1990 (ADA), and for federal sector organizations the Rehabilitation Act of 1973 as amended.6   The surveys included items covering the reasonable accommodation process; recruitment, pre-employment screening, testing, and new employee orientation; health and other benefits of employment; opportunities for promotion/training; disciplinary process/grievance, dismissal or termination; interaction with labor/industrial/collective bargaining issues and other employment legislation; personnel training on the ADA and the Rehabilitation Act; resources used and found most helpful in handling disability nondiscrimination and accommodation disputes; and the role of disability management programs in contributing to the accommodation process and workplace acceptance of employees with disabilities. 
-      The research described in this report is based on the premise that the responsibility for implementing the ADA and Rehabilitation Act’s employment provisions falls largely on HR professionals. HR professionals are responsible for recruitment, pre-employment screening and other workplace practices that affect the hiring and retention of workers with and without disabilities.  The purpose of this research was to identify how HR professionals have responded to this legislation, and to learn what can be done further to support their very critical role in minimizing workplace discrimination for people with disabilities.
-      
-
-B: Methodology
-
-      A sample of 1,402 names, telephone numbers, and addresses of the Society for Human Resource Management (SHRM) members was obtained from SHRM (Society for Human Resource Management, 1999).7 These members were randomly selected based on the size of the organization for which they worked. The goal was to have a random sample of individuals from small, medium, and large organizations in the United States.  Based on the distribution of members by organization size, a random sample was drawn proportional to the population within size strata.  Interviews were conducted by telephone from July 9, 1998 through November 10, 1998 by the Computer-Assisted Survey Team (CAST) at Cornell University, using a computer-assisted telephone interviewing (CATI) system.  A letter explaining the project was sent one week prior to the initial telephone call; 813 responses (a 73 percent response rate) were received.  The response rates were similar for each size group.  The Washington Business Group on Health (WBGH)8 study was conducted on the 164 WBGH member companies. Surveys were mailed to all members in late July 1998. In early September 1998, telephone calls were made to 127 non-respondents. Respondents were offered the options of returning a mail questionnaire, a fax questionnaire, or completing the survey by telephone. Calls were ended after two weeks. A 32 percent (n=52) response rate was obtained. 
-      For the federal sector agency representatives, a list was obtained of all human resource and Equal Employment Opportunity personnel across all 96 US federal agencies.  The Chair of the Presidential Task Force sent out a preliminary letter to all agency heads prior to the survey initiation, alerting them about the survey and clarifying its purpose.  A letter was sent to each potential interviewee approximately two weeks prior to the initiation of the survey.  The survey was conducted during July and August 1999, by telephone from Cornell University by CAST, using a CATI system.  Four hundred and fifteen agency representatives were contacted and a total of 403 surveys were completed (a 97 percent response rate).
-C: Results
-	Interviewees were asked a number of questions across the topics mentioned above, from recruiting, pre-employment screening and testing, through promotional opportunities, and disciplinary process.  A summary of the surveys in both sectors and recommendations for effective workplace policies and practices is provided elsewhere (Bruyère, Erickson, & VanLooy, 2000).  We will focus here on summarizing (1) what action organizations reported taking to meet the needs of employees with disabilities, (2) areas where they reported difficulty in making changes and identified remaining barriers to meeting these needs, and (3) the percent experiencing disability claims. We will also briefly discuss from results of this research, suggestions on ways to effectively address these remaining barriers.
-	As evidenced in Figure 2, private sector organizations and federal agencies are responding to disability nondiscrimination legislation by making accommodations for applicants and employees with disabilities. Across eleven possible areas where accommodations could be made, survey respondents most commonly reported making changes by making existing facilities accessible, being flexible in the application of HR policies, and restructuring jobs and work hours. Other often-made changes by both groups were modifying the work environment and making transportation accommodations. Accommodations made lease often were in the areas of modifying training materials and making changes in supervisory methods.  There was a statistically significant difference in the groups’ responses to making these changes in all of the eleven categories, with federal agencies more likely to have made each change. Private-sector organizations were much more likely to indicate that they had “never needed” to make the change.
-Place Figure 2 here.
-      As mentioned, HR professionals’ responses from both the federal and private sectors indicated many accommodations made as a result of disability nondiscrimination legislation. Disparities, however, continue to exist, and the survey also asked questions regarding perceptions of remaining barriers for people with disabilities in the workplace.  Respondents were presented with seven possible barriers to the employment and advancement of people with disabilities. On average the private firm respondents reported fewer barriers than federal respondents. Of the private firms 29% reported no barriers and 40% reported one or two compared with 24% and 34% respectively for the federal respondents. A statistically significant difference existed between private and federal sector respondents in two of the areas, although in general the profile of perceived barriers, in terms of overall percentage of response, was similar (see Figure 3).  Interestingly, in both the federal and private sectors, the costs of training, supervision, and of accommodations for applicants or employees with disabilities, were least likely to be rated as significant barriers ascompared to other areas.  Overall, three quarters of the respondents did not view any of the three cost considerations as barriers. The barriers to employment and advancement for persons with disabilities reported by the largest number of federal and private sector employers were lack of related experience (49 percent reported by private sector and 53 percent by federal), and lack of requisite skills and training in the applicant or employee with a disability (39 percent for private sector respondents and 45 percent for federal). The next most often cited was supervisor knowledge of how to make accommodations (31 percent in the private sector group and 34 percent in the federal).  Negative attitudes or stereotypes among co-workers and supervisors towards persons with disabilities was seen as the third most significant barrier among federal respondents (43 percent), and fifth among private sector respondents (22 percent).
-      Place Figure 3 here.
-      Interestingly, attitudes toward persons with disabilities was also seen as an area where organizations have made significant efforts to make changes, but was also reported as among the most difficult changes to make.  In both sample groups, those surveyed were asked about whether they had made certain changes in the workplace in order to meet the needs of employees with disabilities, and asked to rate the degree of difficulty in making those changes (see Figure 4).  In both groups, the change most often made, but also seen as the most difficult to make, was changing co-worker or supervisor attitudes toward the employee with a disability (32 percent of private sector and 33 percent of federal representatives indicated this change was “difficult” or “very difficult”).  The majority of respondents in both groups did report having made all of the listed modifications to organizational policies and practices to help overcome the barriers to employment and advancement faced by people with disabilities. Changes made by more than three quarters of respondents’ organizations include: ensuring equal pay and benefits, creating flexibility in the performance management system, modifying the return to work policy, and adjusting leave policies. 
-Place Figure 4 here.
-
-         The study also examined private and federal sector employers’ experience in having experienced disability nondiscrimination claims.  Private sector respondents reported significantly fewer claims filed against them under the ADA than did federal respondents (see Figure 5).  Federal respondents reported that failure to provide reasonable accommodation was the claim most often experienced by government agencies (36%).  The second most common reported by federal respondents was failure to promote (26%). The most commonly filed claim for private sector respondents was wrongful discharge (19 percent).  The second most common claim among private sector respondents was failure to provide reasonable accommodation (14%). The claim least often experienced by both groups was that of wage disputes (two percent for private sector, four percent for federal), followed by the claim of denied or reduced benefits (two percent of private sector and five percent federal). 
-      Place Figure 5 here.
-      The majority (72 percent) of respondents reported never experiencing any of the 11 listed claims under the ADA. Companies that reported such claims were most often larger firms and agencies. This result is not surprising, given that the larger the number of employees, the greater the likelihood of having an individual who might file a claim. Almost three-quarters of private sector respondents (72 percent) reported having a grievance resolution process, and 93 percent of federal respondents reported the same. The study hypothesized that a grievance resolution process might reduce the chances of an employee filing a claim; however, it was determined that organizations with a resolution process were more likely to have reported ADA claims against them. It may be that the grievance resolution process came about retroactively, to address or prevent additional claims, or that the availability of a process provided a ready forum for filing claims.
-      Not only were respondents asked to identify possible employment and advancement barriers, but they were also asked to rate the effectiveness of six methods of reducing such barriers (see Figure 6). Both sectors identified visible top management commitment as the best method for reducing employment and advancement barriers (81 percent for the private sector respondents, 90 percent for federal). The next three most popular means to reduce barriers were ranked very closely within both respondent groups, though there was a statistically significant difference between groups. These three methods were: staff training (62% private and 71% federal), mentoring (59% private and 71% federal), and on-site consultation or technical assistance (58% private and 71% federal).  Private sector employers ranked tax incentives as the least effective method of reducing such barriers; indeed only 26 percent reported these as effective or very effective in reducing employment and advancement barriers.  A parallel item on special budget allocations as a way to reduce accommodation costs to employers was asked on the federal survey.  Sixty-nine percent of those interviewed saw this as effective or very effective in reducing barriers. 
-      Place Figure 6 here
-      II.  Related Literature on Workplace Attitudes Toward Accommodation
-      The topic “identity and disability in the workplace” lends itself to an opportunity to further discuss the meaning of the Cornell study regarding attitudes toward persons with disabilities in the workplace as a continuing barrier.  Although respondents also indicated that top management commitment, staff training, mentoring, and on-site consultation/assistance can help to remove these barriers, closer examination surrounding workplace culture might reveal ideas about how to make positive changes to address these issues.  This Part summarizes research from selected literature about attitudes towards persons with disabilities and organizational policies and practices that address inequities.
-      We conducted literature review across the past ten to 12 years in business, human resources, and psychological and sociological literature databases.  We identified relevant studies or theoretical papers that discussed the issue of “attitudes toward disability” and workplace policies and practices that evidenced more effective ways of facilitating acceptance and accommodation of persons with disabilities.  This Part summarizes some of the key concepts presented in these papers and discusses their future implications for effective workplace practice.  We include a discussion that integrates thoughts from related research including studies from the following areas: health, safety, and disability management; the economics of workplace accommodation; hostile work environment and retaliation claims; perceived fairness of selection systems; a theoretical framework for explaining reactions to accommodation decisions; and suggested models to heighten supervisor and co-worker response to workplace accommodation requests.
-A: Employer Attitudes Toward Persons with Disabilities
-      The Cornell study affirms that workplace attitudes are a continuing barrier to the hiring and retention of people with disabilities.  A review of the literature affirmed this barrier, but also provides some additional information.  Hernandez, Keys, and Balcazar (2000) reviewed 37 studies available from 1987 through mid 1999 that focused on employer attitudes towards people with disabilities.  This review found that employer attitudes toward workers with disabilities differed, depending on how attitudes were defined.  Specifically, positive results were more apparent in studies that assessed global attitudes towards workers with disabilities.  In contrast, negative results were more evident in studies that assessed more specific attitudes toward workers with disabilities.  There appears to be a veneer of employment acceptance of workers with disabilities.  Apparently, it has become socially appropriate for employers to espouse positive global attitudes towards these individuals.  Thus, according to Hernandez, Keys, and Balcazar, employers’ global acceptance of these workers seems superficial and is likely not indicative of significant efforts to employ them.
-B: The Importance of Workplace Culture in Minimizing Disability Impact
-      Changes in the availability and skill level of the labor force, as well as the requirements of the ADA, have moved employers to pay closer attention to the issues of workplace health and safety, as well as to accommodate employees with disabilities.  An integrated disability management program is one method of reducing costs associated with disabilities in the workplace, especially workers’ compensation claims.  One of the important organizational characteristics of firms with low workers’ compensation claim rates in findings from a study by the Upjohn Institute was an open managerial style coupled with a human-resource oriented corporate culture (Habeck, Leahy, and Hunt, 1988).  These factors may also play a role in reducing litigation associated with discrimination claims.
-C: Economics of Accommodation as a Mediating Factor
-      Original critics of the Americans with Disabilities Act often cited economic factors, such as cost of accommodations to employers, and labor market inefficiencies to refute the desirability of this legislation.  This initial conceptualization was not supported by the Cornell study’s self-report of business representatives.  However, much about the “economics” of disability or the perception of cost, and further analysis of this factor is needed.  Blanck (1997), in an article on the economics of workplace accommodations, cites several studies that suggest increasing numbers of people perceived to have disabilities entering the workforce face discrimination because of prejudicial attitudes about their impairments.  This research also suggests that “diminished worker value” of employees with perceived disabilities, as reflected in lower wages for comparable work, is unrelated to actual output or other economic factors such as customer preferences.  Additionally, discrimination stemming from employer animus may also result in lost productivity and therefore diminish a qualified individual’s economic value of the employer.  Blanck concludes that further empirical study of the employment provisions of the ADA from an economic perspective is needed, as the economic model has yet to demonstrate empirically the hypothesized labor market inefficiencies associated with implementation of this legislation, particularly as it relates to workplace accommodation.
-D: Workplace Environment as a Factor in Disability Discrimination
-
-      In the Cornell study, HR professionals cited supervisor and co-worker attitudes as a continuing barrier to employment for persons with disabilities.  Even if an employer does not intentionally discriminate against a qualified individual with a disability, under certain conditions they may still be held liable for the existence of a “hostile work environment.”  In a recent case, the U.S. Court of Appeals for the Fourth Circuit held that a hostile work environment claim, which has long been recognized under Title VII of the Civil Rights Act of 1964, is actionable under the ADA since the language used in both laws is virtually identical.9
-      Information about work environment and discrimination, particularly as it relates to workplace culture and attitudinal issues, can be inferred from the pattern of discrimination claims to the EEOC over the past ten years across all claims filed for discrimination.  Although an examination of discrimination charges filed with the EEOC shows a declining trend in the number of disability-related claims, there has been a steady increase in recent years in the number of claims across all categories of discrimination alleging retaliatory action by employers, which is perhaps an indication of increasingly inhospitable workplace culture (see Figure 7).
-      Place Figure 7 here.
-      III: Methods of Addressing Disability Discrimination Within Workplace Culture
-	The above studies extended Cornell’s research about the apparent impact of discriminatory attitudes and unfriendly work environment as a possible cause for people with disabilities remaining unemployed or having difficulty keeping a job and progressing in their careers.  Interestingly, not all individuals who have disabilities perceive themselves as having work limitations.  The information presented in Table 1 shows the percentage of individuals reporting various impairments in a Census Population Survey and the percentage of those respondents reporting work limitations.  
-Over a third of individuals reporting that they were blind in both eyes and almost two thirds of those deaf in both ears do not report having a work limitation.  It would be interesting to be able to learn more about this response, and if having effective and supportive workplaces or effective accommodations assist these individuals in perceiving themselves as not limited in being able to work.
-      
-Table 1.  Percentage Reporting Various Impairments and the Percentage Reporting Work Limitation among Non-Institutionalized Working-Age (Aged 25-61) Civilians who Received Check List 2, Pooled over 1983 through 1996.
-
-Impairment CategoryPrevalence RatePercentage Reporting Work LimitationBlind in Both Eyes0.1569.0Other Visual Impairments1.8336.2Deaf in Both Ears0.3738.0Other Hearing Impairments7.4923.4Sensation Impairments0.3526.1Stammering and Stuttering0.4233.3Other Speech Impairments0.2664.9Paraplegia, Hemiplegia, or Quadriplegia.0.1190.2Paraparesis or Hemiparesis0.0588.5Cerebral Palsy0.0974.5Mental Retardation0.2990.2Burkhauser and Houtenville (2001, July) Presentation given to the Interagency Subcommittee on Disability Statistics (ISDS), Washington DC. (Please do not quote without permission.)
-
-      
-      
-      In this section of the paper, we discuss several models from the literature that provide ways of trying to understand the dynamics at work in discrimination for people with disabilities and their accommodation needs, and how to deal with them proactively to minimize the negative impact.
-      Stone and Colella (1996) present a model for understanding how disabled individuals are treated in the workplace.  According to the authors, observer perceptions, accurate or not, of disabled individuals have a powerful influence over the way they are treated in organizations.  They suggest that stereotyping of disabled individuals can be separated into six aspects: social competence, task competence, concern for others, integrity, emotional adjustment, and potency.  Since many of these attributes may be seen as work-related, stereotypes can have a significant impact on decisions regarding the ability of disabled individuals to perform a job.  Also, it is noted that once stereotypes are formed, they are difficult to reverse, which leads to the perpetuation of unfounded beliefs about disabled employees.
-      Lee (1996) cites a study conducted by the Eagleton Institute (1993) of employers, which revealed employer reluctance to hire disabled individuals, citing concerns about increased cost, safety issues, potential legal liability, reactions of coworkers and customers, and the need for additional supervision.  An employer’s size, however, had a significant effection on the employer’s attitudes.  Respondents from large companies (more than 100 employees), were far more likely to view workers with disabilities in a positive manner, and to have hired one or more such workers.  These findings were consistent with the Cornell University study, which found that employers in mid and large-sized organizations are more likely (by self-report) to have made accommodations.
-      Lee’s 1996 survey  found that large employers and those with actual experience in employing disabled individuals were significantly more likely to have positive attitudes toward them.  The same survey found that employers are especially leery of hiring or retaining individuals with certain disabilities, namely psychological disabilities and alcoholism.  The author notes that although the study did not uncover strongly negative attitudes toward disabled individuals, it does reveal a continued reluctance on the part of many employers to hire workers with disabilities.  Most significantly, this research suggests that one of the most powerful tools to overcome negative perceptions and stereotypes about disabled workers is to hire them.  This suggests that hiring incentives for employers to heighten exposure might be beneficial.  An alternative strategy might be motivating employers to create internship or mentoring programs for youth with disabilities, as away to heighten exposure to people with disabilities at minimal risk to employers.
-      One concern sometimes cited by employers as the cause of their reluctance to hire individuals with disabilities is the predicted reaction of coworkers and customers.  Researchers have examined the issue of coworker perceptions of disability (Colella, DeNisi, & Varma, 1998).  They found that disability had little impact on performance judgments and expectations.  When test subjects were asked to choose partners for a task in which they would be rated jointly, however, a negative bias against disabled individuals (in this case, individuals with dyslexia) appeared.  The researchers suggest that when personnel judgments have potential implications for the raters, bias against disabled employees may appear.  They stress, however, that further research in this area is necessary to determine the interplay between the nature of the disability, the nature of the job, raters’ stereotypes regarding disability-job fit, and the potential consequences of the rater’s judgments in actually influencing the treatment of disabled individuals.
-	In yet another study taking a slightly different perspective on the issue of discrimination, researchers attempting to assess the genuineness of “justice-based” opposition to Affirmative Action programs found that prejudice and concerns over procedural justice were “distinguishable sources of opposition” to social policies (Bobocel, Son Hing, Davey, Stanley, & Zanna, 1998).  In a related study by Brockner and Wiesenfeld (1996), these researchers examined the impact of outcomes and procedures on perceptions of fairness.  They suggest that the effects of a decision, including those made in the workplace, depend not only on the decision itself (outcome fairness) but how the decision is made (procedural fairness).  From business, legal, and ethical perspectives, participant perceptions of procedural justice are important, and may influence organizational efficacy.  In the legal sphere, perceptions of unfairness may lead to increased discrimination claims.  Also, issues of procedural unfairness may resonate strongly with jurors in discrimination trials (Gilliland, 1993).
-      Other authors contend that workplace reactions to accommodation vary according to several factors, among them the rationale provided for the accommodation, the nature of the accommodation, the originator (organization, employee, or joint) of the accommodation, and the characteristics of the person being accommodated.  For example, if the rationale provided for accommodation is a legal one (“We must accommodate”), then members of the organization may view the presence of a disabled individual in an organization as coercive (Cleveland, Barnes-Farrell, & Ratz, 1997).
-      Klimoski and Donahue (1997) propose a model for human resource professionals to alleviate the problem using a multi-level/multi-stakeholder view of accommodating employees with disabilities.  Key stakeholders under this model include top managers, social service agencies, labor unions, customers, family members, and of course the disabled individual.  Progressive organizational culture is cited as a major factor in improving the treatment of disabled individuals.
-      An extension of this thinking is the movement toward including disability issues in existing mainstream HR training and good practice.  Diversity programs are often referenced as facilitating workplace acceptance of people with disabilities (Bruyère, 2000a).   In the last decade, the field of workplace diversity has undergone remarkable development and growth. We have seen the meaning of diversity within the employment context move beyond race and gender to encompass a fuller spectrum of differences and a broader vantage point of workplace inclusiveness.  The Workplace Diversity Network, a joint project of the National Conference for Community and Justice and the Cornell University School of Industrial and Labor Relations, has contributed to this discussion.10  A publication entitled “A Framework for Building Organizational Inclusion,” summarizes the findings of the 1998 Alice and Richard Netter Labor-Management Pubic Interest Seminar sponsored by Workplace Diversity Network (Workplace Diversity Network, 1999).
-      Some of the attributes of inclusive organizations identified from seminar participants were as follows:
-* Demonstrated commitment to diversity 
-* Holistic view of the employees and the organization
-* Access to opportunity
-* Accommodation for diverse physical and developmental abilities
-* Equitable systems for recognition, acknowledgement, and reward
-* Shared accountability and responsibility
-* 360? communication and information sharing
-* Demonstrated commitment to continuous learning
-* Participatory work organization and work process
-* Recognition of organizational culture and process
-* Collaborative conflict resolution process
-
-* Demonstrated commitment to community relationships.
-
-All of these factors, if effectively employed, will contribute to the enhanced integration of individuals with disabilities in the workplace.
-Conclusion
-	This article provides an overview of selected results from research conducted by Cornell University on workplace policies and practices in response to the Americans with Disabilities Act of 1990.  The focus has been on Cornell’s research results finding that discriminatory or stereotyping attitudes in the workplace about people with disabilities continues to be a barrier to employment and advancement for people with disabilities.  A review of the literature and other relevant information, such as the trend of discrimination claims filed over the past decade, affirms the perspective that attitudinal issues, workplace culture and environment, as well as workplace policies and practices, contribute to the continuing disparity in employment opportunities for people with disabilities.  
-      Results from the Cornell study suggest that top management’s commitment to disability nondiscrimination is a key factor in reducing discriminatory barriers.  A review of the literature suggests additional ways to approach continuing attitudinal issues in the work environment.  These include using a multi-level/multi-stakeholder view of the issue of accommodating employees with disabilities; designing an accommodation process that ensures organizational fairness, depending not only on the decision itself (outcome fairness) but how the decision is made (procedural fairness); and developing an overall progressive and inclusive work environment that assures an appreciation of employee diversity.  Continued research is needed to better understand how each of these factors contributes to heightened employment equity and opportunity for individuals with disabilities.
-      
-
-Table 1.  Percentage Reporting Various Impairments and the Percentage Reporting Work Limitation among Non-Institutionalized Working-Age (Aged 25-61) Civilians who Received Check List 2, Pooled over 1983 through 1996.
-
-Impairment CategoryPrevalence RatePercentage Reporting Work LimitationBlind in Both Eyes0.1569.0Other Visual Impairments1.8336.2Deaf in Both Ears0.3738.0Other Hearing Impairments7.4923.4Sensation Impairments0.3526.1Stammering and Stuttering0.4233.3Other Speech Impairments0.2664.9Paraplegia, Hemiplegia, or Quadriplegia.0.1190.2Paraparesis or Hemiparesis0.0588.5Cerebral Palsy0.0974.5Mental Retardation0.2990.2Burkhauser and Houtenville (2001, July) Presentation given to the Interagency Subcommittee on Disability Statistics (ISDS), Washington DC. (Please do not quote without permission.)
-
-
-
-
-
-
-
-References
-
-Blanck, P.  (1997).  The economics of the employment provisions of the Americans with Disabilities Act: Part I – workplace accommodations.  DePaul Law Review, 46(4), 877-914.
-
-Bobocel, D., Son Hing, L., Davey, L., Stanley, D., & Zanna, M.  (1998).  Justice-based opposition to social policies: Is it genuine?  Journal of Personal and Social Psychology, 75(3), 653-669. 
-
-Brockner, J. &, Wiesenfeld, B. (1996).  An integrative framework for explaining reactions to decisions: Interactive effects of outcomes and procedures.  Psychological Bulletin, 120(2), 189-208.
-
-Bruyère, S.  (2000a).  Dealing effectively with disability accommodations.  Mosaics, 6(6), 1, 6.
-
-Bruyère, S.  (2000b). Disability Employment Policies and Practices in Private and federal Sector Organizations. Ithaca, NY: Cornell University, School of Industrial and Labor Relations Extension Division, Program on Employment and Disability. 
-
-Bruyère, S., Erickson, W., & Van Looy, S. (2000).  HR’s role in managing disability in the workplace.  Employment Relations Today, Autumn, 47-66.
-
-Burkhauser, R., Daly, M., Houtenville, A., & Nargis, N. (2002). Self-reported work limitation data: what they can and cannot tell us.  Demography 39 (3), 541-555.
-
-Burkhauser & Houtenville (2001, July) Presentation given to the Interagency Subcomittee on Disability Statistics (ISDS), Washington DC.
-
-Cleveland, J., Barnes-Farrell, J., & Ratz, J.  (1997).  Accommodation in the workplace.  Human Resource Management Review, 7(1), 77-107.
-
-Colella, A., DeNisi,  A., & Varma, A.  (1998).  The impact of ratee’s disability on performance judgments and choice as partner: The role of disability – job fit stereotypes and interdependence of rewards.  Journal of Applied Psychology, 83(1), 102-111.
-
-Eagleton Institute of Politics, Center for Public Interest Polling (1993).  Employing people with disabilities: The employers’ perspective – Focus group discussions.  New Brunswick, NJ: Eagleton Institute of Politics, Rutgers University.
-
-Gilliland, S. (1993).  The perceived fairness of selection systems: An organization justice perspective.  Academy of Management Review, 18(4), 694-734.
-
-Habeck, R.V., Leahy, M.J., & Hunt, H.A. (1988). Disability prevention and management and workers' compensation claims. Report submitted to Bureau of Workers' Disability Compensation, Michigan Department of Labor. Kalamazoo, MI: W.E. Upjohn Institute for Employment Research.
-
-Hernandez, B., Keys, C., Balcazar, F. (2000).  Employer attitudes toward workers with disabilities and their ADA employment rights: A literature review.  Journal of Rehabilitation, 66 (4), 4-16.
-
-Houtenville, A. (2001).  State estimates of employment rates for persons with disabilities: Report summary.  Ithaca, NY: Cornell University, School of Industrial and Labor Relations Extension Division, Rehabilitation Research and training Center for Economic Research on Employment Policy for Persons with Disabilities.
-
-Houtenville, A. (2000). Economics of Employment Rates for Persons with Disabilities in the United States by State, 1980 through 1998.  Ithaca, NY: Cornell University, School of Industrial and Labor Relations Extension Division, Rehabilitation Research and training Center for Economic Research on Employment Policy for Persons with Disabilities.
-
-Klimoski, R., & Donahue, L.  (1997).  HR strategies for integrating individuals with disabiliaties into the work place.  Human Resource Management Review, 7(1), 109-138.
-
-Lee,  B.  (1996).  Legal requirements and employer responses to accommodating employees with disabilities.  Human Resource Management Review, 6(4), 231-251.
-
-Society for Human Resource Management (1999). The ADA at Work: Implementation of the Employment Provisions of the Americans with Disabilities Act.  Alexandria, VA: Author.
-
-Stone, D., & Colella, A. (1996).  A model of factors affecting the treatment of disabled people in organizations.  Academy of Management Review, 21(2), 352-401.
-
-Workplace Diversity Network.  (1999).  A Framework for Building Organizational Inclusion.  Report from The 1998 Alice and Richard Netter Labor-Management Public Interest Seminar, May 5-7, 1998, Cornell University, Ithaca, New York.  Working Paper No. 2, Winter.  Ithaca, NY: Cornell University, School of Industrial and Labor Relations, Author.
-
-Figure 1. Relative employment rates of non-institutionalized civilian men with disabilities aged 25 through 61 for each state and District of Columbia over the period of employment years 1980 through 1998
-
-
-Alabama			28.9%
-Alaska 			56.7%
-Arizona			50.7%
-Arkansas 			36.7%
-California 			42.7%
-Colorado			56.3%
-Connecticut		57.2%
-Delaware			45.1%
-District of Columbia	34.3%
-Florida			42.1%
-Georgia			39.9%
-Hawaii			41.3%
-Idaho			56.6%
-Illinois 			41.1%
-Indiana			42.5%
-Iowa			54.2%
-Kansas			53.4%
-Kentucky			32.6%
-Louisiana			34.9%
-Maine			41.7%
-Maryland			47.6% 
-Massachusetts		43.0% 
-Michigan			43.5%
-Minnesota			64.1%
-Mississippi		35.1%
-Missouri			43.9%
-Montana			55.1%
-Nebraska			54.7%
-Nevada			53.9%
-New Hampshire		52.7%
-New Jersey		41.1%
-New Mexico		38.1%
-New York			36.0%
-North Carolina		39.2%
-North Dakota		58.8%
-Ohio			38.2%
-Oklahoma			46.3%
-Oregon 			57.4%
-Pennsylvania 		37.7%
-Rhode Island		41.5%
-South Carolina 		31.6%
-South Dakota		56.0%
-Tennessee			36.8%
-Texas			45.4%
-Utah			61.1%
-Vermont			52.1%
-Virginia			39.9%
-Washington		53.9%
-West Virginia		28.3%
-Wisconsin			51.9%
-Wyoming			63.0%
-
-End Figure 1
-
-
-
-
-Figure 2: Percent Reporting Accommodations Their Organization Made to Meet the Needs of Employees with Disabilities by Federal/Private Sectors
-
-Made existing facilities accessible
-Federal: 93%
-Private: 82%
-
-Flexible HR policy
-Federal: 93%
-Private: 79%
-
-Modified work environment
-Federal: 93%
-Private: 62%
-
-Modified equipment
-Federal: 90%
-Private: 59%
-
-restructured jobs/work hours
-Federal: 87%
-Private: 69%
-
-Transportation accomodations
-Federal: 86%
-Private: 67%
-
-Provided readers or interpreters
-Federal: 79%
-Private: 36%
-
-Written job instructions
-Federal: 69%
-Private: 64%
-
-Reassignment to vacant positions
-Federal: 58%
-Private: 46%
-
-changed supervisory methods
-Federal: 55%
-Private: 35%
-
-modified training material
-Federal: 49%
-Private: 31%
-
-END FIGURE 2
-
-
-
-Figure 3: Percent Reporting Barriers to Employment or Advancement for Persons with Disabilities by Federal/Private Sectors
-
-lack of related experience
-Federal: 53%
-Private: 49%
-
-lack of requisite skills/training*
-Federal: 45%
-Private: 39%
-
-attitudes/stereotypes*
-Federal: 43%
-Private: 22%
-
-supervisor knowledge/accom to make
-Federal: 34%
-Private: 31%
-
-cost of adjustment
-Federal: 19%
-Private: 16%
-
-cost of training
-Federal: 11%
-Private: 9%
-
-cost of supervision
-Federal: 10%
-Private: 12%
-
-END FIGURE 3
-
-
-Figure 4: Percent Reporting Difficult or Very Difficult to Make Changes to Meet Needs of Employees with Disabilities by Private/Federal Sectors (of Those Who Have Made Each Change)
-
-changing co-worker/supervisor attitudes
-Federal: 33%
-Private: 32%
-
-creating flexible management system*
-Federal: 15%
-Private: 17%
-
-modifying return to work policy*
-Federal: 11%
-Private: 17%
-
-adjusting medical policies
-Federal: 9%
-Private: 7%
-
-change in leave policy*
-Federal: 8%
-Private: 10%
-
-ensuring equal pay & benefits
-Federal: 4%
-Private: 2%
-
-END FIGURE 4
-
-
-
-Figure 5: Percent Experiencing Disability Claims Under the ADA by Federal/Private Sectors
-
-failure to provide reasonable accommodation
-Federal: 36%
-Private: 14%
-
-failure to promote
-Federal: 26%
-Private: 5%
-
-wrongful discharge
-Federal: 22%
-Private: 19%
-
-unfair discipline
-Federal: 20%
-Private: 8%
-
-harassment
-Federal: 19%
-Private: 8%
-
-failure to hire
-Federal: 17%
-Private: 6%
-
-suspension
-Federal: 16%
-Private: 2%
-
-failure to rehire
-Federal: 8%
-Private: 3%
-
-layoff
-Federal: 8%
-Private: 6%
-
-denied or reduced benefits
-Federal: 5%
-Private: 2%
-
-wage dispute
-Federal: 4%
-Private: 2%
-
-END FIGURE 5
-
-Figure 6: Percent Reporting Effective or Very Effective Means of Reducing Barriers to Employment for Persons with Disabilities by Federal/Private Sectors
-
-visible top-management commitment*
-Federal: 90%
-Private: 81%
-
-staff training*
-Federal: 71%
-Private: 62%
-
-on-site consultation/tech assistance*
-Federal: 71%
-Private: 58%
-
-mentoring*
-Federal: 71%
-Private: 59%
-
-employer tax incentives*
-Federal: 69%
-Private: 26%
-
-short-term outside assistance
-Federal: 43%
-Private: 41%
-
-END FIGURE 6
-
-
-Figure 7: Percentage of Total EEOC Charges by Type* 1993-2000
-
-Note: Because individuals often file charges claiming multiple types of discrimination, the number of total charges for any given fiscal year will be less than the total of the eight types of discrimination listed.
-
-Data from:http://www.eeoc.gov/stats/charges.html
-
-Charge: Racial discrimination
-1992: 40.90%
-1993: 36.00%
-1994: 34.80%
-1995: 34.30%
-1996: 33.80%
-1997: 36.20%
-1998: 36.20%
-1999: 37.30%
-2000: 36.20%
-
-Charge: Sex Discrimination 
-1992: 30.10%
-1993: 27.20%
-1994: 28.40%
-1995: 29.90%
-1996: 30.60%
-1997: 30.70%
-1998: 30.70%
-1999: 30.90%
-2000: 31.50%
-
-Charge: National Origin
-1992: 10.30%
-1993: 8.50%
-1994: 8.10%
-1995: 8.00%
-1996: 8.60%
-1997: 8.30%
-1998: 8.50%
-1999: 9.20%
-2000: 9.80%
-
-Charge: Religious Discrimination
-1992: 1.90%
-1993: 1.60%
-1994: 1.70%
-1995: 1.80%
-1996: 2.00%
-1997: 2.10%
-1998: 2.20%
-1999: 2.30%
-2000: 2.40%
-
-Charge: Retaliation
-1992: 15.30%
-1993: 15.70%
-1994: 17.40%
-1995: 19.50%
-1996: 20.60%
-1997: 22.60%
-1998: 24.00%
-1999: 25.40%
-2000: 27.10%
-
-Charge: Age Discrimination
-1992: 27.10%
-1993: 22.50%
-1994: 21.50%
-1995: 19.90%
-1996: 20.20%
-1997: 19.60%
-1998: 19.10%
-1999: 18.30%
-2000: 20.00%
-
-Charge: Disability Discrimination
-1992: 1.40%
-1993: 17.40%
-1994: 20.70%
-1995: 22.60%
-1996: 23.10%
-1997: 22.40%
-1998: 22.40%
-1999: 22.00%
-2000: 19.90%
-
-Charge: Equal Pay Act Violations
-1992: 1.80%
-1993: 1.50%
-1994: 1.50%
-1995: 1.50%
-1996: 1.20%
-1997: 1.40%
-1998: 1.30%
-1999: 1.30%
-2000: 1.60%
-
-END FIGURE 7
-
-
-
-1 The authors would like to acknowledge the contribution of Andrew Houtenville, Research Specialist, and Sara VanLooy, Research Assistant, from the Cornell University Program on Employment and Disability in the data analysis, subsequent preparation of selected figures, and manuscript preparation.
-2U. S Bureau of the Census (2000) Supplementary Survey Summary Tables, QT-02. Profile of Selected Social Characteristics: 2000.
-3 Americans with Disabilities Act of 1990, 42 U.S.C. Secs 12101-12213 (2000).
-4 A complete copy of this report is available on-line from Cornell University at http://www.ilr.cornell.edu/ped/rrtc/papers.html Houtenville, 2001).
-5 A complete copy of this report is available on-line from Cornell University at http://www.ilr.cornell.edu/ped/rrtc/papers.html Houtenville, 2000).
-6 This Cornell University research was funded by two sponsors. The US Department of Education National Institute on Disability and Rehabilitation Research (NIDRR) funded the study of private sector employers as a Research and Demonstration (grant No. H133A70005); this was a collaborative effort with the Society for Human Resource Management (SHRM), the Washington Business Group on Health (WBGH), and the Lewin Group. The Presidential Task Force on Employment of Adults with Disabilities in the U.S. Department of Labor funded the survey of federal human resource and equal employment opportunity personnel.
-7 Further information about the Society for Human Resource Management can be obtained from the SHRM web site at www.shrm.org.
-8 Further information about the Washington Business Group on Health can be obtained from the WBGH web site at www.wbgh.org.
-9 Fox v. General Motors Corporation, 247 F.3d 169 (4th Cir. 2001).
-10 Further information about the Workplace Diversity Network can be found at the Cornell University web site at www.ilr.cornell.edu/depts/WDN.
-Identity and Disability in the Workplace
-Bruyère , Erickson, Ferrentino
-
-© 2003 William and Mary Law Review.  Used with Permission
-
-35
-
