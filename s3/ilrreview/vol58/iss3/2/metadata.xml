@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Nonunion Wage Rates and the Threat of Unionization</title>
+<publication-date>2005-04-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<institution>Princeton University</institution>
+<lname>Farber</lname>
+<fname>Henry</fname>
+<mname>S</mname>
+</author>
+</authors>
+<keywords>
+<keyword>nonunion wage rate</keyword>
+<keyword>union threat</keyword>
+<keyword>wage determination model</keyword>
+<keyword>threat of union organization</keyword>
+<keyword>union/nonunion wage differential</keyword>
+<keyword>right-to-work laws</keyword>
+</keywords>
+<abstract>&lt;p&gt;Using CPS data for 1977–2002, the author investigates the extent to which the threat of union organization increases nonunion wages and reduces the union/ nonunion wage differential. The results are mixed. Estimates employing the predicted probability of union membership as a measure of the union threat show no important link between the union threat and either nonunion wages or the union wage gap. Estimates focusing on two states’ introduction of right-to-work laws, which arguably affect the threat of union organization independently of changes in labor demand, show that in one state the law was associated with a statistically significant drop in nonunion wages. Finally, an analysis of wage data for three industries that underwent deregulation—another natural experiment in which labor demand changes are unlikely to have been a complicating factor—yields stronger evidence of threat effects on nonunion wages than do either of the other two analyses.&lt;/p&gt;</abstract>
+<coverpage-url>http://digitalcommons.ilr.cornell.edu/ilrreview/vol58/iss3/2</coverpage-url>
+<fulltext-url>http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1129&amp;amp;context=ilrreview&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1129</articleid>
+<submission-date>2005-07-13T10:35:44-07:00</submission-date>
+<publication-title>ILR Review</publication-title>
+<context-key>83209</context-key>
+<submission-path>ilrreview/vol58/iss3/2</submission-path>
+<fields>
+<field name="acknowledgements" type="string">
+<value>The author thanks Michael Burawoy, David Card, Barry Hirsch, John Pencavel, Cecilia Rouse, Bruce Western, and participants in workshops at Harvard University and Hunter College for helpful comments and discussion.  This paper was written while the author was a Visiting Scholar at the Russell Sage Foundation.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-04-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

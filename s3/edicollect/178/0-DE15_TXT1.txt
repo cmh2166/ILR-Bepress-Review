@@ -1,0 +1,2049 @@
+Review of Data Sources for School to 
+Work Transitions by Youth with 
+Disabilities
+
+Prepared by:
+David C. Wittenburg
+David C. Stapleton
+
+Final Report
+September 2000
+
+For more information on the
+Cornell RRTC contact:
+Susanne Bruyère, Ph.D.
+Project Director
+Cornell University
+106 ILR Extension Building
+Ithaca, NY 14853-3901
+Tel (607) 255-7727
+Fax (607) 255-2763
+TDD (607) 255-2891
+e-mail smb23@cornell.edu
+web www.ilr.cornell.edu/rrtc
+
+Send comments on paper to:
+David Wittenburg, Ph D.
+Research Associate
+The Urban Institute
+2100 M Street
+Washington, DC 20037
+Tel (202) 261-5352
+e-mail dwittenb@ui.urban.org
+
+Table of Contents
+
+I.  INTRODUCTION
+A.  OVERVIEW
+B.  CRITERIA FOR SELECTING DATA SETS
+C.  DATA SOURCES REVIEWED
+D.  OTHER DATA SOURCES
+E.  ORGANIZATION OF THE REPORT
+II.  SUMMARY OF FINDINGS
+A.  OVERVIEW
+B.  SELECTION CRITERIA
+C.  SUMMARY OF SELECTED DATA SOURCES
+1.  SIPP
+2.  Add Health
+3.  Rehabilitation Services Administration (RSA) 911 Database and RSA's Longitudinal Study of the 
+Vocational Rehabilitation (VR)
+4.  State Administrative Data
+5.  NELS:88
+6.  NLTS
+7.  NLTS-2
+8.  NLSY-97
+III.  LONGITUDINAL SURVEYS OF THE GENERAL POPULATION
+A.  OVERVIEW
+B.  SURVEY OF INCOME AND PROGRAM PARTICIPATION (SIPP)
+1.  Data Description
+2.  Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+C.  SURVEY OF PROGRAM DYNAMICS (SPD)
+1.  Data Description
+2.  Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+D.  PANEL STUDY OF INCOME DYNAMICS (PSID)
+1.  Data Description
+2.  Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+E.  MEDICAL EXPENDITURE PANEL SURVEY (MEPS)
+1.  Overview
+2.  Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+IV.  LONGITUDINAL SURVEYS OF YOUTH
+A.  OVERVIEW
+B.  NATIONAL LONGITUDINAL STUDY OF ADOLESCENT HEALTH (ADD HEALTH)
+1.  Data Description
+2.  Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+C.  NATIONAL EDUCATIONAL LONGITUDINAL STUDY OF 1988 (NELS:88)
+1.  Data Description
+2.  Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+D.  HIGH SCHOOL AND BEYOND (HS&B)
+1.  Data Description
+2.  Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+E.  BEGINNING POSTSECONDARY STUDENT LONGITUDINAL STUDY (BPS)
+1.  Data Description
+2.  Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+F.  BACCALAUREATE AND BEYOND LONGITUDINAL STUDY (BB: 93)
+1.  Data Description
+2.  Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+G.  NATIONAL LONGITUDINAL SURVEY OF YOUTH: 1979 (NLSY79)
+1.  Data Description
+2.  Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+H.  NATIONAL LONGITUDINAL SURVEY OF YOUTH: MOTHERS AND CHILDREN
+1.  Data Description
+2.  Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+I.  NATIONAL LONGITUDINAL SURVEY OF YOUTH: 1997 (NLSY:97)
+1.  Data Description
+2.  Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+V.  LONGITUDINAL SURVEYS OF YOUTH WITH DISABILTIES
+A.  OVERVIEW
+B.  NATIONAL LONGITUDINAL TRANSITION STUDY OF SPECIAL EDUCATION STUDENTS (NLTS)
+1.  Data Description
+2.  Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+C.  NATIONAL LONGITUDINAL TRANSITION STUDY OF SPECIAL EDUCATION STUDENTS-2 (NLTS-2)
+1.  Data Description
+2.  Advantages and Limitations
+D.  1986 TO 1992 SCHOOL-TO-WORK TRANSITION SURVEY OF DEAF YOUTH (SWTS)
+1.  Data Description
+2.  Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+VI.  ADMINISTRATIVE DATA
+A.  OVERVIEW
+B.  REHABILITATION SERVICES ADMINISTRATION (RSA) 911 DATABASE AND LONGITUDINAL STUDY OF THE 
+VOCATIONAL REHABILITATION (VR) SERVICE PROGRAM
+1.  Data Description
+2.  Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+C.  SELECTED STATE ADMINISTRATIVE DATA SOURCES
+1.  California Welfare Research Archive (CWR)
+2.  The Florida Education and Training Performance Information Program (FETPIP)
+3.  Illinois Integrated Database on Children's Services (IDB)
+4.  Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+
+I.	INTRODUCTION
+A.	Overview
+Numerous survey and administrative data sets provide information on youth with disabilities. 
+Some provide information on a specific sample of youth with disabilities (e.g., special education 
+students), while others include broader samples of the United States population. 
+Previous studies have reviewed several survey and administrative data sources to study the 
+characteristics and behaviors of youth with disabilities. For example, Conwal, Inc. (1999) 
+recently compiled a review of the most recent available data sets that provide general 
+information on the characteristics (e.g., age, race, and disability) of youth with disabilities. 
+RAND (1998) reviewed several data sets for a planned evaluation of the 1996 changes in the 
+child Supplemental Security Income (SSI) program. Finally, Allen, Rawlings, Schildroth, and 
+Lam (1999) compiled a Research Archive on Disability (RADIUS) that provides links to major 
+data sets for disability research on the Internet.
+
+Unlike these previous data reviews, our objective is to identify data sources for future school-to-
+work analyses that contain longitudinal information on youth with disabilities. Specifically, we 
+review longitudinal data sources that researchers could use to address the following questions: * 
+1.	Which factors influence the development of a youth's skills for employment?* 
+2.	What determines the level and type of effort devoted to preparing the youth for employment?
+3.	What type of initial employment and program participation transitions do youth with 
+disabilities make after they have completed their secondary schooling?
+4.	What are the employment, income, and program participation outcomes for adults who had 
+childhood disabilities, and how do they vary with individual characteristics and childhood 
+circumstances?
+5.	What effect do current public policies have on the incentives for youth making transitions 
+from school-to-work?
+
+This paper is the first in a series of papers on school-to-work transitions for our Rehabilitation 
+Research and Training Center (RRTC), funded by the National Institute on Disability and 
+Rehabilitation Research (NIDRR). In future work, we will create a framework to evaluate 
+school-to-work transitions and review the previous findings from school-to-work transitions by 
+youth with disabilities. We will use this data review, along with our framework and literature 
+review, to design an empirical analysis on school-to-work transitions related to our primary 
+research questions. 
+
+Because of the broad scope of the research questions, our review should be of interest to anyone 
+interested in conducting longitudinal research on school-to-work transitions by youth with 
+disabilities. In future work, we will conduct an empirical analysis using a subset of the data 
+sources highlighted in this report. 
+B.	Criteria for Selecting Data Sets
+We use four criteria to select data sets for review. First, we require that the data contain multi-
+period information to follow transitions by youth with disabilities. Consequently, our review 
+focuses on longitudinal survey and administrative data sets. *  Second, we require that the data 
+contain health and disability information for a large sample of youth with disabilities (age 14 to 
+22). Because there is no single universally accepted definition of disability, a major part of our 
+review focuses on the content of health and disability information in each data set. Third, we 
+require that the data contain recent information. For example, it is likely that the large number of 
+changes in special education programs and SSI policies in the early nineties had a large effect on 
+transitions by youth with disabilities. Hence, we exclude all data sets that have not collected 
+information since 1990. Finally, we require that the data contain information to address at least 
+one of the five questions above. 
+C.	Data Sources Reviewed
+We present detailed reviews for several data sources, which we split into the following 
+categories (Exhibit 1):
+- Longitudinal Surveys of the General Population; 
+- Longitudinal Surveys of Youth;
+- Longitudinal Surveys of Youth with Disabilities; and
+- State Administrative Data; 
+
+Exhibit 1: Summary of Data Reviewed
+
+Longitudinal Surveys of the General Population:
+Survey of Income and Program Participation (SIPP) 
+Survey of Program Dynamics (SPD)
+Panel Survey of Income Dynamics (PSID)
+Medical Expenditure Panel Survey (MEPS)
+
+Longitudinal Surveys of Youth: 
+National Longitudinal Study of Adolescent Health (Add Health)
+National Educational Longitudinal Study of 1988 (NELS:88)
+High School and Beyond (HS&B)
+Beginning Postsecondary Student Longitudinal Study (BPS)
+Baccalaureate and Beyond Longitudinal Study (BB:93)
+National Longitudinal Survey of Youth: 1979 (NLSY79)
+National Longitudinal Survey of Youth: Mothers and Children (NLSY: Mothers and Children)
+National Survey of Youth: 1997 (NLSY97)
+Longitudinal Surveys of Youth with Disabilities
+National Longitudinal Transition Study of Special Education Students (NLTS)
+National Longitudinal Transition Study of Special Education Students-2 (NLTS-2)
+School-to-Work Transition Survey of Deaf Youth (SWTS)
+
+Administrative Data:
+Rehabilitation Services Administration (RSA) 911 Database and Longitudinal Study of the 
+Vocation Rehabilitation Service Program
+Selected State Administrative Data (California Welfare Research Archive, The Florida 
+Education and Training Performance Information Program, and Illinois Integrated Database on 
+Children's Services)
+
+The longitudinal surveys of the general population provide information on a nationally 
+representative sample of the U.S. population. While these surveys do not focus specifically on 
+youth, they contain longitudinal information on a large sample of youth with disabilities. The 
+longitudinal surveys of youth provide information on different cohorts of youth (under the age of 
+22). These surveys contain information on various youth outcomes (e.g., school achievement) 
+and influences (e.g., parental time) that are generally unavailable in surveys of the general 
+population. Some of these surveys also include information on adult outcomes. The longitudinal 
+surveys of youth with disabilities provide information on different cohorts of youth with 
+disabilities. Unlike the surveys of youth, these surveys focus on specific populations of youth 
+with disabilities. Finally, we summarize two types of administrative data sources that contain 
+information on various state and federal programs. *  These data contain information on 
+transitions by youth with disabilities into and out of various state and federal programs, such as 
+Vocational Rehabilitation (VR), Temporary Assistance for Needy Families (TANF), and 
+Medicaid. 
+
+We assess how each of the data sets in these categories could be used to address economic issues 
+related to one of the five questions above. For each data set, we provide a general overview, 
+summarize important health, demographic, employment and program participation variables, and 
+discuss its advantages and limitations in addressing the five research questions above. 
+
+D.	Other Data Sources
+We excluded a number of data sets used in previous analyses of youth with disabilities because 
+they did not satisfy one of our four criteria. Exhibit 2 presents a summary of some of the 
+excluded national data sets and the reason for exclusion.
+
+E.	Organization of the Report
+The remainder of this report includes four sections and an Appendix. Section II provides a 
+summary of our findings. In Sections III-VI, we provide a general overview and discuss the 
+strengths and limitations of the data in each of our categories. Finally, the Appendix contains 
+detailed summary tables for all data sets reviewed in this report. This summary includes 
+information on each data set's sampling frame, sample size, and key variables of interest (e.g., 
+disability, employment, and program participation).
+
+Exhibit 2: Summary of Other Data Sets that Contain Information on Youth with 
+Disabilities
+
+Data Set : Current Population Survey (CPS)
+Reason for Exclusion: Cross-sectional data with limited retrospective information.
+
+Data Set : Integrated Postsecondary Education Data System (IPEDS)
+Reason for Exclusion: Cross-sectional data with limited retrospective information.
+
+Data Set : National Health and Nutrition Examination Survey (NHANES)
+Reason for Exclusion: Very limited information on school, work and program participation 
+outcomes.
+
+Data Set : National Health Interview Survey on Disability (NHIS-D)
+Reason for Exclusion: Cross-sectional data with limited retrospective information. * 
+
+Data Set : National Household Education Survey
+Reason for Exclusion: Cross-sectional data with limited retrospective information.
+
+Data Set : National Study of Postsecondary Faculty
+Reason for Exclusion: No individual information on students with disabilities. 
+
+Data Set : National Survey of American Families (NSAF)
+Reason for Exclusion: Cross-sectional data with limited retrospective information.
+
+Data Set : Postsecondary Education Quick Information System (PEQIS)
+Reason for Exclusion: No individual information on students with disabilities* .
+
+Data Set : Project Talent
+Reason for Exclusion: No available information for the 1990's.
+
+Data Set : Recent College Graduate Survey
+Reason for Exclusion: Limited information is available for the 1990's. * 
+
+Data Set : Rehabilitation Services Administration- Social Security Administration Data 
+Link, 1980-1988
+Reason for Exclusion: No available information for the 1990's.
+
+II.	SUMMARY OF FINDINGS
+A.	Overview
+In this section, we summarize our findings of the most promising data sources for school-to-
+work research on youth with disabilities. Each of the selected data sources contains some 
+information to address at least one of our five major research questions. In the remainder of this 
+section, we summarize our selection criteria and provide an overview of the types of questions 
+that researchers can address using these data sources. 
+
+B.	Selection Criteria
+We use the following six criteria to select the most promising data sources:
+- Quality of the health and disability information: All of the selected data sources contain 
+detailed information on health and/or disability program participation that researchers can use to 
+identify youth with disabilities. The quality and timing of the information on disability status is 
+not as reliable in certain of the excluded data sources. 
+- Sample size: All of the selected data sources contain a large estimated sample of youth with 
+disabilities (at least 500 observations). While all of the data reviewed include a large sample of 
+youth, the sample size of youth with disabilities varies significantly across data sources. 
+- Sample frame: *  All of the selected data sources contain information on a fairly broad 
+population of youth with disabilities. Some of the excluded data sources only followed specific 
+cohorts of youth that might not represent the experiences of the broader population of youth with 
+disabilities.
+- Sample period: All of the selected data sources include recent information (compiled since at 
+least 1991) on outcomes for either youth or young adults with disabilities. 
+- Quality of outcome information: All of the selected data sources contain specific information to 
+address at least one of the five research questions. The other data sources reviewed also include 
+some outcome information. However, in comparison to the selected data sources, this 
+information is limited because of the type and/or timing of the questions. 
+- Attrition: None of the selected data sources seems to contain heavy "planned" or "unplanned" 
+attrition. *  Unfortunately, we do not have enough information on potential attrition biases by 
+youth with disabilities in each data source to make an adequate assessment. 
+
+C.	Summary of Selected Data Sources
+We conclude that the following data sources are most promising for current and future school-to-
+work research on youth with disabilities: * 
+- Survey of Income and Program Participation (SIPP); * 
+- National Longitudinal Study of Adolescent Health (Add Health);
+- Rehabilitation Services Administration (RSA) 911 Database and RSA's Longitudinal Study of 
+Vocational Rehabilitation (VR);	
+- State Administrative Data (multiple states). * 
+- National Educational Longitudinal Study of 1988 (NELS:88);
+- National Longitudinal Transition Study of Special Education Students (NLTS); 
+- National Longitudinal Transition Study of Special Education Students-2 (NLTS-2); and
+- National Survey of Youth: 1997 (NLSY97);
+
+The SIPP, Add Health, RSA 911 Database (and longitudinal study), state administrative data, 
+NELS:88 and the NLTS provide relatively current information on youth with disabilities. 
+Researchers have already used many of these databases, including the NLTS, NELS:88, and state 
+administrative data, to address issues related to our research questions (Wagner, et al, 1996, Horn 
+and Bobbitt, 1999, Goerge, et al., 1996) and the Research Triangle Institute plans to use the RSA 
+data for a study on youth with disabilities in the VR systems. *  The SIPP and Add Heath data 
+have not been used extensively in the previous literature. Finally, the NLTS-2 and NLSY-97 
+provide information that will be valuable in the future (the NLTS-2 will not be available until 
+2001 and the NLSY-97 currently only contains one wave of available data). 
+Below, we highlight the types of research questions that researchers could address with each of 
+these data sources. Exhibit 3 summarizes our findings.
+
+1.	SIPP
+Researchers could use restricted research files of the SIPP that are matched to Social Security 
+Administrative (SSA) data on earnings and program participation records over several years to 
+address questions related to short term (2 to 3 years) and long-term (5 to 15 years) transitions by 
+youth with disabilities (research questions 3, 4, and 5). The SIPP contains detailed information 
+on demographic and health characteristics of large samples of youth with disabilities and the 
+matched SSA records provide employment and SSA program participation information over a 
+person's lifetime. Researchers could, for example, use these matched data to observe transitions 
+into work (using SSA earnings records) or SSI (using SSA program records) by youth with 
+disabilities (age 14 to 22) over their young adulthood (age 23 to 30). We have performed similar 
+analyses in a recent evaluation of transitions by former AFDC recipients onto SSI (Stapleton et 
+al., 1999, 2000).
+
+If the matched data are not available, then the ability to use the SIPP to address research 
+questions 3, 4, and 5 is limited primarily because of the short SIPP panel (approximately 32 
+months). One potential alternative is to match the 1992 and 1993 SIPP panels with the Survey of 
+Program Dynamics (SPD), which continues those SIPP panels. This match would provide 
+information over a ten-year period. Unfortunately, Huggins and King (1998) found that the SPD 
+has significant attrition bias. Further, sample size issues might limit the SPD's usefulness to 
+evaluate specific issues related to school-to-work transitions.
+
+2.	Add Health
+Researchers could use Add Health data to address questions related to the early schooling and 
+training experience of youth with disabilities (research questions 1 and 2). Add Health contains 
+extensive information on family, school, and community characteristics for a large nationally 
+representative sample of youth with and without disabilities in grades 7 through 12 in 1995, 
+collected from students, parents, and/or administrators. Unlike most data sources, the Add Health 
+includes very specific information on the types of parental investments (e.g., parental time, 
+expectations) that the youth receives during high school. Researchers could use these data to 
+examine issues related to the child's human capital development. For example, researchers could 
+examine whether the level and type of investments provided by parents vary depending on the 
+child's disability status.
+
+The major limitation of these data is that only one follow-up interview exists. Hence, these data 
+only provide very limited information on the outcomes of school-to-work transitions.
+
+Exhibit 3: Summary of the Most Promising Data Sets to Address Questions Related to 
+Youth with Disabilities
+(Data Sets: Add Health, RSA 911 and Longitudinal Survey, State Admin. Data* , NELS:88, 
+NLTS , NLTS-2, NLSY-97)
+
+Question 1: Which factors influence the youth's preparedness for employment?
+Addressed by: 
+Add Health
+RSA 911 and Longitudinal Survey
+NELS:88
+NLTS
+NLTS-2
+NLSY-97
+
+Question 2: What determines the level and type of effort devoted to preparing the youth for 
+employment?
+Addressed by:
+Add Health
+NELS:88
+NLTS 
+NLTS-2
+NLSY-97
+
+
+Question 3: What type of employment and program participation transitions do youth with 
+disabilities make after they have completed their formal schooling?
+Addressed by:
+SIPP
+RSA 911 and Longitudinal Survey
+State Admin. Data
+NELS:88
+NLTS 
+NLTS-2
+NLSY-97
+
+Question 4: What are the employment, income, program participation, and independent living 
+outcomes for adults who had childhood disabilities, and how do they vary with individual 
+characteristics and childhood circumstances?
+Addressed by:
+SIPP* 
+State Admin. Data
+NLSY-97
+
+Question 5: What effect do current public policies have on the incentives for youth making 
+transitions from school-to-work?
+Addressed by:
+SIPP
+RSA 911 and Longitudinal Survey
+State Admin. Data
+NLSY-97
+
+3.	Rehabilitation Services Administration (RSA) 911 Database and RSA's 
+Longitudinal Study of the Vocational Rehabilitation (VR)
+Researchers could use the RSA 911 longitudinal study to address questions related to initial post-
+secondary outcomes and factors that influence those outcomes (including factors related to 
+policy changes) (research questions 1, 3, and 5). *  These data include detailed descriptive 
+information on individuals who received VR services, which includes a significant portion of 
+youth with disabilities. Because of the large samples included in the RSA databases, researchers 
+can also use these data to make cross-state comparisons of employment and program 
+participation outcomes. 
+
+The major limitation of these data is that they only provide a relatively limited period to observe 
+transitions. Hence, while these data might provide excellent information on initial post-school 
+outcomes, they will not provide information on long-term adult outcomes (e.g., over 10 years 
+after the youth leaves secondary school). 
+
+The RSA data could be further enhanced if they were matched to SSA records on earnings and 
+program participation. While there are no plans to match the RSA data to SSA records at this 
+time, it is technically feasible to do so; the RSA data include SSNs. *   Similar to the matched 
+SIPP/SSA data, the major advantage of a matched file of RSA/SSA data is that they would 
+contain information to examine long-term transitions by youth with disabilities.
+
+4.	State Administrative Data
+Several state administrative databases (California, Florida, Illinois) could be used to address 
+questions related to short- and long-term transitions by youth from various programs (e.g., 
+AFDC, SSI) into work or other programs (research questions 3, 4 and 5). The major advantage of 
+state administrative data is that they provide information on the experiences of youth who 
+participate in a program or multiple programs (e.g., Medicaid, Temporary Assistance for Needy 
+Families, Special Education) in a particular state.
+
+Unlike survey data, one major obstacle in using state administrative data is accessibility. Many 
+states place confidentiality restrictions on the use of data. Hence, these data might be more costly 
+to obtain than the public data sets mentioned above. Further, some states may not release their 
+data for various other reasons (e.g., expense, political sensitivity of the research).
+
+5.	NELS:88
+Similar to Add Health, the NELS:88 data are most promising to address questions related to the 
+early schooling and training experience of youth with disabilities (research questions 1 and 2), as 
+well as initial transitions from school-to-work (research question 3). NELS:88 provides extensive 
+information on a cohort of eighth graders as they transition through high school. Researchers can 
+use these data to observe how changes in multi-period factors (schooling, environment, home) 
+influence the youth's preparedness for employment and school outcomes. A follow-up interview 
+is conducted two years after the youth is scheduled to finish high school; this could be used to 
+analyze immediate high school-to-work (or other school) transitions. 
+
+There are two major limitations of the NELS:88. First, it excludes a large number of youth with 
+severe disabilities, including those from special education schools for the handicapped, area 
+vocational school, those in "ungraded" classrooms, and those deemed by local staff to be unable 
+to participate because of physical disability, mental illness, or language. Hence, these data do not 
+provide representative information on large samples of youth with specific limitations. Second, 
+NELS:88 only provides information on youth up to age 20. Hence, these data do not provide 
+long-term information on youth as they age. 
+
+6.	NLTS 
+Researchers could use the NLTS to address questions related to the schooling experience 
+(research questions 1 and 2) and initial transitions from school made by youth from special 
+education programs (research question 3). *  Because the NLTS only samples youth in special 
+education programs, all of the NLTS respondents could be considered as having some type of 
+disability. *  Researchers could use these data to evaluate the youth's experience while in 
+school, such as the type of investments received (e.g., teacher time), as well as their experiences 
+as they finish their secondary education, using responses from the three NLTS follow-up 
+interviews. 
+
+A major drawback of the NLTS is that it only contains information on a 1987 student cohort. The 
+experiences of the NLTS cohort of special education students might not necessarily represent the 
+more recent experiences of youth with disabilities. To address this limitation, the Department of 
+Education is funding a new NLTS survey (NLTS-2).
+
+7.	NLTS-2
+Researchers could use the NLTS-2 data in the future to address the same types of questions as 
+the NTLS, except for a more recent cohort of special education students (fall 2000). The 
+strengths and limitations of the NLTS-2 are similar to the original NLTS because it includes the 
+same target sample (special education students), though the NLTS-2 will follow this sample for a 
+much longer period than the original NLTS (approximately ten years vs. four years).
+
+8.	NLSY-97
+The NLSY:97 could be a valuable data source for evaluating transitions by youth with 
+disabilities in the future to address issues related to all of our research questions. These data 
+include a relatively large sample of youth with disabilities from a recent cohort that will be 
+followed for several years. In addition, unlike the surveys mentioned above, researchers can use 
+the NLSY:97 to compare the experiences of youth with disabilities to those without disabilities. 
+
+Because the initial interview sample only includes individuals age 12 to 16 in 1997, researchers 
+will not be able to observe school-to-work transitions in the NLSY:97 for most of the sample 
+until approximately 2004, when the youngest person in this sample reaches 18. Consequently, 
+the NLSY:97 provides promise for future research, but is very limited in its current form.
+
+III.	LONGITUDINAL SURVEYS OF THE GENERAL POPULATION 
+
+A.	Overview
+We identified the following longitudinal surveys of the general population that met our selection 
+criteria for review:
+- Survey of Income and Program Participation (SIPP);
+- Survey of Program Dynamics (SPD); 
+- Panel Survey of Income Dynamics (PSID); and
+- Medical Expenditure Panel Survey (MEPS).
+
+The SIPP is a nationally representative survey administered by the Census Bureau that gathers 
+detailed information on demographic, health, employment, and program participation patterns 
+from households, families and individuals. The SPD is also a nationally representative survey 
+administered by the Census Bureau that includes a subsample of households from previous SIPP 
+panels. The PSID is a nationally representative survey administered by the University of 
+Michigan's Institute for Social Research that tracks changes in the living situations of families 
+and individuals over approximately a 30-year period. Finally, the MEPS is a periodic nationally 
+representative survey administered by the National Center for Health Statistics of households 
+that collects information on medical expenditure patterns over a 2.5-year period, and that can be 
+linked to its sampling frame, the National Health Interview Survey, to extend the observation 
+period for some variables. 
+
+B.	Survey of Income and Program Participation (SIPP)
+1.	Data Description
+The SIPP is a nationally representative data set that provides detailed longitudinal information on 
+households, families, and individuals over approximately a 32-month period. *  SIPP panels are 
+available in each year from 1984 through 1993 and then again in 1996.
+
+The sample for each SIPP panel includes individuals in the non-institutionalized resident 
+population of the United States. In general, the sample sizes of the 1985-1989 SIPP panels were 
+relatively small (approximately 32,000 observations) compared to other SIPP panels. Since 1990, 
+the number of original SIPP sample members has varied from 40,800 (1991) to 61,900 (1990). 
+* 
+
+During each SIPP interview ("wave"), adults age 15 and older answer questions about monthly 
+demographic, program participation, and employment characteristics ("core" questions). The 
+SIPP also provides information on children through the responses of parents. 
+
+In addition to the core questions, the SIPP also includes information on special subjects during 
+each interview, such as disability, past program participation, and child schooling ("topical 
+modules"). The subject covered in each Topical Module varies by interview wave. 
+
+The SIPP topical module on disability and functional limitations includes several health related 
+questions. The SIPP includes information on work limitations, housework limitations, Activities 
+of Daily Living (ADLs), Instrumental Activities of Daily Living (IADLs), and functional 
+limitations for those over age 16. Detailed functional limitation and disability questions for 
+children (age 3 to 15) are also available in each panel, based on the parents' responses. 
+
+The Census Bureau and SSA have created restricted research files that match multiple SIPP 
+panels to SSA administrative data on earnings and program participation. *  They linked the 
+records using Social Security Numbers (SSN's) that were both available on SSA files and 
+collected during SIPP interviews. *  The "matched SIPP/SSA" data have been used in several 
+research projects funded by SSA, including a project that we recently completed (Stapleton et al., 
+1999, 2000). 
+
+2.	Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+There are several advantages of the SIPP. First, each SIPP panel contains a large nationally 
+representative sample of youth with disabilities. Based on previous work (Stapleton et al., 1999, 
+2000), we estimate that there are approximately 650 persons age 14 to 30 with an identified 
+limitation in at least one wave of each panel from 1990 to 1993. *  Second, the SIPP contains 
+detailed functional limitation and disability information for respondents age 16 and older. *  
+Finally, the SIPP contains monthly information on several outcomes of interest for youth, 
+including employment and program participation. 
+
+There are four limitations of these data. First, the SIPP (without the SSA match) only contains 
+information over approximately a 32-month period; a period too short to capture long-term 
+transitions by youth as they move into young adulthood. *  Second, the SIPP does not include 
+any information on youth living in institutions, which might exclude a significant portion of 
+youth with disabilities. Third, it only contains limited information on factors that would 
+influence a child's human capital development, such as school quality and time spent with 
+parents. *  Finally, we found some evidence of attrition bias in later SIPP interviews for SSI 
+recipients (Stapleton et al., 1999, 2000),. This bias can be limited somewhat by using the SIPP 
+panel weights, but additional research is necessary to assess such biases. 
+
+The restricted SIPP/SSA files would greatly enhance the amount of information available from 
+each SIPP panel. Researchers could use the matched data to observe program participation and 
+employment spells of SIPP respondents before, during, and after their SIPP interviews. For 
+example, in Stapleton, et al. (1999, 2000), we pooled matched data from the 1990-1993 SIPP 
+panels to provide information on transitions into SSI by young women and children from 1974 to 
+1998. We might use these data in an upcoming project to evaluate adult employment and 
+program participation outcomes for youth with disabilities. For example, we could estimate what 
+proportion of youth with disabilities in, say, the 1990 SIPP panel were employed or participating 
+in SSI by 1998. We might also compare the characteristics of youth who transitioned into 
+employment to those who made other types of transitions (e.g., enrolled in SSI).
+
+An important limitation of the matched data is that detailed characteristics from SIPP interviews 
+are only available over the relatively short life of the panel. For example, attempts to characterize 
+1996 SSI participants using information from, say, the 1990 panel, are problematic because some 
+characteristics, such as health, income, and family status are likely to change as a person ages. 
+
+C.	Survey of Program Dynamics (SPD)
+1.	Data Description
+The SPD includes an overlapping sample from the 1992 and 1993 SIPP panels as the base 
+population and follows it for six years, from 1996 to 2001. *  Hence, researchers can link the 
+SPD with the 1992 and 1993 SIPP panels to create a ten-year panel data set of employment and 
+program participation, from 1992 to 2001. * 
+
+The SPD survey has three phases. In the first phase, which started in 1997 with the SPD Bridge 
+Survey, sample persons from the 1992 and 1993 SIPP panels were contacted and asked 
+retrospective questions about their activity in the past year. *  The second phase started in 1998 
+with the full implementation of the core SPD questionnaire. This questionnaire includes 
+additional questions that focus on children in the household. Specifically, it includes information 
+on the child's school status, activities at home, child care, health care, and child support. Unlike 
+the SIPP, the SPD will include specific questions about these activities for youth age 12 to 17. 
+The final phase of the SPD will start in 1999 and include retrospective residence history 
+questions regarding the child's well-being. 
+
+2.	Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+There are three advantages of combining the SPD data with the SIPP. First, SSA administrative 
+records are available for the SPD panel members because SSA and the Census have already 
+created matches for the 1992 and 1993 SIPP panels. Second, because the SPD data provide a ten-
+year panel of survey data, researchers can observe changes in youth background characteristics, 
+such as health and functional limitations that might influence adult outcomes. Finally, the 
+additional questions on child circumstances provide information on factors that influence the 
+child's human capital development, such as time spent with parent and social activities. These 
+final two advantages address two limitations of the matched SIPP data. 
+
+There are three drawbacks, however, that potentially outweigh the advantages of using these 
+data. First and most importantly, early studies of attrition in the SPD suggest that attrition bias 
+could be a major problem. Huggins and King (1998) found that sample attrition for the 1998 
+SPD was 50 percent of the target sample. Second, because of the attrition, the overall SPD 
+sample size is limited. Based on past experience, we estimate that the SPD will include only 
+about 175 observations on people age 14 to 30 with disabilities. Finally, the SPD is gathering 
+detailed child information in later (1997-1999) interviews. While these data might be important 
+for evaluating school-to-work transitions, adult outcomes for these children will not be available 
+for many years. 
+
+D.	Panel Study of Income Dynamics (PSID)
+1.	Data Description
+The PSID includes annual information on individuals living in PSID households from 1968 to 
+1997. During the interviews, one adult in the household (the "head") answers all of the questions 
+for the rest of the household. In general, the PSID sample includes information each year from 
+approximately 5,000 households that were part of the original sample interviewed in 1968. *  
+
+The PSID contains limited disability information. Information regarding work limitations is 
+collected in every PSID for the "head" and spouse (which the PSID refers to as a "wife"). The 
+PSID added a special disability supplement for "heads" and "wives" in 1989 that included 
+information on ADLs, IADLs, and functional limitations. Unfortunately, the PSID does not 
+include annual disability information for other household members. 
+
+In 1997, the PSID added a special Child Development Supplement to collect longitudinal 
+information on human capital formation of children 0 to 12, including information on schooling 
+and parent variables (e.g., parental time). The purpose of this supplement was to study the 
+dynamic process of early human capital formation. This supplement included several questions 
+to assess the cognitive, behavioral, and health status of youth. *  
+
+2.	Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+There are two advantages of the PSID. First, it provides a long history of individual program 
+participation from 1968 to 1997. Second, the child development supplement provides important 
+information on the formation of human capital for a large sample of youth. For example, 
+researchers could use this information to determine what affect certain human capital "inputs" 
+have on later earnings and program participation. 
+
+Several limitations of the PSID likely outweigh the advantages of using it for future analyses, 
+however. First, the PSID has a relatively small sample of youth with disabilities in comparison to 
+other data, such as the SIPP. More importantly, the PSID contains only limited annual 
+information on youth until they become heads of their households. Even if a youth eventually 
+becomes a "head" in the PSID, the amount of information available regarding their childhood is 
+small. *  We estimate that approximately 50 PSID respondents age 14 to 30 have a disability in 
+each year. Second, similar to the SIPP, the PSID does not include information on youth living in 
+institutions. Finally, while the child supplement in 1997 provides an excellent source for 
+potential future research, it will be several years before these data can be used in an analysis of 
+transitions by youth with disabilities because the sampling frame only includes those age 0 to 12. 
+
+E.	Medical Expenditure Panel Survey (MEPS)
+1.	Overview
+MEPS includes a nationally representative subsample of households included in the previous 
+year's National Health Interview Survey (NHIS), a nationally representative sample of the 
+civilian non-institutionalized population of the United States. The 1996 MEPS includes a sample 
+size of 10,500 households. The 1997 MEPS includes 6,300 households. Unlike the 1996 MEPS, 
+the 1997 MEPS includes an oversample of children with limitations. Data for both panels are 
+collected from each household over a two and one-half year period during several follow-up 
+interviews. The MEPS panels are currently only available for 1996 and 1997.
+
+The MEPS provides data on various health care issues, including healthcare use, expenditure, 
+and insurance coverage. The survey components include in-person interviews, telephone 
+interviews, and mail surveys. It gathers data on demographic characteristics, health status of 
+household members, family type, employment, health insurance, and veteran status. 
+
+The MEPS includes extensive information on health and disability status. There are several 
+questions on disabilities for each household member. In addition, researchers can link MEPS to 
+the 1995 NHIS, which contains extensive information on health and disability status.
+
+2.	Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+The major advantage of the MEPS is the amount of detailed information that it provides on 
+health and disability status. Of all the general population data sets, the MEPS contains the most 
+detailed information on the disability status of youth. 
+
+Unfortunately, MEPS contains very limited employment and program participation information 
+relative to the SIPP. Given that the MEPS only follows individuals over approximately the same 
+period as the SIPP (32 months), the SIPP (particular when matched to SSA records) provides 
+better opportunities to evaluate transitions by youth with disabilities for our purposes. Further, 
+we estimate that the sample of youth with disabilities age 14 to 30 in the MEPS includes 
+approximately 170 cases, only about one-fourth as many as the number in each SIPP panel. * 
+
+IV.	LONGITUDINAL SURVEYS OF YOUTH 
+A.	Overview
+We identified the following longitudinal surveys of youth that met our selection criteria for 
+review:
+- National Longitudinal Study of Adolescent Health (Add Health);
+- National Educational Longitudinal Study of 1988 (NELS:88);
+- High School and Beyond (HS&B);
+- Beginning Postsecondary Student Longitudinal Study (BPS);
+- Baccalaureate and Beyond Longitudinal Study (BB:93);
+- National Longitudinal Surveys of Youth (NLSY 1979)
+- National Longitudinal Survey of Youth: Mothers and Children (NLSY: Mothers and Children);
+- National Survey of Youth: 1997 (NLSY97);
+Add Health is a nationally representative survey of adolescents in grades 7 through 12 
+administered by the University of North Carolina (UNC) that collects information on the health 
+status and social issues facing adolescents. The NELS:88, HS&B, BPS, and BB:93 are surveys 
+administered by the Department of Education (DoED) (and organized under the National Center 
+for Education Statistics (NCES)). The NELS:88 and HS&B are longitudinal surveys that follow 
+students through different stages of their education (middle school, high school, and 
+postsecondary school). *  The BPS and BB:93 follow students through various stages of post-
+secondary education. *  Finally, the NLSY surveys (NLSY79, NLSY: Mothers and Children, 
+and NLSY97) are nationally representative surveys of various youth cohorts administered by the 
+Bureau of Labor Statistics. 
+
+B.	National Longitudinal Study of Adolescent Health (Add Health)
+1.	Data Description
+The Add Health survey provides detailed information on the health-related behaviors of 
+adolescents in grades 7-12, collected from 134 nationally representative junior high and high 
+schools in 1995 and 1996. The survey attempts to identify factors that influence the causes of 
+certain health-related behaviors. It includes rich information on the adolescent's families, friends, 
+schools, and communities that influence these behaviors. Initial school interviews with students, 
+teachers and administrators started in 1995 for a sample of approximately 90,000 students, and 
+follow-up in-home interviews were conducted with parents and children on a subsample in 1995 
+and 1996. Add Health conducted interviews with parents, students, teachers and administrators. 
+The sample of questionnaires and in-home responses vary, but, in general, include a large sample 
+of youth (at least 10,000) in both interview waves. * 
+
+Several questions in the in-home interview gather information on the youth's disability status. 
+These questions provide information on limb disabilities, mental retardation, learning 
+disabilities, and sensory disabilities. The data also includes Peabody Vocabulary test scores, a 
+measure of cognitive ability. *  A number of child and parent questions provide information on 
+the emotional health of the child (e.g., how the child is feeling about him/herself). 
+
+2.	Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+There are three advantages of the Add Health survey. First, it provides recent information on the 
+experiences of a large sample of youth, including those with disabilities, from a representative 
+sample of schools. Unlike NLTS and NELS (see below), the sampling frame does not exclude 
+certain types of schools. Second, because it includes information on those with and without 
+disabilities, researchers can compare the experiences of these two groups. For example, 
+researchers can assess whether the level and type of investments provided by parents vary 
+depending on the child's disability status. Add Health contains a large sample of youth (10,000), 
+and based on this sample size, we estimate that it contains a sufficient sample of youth with 
+disabilities (approximately 1,000 cases) for empirical analysis of many issues. *  Third, similar 
+to NLTS and NELS, Add Health includes detailed information on the youth's family, school, and 
+community characteristics that might influence their school and work choices. Hence, 
+researchers can use these data to analyze factors that influence the youth's preparedness for 
+employment, such as school achievement and job training. 
+
+The major limitation of these data is that there is only one planned follow-up interview. Hence, 
+researchers cannot use these data to observe post-school outcomes, such as transitions into work 
+or program participation. Further, researchers cannot observe how multi-period changes, such as 
+changes in the youth's health status, influence early youth school outcomes and investments. 
+
+C.	National Educational Longitudinal Study of 1988 (NELS:88)
+1.	Data Description
+The purpose of NELS:88 is to provide information on postsecondary school outcomes for a 1988 
+cohort of eighth grade students. The NELS:88 sample includes a representative sample of all 
+U.S. public and private schools containing eighth grades, but excludes certain students with 
+health problems. In total, the baseline sample includes 24,000 students. The excluded groups are 
+those from separate special education schools, area vocational school, those in "ungraded" 
+classrooms, and those deemed by local staff to be unable to participate because of physical 
+disability, mental illness, or language. According to the National Opinion Research Center 
+(1996), of those who were excluded, 20 percent were ineligible because their English language 
+proficiency was deemed to be insufficient for survey participation; 66 percent were classified as 
+ineligible because of mental disabilities; 6 percent were excluded due to physical disability; and 
+8 percent were classified as "disability unknown."
+
+NELS:88 includes information on school policies, teacher practices, family involvement, student 
+expectations, and four cognitive tests. Follow-up interviews were conducted every two years 
+with the same cohort until 1994. Interviewers collected data from a variety of sources, including 
+school administrators, teachers, parents, and students. The survey has information on students' 
+background, resources, and secondary and post-secondary educational choices.
+
+NELS:88 includes some disability information from parents, teachers, and cognitive tests. 
+Interviewers ask parents and teachers if the child ever had problems because of health. They also 
+asked parents if the child received any type of special services. The cognitive tests provide 
+information on the youth's cognitive abilities that might be related to a specific limitation. 
+
+2.	Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+The major advantage of NELS:88 is that it provides information on high school achievement 
+levels (and factors that influence achievement) for a large sample of youth, including some youth 
+with disabilities. It contains rich information on school quality, special services, and child-
+parent-teacher interactions that are generally not available in national databases. This 
+information could be valuable in assessing how certain factors not included in national surveys, 
+such as parental and teacher attention, influence the youth's human capital formation. Despite 
+the sample selection that excludes special education schools, NELS:88 does include a relatively 
+large sample of students with disabilities. For example, Rossi, et al. (1997) found that 2,500 had 
+some type of limitation, based on the parent's responses.
+
+There are several major drawbacks of NELS:88. First, the NELS:88 sampling frame excludes 
+several groups of youth with disabilities. Rossi et. al. (1997) estimated that as many as one half 
+of the students that are served by the Individuals with Disabilities Education Act (IDEA) are 
+excluded by the sample selection. Second, several researchers have raised concerns about the 
+accuracy of the disability information for those who are included in the sample. *  Finally, 
+NELS:88 does not include a long enough panel to observe long-term transitions from school-to-
+work because it only followed a cohort of students until age 18. A large share of students only 
+make their first transition into full time (i.e., full-year) employment at this age or later. 
+
+D.	High School and Beyond (HS&B)
+1.	Data Description
+The purpose of the High School and Beyond Longitudinal Survey (HS&B) is to study the 
+educational, professional, and personal development of youth as they become adults. The HS&B 
+includes a nationally representative sample of over 30,000 sophomores and 28,000 seniors from 
+over 1,000 high schools in the United States. Follow-up surveys are available for 1982, 1984, 
+1986, and 1992. *  Similar to NELS:88, HS&B also excludes certain students with health 
+problems. 
+
+The HS&B includes information from a number of sources including postsecondary transcripts, 
+questionnaires sent to students, school officials, teachers, and parents, and follow-up interviews 
+with students. The survey contains information on the students' educational performance, 
+functional abilities, background, and employment outcomes. School administrators, teachers, and 
+students provided information on the youth's functional limitations and disability characteristics. 
+School administrators answered questions relating to the student's participation in special 
+education programs. Teachers provided information on whether the student had a physical or 
+emotional handicap that affected their schoolwork. Students provided information on whether 
+they had a physical condition that limited work or education, and/or participated in any programs 
+for disabled students. *  In addition, a series of standardized test scores are available. 
+
+2.	Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+While these data provide important information on a large representative sample of students 
+leaving high school, including a large sample of youth with disabilities (approximately 5,000 
+observations), data that are more recent are desirable to evaluate school-to-work transitions. *   
+Further, similar to NELS:88, another limitation of the HS&B is that it excludes a large sample of 
+youth with disabilities because of its sampling frame. Hence, the HS&B data are limited for our 
+purposes. 
+
+E.	Beginning Postsecondary Student Longitudinal Study (BPS) 
+1.	Data Description
+The BPS includes information on students who begin postsecondary education just after high 
+school, as well as on those who delay the start of their education. The BPS follows first-time, 
+beginning students over 2-year intervals for 6 years. The first round of interviews started in 
+1992, following approximately 7,000 students from the 1990 National Postsecondary Aid Study 
+(NPSAS). The NPSAS is a comprehensive nationwide study of students enrolled in less than 2-
+year institutions, community and junior colleges, 4-year colleges, and major universities located 
+in the United States and Puerto Rico. The second BPS (BPS:90/94) was conducted in the spring 
+of 1994. The next BPS cohort is based on NPSAS:96 with the first BPS follow-up in 1998.
+
+One of the main objectives of the BPS study is to compare the experiences of those who attend 
+school immediately to those who delay entry. It gathers information from students, some parents, 
+postsecondary transcripts, and financial aid records. The survey contains information about the 
+students' background, postsecondary educational experiences, and work entry experiences. 
+
+The BPS contains some limited disability information collected from interviews with students 
+(including information from the NPSAS). The 1990 and 1994 surveys include information on 
+whether the student had some specific type of health condition (e.g., visual impairment, learning 
+disability). 
+
+2.	Advantages and Limitations for Evaluating Transitions by Youth with Disabilities 
+While the BPS provides information on the experiences of youth who are transitioning from 
+school, its sample only includes those who enter a postsecondary institution. Based on findings 
+from Wagner et al. (1996), this sample only represents a relatively small portion of youth with 
+disabilities in special education programs. Hence, these data can only provide a limited picture of 
+the experiences of youth with disabilities who actually enter post-secondary education. Another 
+major limitation is the outcome information included in these data is very limited, particularly in 
+relation to employment and earnings. 
+
+F.	Baccalaureate and Beyond Longitudinal Study (BB: 93)
+1.	Data Description
+BB:93 includes information on people one year after they have completed a bachelor's degree. 
+BB:93 includes a sample of approximately 11,000 students from the 1993 NPSAS. Follow-up 
+interviews will eventually be available every year from 1993 to 2005. The first follow-up survey 
+took place in 1994 (BB:93/94) and included student interviews and undergraduate transcripts. 
+The second follow-up survey (BB:93/97) included student interview questions and financial aid 
+records. The next scheduled BB cohort will be associated with the NPSAS:2000 as its base.
+
+This survey collects information on undergraduate educational experience, graduate school entry, 
+and earnings shortly after college. The information is gathered from student record abstracts, 
+student interviews, a parental survey, financial aid records, and undergraduate transcripts. 
+
+The disability information in the BB:93 is similar to that in the BPS. It includes self-reported 
+information on specific types of limiting health conditions. 
+
+2.	Advantages and Limitations for Evaluating Transitions by Youth with Disabilities 
+The advantages and limitations of the BB:93 are the same as those of the BPS. While the BB:93 
+provides information on the experiences of youth who are transitioning from school, its sample 
+only includes those who enter a postsecondary institution. 
+
+G.	National Longitudinal Survey of Youth: 1979 (NLSY79) 
+1.	Data Description
+The NLSY79 includes data from a nationally representative sample of 12,686 young people who 
+were between the ages of 14 and 22 in 1979. *  While the sampling frame is nationally 
+representative, it includes a large subsample of low-income and minority families. In-person 
+interviews were conducted each year until 1994 when the surveys were cut back to a biennial 
+basis. Seventeen years of survey data are currently available from 1979 to 1996 on the 
+respondents' demographic and family background, educational status and attainment, high school 
+experiences, labor market activity and transitions, detailed work histories, income, assets, and 
+health. 
+
+The NLSY79 includes annual information on functional limitations that limit work or school 
+activities, and the expected duration of the limitations. In addition, several supplements to the 
+NLSY79 in the eighties and early nineties include detailed disability information on specific 
+health conditions (e.g., mental retardation). 
+
+2.	Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+The NLSY79 is an excellent database to analyze school-to-work transitions by a 1979 cohort of 
+young adults. It provides detailed information on transitions for a large sample of young adults 
+age 14 to 22 over a seventeen-year period. In addition, these data contain annual information on 
+disability. We estimate that the survey includes approximately 1,200 youth with disabilities. *  
+Several researchers have used these data in previous school-to-work analyses (Gardecki and 
+Neumark, 1998; Monks, 1997; and Keane and Wolpin, 1997). 
+
+The major limitation of the NLSY79, however, is that it does not provide information on 
+transitions from school by a recent cohort of youth.
+
+H.	National Longitudinal Survey of Youth: Mothers and Children
+1.	Data Description
+Starting in 1986, a supplement was added to the NLSY79 on young women in the original 
+survey who had children (NLSY79: Mothers and Children). Since 1988, information has been 
+collected on a variety of factors for children age 10 and older, including child-parent interaction, 
+attitudes toward schooling, dating and friendship patterns, religious attendance, health, substance 
+use, and home responsibilities (Yates, 1999). Biennially (since 1994), children age 15 and older 
+complete a lengthy child interview modeled on the NLSY79 questionnaire. Information is 
+collected on their schooling, training, work experiences and expectations, health, dating, fertility 
+and marital histories, and household composition. A special supplement also includes 
+information on parent-child conflict, participation in delinquent or criminal activities, use of 
+controlled and uncontrolled substances, and the child's future expectations. The NLSY79: 
+Mothers and Children disability information is the same as that collected in the NLSY:79. 
+
+2.	Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+The major limitation of the NLSY: Mothers and Children in a school-to-work analysis is that the 
+sample size is very limited for youth with disabilities. According to RAND (1998), this survey 
+only included 2,084 children age 10 to 14. As an upper bound, we estimate that approximately 
+200 of these children have a limitation. We believe this sample size would be too small for an 
+empirical analysis of school-to-work transitions. 
+
+I.	National Longitudinal Survey of Youth: 1997 (NLSY:97)
+1.	Data Description
+In 1997, a new NLSY (NLSY97) was started for a nationally representative sample of 
+approximately 9,000 youth who were 12 to 16 years old as of December 31, 1996. Similar to the 
+NLSY79, the NLSY97 will collect extensive information about the youth's labor market 
+behavior and educational experiences over time. Unlike the NLSY79, however, the NLSY97 
+includes a parent questionnaire that contains information about the youth's family background 
+and history. Information in the parent questionnaire includes: parents' marital and employment 
+histories, relationship with spouse or partner, ethnic and religious background, health (parent and 
+child), household income and assets, participation in government assistance programs, youth's 
+early child-care arrangements, custody arrangements, and parent expectations about the youth 
+(Bureau of Labor Statistics, 1999).
+
+The disability information included in these data are generally the same as in the NLSY:79, 
+though more specific information is also available on some health conditions of the child (e.g., 
+learning disability).  In addition, the NLSY:97 will have a larger sample of youth with 
+disabilities than the earlier NLSYs (we estimate that the 900 of those interviewed in 1997 had a 
+limitation). 
+
+2.	Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+The NLSY:97 could become be an excellent data source for evaluating transitions by youth with 
+disabilities for several reasons. First, it includes a relatively large sample of youth with 
+disabilities from a recent cohort. Second, it plans to follow this cohort until they become adults. 
+Finally, the experiences of youth with disabilities could be compared to those of contemporaries 
+without disabilities. 
+
+The major limitation of the NLSY:97, however, is that there is not enough current information in 
+the panel to conduct an empirical analysis on school-to-work transitions. Because the initial 
+interview sample only includes individuals age 12 to 16 in 1997, researchers will not be able to 
+observe school-to-work transitions for most of the sample until approximately 2004, when the 
+youngest person in this sample reaches 18.
+
+V.	LONGITUDINAL SURVEYS OF YOUTH WITH DISABILTIES
+A.	Overview
+The following longitudinal surveys of youth with disabilities that met our selection criteria for 
+review:
+- National Longitudinal Transition Study of Special Education Students (NLTS);
+- National Longitudinal Transition Study of Special Education Students-2 (NLTS-2);
+- School-to-Work Transition Survey of Deaf Youth (SWTS).
+
+The NLTS and NLTS-2 are nationally representative surveys of students age 15 to 21 in special 
+education programs, administered by the Department of Education. The NLTS started in 1987 
+and the NLTS-2 is scheduled to start in 2000. SWTS is a six-year survey of a nationally 
+representative sample of hearing-impaired youth who were age 16-22 in 1986, when the survey 
+began, administered by Gallaudet University. 
+B.	National Longitudinal Transition Study of Special Education Students (NLTS) 
+1.	Data Description
+The NLTS was designed to collect information on school-to-work transitions of youth with 
+disabilities. The NLTS is a nationally representative sample of students age 15 to 21 enrolled in 
+special education programs between 1985 and 1986. The original sample is comprised of 
+approximately 8,000 youth from special education programs in over 300 school districts. The 
+original survey started in 1987, and a follow-up interview is available for 1990-91.
+
+The NLTS provides information on the educational progress and occupational, educational and 
+independent living outcomes of youth in special education programs. The NLTS uses a number 
+of sources, including interviews with parents and/or the students, secondary school transcripts or 
+school program content forms, and a "student school program survey" of teachers. It includes 
+information on the youth's education experiences, functional abilities, family background, and 
+post-school outcomes (e.g. employment). 
+
+There are several sources of disability information within the NLTS. The most promising are 
+from school administrative records that contain detailed disability information on specific health 
+conditions of the youth (e.g. mental retardation, learning disability). In addition, the NLTS also 
+contains information on IQ scores. Finally, the NLTS includes parental and youth response 
+questions about health status that can be used as a proxy for the severity of disability (e.g., does 
+the youth need any special assistance). 
+
+2.	Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+Because of the detailed disability, school, and longitudinal outcome information on a large 
+sample of youth with disabilities, several researchers have used the NLTS to evaluate school-to-
+work transitions. *  According to SRI International (1999), the NLTS can address the following 
+disability related topics: *  
+- The characteristics of students, including their disability categories and functional abilities, 
+ethnic backgrounds, and socioeconomic characteristics;
+- School programs, including enrollment in academic and vocational courses, the extent to 
+which students had regular education placements, and the kinds of services and supports 
+provided by schools;
+- School performance, including absenteeism, grades, behavioral assessments, and school 
+completion status;
+- Post-school outcomes, including participation in postsecondary education and the labor 
+market, residential independence, and aspects of youths' social lives; *  
+- Factors that are related to variations in school performance and post-school outcomes; and
+- Adult services needed by, and provided to, young people with disabilities in their early 
+years after high school. 
+
+The NLTS also includes information on program participation, such as SSI, that might influence 
+post-school outcomes. 
+
+One major limitation of these data is that the sample only includes youth with disabilities 
+enrolled in special education programs. A significant portion of youth with disabilities might not 
+be enrolled in these programs. Further, because the sample does not include those outside of 
+special education programs, it is difficult to compare the findings for students with disabilities to 
+those without disabilities. Comparisons with the general population of youth are sometimes 
+included in NLTS reports through secondary analyses of the NLSY, but such comparisons are 
+limited by survey differences. 
+
+A second major limitation is that data from the NLTS are only available through 1991. Given the 
+large number of economic and policy changes in the nineties, the experiences of this cohort 
+might not represent the experiences of recent cohorts. To address this limitation, the Department 
+of Education is funding the NLTS-2 to survey a more recent cohort of special education students. 
+
+C.	National Longitudinal Transition Study of Special Education Students-2 (NLTS-2)
+1.	Data Description
+The NLTS-2 will revisit many of the topics addressed in the NLTS to evaluate progress since the 
+implementation of the Individuals with Disabilities Education Act (IDEA), as well as examine 
+new issues for secondary-aged youth in transition. Similar to the NLTS, the purpose of the 
+NLTS-2 is to collect information on school-to-work transitions of youth with disabilities. The 
+NLTS-2 will follow a large, nationally representative sample of students in special education 
+who are ages 13 through 17 and in at least 7th grade when the sample is selected (fall 2000). The 
+oldest youth will be 25 at the final data collection point. Students will be selected randomly from 
+rosters of students receiving special education. Local education agencies (LEAs) and state-
+operated schools for students with disabilities will provide rosters that are selected for the study. 
+SRI International has designed a sample plan for the study. *  For more details on the sample 
+design of the NLTS-2, see SRI International (2000).
+
+2.	Advantages and Limitations
+The advantages and limitations of the NLTS-2 are similar to the NLTS, except that it will 
+provide information on a more recent (year 2000) cohort of special education students and it will 
+follow this cohort for a longer period (ten years vs. four years). 
+
+D.	1986 to 1992 School-to-Work Transition Survey of Deaf Youth (SWTS)
+1.	Data Description
+The purpose of the School-to-Work Transition Survey of Deaf Youth (SWTS) is to study the 
+factors that affect deaf youth as they make the transition from high school to the labor market. 
+Students, parents, and high school counselors provide survey responses on the youth's 
+demographic, audiological, and educational characteristics. The SWTS includes a nationally 
+representative sample of youth age 16-22 who have a hearing threshold greater than 70dB and 
+participated in special education programs in 1986. The sample includes about 6,500 youth. In 
+addition to the base year, there were three follow-ups between 1988 and 1992.  
+
+The Survey contains detailed information about the students' hearing disabilities. The SWTS also 
+includes some information regarding other physical limitations, and test scores from the 1983 
+Stanford Achievement Test.
+
+2.	Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+While the SWTS provides important information on a subpopulation of youth with disabilities, 
+its narrow focus on deaf youth makes it limited for evaluating transitions by larger populations of 
+youth with disabilities. Further, for similar reasons mentioned above, the recent experiences of 
+deaf youth might be different from that of the population included in the base 1986 SWTS 
+sample. 
+
+VI.	ADMINISTRATIVE DATA
+A.	Overview
+In this section, we review administrative data sources from the Rehabilitation Services 
+Administration (RSA), as well as from various states. The RSA data tracks employment 
+outcomes, as well as demographic information, for individuals who participate in VR programs. 
+For the state administrative data sources, we summarize our findings from a previous review of 
+selected data sources (Stapleton et al., 1999). 
+
+B.	Rehabilitation Services Administration (RSA) 911 Database and Longitudinal Study of 
+the Vocational Rehabilitation (VR) Service Program 
+
+1.	Data Description
+The RSA 911 database contains information for all persons exiting the VR program during each 
+fiscal year. It contains disability information (e.g., specific health conditions), VR eligibility 
+status, types of services provided, employment, and public benefit outcomes. In 1996, this 
+database included information on over 156,000 persons age 16 to 24 who received VR services, 
+including 31,000 SSI recipients. * 
+
+The RSA Longitudinal Study of the VR program supplements the 911 database by providing 
+detailed survey information on VR participants. The study follows 8,500 cases for three years 
+through surveys of a sample of VR office personnel and through longitudinal data collection 
+from and about VR applicants and consumers during and after their participation in VR. The 
+baseline population includes VR participants who applied for VR services between November 
+1994 and December 1996.
+
+The survey is collecting detailed demographic, disability, work history, and other information on 
+a sample of VR participants. The Research Triangle Institute is using these data for a special 
+study on the characteristics of transition-aged youth (age 16 to 24) who applying for and entering 
+VR. Specifically, the study is examining their entry patterns, movements from high-school 
+special education programs into VR, and access to the VR system through other programs. The 
+final report of the study is due in 2000, but the study respondents will continue to be followed for 
+an additional two years.
+
+The RSA data could be further enhanced if they were matched to SSA records on earnings and 
+program participation. While there are no plans to for such a match at this time, the RSA data 
+does include SSNs. *  As with the matched SIPP/SSA data, the major advantage of a matched 
+file of RSA/SSA is that it would contain information to examine long-term transitions by youth 
+with disabilities.
+
+2.	Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+The major advantage of the RSA 911 Database is that it provides information on the VR 
+experiences of large samples of youth and young adults who are transitioning from VR to work. 
+For example, researchers can use these data to examine transitions by SSI recipients into various 
+types of employment. *  
+
+The Longitudinal Study of the VR Service Program significantly enhances the usefulness of the 
+RSA data. Similar to the 911 Database, these data include a large sample of youth with 
+disabilities from a recent cohort. The Longitudinal Survey also provides longitudinal information 
+that researchers can use to examine longer-term transitions by various groups of youth with 
+disabilities. In addition, these data include significantly more information on background 
+characteristics, health status (and changes in health status), employment outcomes and factors 
+that influence employment outcomes than the 911 Database. 
+
+There are two limitations of Longitudinal Survey of the VR Service Program (and RSA 911 
+Database). First, these data only provide information on youth with disabilities who are VR 
+recipients. *  Second, these data only provide a relatively limited time frame to observe 
+transitions because they only track information up to the point that a person exits the program, 
+which is typically after two years. Hence, while these data might provide excellent information 
+on initial post-school outcomes, they will not provide information on long-term adult outcomes 
+(e.g., over 10 years after the youth leaves secondary school). 
+
+C.	Selected State Administrative Data Sources
+In Stapleton, et al. (1999), we reviewed several on-going state welfare reform evaluations that 
+used administrative data. For many states and some large localities, substantial effort was being 
+made to develop administrative databases to assist in these evaluations. In addition, some 
+evaluations were gathering survey information from the welfare population to obtain additional 
+information on characteristics of the state's welfare population, such as disability status. 
+We highlight the following most promising administrative databases summarized in Stapleton, et 
+al. (1999): * 
+- California Welfare Research Archive (CWR);
+- The Florida Education and Training Performance Information Program (FETPIP); and
+- Illinois Integrated Database on Children's Services (IDB).
+
+1.	California Welfare Research Archive (CWR)
+The University of California Data Archive and Technical Assistance (UC DATA) program at the 
+University of California – Berkeley, in collaboration with the California Department of Social 
+Services Research Branch, has developed and continues to maintain a welfare research archive. 
+The data archive was initially developed to help evaluate the California Work-Pays 
+Demonstration Project and to document the dynamics of family poverty and welfare use in 
+California. 
+
+As illustrated in Exhibit 4, the foundation of the data archive is the longitudinal database (LDB) 
+person file from the Medi-Cal Eligibility Data System (MEDS). The MEDS is a state-level data 
+system used and maintained by the California Department of Health Services to administer the 
+Medi-Cal program – California's Medicaid program. It includes data on all Medi-Cal recipients, 
+including demographic characteristics and program participation codes denoting over 80 Medi-
+Cal eligibility categories (e.g., Aid to Families with Dependent Children (AFDC)/TANF, foster 
+care, SSI/SSP, In-Home Supportive Services, medically needy cases, etc.). Each file contains 
+monthly eligibility information. The LDB person file enables researchers to track individual 
+eligibility status and program transitions . 
+
+Since 1987, the Department of Health Services has maintained person and case LDB files, each 
+containing a ten percent sample from the MEDS of their respective universes. *   UC DATA's 
+version of the LDB person file presently contains slightly more than 1 million observations. *  
+
+UC DATA has matched their version of the LDB file to the County Welfare Administrative 
+Database (CWAD), a file containing monthly eligibility and payment data on a sample of 
+AFDC/TANF cases from the administrative files of four counties: Alameda, Los Angeles, San 
+Bernardino, and San Joaquin. Initially, the CWAD contained 15,000 cases, but within the past 
+year, UC DATA expanded the sample to include 20,000 cases.
+
+Exhibit 4
+California Welfare Research Archive
+Source: UC DATA.
+
+[Exhibit 4 is a graph.  For more information refer to the PDF or print version or contact author]
+
+Every 18 months, UC DATA also matches the LDB-CWAD matched file to the Panel Survey 
+Database. The Panel Survey Database contains survey responses by approximately 2,000 
+AFDC/TANF recipients in the four counties per wave. The survey includes questions about 
+disabilities, household composition, education, access to health care, use of social services, and 
+labor market activities. UC DATA also has the ability to match quarterly earnings from the 
+Employment Development Department (EDD) Base Wage File to its Welfare Research Archive; 
+however, these data are somewhat more difficult to obtain than the data from the Welfare 
+Research Archive. * 
+
+2.	The Florida Education and Training Performance Information Program 
+(FETPIP)
+The Florida Education and Training Performance Information Program (FETPIP) is an 
+interagency data collection system maintained by the State's Department of Education that 
+collects "outcomes" data on Florida high school graduates and dropouts as well as those who exit 
+from a variety of other state programs and institutions, including:
+- vocational centers;
+- adult education and GED programs;
+- community colleges;
+- public 4-year colleges and universities;
+- Job Training Partnership Act programs;
+- Project Independence(JOBS)/WAGES program; and
+- state prisons.
+
+The FETPIP annual cycle collects outcome data for student or program participants who exited a 
+program or institution during the most recent fiscal year. For example, the 1998 cycle includes 
+participants/students who graduated or left programs between July 1, 1996 and June 30, 1997. 
+The outcome data collected for the 1998 cycle includes information on employment and 
+earnings, military enlistment, incarceration, receipt of AFDC/WAGES and/or food stamps, and 
+continuing education that occurred between October and December 1997. Each individual's 
+record in the annual database contains an individual's Social Security Number as well as 
+demographic and socio-economic data on the individual. Over the last few years, each annual 
+data file has contained approximately 2.5 million records. 
+
+One limitation of the FETPIP relative to some other administrative databases (e.g., California) is 
+that it does not generally follow individuals beyond the first year after they exit a program 
+because of the legal and political obstacles to tracking individuals over time. The FETPIP has, 
+however, conducted a series of longitudinal studies of specific groups, including: 1990-91, 1993-
+94, and 1995-96 high school graduates and dropouts and several cohorts of JTPA and Project 
+Independence (JOBS) exiters. Furthermore, the FETPIP does have the capability to incorporate 
+ad hoc research requests. 
+
+3.	Illinois Integrated Database on Children's Services (IDB)
+The IDB in Illinois contains longitudinal records on any child that was in contact with any of the 
+following state services: foster care, child abuse, special education, mental health, juvenile 
+justice, Medicaid, Food Stamps, and AFDC. 
+
+According to Goerge, et al. (1996), these data include program participation information on 
+youth with disabilities. *  They identify children with disabilities based on program 
+participation in special education, AABD, mental health services, or Medicaid (for those who 
+received reimbursed service for preventative, well-child care, and more serious inpatient 
+rehabilitative services). They used these data to identify service utilization and the characteristics 
+of children with disabilities in Illinois from 1990 to 1994. Based on their tabulations in 1994 
+alone, there were 277,689 children with disabilities in the IDB. 
+
+4.	Advantages and Limitations for Evaluating Transitions by Youth with Disabilities
+There are three advantages of state administrative data. First, these data provide information on 
+the experiences of large samples of youth with disabilities in a particular state. Hence, they 
+potentially offer the opportunity to study school-to-work transitions in these states, including the 
+opportunity to evaluate innovative programs and policies. *   Second, these data provide 
+detailed information on monthly program transitions over several periods. Some state databases 
+include information on work (through Unemployment Insurance records), special education, 
+AFDC/TANF participation, SSI, and job training. Third, some states, like California, are 
+collecting survey information on characteristics like disability that enhances the amount of 
+information available in the administrative data. 
+
+There are five limitations, however. First, unlike the surveys mentioned in the previous sections 
+that are available at little or no cost, most states enforce strict data restrictions that can make 
+obtaining the data costly. Second, data are unavailable on people who move outside the state. 
+Hence, in some databases it will be impossible to determine if a person transitioned out of a 
+particular program because they started working or moved out of the state. Third, in many 
+databases it is difficult to identify the background characteristics of the youth's family. For 
+example, data might be unavailable on family characteristics (e.g., education of parent) if this 
+information is not relevant to program eligibility. Fourth, because these data are collected for 
+administrative purposes, the data quality (e.g., missing values, missing observations) might be 
+limited for research. For example, some administrative data might not contain individual 
+characteristics (e.g., race, age, sex) because they are not necessarily important for administrative 
+purposes. Finally, unless survey data are available, researchers can only identify youth with 
+disabilities based on their program participation in certain programs such as special education or 
+SSI. 
+
+Appendix Exhibit 1:
+Survey of Income and Program Participation (SIPP)
+Agency
+The Census Bureau
+Sampling Frame
+- Representative sample of the non-institutionalized population.
+- Monthly data (approximately 32 months of information available in each panel).
+- Limited data on children under 15 years in 1990 and 1996.
+Sample Size
+Since 1990, the number of original SIPP sample members has varied from 40,800 (1991) to 
+61,900 (1990). 
+Program Participation
+Detailed program participation information is available for all adults in the family. Includes 
+information on SSI, Medicaid, TANF, Special Ed, Food Stamps, OASDI, child care, foster care, 
+WIC, school meals.
+Employment
+Monthly information is available on employment and earnings for those age 15 and older.
+Disability Information
+- Detailed functional limitation and disability questions for children, such as limitation to do 
+school work, are available for those under age 16 based on the responses of parents. 
+- Work limitation questions are available for those age 16 to 67. 
+- Adult (age 16 to 67) disability questions include information on work limitations, housework 
+limitations, Activities of Daily Living (ADLs), Instrumental Activities of Daily Living (IADLs) 
+and functional limitations. 
+- Respondents who have a limitation are asked follow-up questions about any specific health 
+conditions (e.g., Cerebral Palsy, learning disability).
+- Limited information regarding Special Education.
+- Matched SSA data are necessary to identify child SSI participation.
+Match to SSA Administrative Records
+- Restricted availability of matched data for 1984, 1990-1993 SIPP Panels.
+- lifetime SSI and DI participation for youth.
+- lifetime earnings records.
+
+Appendix Exhibit 2:
+Survey of Program Dynamics (SPD)
+Agency
+The Census Bureau
+Sampling Frame
+- Sample of households participating in 1992-93 SIPP panels. 
+- Oversampling of certain household groups based on income level and children in household.
+- Potentially 10 years of data available from 1992 to 2002 after merging with the 1992-93 SIPP 
+panels.
+- Limited data on children under 15 years in 1990 and 1996.
+Sample Size
+In 1997, there were approximately 75,000 sample members from 30,000 households. In 1998, 
+the sample was reduced to 17,500 households. 
+Program Participation
+Detailed program participation information is available for all adults in the family. Includes 
+information on SSI, Medicaid, TANF, Special Ed, Food Stamps, OASDI, child care, foster care, 
+WIC, and school meals.
+Employment
+Monthly information is available on employment and earnings for those age 15 and older.
+Disability Information
+- Work limitation questions are included in the 1997 Bridge Survey.
+- The SPD will also include topical module information on disability similar to that in the SIPP.
+Match to SSA Administrative Records
+- Availability restricted.
+- lifetime SSI and DI participation for youth.
+- lifetime earnings records.
+
+Appendix Exhibit 3:
+Panel Study of Income Dynamics
+Agency
+Institute for Social Research, University of Michigan
+Sampling Frame
+- Nationally representative sample of the non-institutionalized population.
+- Data collected on an annual basis since 1969.
+- Child Development Supplement in 1997.
+- Special Functional Limitations and Disability Supplement available in 1989.
+Sample Size
+- Approximately 5,000 households each year.
+Program Participation
+Detailed program information available for the family. Includes information on SSI, Medicaid, 
+TANF, Special Ed, Public health insurance, Head Start, child care, Food Stamps, WIC, foster 
+care, school meals, and LI HEAP.
+Employment
+Annual information on employment and earnings is available only for the "head" and "wife." 
+Disability Information
+- Questions about work limitations are available annually for "heads" and "wives." 
+- Detailed functional limitation and disability questions are only available for "heads" and 
+"wives" in the PSID household in 1989. *  
+- Detailed information on child disability status is available in the child supplement in 1997 for 
+those under age 12. 
+Match to SSA Administrative Records
+No
+
+Appendix Exhibit 4:
+Medical Expenditure Panel Survey (MEPS)
+Agency
+Agency for Health Care Policy and Research; National Center for Health Statistics
+Sampling Frame
+- Nationally representative sample of U.S. civilian non-institutionalized population.
+- Five rounds of data collection over a 2.5-year period, started in 1996. 1996 and 1997 MEPS 
+Panels are available.
+- 1997 MEPS includes an oversample of Children and adults with ADL limitations.
+- Ability to link 1996 MEPS Household Component to 1995 National Health Interview Survey 
+(NHIS).
+Sample Size
+1996 Panel: 10,597 households.
+1997 Panel: 6,300 households.
+Program Participation
+Information on participation in Medicaid, TANF, special education programs, early intervention 
+programs, and SSI.
+Employment
+There is detailed household employment status information available, including industry, wage 
+level, weekly number of hours, and current employment status.
+Disability Information
+- The MEPS provides detailed health status information for all household members. 
+- Linkage with the NHIS provides additional means of identifying disability information. 
+- Youth questions include information about limitations at school, functional limitations, and 
+ADLs.
+- Special Education and special service information is available.
+Match to SSA Administrative Records
+No 
+
+Appendix Exhibit 5:
+National Longitudinal Study of Adolescent Health (Add Health)
+Agency
+Carolina Population Center at the University of North Carolina at Chapel Hill
+Sampling Frame
+- Sample of students in grades 7 through 12 within 132 representative samples of junior high 
+schools and high schools.
+- Includes information from students, parents, and school administrators.
+- In-school survey in 1995, in-home interview in 1995, and follow up In-home interview in 1996.
+- Sample for in home interviews includes an oversample of students with limb disabilities (only 
+for 1995), certain minority (high education Blacks, Cubans, Puerto Ricans, and Chinese), and 
+genetic groups (twins, full-siblings, half-siblings or adoptees, etc).
+Sample Size
+- 90,118 students for in-school survey in 1995.
+- 20,745 students for in-home interview in 1995.
+- 14,738 students for in-home interview in 1996.
+Program Participation
+Social Security or Railroad Retirement, SSI, AFDC, food stamps, unemployment or worker's 
+compensations, a housing subsidy or public housing, Medicaid, and Medicare.
+Employment
+Information about employment and earnings.
+Disability Information
+There are three disability information sources: students, parents, and administrative records. 
+Student questions included information on:
+- Difficulties using their limb, have specific equipment, use brace or artificial hand, arm or foot 
+because of permanent physical condition (limb disability).
+-  Follow-up questions included information on the types of difficulties in performing certain 
+activities. 
+- Emotional and health feelings;
+Parents' questions include information on their child's:
+- Difficulties using hands, arms, feet, or legs (limb disabilities). 
+- Mental retardation or have learning disabilities. 
+Administrative records include information on Peabody Vocabulary Test Scores, an intelligence 
+test. 
+Other
+- Expectation of students for their college education.
+- Students' school grades.
+- Expectation of parents for their children's college education. Parental time expenditures for 
+children's school work.
+- Community characteristics (average income, poverty, health care facilities, etc.).
+Match to SSA Administrative Records
+No
+
+Appendix Exhibit 6:
+National Educational Longitudinal Study of 1988 (NELS:88)
+Agency
+Department of Education, National Center for Education Statistics
+Sampling Frame
+- Sample of eighth grade students from private and public schools.
+- Exclusion of students in special education school and in "ungraded" classrooms.
+- 6 years of data available from 1988 to 1994.
+Sample Size
+Approximately 24,000 students were first sampled in 1988. * 
+Program Participation
+Limited information on parental income sources (e.g., is family receiving welfare). Does not 
+include SSI participation as an outcome for the child. 
+Employment
+Follow-up interviews contain questions on work and earnings. 
+Disability Information
+There are four disability sources. Interviewers asked:
+- Teachers if the students' work had been affected by health and if the student had a disability;
+- Parents if the student had a disability and if the child received special services; 
+- Students about any special services; and  
+- School administrators about special services.
+Other* 
+Student Questionnaire: 
+- Family background items; interaction with parents regarding in- and out-of-school activities; 
+educational and occupational goals; perceptions about self and school; participation in classes 
+and activities; and self-reported grades. Four cognitive tests: reading, math, science, and 
+history/government. 
+Parent Questionnaire: 
+- Socio-demographic characteristics; participation in student course selection; long-range 
+educational planning; in- and out- of-school activities; establishing home discipline and 
+interaction with the school; family educational expenses; and sources of income for children's 
+education. 
+School Administrator Questionnaire: 
+- School characteristics: grade span; school type; enrollment and major program orientation; 
+policies and practices; admission procedures and tuition; grading; testing and minimum course 
+credits; gifted and talented programs; activities; and school climate. Student characteristics: 
+average daily attendance; migration; race/ethnicity; single parent households; limited English 
+proficiency classes; and special student services such as remedial classes and job- training. 
+Teaching staff characteristics: size; race/ethnicity; salary; degree; and percentage of language 
+assistance classes. 
+Teacher Questionnaire: 
+- Student information: personal characteristics; behavior; academic performance; attitudes; 
+problems and handicaps. Class information: homework assigned; use of instructional materials; 
+choice of textbook/workbook; curriculum; and topical coverage. Teacher information: sex; 
+race/ethnicity; age; experience; certification; degree; foreign language proficiency; in-service 
+education; classroom preparation; parent contact; perception of school climate; and experience 
+teaching gifted and talented children.  
+Match to SSA Administrative Records
+No
+
+Appendix Exhibit 7:
+High School and Beyond (HS&B)
+Agency
+Department of Education, National Center for Education Statistics (NCES)
+Sampling Frame
+- Nationally representative sample of secondary school sophomores and seniors.
+- 12 years of data available from 1980 to 1992.
+- Addition and deletions made to cohort in follow-up surveys.
+Sample Size
+- Base year: 30,000 sophomores and 28,000 seniors.
+Program Participation
+Some detailed program participation information is available for the individual. Includes 
+information on special education services.
+Employment
+Annual employment and earnings.
+Disability Information
+- Teachers responded on whether the students' work was affected by health and if the student had 
+a disability. 
+- Students responded whether they had a disability and if they had received any special services.  
+- School administrators provided information on special services. 
+- Results from cognitive tests are available.
+Match to SSA Administrative Records
+No
+
+Appendix Exhibit 8:
+Beginning Postsecondary Student Longitudinal Study (BPS)
+Agency
+Department of Education, National Center for Education Statistics
+Sampling Frame
+- Nationally representative sample of students in post-secondary education.
+- Data from 1990 through 1994.
+Employment
+Some information about jobs while enrolled in school and job placement services experiences. 
+Information on work experiences shortly after completing postsecondary education.
+Sample Size
+Approximately 7,000 respondents from the National Postsecondary Student Aid Study of 1993.
+Program Participation
+Job placement services and financial aid services for the participant.
+Family Variables
+Some family background information is available for all members of the BPS.
+Disability Information
+Self-reported disability information on impairments (e.g., visual, hearing, speech).
+Match to SSA Administrative Records
+No
+
+Appendix Exhibit 9:
+Baccalaureate and Beyond Longitudinal Study (BB)
+Agency
+Department of Education, National Center for Education Statistics
+Sampling Frame
+- Nationally representative sample of graduates from postsecondary education.
+- Potentially 12 years of data. (currently available: 1993- 1997).
+Work Experience
+Annual earnings and employment history for the participant.
+Sample Size
+Approximately 11,000 people from the National Postsecondary Student Aid Study of 1993.
+Program Participation
+Job placement services and financial aid services for the participant.
+Family Variables
+Some family background information is available for 8,000 members of the BPS.
+Disability Information
+Some self-reported disability information is available on specific impairments (e.g., hearing 
+difficulties). 
+Match to SSA Administrative Records
+No
+
+Appendix Exhibit 10:
+National Longitudinal Survey of Youth (NLSY79)
+Agency
+Department of Labor, Bureau of Labor Statistics
+Sampling Frame
+- Nationally representative sample of the non-institutionalized population.
+- 15 years of data available.
+- Blacks, Hispanics, and the economically disadvantaged (non-Black, non-Hispanic) were over-
+sampled.
+Work Experience
+Detailed labor market information including pay rates, hours worked, length of employment 
+periods, and earnings information for the participant.
+Sample Size
+- 12,686 people were in the original sample
+Program Participation
+Limited information on income sources. Includes information on payments received because of 
+disability. 
+Disability Information
+- During each survey, participants are asked whether they had a health condition that limited 
+labor market activity.
+- Information on specific conditions (e.g., learning disability) is available in the NLSY: Mothers 
+and Children and NLSY97. 
+Other
+- The survey includes detailed questions on educational attainment, training investments, income 
+and assets, health conditions, workplace injuries, insurance coverage, alcohol and substance 
+abuse, sexual activity, and marital and fertility histories.
+- NLSY79 includes an aptitude measure administered to the youth, a school survey, and high 
+school transcript information.
+- School achievement information is available.
+
+Match to SSA Administrative Records
+No
+
+Appendix Exhibit 11:
+National Longitudinal Survey of Youth: Mothers and Children (NLSY: Mothers and 
+Children)
+Agency
+Department of Labor, Bureau of Labor Statistics
+Sampling Frame
+Children who were born to NLSY Young Women.
+Work Experience
+Detailed labor market information including pay rates, hours worked, length of employment 
+periods, and earnings information for the participant.
+Sample Size
+- Approximately 6,000 children age 0 to 14 born to NLSY79 mothers.
+Program Participation
+Limited information on income sources. Includes information on payments received because of 
+disability. 
+Disability Information
+- During each survey, participants are asked whether they had a health condition that limited 
+labor market activity.
+- Information on specific conditions (e.g., learning disability) is available in the NLSY: Mothers 
+and Children and NLSY97. 
+Other
+- For children age 10 and older, information has been collected from the children biennially since 
+1988 on a variety of factors including child-parent interaction, attitudes toward schooling, dating 
+and friendship patterns, religious attendance, health, substance use, and home responsibilities. 
+Includes information about schooling, training, work experiences and expectations, health, 
+dating, fertility and marital histories, and household composition. 
+- A confidential supplement records their self-reports on such topics as parent-child conflict, 
+participation in delinquent or criminal activities, use of controlled and uncontrolled substances, 
+and their expectations for the future.
+Match to SSA Administrative Records
+No
+
+Appendix Exhibit 12:
+National Longitudinal Survey of Youth:1997 (NLSY97)
+Agency
+Department of Labor, Bureau of Labor Statistics
+Sampling Frame
+- Nationally representative sample of youth who were 12 to 16 years old as of December 31, 
+1996.
+- Oversamples of Blacks and Hispanics.
+Work Experience
+Detailed labor market information including pay rates, hours worked, length of employment 
+periods, and earnings information for the participant.
+Sample Size
+Approximately 8,700 children born between 1980 and 1984.
+Program Participation
+Limited information on income sources. Includes information on payments received because of 
+disability. 
+Disability Information
+- During each survey, participants are asked whether they had a health condition that limited 
+labor market activity.
+- Information on specific conditions (e.g., learning disability) is available in the NLSY: Mothers 
+and Children and NLSY97. 
+Other
+Information from the parent is obtained about the youth' family background and history, 
+including parents' marital and employment histories, relationship with spouse or partner, ethnic 
+and religious background, health (parents and child), household income and assets, participation 
+in government assistance programs, youth' early child-care arrangements, custody arrangement 
+for youth, and parent expectations about the youth.
+Match to SSA Administrative Records
+No
+
+Appendix Exhibit 13:
+National Longitudinal Transition Study (NLTS)
+Agency
+Department of Education, Office of Special Programs
+Sampling Frame
+- Nationally representative sample of youth age 15 to 21 in special education programs from over 
+300 school districts. 
+- Includes information from students, teachers, parents, and school administrative records.
+- Original interview started in 1987, with a follow-up interview in 1990. 
+- Includes an oversample of certain minority, low income, and low parental education groups.
+Sample Size
+Approximately 8,000 youths.
+Program Participation
+Detailed income sources available for the family (AFDC, SSI payments, earnings). Follow-up 
+information is available for whether the child received income from various sources, including 
+SSI. Information is also available on special education and vocational assistance services.
+Employment
+Youth employment and earnings information.
+Family Variables
+Some family background information (e.g., education of parents, number of siblings) is available 
+for all of the members of the NLTS.
+Disability Information
+There are four disability sources. Students, teachers, parents, school administrators each provide 
+subjective information on the severity of the students' disability. School records provide 
+information on specific conditions (e.g., learning disabled, deaf). Data is also available on IQ 
+scores.   
+Other
+- Special school indicators - youth school progress (teacher reports, grades) and absenteeism.
+- Teenage pregnancy. 
+- Information on special education programs and life skill classes. 
+- Training/shelter workshop participation.
+- Parent's expectations.
+Match to SSA Administrative Records
+No
+
+Appendix Exhibit 14:
+National Longitudinal Transition Study- 2 (NLTS-2)
+Agency
+Department of Education, Office of Special Education Programs (OSEP)
+Sampling Frame
+- Nationally representative sample students receiving special education who are ages 13 through 
+17 and in at least 7th grade in Fall 2000. 
+- A ten-year effort that involves three main collection components: Parent/Youth telephone 
+interviews; Direct assessments and in-person interviews; and school data collection.
+Sample Size
+Approximately 13,000 students are selected from 500 LEAs and state-operated schools that 
+represent variation in geographic region, district size, and district wealth.
+Program Participation
+Detailed income sources available for the family (AFDC, SSI payments, earnings). Follow-up 
+information is available for whether the child received income from various sources, including 
+SSI. Information is also available on special education and vocational assistance services, as well 
+as adult program participation once the student leaves school.
+Employment
+Post-school employment outcomes.
+Disability Information
+- Age when disability was first identified.
+- Disability category assigned by LEA and changes over time.
+Other
+- Special school indicators - youth school progress (teacher reports, grades) and absenteeism.
+- Teenage pregnancy. 
+- Information on special education programs and life skill classes. 
+- Training/shelter workshop participation.
+Match to SSA Administrative Records
+No
+
+Appendix Exhibit 15:
+School-to-Work Transition Study of Deaf Youth 
+Agency
+Gallaudet University, Center Assessment and Demographic Studies
+Sampling Frame
+- Nationally representative sample of deaf youth (age 16 to 22) who participated in special 
+education programs.
+Sample Size
+Approximately 6500 youth (age 16 to 22).
+Program Participation
+Includes information about special education program participation.
+Employment
+Some employment and earnings information is available in follow-up interviews.
+Disability Information
+Detailed information on the students' hearing disability. The survey includes some information 
+about physical limitations. 
+Match to SSA Administrative Records
+No
+
+Appendix Exhibit 16:
+University of California Data Archive and Technical Assistance (UC DATA) - 
+County Welfare Administrative Database (CWAD)
+Agency
+University of California - Berkeley; California Department of Social Services Research Branch
+Sampling Frame
+- Sample of AFDC/TANF cases from four counties: Alameda, Los Angeles, San Bernardino, and 
+San Joaquin.
+- Data since 1992.
+- Monthly eligibility and payment information.
+- Additional match to Panel Survey Database with over 400 questions answered by around 2,000 
+AFDC/TANF recipients.
+
+Sample Size
+20,000 cases since 1998 (sample size varies by year).
+Program Participation
+Detailed program participation information for individual and household. Includes information 
+on AFDC/TANF, foster care, SSI/SSP, in-home support services, etc.
+Employment
+Panel Survey Database has labor market activity questions. Match available to Employment 
+Development Department Base Wage File which includes quarterly wage payments.
+Disability Information
+Panel Survey Database includes disability information. In addition, longitudinal database has 
+information on eligibility for social service programs for disabled.
+Match to SSA Administrative Records
+Data contains Social Security Numbers. SSA has not attempted to match these records to their 
+administrative records. 
+
+Appendix Exhibit 17:
+Florida Education and Training Performance Information Program (FETPIP)
+Agency
+Florida Department of Education
+Sampling Frame
+- 3 cohorts (90-91, 93-94, and 95-96) of high school graduates and several cohorts of JTPA and 
+Project Independence (JOBS) exiters.
+Sample Size
+Contains 2.5 million records.
+Program Participation
+Includes information about AFDC/WAGES, food stamps, and job training programs.
+Employment
+Employment and earnings information is collected.
+Disability Information
+Monthly files include information on whether the program participant reported a disability. 
+Match to SSA Administrative Records
+Data contains Social Security Numbers. SSA has not attempted to match these records to their 
+administrative records.
+
+Appendix Exhibit 18:
+Rehabilitation Services Administration (RSA) 911 Database and Longitudinal Study of the 
+Vocational Rehabilitation
+Agency
+Rehabilitation Services Administration 
+Sampling Frame
+911 Database:
+- Contains information for all persons exiting the VR program during each fiscal year.
+RSA Longitudinal Study of VR:
+- Follows 8,500 cases for three years through surveys of a sample of VR office personnel, and 
+through longitudinal data collection from and about CR applicants and consumers during and 
+after their participation in VR.
+Sample Size
+911 Database:
+- 31,000 SSI recipients aged 16 to 24 (1996).
+RSA Longitudinal Study of VR:
+- 8,500 VR participants who applied for VR services between 11/1994 and 12/1996.
+Program Participation
+SSI, Vocation Rehabilitation.
+Employment
+Work history information, employment outcomes.
+Disability Information
+Specific health conditions.
+Match to SSA Administrative Records
+Yes
+
+Bibliography
+
+Allen, T., Rawlings, B., Schildroth, A., and Lam, K. (1999). "School to Work Transition Survey 
+of Deaf Youth, 1986-1992." The Research Archive on Disability in the U.S. (RADIUS), 
+1999 Edition. http://www.socio.com/srch/summary/radius/rad14.htm.
+
+Berry, H., Price-Ellingstad, D., Halloran, W., & Finch, T. (2000). "Supplemental Security 
+Income and vocational rehabilitation: Early work experiences among transition-age 
+individuals with disabilities." Journal of Disability Policy Studies, 10, 2, pp. 150-165.
+
+Blackorby, J., and Wagner, M. (1996). "Longitudinal Post-school Outcomes of Youth with 
+Disabilities: Findings from the National Longitudinal Transition Study." Exceptional 
+Children, 62(5), 399-413.
+
+Burkhauser, R. and Wittenburg, D. (1996). "How Current Disability Transfer Policies 
+Discourage Work: Analysis from the 1990 SIPP," Journal of Vocational Rehabilitation, 
+7, pp. 9-27.
+
+Conwal, Inc (1999). Summary of Data on Young People with Disabilities in the United States. 
+Report submitted to the National Institute on Disability and Rehabilitation Research and 
+Social Security Administration. 
+
+Fishman, M. and V. Allen (1999). Rehabilitation Research and Training Center for Economic 
+Research on Employment Policy for People with Disabilities: Framing the Research 
+Issues. Draft Report. 
+
+Gardecki, R and Neumark, D. (1998). "Order from Chaos? The Effects of Early Labor Market 
+Experiences on Adult Labor Market Outcomes," Industrial and Labor Relations Review, 
+51(2), pp. 299-322.
+
+Geenen, K., Thurlow, M., and Ysseldyke, J. (1995). A Disability Perspective on Five Years of 
+Education Reform. NCEO Synthesis Report 22. 
+
+http://www.coled.umn.edu/nceo/onlinepubs/synthesis22.html.
+
+Goerge, R., Mackey-Bilaver, L., Joo Lee, B., Koepke, D., and Harris, A. (1996). Service 
+Utilization and the Individual, Family and Neighborhood Characteristics of Children 
+with Disabilities in Illinois. Final Report to the Office of the Assistant Secretary for 
+Planning and Evaluation, September 30, 1996.
+
+Hall, P. and Finkelstein, J. (1999). "What is the Child Development Supplement." The Child 
+Development Supplement to the Panel Study of Income Dynamics. 
+http://www.isr.umich.edu/src/child-development/home.html.
+
+Horn, L. and Bobbitt, L. (1999). Students with Disabilities in Postsecondary Education: A 
+Profile of Preparation, Participation, and Outcomes/ Statistical Analysis Report for the 
+National Center for Education Statistics. 
+
+Huggins, V. and King, K. (1998). "The Survey of Program Dynamics: Sample Design, 
+Weighting and Attrition Issues." 1998 ASA Proceedings Section on Survey Research 
+Methods.
+
+Keane, M. and Wolpin, K. (1997). "The Career Decisions of Young Men," Journal of Political 
+Economy, 105(3), pp. 473-522.
+
+Kruse, D. (1997). Employment and Disability: Characteristics of Employed and Non-Employed 
+People with Disabilities. Report to the U.S. Department of Labor.
+
+Monks, J. (1997). "The Impact of College Timing on Earnings," Economics of Education 
+Review, 16(4), pp. 419-23.
+
+National Opinion Research Center (1996). Sample Exclusion in NELS:88: Characteristics of 
+Base Year Ineligible Students. Technical Report submitted to U.S. Department of 
+Education.
+
+Pergamit, M. (1995). "Assessing school-to-work transitions in the United States," Statistical 
+Journal of the United Nations, 12(3-4), pp. 271-288.
+
+RAND (1998). Data Sources to Evaluate the Effect of the Welfare Reform Legislation on 
+Disabled Children. Report submitted to the Social Security Administration. 
+
+Rojewski, J. (1996). "Educational and Occupational Aspirations of High School Seniors with 
+Learning Disabilities." Exceptional Children, 62(5), pp. 463-477.
+
+Rossi, R., Herting, J., and Wolman, J. (1997). Profiles of Students with Disabilities as Identified 
+in NELS:88. NELS Statistical Analysis Report, June 1997.
+
+SRI International (2000). The National Longitudinal Transition Study-2, 
+http://www.sri.com/NLTS-2.
+
+SRI International (1999). The National Longitudinal Transition Study: A Summary of Findings. 
+http://www.sri.com/policy/cehs/nlts/nltssum.html.
+
+SRI International (1993). What Makes a Difference? Influence on Post-school Outcomes of 
+Youth with Disabilities, Report for the Office of Special Education Programs, December.
+
+Stapleton, D., M. Fishman, G. Livermore, D. Wittenburg, A. Tucker, and S. Scrivner (1999). 
+Policy Evaluation of the Overall Effects of Welfare Reform on SSA Programs. Report 
+submitted to Social Security Administration.
+
+Stapleton, D., D. Wittenburg, M. Fishman, and G. Livermore (2000). "Transitions from AFDC to 
+SSI Prior to Welfare Reform," working paper. 
+
+U.S. Department of Commerce (1994). Source and Accuracy Statement for the 1993 Public Use 
+Files from the Survey of Income and Program Participation, Memorandum for Marshal 
+L. Turner from Preston Jay Waite.
+
+Wagner, M. and Blackorby, J., (1996). "Transition from High School to Work or College: How 
+Special Education Students Fare." Special Education for Students With Disabilities, 6(1), 
+pp.103-120.
+
+Yates, J. (1999). "NLSY79 Children." http://stats.bls.gov/nlsy79ch.htm
+
+Zagorsky, J. L. (1999). "Health and the Working Poor," Eastern Economic Journal, 25, 169-189
+  This paper is the first in a series of papers on school-to-work transitions for our Rehabilitation Research and 
+Training Center (RRTC) funded by the National Institute on Disability and Rehabilitation Research (NIDRR). 
+Fishman (1999) provides an overview of the questions that we will address in these papers, as well as in other 
+research projects. 
+  Researchers refer to this more formally as the process of human capital accumulation. 
+  Some cross-sectional data sources contain retrospective history that we could use to generate multi-period 
+information. We did not find, however, a cross-sectional data source with multi-period information that satisfied our 
+other selection criteria. 
+  Another major source of administrative data that we do not provide a separate review for is Social Security 
+Administrative records on Supplemental Security Income participation, Disability Insurance participation, and 
+earnings. We do have, however, a detailed discussion on the advantages of using these records in the context of our 
+summary of other data sources that have been linked to SSA data, such as the SIPP.  
+  The NHIS-D is a follow-up to the NHIS. The NHIS, however, only includes one period of information on school 
+and employment outcomes. As will be discussed below, the NHIS-D can be linked to the Medical Expenditure Panel 
+Survey (MEPS).
+  While PEQIS contains excellent institutional information on postsecondary education enrollment, it does not 
+contain individual level information to track transitional outcomes of youth with disabilities.
+  The Baccalaureate and Beyond (BB:93) Survey (summarized in Section IV) represents a more recent release of 
+this survey. 
+  For example, the Beginning Postsecondary Student Longitudinal Study (BPS) only follows students who enroll in 
+post-secondary education. Based on findings from Wagner et al. (1996), this sample only represents a relatively 
+small portion of youth with disabilities in special education programs.
+  Planned attrition occurs when only a subsample of the base population from the first interview is included in the 
+follow-up interview. Unplanned attrition occurs when interviewers cannot conduct a follow-up interview with a base 
+sample member. With the exception of the Survey of Program Dynamics, we do not find that any of the reviewed 
+data sources had significant enough attrition biases to deter selection.
+  We list the data sources in order according to those that will be of most use for current research related to our five 
+research questions.
+  The SIPP, however, is somewhat limited if researchers can not obtain restricted research files that are matched to 
+SSA earnings and program participation files. 
+  We discuss the advantages and limitations of using administrative data from various states primarily because they 
+are generally similar (see Section VI for more details). 
+  A review of these studies will be available in our upcoming literature review. 
+  We discuss the advantages and limitations of using administrative data from various states 
+(see Section V for more details). 
+  Researchers can use matched records from the SIPP and Social Security Administration records on earnings and 
+program participation to address this issue. 
+  The RSA 911 Database (without the Longitudinal Study) could also be used to address some of these research 
+questions, though the information in the Longitudinal Study significantly enhances the 911 Database. 
+  Previous matches exist of RSA/SSA data in the early eighties.
+  Several researchers have already used the NLTS to evaluate postschool transitions (SRI International, 1993; 
+Blackorby and Wagner, 1996; Wagner and Blackorby, 1996).
+  Further disability assessments could be made based on survey information provided by students, parents, teachers, 
+and school administrators (e.g., specific health conditions, difficulties with certain activities).
+  The 1992 and 1993 SIPP panels include longitudinal information over a 40 and 36 month period, respectively. 
+The 1996 panel includes a 60-month interview period. 
+  Using multiple SIPP panels can further increase the samples from each individual SIPP panel. The SIPP is 
+designed to produce nationally representative results from overlapping panels by making a weight adjustment to 
+each panel (see U.S. Department of Commerce, 1994 for more details).
+  SSA and the Census created restricted research files in which they matched multiple years of SSA administrative 
+records to the 1984, 1990, 1991, 1992, and 1993 SIPP panels. SSA also plans to link administrative records to the 
+1996 SIPP panel when it becomes available.
+  The Census collects information on SSNs during the SIPP interviews. As part of the ongoing SIPP program, the 
+Bureau of the Census and SSA validate SSNs for SIPP sample members in the course of normal survey operations. 
+An attempt is also made to locate SSNs for persons for whom an SSN is not reported in the survey (except for 
+persons refusing to provide their SSN). According to Lahiri, Vaughan, and Wixon (1997), in the 1990 panel this 
+process resulted in a "validated" SSN for approximately 90 percent of original sample members age 18 or older and 
+for about 80 percent of persons under the age of 18.
+  The sample size in the 1991 SIPP panel is smaller because of the smaller initial sample. We could generate a 
+sample size of approximately 2,300 observations if we pool data from the 1990-93 SIPP panels.
+  For those under age 16, parents answer questions on the functional limitations and disabilities for their children. 
+Stapleton, et al. (1999) noted that these responses likely underreport the total number of children with disabilities in 
+the general population. 
+  For example, we could not use these data to determine what impact participating in SSI at, say, age 15 has on 
+employment and program participation decisions at, say, age 30.
+  Hence, researchers could not use these data to address research questions 1 and 2.
+  Individuals who completed both the first and last wave of the 1992 and 1993 SIPP panels are included in the SPD 
+target sample.
+  The first sample in the 1992 SIPP panel was interviewed in February of 1992.
+  The annual questions in the Bridge Survey are modeled after those in the Current Population Survey. 
+  The PSID has periodically added "refresher samples" to increase sample size.
+ Specifically, it includes the following information: "(i) reliable, age graded assessments of the cognitive, 
+behavioral, and health status of 3,563 children obtained from the mother, a second caregiver, an absent parent, the 
+teacher, the school administrator, and the child; (ii) a comprehensive accounting of parental and caregiver time 
+inputs to children as well as other aspects of the way children and adolescents spend their time; (iii) teacher-reported 
+time use in elementary and preschool programs; and (iv) other-than-time use measures of other resources for 
+example, the learning environment in the home, teacher and administrator reports of school resources, and 
+decennial-census-based measurement of neighborhood resources" (Hall and Finkelstein, 1999). 
+  For example, there are no health status indicators for youth.
+ This difference becomes even larger if multiple SIPP panels are "pooled."
+  NCES organizes these surveys under its longitudinal program to provide on-going descriptive information on 
+educational performance, functional abilities, background, and employment outcomes. This program requires 
+periodic examination of educational and occupational attainment, aspirations, attitudes, and motivations during the 
+pivotal years before, during, and after elementary school, middle-junior high school, high school, and postsecondary 
+education.
+  The NCES organizes these surveys under its postsecondary education level program to provide statistical 
+information on a multitude of issues (e.g., financial aid, postsecondary characteristics). The base sample for both of 
+these data sets is the National Postsecondary Aid Study (NPSAS), a comprehensive nationwide study of students 
+enrolled in less than 2-year institutions, community and junior colleges, 4-year colleges, and major universities 
+located in the United States and Puerto Rico. Undergraduate, graduate, and first-professional students who receive 
+financial aid, as well as those who do not receive aid, participate in NPSAS. The NCES conducts the NPSAS every 
+three years on a new cohort of students. 
+  For Wave 1, 90,118 students completed the Adolescent In-School Questionnaires from October 1994 through 
+April 1995. Between April and December 1995, 20,745 students completed the Wave I Adolescent In-Home 
+Interviews. The Parent In-Home Questionnaires were administered to parents while their children were taking the 
+Wave I Adolescent In-Home Interviews.  In most cases, the mother of the student filled out the parent questionnaire. 
+The Wave I School Administrator Questionnaires were completed between August 1994 and June 1995. 
+The Wave II Adolescent In-Home Interviews were administered from April through August 1996 to 14,738 students 
+who had completed the Wave I Adolescent In-Home Interviews. The Wave II School Administrator Questionnaires 
+were administered by telephone interview in June 1996.
+  There is some concern that these tests are misleading for children who speak English as a second language. 
+  Assumes that approximately 10% of the 10,000 original sample members will have a disability. This is likely an 
+upper bound on the number of youth with disabilities. Nonetheless, the sample size is sufficiently large.
+  Rossi, et al. noted that teachers are more likely to classify students as disabled when the disability affects the 
+student's schoolwork. Geenen (1995) hypothesized that parents were less likely to identify their child as "disabled" 
+if s/he had a learning or emotional disability, but more likely to identify their child as "disabled" if s/he had a 
+physical impairment. Rojewski (1996) noted that school officials also operate under set legal definitions for 
+including a student in a special education program.
+  In 1982, the sample size was 30,000 base-year sophomores and 12,000 base-year seniors. In 1984, the sample size 
+was 15,000 base-year sophomores and 12,000 base-year seniors. In 1986, the sample size remained largely 
+unchanged from 1984. In 1992, the sample size included only 4,000 of the base-year sophomores.
+  These disability questions are not included in the follow-up interviews, however.
+  Our estimate of disability incidence among youth is based on findings from Rossi et al. (1997) using NELS:88. 
+They find that approximately 10% of students sampled by NELS:88 have a limitation. 
+  Researchers have found that the NLSY79 has been able to maintain an excellent retention rate throughout the 
+survey (see Pergamit, 1995 for more details).
+  Assumes that approximately 10% of the 12,686 original sample members have a disability. This is likely an upper 
+bound on the number of youth with disabilities. Nonetheless, the sample size is sufficiently large. 
+  SRI International (1993) used these data to identify the effects of certain factors, such as disability status and time 
+elapsed since leaving school, on post-school outcomes, such as employment and independent living. Blackorby and 
+Wagner (1996) used the NLTS to examine how some of these post-school outcomes changed over time. Wagner and 
+Blackorby (1996) used the NLTS to examine transitions by special education students from high school-to-work or 
+college. Researchers could use the results from these studies as a benchmark for other school-to-work evaluations 
+for youth with disabilities.
+  For more information, see SRI (1999) The National Longitudinal Transition Study: A Summary of Findings. 
+http://www.sri.com/policy/cehs/nlts/nltssum.html. 
+
+  The design task order for NLTS-2 is in effect from October 1999 through March 2001 and accomplishes several 
+major formative activities related to this study: 1) the development of a conceptual framework; 2) the sample plan; 
+3) the drawing and solicitation of the local education agency (LEA) sample; 4) the drawing of the student sample; 5) 
+the data collection plan; 6) instrument development; 7) OMB clearance; and 8) the analysis plan
+  Hugh Berry provided this estimate during an informal communication.
+  Previous matches exist of RSA/SSA data in the early eighties.
+  The Department of Education is currently examining this issue. For more details, see Berry, et al. (2000). 
+  This might not be a major drawback, because many youth with disabilities (e.g., those in the SSI and Special 
+education programs) receive these services.
+  While we have selected these databases for review, there are several other potential state administrative databases 
+in other states, such as Arizona, New York, and Connecticut, that could be used in a school-to-work analysis. 
+Geenen, et al. (1995) also reviewed administrative data sets in Connecticut, Louisiana, and New York that collected 
+information on students with disabilities. 
+  The 10 percent person and 10 percent case samples are separate, non-overlapping samples.
+  The somewhat smaller figures in the diagram are out of date.
+  The EDD Base Wage File contains employer-reported quarterly taxable wage payments of California 
+Unemployment Insurance and Disability Insurance covered employment.
+  In their report, Goerge, et al. did not have access to records on SSI receipt. As a proxy for SSI receipt, they use 
+records for individuals who received Assistance for the Aged, Blind and Disability programs (AABD) from 1990 to 
+1994. They find that AABD is an excellent proxy for SSI receipt based on administrative records. 
+  For example, in Stapleton, et al. (1999) we found that several states recently implemented state welfare reform 
+policies that had eligibility and training provisions that directly targeted people with disabilities.
+  Since 1980, the annual PSID has included basic work limitation questions for "heads" and "wives." The 1989 
+PSID contains a special disability supplement that provides information on detailed functional limitations and 
+disability characteristics (e.g., difficulties with Activities of Daily Living) for "heads" and "wives."
+  The original sample size was 26,432; however, this size varies in each wave due to dropouts, transfers, and 
+ineligible subjects.
+  Information is available from the U.S. Department of Education's internet address at: 
+http://www.ed.gov/pubs/ncesprograms/longitudinal/surveys/nels-88.html.
+

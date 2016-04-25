@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Declining Effects of OSHA Inspections on Manufacturing Injuries, 1979 to 1998</title>
+<publication-date>2005-07-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<institution>Clark University</institution>
+<lname>Gray</lname>
+<fname>Wayne</fname>
+<mname>B</mname>
+</author>
+<author>
+<institution>University of Pittsburgh</institution>
+<lname>Mendeloff</lname>
+<fname>John</fname>
+<mname>M</mname>
+</author>
+</authors>
+<keywords>
+<keyword>OSHA inspections</keyword>
+<keyword>manufacturing injuries</keyword>
+<keyword>work injuries</keyword>
+<keyword>lost-workday injuries</keyword>
+</keywords>
+<abstract>&lt;p&gt;This study examines the impact of OSHA inspections on injuries in manufacturing plants. The authors use the same model and some of the same plant-level data employed by several earlier studies that found large effects of OSHA inspections on injuries for 1979–85. These new estimates indicate that an OSHA inspection imposing a penalty reduced lost-workday injuries by about 19% in 1979–85, but that this effect fell to 11% in 1987–91, and to a statistically insignificant 1% in 1992–98. The authors cannot fully explain this overall decline, which they find for nearly all subgroups they examine—by inspection type, establishment size, and industry, for example. Among other findings are that, across the years studied, inspections with penalties were more effective than those without, and the effects on injury rates were greater in smaller plants and nonunion plants than in large plants and union plants.&lt;/p&gt;</abstract>
+<coverpage-url>http://digitalcommons.ilr.cornell.edu/ilrreview/vol58/iss4/3</coverpage-url>
+<fulltext-url>http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1140&amp;amp;context=ilrreview&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1140</articleid>
+<submission-date>2005-07-13T11:18:03-07:00</submission-date>
+<publication-title>ILR Review</publication-title>
+<context-key>83227</context-key>
+<submission-path>ilrreview/vol58/iss4/3</submission-path>
+<fields>
+<field name="acknowledgements" type="string">
+<value>The authors thank three agencies for financial help:  the National Institute of Occupational Safety and Health (R01-OH03895-03) for supporting this analysis and the creation of the 1992–98 data set; the National Science Foundation (SES-8420920) for supporting creation of the 1979–85 data; and the Bureau of Labor Statistics (research contract J-9-J-5-0085) for supporting creation of the 1987–91 data.  They also thank John Ruser, John Scholz, and David Weil for valuable comments on an earlier draft of this manuscript, Joseph DuBois for his help in working with the OSHA data, and Nichola Thomson for research assistance.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-07-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

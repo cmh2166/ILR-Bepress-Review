@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Human Resource Management and Organizational Performance:  Evidence from Retail Banking</title>
+<publication-date>2004-01-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<institution>Columbia Business School</institution>
+<lname>Bartel</lname>
+<fname>Ann</fname>
+<mname>P</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Studies of the relationship between human resource management and establishment performance have heretofore focused on the manufacturing sector. Using a unique longitudinal dataset collected through site visits to branch operations of a large bank, the author extends that research to the service sector. Because branch managers had considerable discretion in managing their operations and employees, the HRM environment could vary greatly across branches and over time. Site visits provided specific examples of managerial practices that affected branch performance. An analysis of responses to the bank’s employee attitude survey that controls for unobserved branch and manager characteristics shows a positive relationship between branch performance and employees’ satisfaction with the quality of performance evaluation, feedback, and recognition at the branch—the “incentives” dimension of a highperformance work system. In some fixed effects specifications, satisfaction with the quality of communications at the branch was also important.&lt;/p&gt;</abstract>
+<coverpage-url>http://digitalcommons.ilr.cornell.edu/ilrreview/vol57/iss2/2</coverpage-url>
+<fulltext-url>http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1056&amp;amp;context=ilrreview&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1056</articleid>
+<submission-date>2005-07-11T11:58:31-07:00</submission-date>
+<publication-title>ILR Review</publication-title>
+<context-key>82909</context-key>
+<submission-path>ilrreview/vol57/iss2/2</submission-path>
+<fields>
+<field name="acknowledgements" type="string">
+<value>Funding for this paper was received from the Alfred P. Sloan Foundation via a grant to the Industrial Technology and Productivity Project of the National Bureau of Economic Research.  The author gratefully acknowledges helpful comments and suggestions received from seminar participants at the Columbia Business School Finance Free Lunch, the NBER Summer Institute, and CIRANO.  Sincere thanks to Adriana Lleras-Muney for excellent research assistance on this project.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

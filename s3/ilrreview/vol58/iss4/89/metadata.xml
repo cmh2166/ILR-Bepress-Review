@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Personnel Economics</title>
+<publication-date>2005-07-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Lazear</lname>
+<fname>Edward</fname>
+<mname>P</mname>
+</author>
+<author>
+<lname>McNabb</lname>
+<fname>Robert</fname>
+</author>
+</authors>
+<coverpage-url>http://digitalcommons.ilr.cornell.edu/ilrreview/vol58/iss4/89</coverpage-url>
+<fulltext-url>http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1173&amp;amp;context=ilrreview&amp;amp;unstamped=1</fulltext-url>
+<label>89</label>
+<document-type>bookreview</document-type>
+<type>article</type>
+<articleid>1173</articleid>
+<submission-date>2005-07-15T09:49:28-07:00</submission-date>
+<publication-title>ILR Review</publication-title>
+<context-key>83514</context-key>
+<submission-path>ilrreview/vol58/iss4/89</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-07-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

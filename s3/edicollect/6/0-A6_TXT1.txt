@@ -1,0 +1,108 @@
+Working Effectively with Individuals who are HIV-Positive
+
+
+Are HIV-Positive Persons or Those Diagnosed with AIDS Considered to Have a Disability?
+
+Maybe.  Those who are known or perceived to be infected with the human immunodeficiency virus (HIV) may meet the definition of disability under the Americans with Disabilities Act of 1990 (ADA).  The ADA's legislative history indicated that Congress intended that HIV be covered as a disability, and the U.S. Equal Employment Opportunity Commission (EEOC) has consistently taken the position that HIV infection (including asymptomatic HIV) is inherently substantially limiting.  In Bragdon v. Abbot, the Supreme Court  addressed the issue,  holding that an individual  with asymptomatic HIV had a disability because she was substantially limited in the major life activity of reproduction.  The Supreme Court also has made clear in other ADA cases that whether an individual is protected must be made on a case-by-case basis.  Whether an individual with HIV or AIDS is protected thus may depend on whether s/he would be able to assert that s/he in fact is limited in the major life activity of reproduction.    The ADA's protections against disability discrimination also extend to caregivers and others who have a relationship or association with a person who has HIV infection.
+
+What Can an Employer Ask About the Medical Condition of an HIV-Positive Person?
+
+Prior to making a job offer, employers may not ask job applicants about the existence, nature, or severity of a disability.  Nor can an employer require any applicant to undergo a medical examination.  Thus, an employer cannot ask applicants if they have HIV infection, AIDS, or any opportunistic infection associated with AIDS.  Nor can an employer require any applicant to take an HIV antibody test because that is a medical examination.  However, applicants may be asked about their ability to perform specific job functions.  
+
+The ADA allows an employer to ask individuals whether they have HIV infection or AIDS only after the employer has extended a conditional offer of employment.  However, questions must be asked of all individuals entering a job category, not just an individual suspected of HIV infection.  If a conditional job offer is withdrawn because of the results of such examination or inquiry, an employer must be able to show that:
+* the reasons for the exclusion are job-related and consistent with business necessity; and 
+* there is no reasonable accommodation that will enable this individual to perform the essential functions; or 
+* that any reasonable accommodation will impose an undue hardship.
+
+A post-offer medical exam may disqualify  a person on the basis that he or she poses a direct threat to the health and safety of employees or others in the workplace. Direct threat meets the "job-related and consistent with business necessity" standard.  But the employer must first determine that there is no reasonable accommodation that will reduce or eliminate the direct threat.
+
+Information that an individual has HIV infection will rarely justify withdrawal of a job offer.  In many cases, HIV infection and AIDS will not interfere with the individual's ability to perform essential job functions.  Moreover, the individual is entitled to a reasonable accommodation to permit performance of essential job functions.  Since merely because an individual has HIV infection almost never justifies revoking a job offer, employers may want to consider whether it is advisable to make such inquiries.  Similarly, employers may not want to conduct HIV testing because the results alone will not justify revocation of a job offer. Once an employer obtains such information, it must be kept confidential and the employer could be held liable if there is any breach of confidentiality.
+
+Asking current employees whether they have HIV infection or AIDS, or requiring employees to take an HIV antibody test, will rarely be permissible under the ADA, unless the employer can show that such inquiries or testing is job-related and consistent with the employer's business necessity.  
+
+What is Reasonable Accommodation?
+
+The critical concept in the employment provisions (Title I) of the Americans with Disabilities Act of 1990 (ADA) is that of  "reasonable  accommodation."  Reasonable accommodation is any modification or adjustment to a job, an employment practice, or the work environment that makes it possible for a qualified individual with a disability to participate in and enjoy an equal employment opportunity.  The employer's obligation to provide a reasonable accommodation applies to all aspects of employment, beginning with the application process; the duty is ongoing and may arise any time a person's disability or job changes.  An employer is not required to provide an accommodation that will impose an undue hardship on the operation of the employer's business.  However, an employment opportunity cannot be denied to a qualified applicant or employee solely because of the need to provide reasonable accommodation.
+
+If the cost of the accommodation would impose an undue hardship on the employer, the employer should determine if financial or technical assistance is available elsewhere, or the individual with a disability should be given the option of paying that portion of the cost that constitutes an undue hardship for the employer.
+
+Since estimates show as many as 1 in 250 Americans is infected with HIV, accommodation in the workplace for infected individuals who can continue to work makes economic, as well as common sense.  Since these individuals' presence in the workplace poses no threat of transmission, their experience on the job is an asset to be retained.  In addition, even those HIV-infected individuals who develop full-blown AIDS are able to remain productive members of the workforce for extended periods.  These working years are increasing due to new treatments being introduced for HIV infection.  
+
+What Types of Accommodations Should be Considered for HIV- Positive Employees?
+
+It is helpful if employers have established policies on non-discrimination for persons with life-threatening illnesses.  These policies should emphasize that employees with illnesses such as cancer, AIDS, and heart disease may wish and be able to work a regular or modified work schedule.  Most people infected with HIV do not show any symptoms of disease for many years after infection.  
+
+If the HIV-positive employee eventually becomes unable to perform essential job functions, the employer must consider whether reasonable accommodation will permit him/her to perform these functions.
+
+Examples include:
+* time to allow for medical appointments, treatment, and counseling;
+* auxiliary aids and services, for example, large print for someone with AIDS who has developed a vision impairment; and
+* additional unpaid leave. 
+
+Which Employee Records Require Confidential Handling?
+
+As previously mentioned, the ADA imposes very strict limitations on the use of information obtained from medical inquiries and examinations, including information relating to a person's HIV infection/AIDS.  All such information must be collected and maintained on forms and in medical files that are kept separate and apart from employee personnel files.  They must be treated as a confidential medical record.  There are only five situations in which medical information may be shared with others.  This includes: sharing medical information with supervisors and managers about necessary restrictions on the worker, or duties of an employee, and necessary accommodations; first aid and safety personnel if the disability might require emergency treatment; government officials investigating compliance with the ADA or other federal or state disability discrimination laws; state workers' compensation offices or "second injury" funds; and insurance companies.
+
+What if the Employer is Concerned that it May be Unsafe for the Person who is HIV Positive to Remain in the Workplace
+
+The ADA does not require an employer to hire or retain an individual whose disability poses a "direct threat" to the health or safety of employees and others in the workplace.  Direct threat means that an individual poses a "significant risk of substantial harm" to employees or others, and covers concerns about transmission of infectious diseases, including HIV infection.  A direct threat determination must be done on an individualized basis, assessing the individual with a disability, his/her essential job functions, and the workplace.  The assessment of risk must be based on current, objective medical or other factual evidence.  "A speculative or remote risk will not constitute a direct threat."  If a direct threat is identified, the employer must determine whether a reasonable accommodation will eliminate or reduce the risk so that it is below the level of a direct threat.
+
+Medical and public health authorities have established that HIV infection cannot be transmitted through casual, social contact as exists in the vast majority of jobs and workplaces.  Nor is HIV infection transmissible through food or food handling.  As a result, HIV infection in the workplace will rarely constitute a direct threat and thus can almost never be the basis for firing or refusing to hire an individual with HIV infection.  An employer will violate the ADA if it  treats a person with HIV infection or AIDS differently because of speculative concerns that the individual may have an infectious, opportunistic, and communicable illness, such as tuberculosis, and may infect others.  Because a person has HIV infection or AIDS does not mean the person has tuberculosis or any other impairment.   Thus, it would be discrimination to refuse to hire a person with HIV infection because of undocumented concerns that the person might have active tuberculosis or other illness, or might develop such illnesses in the future.  Neither of these scenarios constitutes a direct threat under the ADA because they are based on speculation.  The employer has the burden of proving that an individual's employment poses a direct threat.  It is important that appropriate medical or public health resources and expertise be sought by the employer to assist in such accommodation decisions. 
+
+It may sometimes be determined that certain work environments may pose a risk to the health of an employee who is HIV-positive or has AIDS.  For example, a child-care worker with compromised immune system should be advised that s/he should consider temporary removal from exposure to children who have received live polio vaccine within 30 days, or have measles, as recommended in 1993 by the Centers for Disease Control and Prevention.  
+
+Does The ADA Affect the Employer's Choice of Insurance Benefits Where Coverage of HIV-Positive Persons is Concerned?
+
+Employees with HIV infection/AIDS must be given equal access to whatever insurance or benefit plans the employer provides.  An employer cannot fire or refuse to hire an individual with HIV infection/AIDS because the individual may increase the employer's future health care costs.  Similarly, an employer cannot fire or refuse to hire an individual because the individual has a family member or dependent with HIV infection/AIDS that may increase the employer's future health care costs.  However, universal pre-existing condition clauses are permissible.
+
+The EEOC has published guidance on health insurance plans that single out HIV infection, or any other disability for different treatments.  Health plans that exclude coverage of HIV infection or place a lower cap on HIV as compared with other disabilities may violate the ADA if the employer cannot justify the differences in coverage.
+
+
+Where Can I Find Resources to Assist in Accommodating the HIV-Positive Employee and Provide General Education on HIV to Our Workplace?
+
+Workplace education, which emphasizes that HIV and AIDS are not transmitted by casual contact, may allow such an employee to be accommodated within a supportive atmosphere.  It will also serve to reassure co-workers that they are not at risk, and thus help preserve workforce productivity.  The following are some possible resources to assist in the design of training for supervisors and co-workers or in the identification of an accommodation for a particular individual.
+
+The U.S. Department of Health and Human Services Centers for Disease Control and Prevention provides:
+
+* National AIDS Hotline for education, information, and referrals:  800-342-AIDS. For Spanish access, 800-344-SIDA; or for deaf access, 800-AIDS-TTY.
+* Business Responds to AIDS Resource Service. Information, materials, and referrals, for employers on national, state, and local, resources on HIV/AIDS in the workplace.  Includes small-business guidelines, sample Workplace Policy on Life-Threatening Diseases and Disabilities, information on the Americans with Disabilities Act, workplace policy and education, and resources.  Call 800-458-5231.
+
+Others:
+
+ADA Regional Disability and Business Technical Assistance Center Hotline - 800-949-4232 (voice/TTY). 
+
+National Leadership Coalition on AIDS, 1730 M Street, NW, Suite 905, Washington, DC  20036, 202-429-0930.
+
+Job Accommodation Network: 800-JAN-7234 (US outside West Virginia), 800-JAN-INWV (inside West Virginia), 800-JAN-CANA (throughout Canada).
+
+U.S. Equal Employment Opportunity Commission
+1801 L Street, NW
+Washington, DC  20507
+
+To be connected to the nearest field office, call (800) 669-4000 (voice), (800) 669-6820 (TTD). To order publications, call (800) 669-3362 (voice), (800) 800-3302 (TTY).  For on-line information: http://www.eeoc.gov
+
+This brochure is one of a series on human resources practices and workplace accommodations for persons with disabilities edited by Susanne M. Bruyère, Ph.D., CRC, SPHR, Director, Program on Employment and Disability, School of Industrial and Labor Relations - Extension Division, Cornell University.  The original, written in 1994, was reviewed in 2001 by a representative of the New York State Department of Health AIDS Institute.
+
+Cornell University was funded in the early 1990's by the U.S. Department of Education National Institute on Disability and Rehabilitation Research as a National Materials Development Project on the employment provisions (Title I) of the ADA (Grant #H133D10155).  These updates, and the development of new brochures, have been funded by Cornell's Program on Employment and Disability, the Pacific Disability and Business Technical Assistance Center, and other supporters.
+
+Cornell University currently serves as the training and co-management division of the Northeast Disability and Business Technical Assistance Center. Cornell is also conducting employment policy and practices research, examining private and federal sector employer responses to disability civil rights legislation.  This research has been funded by the U.S. Department of Education National Institute on Disability and Rehabilitation Research  (Grant #H133A70005) and the Presidential Task Force on Employment of Adults with Disabilities.  
+
+The full text of this brochure, and others in this series, can be found at: www.ilr.cornell.edu/ped/ada.  Research reports relating to employment practices and policies on disability civil rights legislation, are available at: www.ilr.cornell.edu/ped/
+
+For further information, contact the Program on Employment and Disability, Cornell University, 102 ILR Extension, Ithaca, New York 14853-3901; 607/255-2906 (Voice), 607/255-2891 (TTY), or 607/255-2763 (Fax).
+
+More information is also available from  the ADA Technical Assistance Program and Regional Disability and Business Technical Assistance Centers, (800) 949-4232 (voice/TTY), www.adata.org
+
+
+Disclaimer
+This material was produced by the program on Employment and Disability, School of Industrial and Labor Relations-Extension Division, Cornell University, and funded by a grant from the National Institute on Disability and Rehabilitation and Rehabilitation Research (grant #H133D10155).  The U.S. Equal Employment Opportunity Commission has reviewed it for accuracy.  However, opinions about the Americans with Disabilities Act (ADA) expressed in this material are those of the author, and do not necessarily reflect the viewpoint of the Equal Employment Opportunity Commission or the publisher.  The Commission's interpretations of the ADA are reflected in its ADA regulations (29 CFR Part 1630), Technical Assistance Manual for Title I of the Act, and EEOC Enforcement Guidance.
+
+Cornell University is authorized by the National Institute on Disability and Rehabilitation Research (NIDRR) to provide information, materials, and technical assistance to individuals and entities that are covered by the Americans with Disabilities Act (ADA).  However, you should be aware that NIDRR is not responsible for enforcement of the ADA.  The information, materials, and/or technical assistance are intended solely as informal guidance, and are neither a determination of your legal rights or responsibilities under the Act, nor binding on any agency with enforcement responsibility under the ADA.
+
+The Equal Employment Opportunity Commission has issued enforcement guidance which provides additional clarification of various elements of the Title I provisions under the ADA.  Copies of the guidance documents are available for viewing and downloading from the EEOC web site at:  http://www.eeoc.gov 
+Working Effectively with Individuals who are HIV-Positive
+
+
+
+July, 2001	Cornell University
+

@@ -1,0 +1,176 @@
+Cornell Rehabilitation Research and Training Center for Economic Research on Employment Policy for Persons with Disabilities
+
+Research Brief: Did the Employment of People with Disabilities Decline in the 1990s, and was the ADA Responsible? A Replication and Robustness Check of Acemoglu and Angrist (2001)
+
+Andrew J. Houtenville
+Employment and Disability Institute
+
+Richard V. Burkhauser
+Department of Policy Analysis and Management
+
+August 2004
+
+For further information about this paper contact:
+Andrew J. Houtenville, Ph.D.
+Senior Research Associate
+Employment and Disability Institute
+School of Industrial & Labor Relations
+Cornell University 
+303B ILR Extension Building
+Ithaca, New York  14853-3901 USA 
+tel (607) 255-5702
+fax (607) 255-2763
+tty (607) 255-2891
+email ajh29@cornell.edu
+web www.ilr.cornell.edu/rrtc
+
+The authors would like to thank the National Institute on Disability and Rehabilitation Research (NIDRR) for funding our work on this paper.  We also thank Daron Acemoglu, Joshua Angrist, Susanne Bruyère, J.S. Butler, John Cawley, Mary C. Daly, David C. Stapleton, Robert R. Weathers and David C. Wittenburg for their comments on earlier drafts.  The opinions we express in this paper are our own and do not represent official positions of NIDRR or Cornell University.
+
+This research brief is being distributed by the Rehabilitation Research and Training Center for Economic Research on Employment Policy for Persons with Disabilities at Cornell
+University.  It and the report it summarizes are available on-line at http:www.ilr.cornell.edu/RRTC/papers.html, along with the publications listed on the inside of the back cover.
+
+This center is funded to Cornell University, in collaboration with The Urban Institute
+(Washington, DC) by the U.S. Department of Education, National Institute on
+Disability and Rehabilitation Research (Grant No. H133B980038).
+
+This research is an across college effort at Cornell University between the Employment and Disability Institute in the Extension Division of the School of Industrial and Labor Relations, the Department of Policy Analysis and Management in the College of Human Ecology, and the Institute for Policy Research in Washington, D.C.
+
+The Co-Principal Investigators are:
+
+Susanne M. Bruyère—Director, Employment and Disability Institute, School of Industrial and Labor Relations, Extension Division, Cornell University
+
+Richard V. Burkhauser—Sarah Gibson Blanding Professor and Chair, Department of
+Policy Analysis and Management, College of Human Ecology, Cornell University
+
+David C. Stapleton—Director, Institute for Policy Research, Cornell University
+
+INTRODUCTION
+
+The Americans with Disabilities Act of 1990 (ADA) (P.L. 101-336) gives civil rights protections to persons with disabilities similar to those provided on the basis of race, color, sex, national origin, age, and religion.  Title I of the ADA prohibits discrimination in employment practices by private employers, state and local governments, employment agencies, and labor unions for employers with 15 or more employees.*1  The ADA requires employers to offer “reasonable accommodation” to employees with disabilities and prohibits discrimination in hiring, promotion, and firing.  The goal of the ADA is to level the playing field in employment for people with disabilities and better integrate working age people with disabilities into the labor market.  
+
+In 2001, Daron Acemoglu and Joshua Angrist published their seminal paper, “Consequences of Employment Protection? The Case of the Americans with Disabilities Act.” They examined employment time-trends among workers with disabilities from 1988 (shortly before the passage of the ADA) to 1997, using data from the March Current Population Survey (CPS), to determine whether the ADA had fulfilled its employment objectives.  Their key finding was that the CPS data showed a post-ADA decline in employment among young men and women with disabilities.  Controlling for other employment factors, including the increased number of Supplemental Security Income (SSI) and Social Security Disability Insurance (SSDI) recipients, they concluded that the ADA led to reduced employment for younger workers with disabilities.  Their results were less clear cut for older workers.*2   They cited the cost to employers of compliance with the ADA and fear of lawsuits as potential causes of the observed decline in employment.
+
+Acemoglu and Angrist’s (2001) emphasis on the ADA as a deterrent to increased employment triggered a lively debate about whether the ADA or other factors were responsible.  More fundamentally, some researchers questioned whether this decline was real or merely an artifact of inadequacies in the CPS data used to quantify employment trends among people with disabilities.  In Houtenville and Burkhauser (2004), the research summarized in this brief, we address the key questions: (a) did the employment of people with disabilities decline in the 1990s? and (b) was the ADA responsible for the decline?  The evidence we present, described below, leads us to conclude that the employment rate did decline, but that the decline was not a consequence of the ADA.
+
+DID THE EMPLOYMENT OF PEOPLE WITH DIUSABILITIES DECLINE IN THE 1990s?
+
+Burkhauser, Daly, Houtenville and Nargis (2002) and Burkhauser, Houtenville and Wittenburg (2003) investigated whether the CPS can be used to measure the employment time-trends of working-age people with disabilities. They compared results using different data sources: the March Current Population Survey (CPS), conducted by the Bureau of the Census and the Bureau of Labor Statistics; the National Health Interview Survey (NHIS), conducted by the Centers for Disease Control and Prevention; and the Survey of Income and Program Participation (SIPP), a longitudinal survey conducted by the Bureau of the Census and the Bureau of Labor Statistics.  All three surveys include a nationally representative sample of the United States population, along with some information on activity limitations and/or health status.  
+
+Disability is a controversial concept to define and measure.  There is no universal agreement on the most appropriate definition of the population with disabilities, and no existing data source captures all of the aspects of disability for a representative sample of the United States population.  Burkhauser et al (2003) put the available empirical evidence based on disability questions from the NHIS, CPS, and SIPP into a framework based on two prominent definitions of disability: impairment and activity limitation.  An impairment-based definition identifies a population with physical or mental losses that impair function.  Prior to 1997, the NHIS provided sufficient information to empirically capture this definition since it contained a checklist of specific impairments; e.g., “blind in both eyes,” “deaf in both ears.”  An activity limitation-based definition identifies a population with health conditions that limit the ability to perform an activity, such as the kind or amount of work that can be performed.  The CPS, NHIS and SIPP all contain a work-limitation question, although each is worded differently.  The CPS asks whether survey participants have “a health problem or disability which prevents them from working or which limits the kind or amount of work they can do?”  The CPS also allows for the identification of a two-period work limitation in the Matched CPS sample.  A portion of the CPS sample receives the March CPS supplement (which contains the work limitation question) twice, in March of one year and then in March of the next year; i.e., matched from March-to-March.  This population has longer-term disabilities by definition and is more likely to be eligible for SSDI/SSI benefits and ADA protection than the population defined by a one-period work limitation.
+
+Burkhauser et al (2002, 2003) compared the employment rates of working-age men and women across populations identified by the different data sources and disability definitions: CPS work limitation, NHIS work limitation, Matched CPS two-period work limitation, and NHIS impairment.  They report that, despite significant differences in the level of employment rates across these populations, the time-trends of these employment rates followed the same pattern—all rose in the 1980s and declined in the 1990s.  While the number of observations in the SIPP is too small to statistically test for differences in time-trends, the SIPP data show the same decline in employment rates in the 1990s identified in the NHIS and CPS data.
+
+In Houtenville and Burkhauser (2004), we replicate the analysis of Acemoglu and Angrist (2001) and examine the sensitivity of their alternative definitions of disability and employment.  We examine whether their findings using the CPS work limitation definition of disability hold when using the Matched CPS two-period work limitation definition of disability.  We also examine whether their findings based on an annual weeks worked definition of employment hold when using four alternative employment definitions: (1) annual average weekly hours, (2) annual hours worked, (3) a dichotomous measure reflecting a connection to the labor market, whether annual hours worked is greater than or equal to 52 hours, and (4) a dichotomous measure reflecting full-year full-time employment, whether annual hours worked is greater than or equal to 1,400 hours.  All five measures of employment refer to the calendar year prior to the March in which the CPS was fielded.
+
+In our paper, we first examine the sensitivity of the basic time-trends reported by Acemoglu and Angrist (2001) using the methods of Burkhauser et al (2002, 2003).  Again, while the five measures of employment yield significantly different levels of employment of working-age people with disabilities, the time-trends are not significantly different, and all five measures show that the employment of working-age people with disabilities peaked in 1989 and fell dramatically over the 1990s.
+
+Figure 1 contains the average annual weeks worked of working age men and women (aged 21-58) with disabilities relative to people without disabilities (i.e., the average annual weeks worked of people with disabilities as a percentage of the average annual weeks worked of people without disabilities) from 1980 to 2002.  In the first series in this figure, disability is defined with the CPS work limitation measure used by Acemoglu and Angrist (2001). *3   As this figure shows, the relative annual weeks worked of the population with work limitations is fairly constant over the 1980s, peaks in 1989, and falls more or less continuously over the 1990s, especially after 1992.  Acemoglu and Angrist (2001) studied this population over the years 1987 through 1996.
+
+The second series in Figure 1 uses the Matched CPS two-period work limitation measure —people who report work limitations in March of two consecutive years.  This population by definition has longer-term disabilities, and the reporting of disability (March-to-March) overlaps substantially with the calendar year in which employment is reported (January-through- December), whereas the single period measure is from the second of the two March surveys—three months after the end of the employment year.  The level of relative employment of the two-period work limitation population of working age men and women is, not surprisingly, much lower than that of the one-period work limitation population, because it is more likely that the work limiting conditions of the former population are more severe and longer lasting.  While there is also a decline in the relative employment of the population with longer-term disabilities in the 1990s, the trend clearly begins in the mid-1980s, and there is a distinct spike upward in 1992.  These differences are quite important when considering the potential causes of the decline.
+
+Figure 1.  Average Annual Weeks Worked of Working-Age (Ages 21-58) People with Disabilities as a Percentage of Average Annual Weeks Worked of Working-Age Persons without Disabilities in the CPS and Matched CPS Data, 1980-2002.
+
+Figure 1 measures the percentage of average annual weeks worked over the years 1980-2002. Two series are recorded; the first series is "one period work limitation" and the second is "two-period work limitation."  (See text for more details on these definitions). For the first series, the relative annual weeks worked of the population with work limitations is fairly constant over the 1980s (at around 40 percent), peaks in 1989 at slightly above 40%, and falls more or less continuously over the 1990s, especially after 1992 to a low of about 29% in 2002. The second series shows that after 1981, the employment of the two-period work limitation population decreases from almost 25% to 20% in 1983, but rises again to 23% by 1984. In 1986, there is a spike to about 26%, but for the next five years the rate graudually decreases to a low of near 20% in 1991.  In 1992, there is an upward spike to nearly 25% and then a gruadual decline to a low of around 16% in 2002. 
+
+Source: Authors' calculations using the Current Population Survey, survey years 1981-2003.  See Houtenville and Burkhauser (2004, Appendix Table 1) for the percentages corresponding to this figure.
+Note: The Matched CPS data are not available in survey years 1986 and 1996. 
+
+End of Figure 1
+
+WAS THE ADA RESPONSIBLE FOR THE DECLINE?
+
+Based on Burkhauser et al (2002, 2003) and our further analysis of the trends reported in Figure 1, it is clear that the employment of people with disabilities declined in the 1990s.  But what caused this decline? *4  The relative employment of people with longer-term disabilities clearly begins to decline in the mid-1980s, well before the ADA was implemented, and there is a distinct spike upward in 1992, the year the ADA employment provisions were implemented.  The mid-1980s start of the decline coincides more closely with changes to the SSDI and SSI programs that substantially expanded their medical definition of disability.
+
+Acemoglu and Angrist (2001) use an array of statistical models to investigate whether the post-1992 decline in the relative employment of working age people with disabilities (using the CPS one-period work limitation definition) was an unintended consequence of the 1992 implementation of the ADA employment provisions.  The timing of the decline in the relative employment of the one-period work limitation population in Figure 1 is consistent with this hypothesis.  After systematically controlling for other factors influencing the employment of people with one-period work limitations, Acemoglu and Angrist (2001) conclude that the ADA had a significant and negative employment effect on the working-age population with disabilities.
+
+We replicate their major empirical models using their one-period work limitation definition of disability and measure of employment—annual weeks worked.  Their estimates are consistent with a negative ADA effect.  When we look at other measures of employment, we largely confirm the trend in relative annual weeks worked shown in Figure 1.  But when we estimate their models with our two-period work limitation measure of disabilities, we find little evidence of a negative effect of the ADA on the population with longer-term disabilities and some evidence of a positive effect of the ADA—consistent with Figure 1 we find that the relative employment of people with disabilities significantly increases in 1992 in several age-sex groups.
+
+CONCLUSIONS
+
+The relative employment of working-age people with disabilities declined in the 1990s.  Based on our review of the evidence, however, the ADA is not the likely cause of this decline.  Instead, we find that the relative employment of the population with longer-term disabilities—a population that is more likely to be eligible for SSDI/SSI benefits and ADA protection—began to fall around the mid-1980s, well before the implementation of the ADA, but soon after 1984 legislation that substantially expanded the medical definition of disability used by the SSDI and SSI programs.
+
+ENDNOTES
+
+1. The ADA employment provisions (Title I) took effect on July 26, 1992, and covered employers with 25 or more employees.  This threshold was reduced to include employers with 15 or more employees on July 26, 1994.
+
+2. DeLeire (2000) using data from the Survey of Income and Program Participation (SIPP), but a somewhat different modeling strategy, reports similar results using the same one-period work limitation definition of disability as Acemoglu and Angrist (2001).  DeLeire (2003) reviews this work and the work of his critics. See Stapleton and Burkhauser (2003) for a fuller discussion by both DeLeire and his critics—Kruse and Schur (2003) and Blanck, Schwochau and Song (2003).
+
+3. The years in Figure 1 refer to the year for which employment was reported.
+
+4. Stapleton and Burkhauser (2003) provide evidence of the validity of alternative hypotheses for this decline by leading researchers in the field.  
+
+
+REFERENCES
+
+1. Acemoglu, Daron and Joshua Angrist.  2001.  Consequences of employment protection? The case of the Americans with Disabilities Act.  Journal of Political Economy, 109 (5), 915-57.
+
+2. Blanck, Peter, Susan Schwochau, and Chen Song. 2003. Is it time to declare the ADA a failed law? In David C. Stapleton and Richard V. Burkhauser (eds.) The decline in employment of people with disabilities: A policy puzzle. Kalamazoo, MI: W.E. UpJohn Institute for Employment Research: pp.301-32.
+
+3. Burkhauser, Richard V., Mary C. Daly, Andrew J. Houtenville, and Nigar Nargis.  2002.  Self-reported work limitation data: what they can and cannot tell us. Demography, 39 (3), 541-55.  
+
+4. Burkhauser, Richard V., Andrew J. Houtenville, and David C. Wittenburg.  2003.  A user guide to current statistics on the employment of people with disabilities.  In David C. Stapleton and Richard V. Burkhauser (eds.) The decline in employment of people with disabilities: A policy puzzle.  Kalamazoo, MI:  W.E. UpJohn Institute for Employment Research: pp.87-123.
+
+5. Burkhauser, Richard V. and David C. Stapleton. 2003. Conclusion. In David C. Stapleton and Richard V. Burkhauser (eds.) The decline in employment of people with disabilities: A policy puzzle. Kalamazoo, MI: W.E. UpJohn Institute for Employment Research: pp.23-86.
+
+6. Burkhauser, Richard V. and David C. Stapleton. 2004. The decline in the employment rate for people with disabilities: Bad data, bad health, or bad policy? Journal of Vocational Rehabilitation, 20 (3) (September).
+
+7. DeLeire, Thomas.  2000.  The wage and employment effects of the Americans with Disabilities Act.  Journal of Human Resources 35, (4), 693-715.
+
+8. DeLeire, Thomas.  2003.  The Americans with Disabilities Act and the employment of people with disabilities. In David C. Stapleton and Richard V. Burkhauser (eds.) The decline in employment of people with disabilities: A policy puzzle.  Kalamazoo, MI:  W.E. UpJohn Institute for Employment Research: 259-75.
+
+9. Houtenville, Andrew J. and Richard V. Burkhauser.  2004. Did the employment of those with disabilities fall in the 1990s and was the ADA responsible: A replication and robustness check of Acemoglu and Angrist (2001).  Ithaca, NY: Research and Rehabilitation Training Center for Economic Research on Employment Policy for Persons with Disabilities, Cornell University.
+
+10. Kruse, Douglas and Lisa Schur.  2003.  Does the Definition Affect the Outcome? Employment Trends Under Alternative Measures of Disability. In David C. Stapleton and Richard V. Burkhauser (eds.) The decline in employment of people with disabilities: A policy puzzle. Kalamazoo, MI:  W.E. UpJohn Institute for Employment Research: pp.279-98.
+
+11. Stapleton, David C. and Richard V. Burkhauser (eds.) The decline in employment of people with disabilities: A policy puzzle. Kalamazoo, MI: W.E. UpJohn Institute for Employment Research.
+
+OTHER PAPERS FROM THE CORNELL RRTC
+
+1. "A User Guide to Current Statistics on the Employment of People with Disabilities: Research Brief."  Richard V. Burkhauser; Andrew J. Houtenville, and David C. Wittenburg
+
+2. "Economics of Disability Research Report #1:  Estimates of the Prevalence of Disability in the United States by State, 1981 through 1999."  Andrew J. Houtenville
+
+3. "Economics of Disability Research Report #2:  Estimates of Employment Rates for Persons with Disabilities by State, 1980 through 1998."  Andrew J. Houtenville
+
+4. "Economics of Disability Research Report #3:  Estimates of Median Household Size-Adjusted Income for Persons with Disabilities in the United States by State, 1980 through 1998." Andrew Houtenville
+
+5. "Economics of Disability Research Report #4:  Estimates of the Prevalence of Disability, Employment Rates, and Median Household Size-Adjusted Income Aged 18 through 64 in the United States by State, 1980 through 2000." Andrew J. Houtenville and Adam F. Adler
+
+6. "Economics of Disability Research Report #5:  Economic Outcomes of Working-Age People with Disabilities over the Business Cycle - An Examination of the 1980s and 1990s."  Richard V. Burkhauser, Mary C. Daly, Andrew J. Houtenville, and  Nigar Nargis
+
+7. "Economics of Disability Research Report #6:  Comparing the Robustness of Economic Outcomes in the CPS and NHIS Data."  Richard V. Burkhauser, Andrew Houtenville, and Nigar Nargis
+
+8. "Policy Brief:  Impacts of Expanding Health Care Coverage on the Employment and Earnings of Participants in the SSI Work Incentive Program."  David C. Wittenburg, Erica Chan, and David C. Stapleton
+
+9. "Policy Brief:  Policies and Programs Affecting the Employment of People with Disabilities."  Gina A. Livermore, Mark W. Nowak, and David C. Wittenburg
+
+10. "Policy Brief:  Summary Review of Data Sources for School to Work Transitions by Youths with Disabilities."  David C. Wittenburg and David C. Stapleton
+
+11. "Real Trends or Measurement Problems?  Disability and Employment Trends from the Survey of Income and Program Participation."  Elaine Maag and David Wittenburg
+
+12. "Review of Data Sources for School to Work Transitions by Youths with Disabilities."  David C. Wittenburg and David C. Stapleton
+
+13. "State Estimates of Employment Rates for Persons with Disabilities:  Report Summary."  Andrew J. Houtenville
+
+14."State Estimates of Median Household Size-Adjusted Income for Persons with Disabilities:  Report Summary."  Andrew J. Houtenville
+
+15. "State Estimates of the Prevalence of Disability in the US:  Report Summary."  Andrew J. Houtenville
+
+16. "The Economics of Policies and Programs Affecting the Employment of People with Disabilities."  Gina A. Livermore, David C. Stapleton, Mark W. Nowak, and David C. Wittenburg
+
+17. "Transitions from AFDC to SSI Prior to Welfare Reform."  David C. Stapleton, David C. Wittenburg, and Erica Chan
+
+The above papers are available on-line at http://www.ilr.cornell.edu/RRTC/papers.html  together with a listing of RRTC publications available on other sites
+
+For more information about the Cornell RRTC Contact:
+Susanne M. Bruyère, Ph.D.
+Project Director
+201 ILR Extension Building
+Cornell University
+Ithaca, NY 14853-3901
+tel (607) 255-9536
+fax (607) 255-2763
+TDD (607) 255-2891
+email smb23@cornell.edu
+web www.ilr.cornell.edu/rrtc
+

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Effects of Prevailing Wage Requirements on the Cost of Low-Income Housing</title>
+<publication-date>2005-10-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<institution>Berkeley Program on Housing and Urban Policy</institution>
+<lname>Dunn</lname>
+<fname>Sarah</fname>
+</author>
+<author>
+<institution>University of California, Berkeley</institution>
+<lname>Quigley</lname>
+<fname>John</fname>
+<mname>M.</mname>
+</author>
+<author>
+<institution>University of California, Berkeley</institution>
+<lname>Rosenthal</lname>
+<fname>Larry</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>prevailing wages</keyword>
+<keyword>low-income housing</keyword>
+</keywords>
+<abstract>&lt;p&gt;Recent California legislation extends the application of prevailing wage regulations to construction workers building subsidized low-income residential projects. Econometric evidence based on micro data covering 205 residential projects subsidized by the California Low Income Housing Tax Credit since 1996 and completed by mid-2002 demonstrates that construction costs increased substantially under prevailing wage requirements. Estimates of additional construction costs in the authors’ most extensive models range from 9% to 37%. The analysis controls for variations in cost by geographical location and for differences in project characteristics, financing, and developer attributes. The authors estimate the effect of uniform imposition of these regulations on the number of new dwellings for low-income households produced under the tax credit program in California. Under reasonable assumptions, the mid-range estimate of the prospective decrease exceeds 3,100 units per year.&lt;/p&gt;</abstract>
+<coverpage-url>http://digitalcommons.ilr.cornell.edu/ilrreview/vol59/iss1/8</coverpage-url>
+<fulltext-url>http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1185&amp;amp;context=ilrreview&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1185</articleid>
+<submission-date>2005-09-23T12:52:58-07:00</submission-date>
+<publication-title>ILR Review</publication-title>
+<context-key>100386</context-key>
+<submission-path>ilrreview/vol59/iss1/8</submission-path>
+<fields>
+<field name="acknowledgements" type="string">
+<value>This research is supported by
+a grant from the U.S. Department of Housing and
+Urban Development and by the Berkeley Program on
+Housing and Urban Policy. The authors are grateful
+for the comments of Andrew Blauvelt, Shawn Blosser,
+Scott Littlehale, Matt Newman, Jeanne Peterson, Scott
+Smith, and Fran Wagstaff.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-10-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Prevailing Wages and Cost of Low-Income Housing</value>
+</field>
+</fields>
+</document>
+</documents>

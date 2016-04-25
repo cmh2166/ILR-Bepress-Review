@@ -1,0 +1,161 @@
+HR Processes and IT Accessibility for Persons with Disabilities
+Improving Employer Practices under Title I of the Americans with Disabilities Act
+
+
+
+
+
+
+
+
+
+
+
+NIDRR Research and Demonstration Project H133A7000. 
+Conducted by Cornell University Program on Employment and Disability
+Susanne M. Bruyère, Principal Investigator
+William Erickson, Research Specialist
+Sara VanLooy, Research Administrative Assistant
+Background of the Research
+The purpose of this research is to investigate the impact of the Americans with Disabilities Act (ADA) employment provisions on the employment practices of private sector business. The intended outcome of the research is to assist in the identification of employment practices that have been the most challenging in implementing the ADA, and to identify interventions that can be used by private sector employers and persons with disabilities to address these employment practices. Employment policy and practices that enhance both the hiring and retention of workers with disabilities are being examined. Most recently, our focus has been in information technology accessibility in the recruitment and employment processes.
+Current Research on IT Accessibility in 
+E-Recruiting and the HR Process
+Online technology has made significant inroads into human resource (HR) processes over the past several years, including recruitment, benefits information dissemination, and training. The accessibility of the information technology (IT) used in these processes is much less well documented. The purpose of this study is to address this information need. The recruiting process particularly is the gateway to employment. E-recruiting is having an enormous impact on businesses, even as accessibility of Web sites is a continuing concern. To explore these interrelated issues, Cornell University is conducting research on e-recruiting and IT applications in HR and employment processes as a part of our research on disability non-discrimination in employer practice. The first phase of the study was an extensive review of the literature, followed by an examination of e-recruiting accessibility for people with disabilities of ten job boards (an Internet site where employers pay to post their positions and to search the resume database for candidates), and 31 corporate e-recruiting Websites. In the second phase of the research, human resource (HR) representatives were interviewed regarding their organizations’ use of Web technology in HR processes and computer accessibility issues in the workplace. Further information about each of these studies is available below; full copies of the study report is available from Cornell University.
+Results of E-recruiting Web Site Review
+The e-recruiting Web site review analyzed online recruiting sites both with automated accessibility testing software (Bobby v3.2) and with an examination of a sub-sample of the sites through a “simulated” application process. The purpose of this second method was to see if it would be possible to successfully proceed through the entire multi-step job search and application process. None of the job board pages (home, job search, sign-up, or resume submittal pages) evaluated by Bobby were found to be accessible. The vast majority of corporate e-recruiting sites also failed Bobby’s tests (the results of this phase of the web site review are presented in the two figures at the right).
+The simulated application process evaluation was slightly more promising, but still only three of the nine job boards and three of the twelve corporate sites evaluated were accessible enough to work through the entire process of registration, job searching, resume submittal, and application for a position. Many of the issues encountered could easily be corrected through the consistent use of alternative text for essential submit image buttons (i.e. “apply,” “post resume”).
+Given the growth of online recruiting, combined with the frequent access problems discovered in this study, there is a very real potential for certain populations of individuals with disabilities to be all but cut off from this most promising avenue for job searches and applications. None of the accessibility issues encountered were insurmountable, and most could be easily altered to significantly improve accessibility. It is vital to ensure that career recruiting sites on the World Wide Web are made accessible so all individuals, regardless of their situation, have access to this wealth of jobs available on the Internet.
+Human Resource Considerations in 
+Accessible IT Study
+In the study of HR processes and accessible IT, a survey of over 400 HR representatives (drawn from a sample of members of the Society for Human Resource Management (SHRM)) addressed the following: organizations’ use of Web accessibility technology in HR processes; knowledge and perceptions of barriers to the use of computer/Web technology to employees with disabilities; and familiarity with assistive technology and resources. Online/Web HR processes were used heavily by the participating organizations (see figure to the right). Nine of the ten organizations reported using Web processes for job postings, eight of ten for online benefits information dissemination, and about six out of ten for online benefits self service and online employee training. 
+Knowledge of various assistive technologies for computer users with disabilities was low (see figure below). Slightly fewer than half the respondents were familiar with screen magnifiers, 32 percent with speech recognition software, a quarter or fewer were familiar with video captioning and Braille readers. Nearly three-quarters of those interviewed were unfamiliar with guidelines for accessible Web design—only 13 percent were familiar—a significant issue considering the heavy usage of HR-based Web processes in these organizations. 
+Employee use of computers was extensive as well, with the majority of employees in the organizations using computers and a very large proportion working on computers more than half the workday. Despite the low level of knowledge regarding assistive technologies, nearly half the respondents reported having made some type of adaptation to make a computer accessible to an employee with a disability. Most of the adaptations were directed towards making the workstation itself accessible for wheelchair users, but also included the purchase of special input devices (ergonomic keyboards, voice recognition software, an ergonomic mouse) and adaptations for employees with visual impairments (i.e. screen magnifiers, large monitors). 
+Next Steps
+In response to the information needs identified in this study, Cornell University is currently preparing informational materials for human resource professionals on IT accessibility in the HR and employment processes, which will be distributed in collaboration with SHRM by Web and also through HR practice and scholarly publications in related professional journals. 
+Related Reports and Publications
+Brannick, A., & Bruyère, S. (1999). The ADA at work: Implementation of the employment provisions of the Americans with Disabilities Act. Alexandria, VA: Society for Human Resource Management.
+Bruyère, S. (1999). Working effectively with human resource professionals using the employment provisions of the Americans with Disabilities Act. New York: The Hatherleigh Company.
+Bruyère, S. (2000). Disability employment policies and practices in private and federal sector organizations. Ithaca, NY: Cornell University, School of Industrial and Labor Relations Extension Division, Program on Employment and Disability.
+Bruyère, S. (2002). Health benefits and workplace accomodations: Perspectives from HR professionals. SCI Life (publication of the National Spinal Cord Injury Association), Spring, 28-30.
+Bruyère, S. (2002-2003). ADA impact on human resource policies and practices: Progrress to date and looking forward. SCI Life (publication of the National Spinal Cord Injury Association), Fall/Winter issue, pages 16-17, 23.
+Bruyère, S., and Erickson, W. (2001). E-Human resources: A review of the literature and implications for people with disabilities. Ithaca: NY: Cornell University, School of Industrial and Labor Relations, Extension Division, Program on Employment and Disability.
+Bruyère, S., Erickson, W., & Horne, R. (2002). Disability employment policies and practices in U.S. Federal Government agencies: EEO/HR and supervisor perspectives. Report by the Presidential Task Force on Employment of Adults with Disabilities. Ithaca, NY: Cornell University, School of Industrial and Labor Relations—Extension Division, Program on Employment and Disability. 
+Bruyère, S., Erickson, W., & Horne, R. (2002). Survey of the Federal government on supervisor practices in employment of people with disabilities. Ithaca, NY: Cornell University, School of Industrial and Labor Relations Extension Division, Program on Employment and Disability.
+Bruyère, S., Erickson, W., & VanLooy, S. (2000). HR’s role in managing disability in the workplace. Employment Relations Today, Autumn, 47-66.
+Bruyère, S., Erickson, W., & VanLooy, S. (2003). Accessible IT for People with Disabilities: HR Considerations. Ithaca, NY: Cornell University, School of Industrial and Labor Relations—Extension Division, Program on Employment and Disability.
+Bruyère, S., Erickson, W. & Ferrentino, J. (2003). Identity and Disability in the Workplace. William and Mary law Review, 44(3), 1173-1196.
+Bruyère, S., & Horne, R. (1999). Disability employment policies and practices in U.S. Federal Government agencies. Report by the Presidential Task Force on Employment of Adults with Disabilities. Ithaca: NY: Cornell University, School of Industrial and Labor Relations, Extension Division, Program on Employment and Disability.
+Erickson, W. (2002).  A review of selected e-recruiting Websites:  Disability accessibility considerations. Ithaca, NY: Cornell University, School of Industrial and Labor Relations Extension Division, Program on Employment and Disability.
+For Further Information on the ADA and on IT Accessibility
+ADA Technical Assistance Program
+The National Institute on Disability and Rehabilitation Research (NIDRR) has established ten regional centers to provide information, training, and technical assistance to employers, people with disabilities, and other entities with responsibilities under the Americans with Disabilities Act (ADA). The Centers also provide information on accessible information technology issues. Call 1-800-949-4232 or go to www.adata.org. 
+The Job Accommodation Network (JAN)
+The Job Accommodation Network (JAN) is a free consulting service that provides information about job accomodations, the Americans with Disabilities Act (ADA), and the employability of people with disabilities. Visit janweb.icdi.wvu/, or call 1-800-526-7234 for more information.
+The Center for IT Accommodation (CITA) Section 508 Resources 
+The Center for Information Technology Accommodation (CITA), in the U.S. General Services Administration’s Office of Governmentwide Policy, has a Web site where Federal employees and the public can access resources for understanding and implementing the requirements of Section 508.  Go to www.section508.gov for more information.
+The World Wide Web Consortium (W3C)
+The W3C develops inter-operable technologies (specifications, guidelines, software, and tools) to lead the Web to its full potential. See http://www.w3.org/ for further information.
+hrtips.org
+Web-based tools to help HR professionals build inclusive workplaces.
+Contact Information
+For further information about this and other related reports contact:
+Susanne M. Bruyère, Ph.D., CRC, Director 
+Program on Employment and Disability 
+School of Industrial & Labor Relations Extension Division 
+Cornell University 
+Ithaca, New York 14853-3901 USA 
+Phone: (607) 255-9536 
+Fax: (607) 255-2763 
+TTY/TDD: (607) 255-2891 
+Email: smb23@cornell.edu
+Web: http://www.ilr.cornell.edu/ped
+
+Job Boards, Bobby Priority One Test Results
+Number of sites Bobby evaluated:
+Home Pages: n=10
+Sign up pages: n=10
+Job Search: n=10
+Resume Builder: n=2
+Convenience 
+% Accessible (no priority one errors detected):
+Home Pages: 0%
+Sign up pages: 0%
+Job Search: 0%
+Resume Builder: 0/2
+Accessibility errors noted
+
+Provide alternative text for all image-type buttons in forms:
+Home Pages: 40%
+Sign up pages: 60%
+Job Search: 30%
+Resume Builder: 1/2
+
+Provide alternative text for all images:
+Home Pages: 100%
+Sign up pages: 90%
+Job Search: 80$
+Resume Builder: 2/2
+
+Give each frame a title:
+Home Pages: 20%
+Sign up pages: 30%
+Job Search: 20%
+Resume Builder: 2/2
+
+Provide alternative text for all image map hot-spots:
+Home Pages: 20%
+Sign up pages: 20%
+Job Search: 20%
+Resume Builder: 1/2
+
+Each frame must reference an HTML file:
+Home Pages: 10%
+Sign up pages: 20%
+Job Search: 10%
+Resume Builder: 1/2 
+ 
+Corporate Web Recruiting Sites, Bobby Priority One Test Results
+Number of sites Bobby evaluated:
+Home Pages: n=31
+Sign up pages: n=29
+Job Search: n=29
+Resume Builder: n=11
+
+% Accessible (no priority one errors detected):
+Home Pages: 26%
+Sign up pages: 10%
+Job Search: 17%
+Resume Builder:9%
+Accessibility errors noted
+
+Provide alternative text for all image-type buttons in forms:
+ Home Pages: 19%
+Sign up pages: 10%
+Job Search: 28%
+Resume Builder: 9%
+
+Provide alternative text for all images:
+Home Pages: 52%
+Sign up pages: 79%
+Job Search: 59%
+Resume Builder: 64%
+
+Give each frame a title:
+Home Pages: 10%
+Sign up pages: 10%
+Job Search: 28%
+Resume Builder: 36%
+
+Provide alternative text for all image map hot-spots:
+Home Pages: 13%
+Sign up pages: 14%
+Job Search: 7%
+Resume Builder: none
+
+Each frame must reference an HTML file:
+Home Pages: 3%
+Sign up pages: none
+Job Search: 7%
+Resume Builder: 9%
+ 
+

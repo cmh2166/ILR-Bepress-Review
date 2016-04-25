@@ -1,0 +1,293 @@
+The Transition from Disability Benefits to Retirement Benefits
+
+
+This is one of a series of articles written for benefits specialists employed by Benefits Planning, Assistance and Outreach projects and attorneys and advocates employed by Protection and Advocacy for Beneficiaries of Social Security programs.  Materials contained within this policy brief have been reviewed for accuracy by the Social Security Administration (SSA), Office of Employment Support Programs.  However, the thoughts and opinions expressed in these materials are those of the author and do not necessarily reflect the viewpoints or official policy positions of SSA.  The information, materials and technical assistance are intended solely as information guidance and are neither a determination of legal rights or responsibilities, nor binding on any agency with implementation and/or administrative responsibilities.
+
+The author John Benbow, is a research and development specialist for Employment Resources, Incorporated of Madison, Wisconsin.
+
+
+I. Introduction
+
+The transition from being designated “a person with a disability” to “a retired person” is becoming an increasingly important issue worthy of study. Various factors including changing demographics and social attitudes are making this life passage a more prominent concern. Of course, rarely do circumstances suddenly change at a statutorily determined retirement age. People with disabilities still have the same capabilities and support needs as before. However, many of the benefits and services that they rely on have provisions that do take this demarcation point into consideration.
+
+In this brief, we will inventory and analyze significant changes in Social Security Administration (SSA) programs during this transition. As important as explaining the various changes is correcting some misconceptions that have arisen in connection with this subject. Clarifying the concepts, terms, and processes associated with this transition will assist anyone in understanding what can -- and cannot -- happen.
+
+We will also look at implications of this life transition for benefits planning and protection and advocacy. Benefits specialists are starting to help more people with disabilities that are approaching retirement age and they need to how to best assist clients. At the same time, more people, disabled or not, are working past retirement age. In turn, advocates may see more cases as well dealing with conversion issues and discrimination issues pertaining to age and disability.
+
+We will deal here with both the Title II and the Title XVI benefit programs. Title II benefits are those paid to retired, disabled, or blind individuals (and their dependents) who paid into the Social Security system through payroll taxes. Social Security Disability Insurance (SSDI) is the term commonly used to refer to all Title II disability benefits, and these benefits include: Disability Insurance Benefits (DIB) which people receive based on their own work; Disabled Adult Child (DAC) Benefits (also known as Childhood Disability Benefits, CDB) which are based on a retired, disabled, or deceased parent’s work; and Disabled Widow(er) Benefits (DWB) and Surviving Divorced Spouse Benefits which are based on a deceased spouse’s work. Title XVI is Supplemental Security Income (SSI), which is payment to aged, disabled, or blind people who have economic need.
+Throughout this brief are references to the Social Security’s Program Operational Manual System (POMS) and the Code of Federal Regulations (CFR.) POMS is a compilation of the law and policy-based instructions that SSA personnel use in administering their programs and is available on the Internet through the SSA website, http://policy.ssa.gov/poms.nsf. The CFR is the code of general and permanent rules of the Federal executive departments and agencies and is available online at http://www.gpoaccess.gov/nara.cfr/index.html.
+
+
+II. Title II/Social Security Disability Insurance Benefits (SSDI)
+
+    A. Reaching Full Retirement Age
+
+If someone asks SSA field office employees what happens when a disability beneficiary approaches the normal Social Security retirement age, they may say that it involves the transfer of the person’s folder files from the Office of Disability of Operations (ODO) to whichever payment service center handles that person’s social security number (SSN.) This is an incomplete answer. In fact, this automatic folder transfer occurs when a disabled person turns 55, several years before retirement age. Footnote Reference 1 However, more is involved than just the folder transfer.
+
+Footnote 1: POMS GN 01050.110.
+
+Simply stated, when SSDI beneficiaries reach full retirement age (FRA), their disability benefits automatically convert to Retirement Insurance Benefits (RIB.) A disabled beneficiary’s last month of entitlement to disability benefits is the month before their FRA. Footnote Reference 2 This seems simple and straightforward, but further explanation clarifies the implications of what this means.
+
+Footnote 2: POMS GN 00201.005.B.3.a; 20 CFR 404.321.
+
+This conversion to retiree status applies to anyone who receives any type of SSDI benefit. This includes Disability Insurance Beneficiaries (DIB), Childhood Disability Beneficiaries (CDB), also known as Disabled Adult Children (DAC), Disabled Widow(er) Beneficiaries (DWB), and disabled surviving divorced spouse beneficiaries. All the same guidelines apply to all retirees after they reach full retirement age, regardless of how their original claim was classified.  In SSA terms, a DAC is either an auxiliary or survivor beneficiary, and a Disabled Widow(er) a survivor beneficiary; however, at FRA they are all retirees for SSA program purposes.
+
+Full retirement age has been age 65 since Social Security started. However, in 2003 the FRA began to gradually rise, based on a person’s year of birth. The FRA is increasing two months a year for people born 1/2/38 or later, so by 2008 the FRA will be 66. Starting with 2020 the FRA will increase two months a year again until it reaches 67 in 2025. This means that the age at which a disabled beneficiary will attain retirement status will depend on his/her date of birth. Footnote Reference 3 This is certainly a fact that a benefits planner needs to know and take into consideration. 
+
+Footnote 3: POMS RS 00615.003; 20 CFR 404.409.
+
+If the Birth Date is...
+1/2/38 - 1/1/39
+The FRA is... 
+
+65 years and 2 months
+If the Birth Date is...
+1/2/39 - 1/1/40
+The FRA is... 
+65 years and 4 months
+
+If the Birth Date is...
+1/2/40 - 1/1/41
+The FRA is...
+65 years and 6 months
+If the Birth Date is...
+1/2/41 - 1/1/42
+The FRA is...
+65 years and 8 months
+
+If the Birth Date is...
+
+1/2/42 - 1/1/43
+The FRA is...
+
+65 years and 10 months 
+If the Birth Date is...
+1/2/43 - 1/1/55
+The FRA is...
+66 years 
+If the Birth Date is...
+1/2/55 - 1/1/56
+The FRA is...
+66 years and 2 months 
+If the Birth Date is...
+1/2/56 - 1/1/57
+The FRA is...
+66 years and 4 months
+
+If the Birth Date is...
+1/2/57 - 1/1/58
+The FRA is...
+66 years and 6 months
+If the Birth Date is...
+1/2/58 - 1/1/59
+The FRA is...
+66 years and 8 months 
+If the Birth Date is...
+1/2/59 - 1/1/60
+The FRA is...
+66 years and 10 months 
+If the Birth Date is...
+1/2/60 and later
+The FRA is...
+67 years
+
+    B. Filing for SSDI and FRA
+
+A person past FRA can still file for SSDI, but the period of disability must have begun at least five full calendar months before the month FRA is attained. Since CDB’s have no waiting period requirement, the five months does not apply to them; they could have a period of disability starting and ending the month before the month they reach FRA. For any disabled beneficiary then, a period of disability will officially end no later than the last day of the month before the month in which FRA is attained. Footnote Reference 4 So an established period of disability for SSDI purposes has to be retroactive for anyone who has reached FRA.
+
+Footnote 4: POMS DI 00115.020; 20 CFR 404.315.
+
+A person between 62 and FRA may file claims for both SSDI and Retirement Insurance Benefits (RIB) at the same time. This normally happens when, in filing for just RIB, a person responds affirmatively to the question on the application asking if the person is disabled. If SSA finds the person disabled with an SSDI date of entitlement later than the date of entitlement for a reduced RIB, then the SSDI payment will be reduced by the number of months of RIB entitlement. Footnote Reference 5: SSA calls this “DIB after RIB.”
+
+Footnote 5: POMS DI 46001.005; 20 CFR 404.407.
+
+In awarding the RIB, SSA will also use a “freeze” recalculation that excludes the period of disability if it is to the person’s advantage. With a “freeze,” a worker's earnings are set or fixed at the time that person qualifies for a period of disability, so that any years of non-work due to a disability are not used in the benefit calculation. This preserves the individual's insured status and prevents the loss of future retirement or disability benefits which may be computed without considering periods of disability. On the other hand, if a beneficiary works after becoming entitled to SSDI and has years of earnings that are higher than earlier years, that will increase the beneficiary’s benefit that SSA will include those later years. Footnote Reference 6
+
+Footnote 6: POMS DI 26001.005; 20 CFR 404.251.
+
+    C. Conversion to Retirement
+
+SSA automatically converts a disabled beneficiary’s benefits to retirement benefits. The beneficiary does not need to apply or notify SSA. Footnote Reference 7 The SSA computer system identifies the person’s case and makes all the changes on the electronic record. These changes will be transparent to the beneficiary. Essentially, this means that the Office of Disability Operations (ODO) in Baltimore will no longer be handling the person’s post-application actions (for example, overpayments). Instead, the payment center having jurisdiction over the person’s SSN will be handling such activity. But this change will rarely, if ever, affect the beneficiary.
+
+Footnote 7: POMS GN 00201.005.
+
+The real issue is what happens to disability beneficiaries when they become retirement beneficiaries. Most disability beneficiaries will notice no difference: benefit payments will continue, Medicare will continue. But the change in status could have an effect on those who work.
+
+
+III. Impact of Conversion on Working Beneficiaries
+
+    A. Touchpoints for Working Beneficiaries
+
+Disability beneficiaries under FRA typically have to remain conscious of certain changes in their circumstances that they must report to SSA. For example, if their medical condition improves, they have to tell SSA, which will schedule a medical CDR. Working disability beneficiaries have to be aware of the impact of earned income on their benefits, be familiar with the wide range of employment supports available to help them, and vigilantly report their earnings to SSA. 
+
+At full retirement age, however, neither a disability beneficiary’s medical condition nor earnings from work matter any longer. Once a Social Security beneficiary attains FRA, medical recovery is irrelevant and earnings from work can no longer reduce or terminate a disabled person’s benefits. 
+
+    B. Earnings Test
+
+Traditionally, Social Security retirement beneficiaries have been subject to an earnings test that limits how much they can earn while still receiving full benefits. The earnings test does not apply to any disabled beneficiaries. The rationale for having this type of test (formerly called the retirement test) is based on the concept that Social Security retirement benefits are meant to partially replace earnings lost because of retirement, and thus the amount of benefits a person receives each year depends on whether that person is fully, or partially, retired. The earnings test also applies to others entitled to benefits on a beneficiary’s record, such as a spouse and children. In the past, the test applied to anyone under 72, but the age has been lowered, first to 70 a few years ago and then more recently to a person’s FRA which has been 65 for everyone until 2003. Footnote Reference 8
+
+Footnote 8: POMS RS 02501.021; 20 CFR 404.415.
+
+The earnings test measures the extent of a beneficiary’s retirement and determines the amount (if any) to be deducted from a beneficiary’s monthly benefits. Under this test a non-disability Title II beneficiary younger than the FRA who has earned income in excess of an annual exempt amount ($11,520 in 2003, $11,640 in 2004) is subject to a $1 deduction from benefits for each $2 earned over the limit. For example, a person who started receiving retirement benefits at 62 in 2003 and will earn $12,000 in 2004 will have $180 deducted from benefits for 2004: $12,000 minus $11,640 equals $360, divided by 2 equals $180.
+
+Earnings: $12,000 (in year 2004, age 63)
+Subtract 2003 Annual Exempt Amount: $11,640
+Equals: $360
+Divided by 2 equals: $180 deducted from 2004 benefits
+
+In the year of attaining FRA, a non-disabled beneficiary is subject to a higher annual exempt amount ($30,720 in 2003, $31,080 in 2004). For the months prior to the month of attaining FRA, that are over the full annual exempt amount, $1 is deducted for every $3 of earnings. For example, a person started receiving retirement benefits at 62 in 2001, attains FRA in July, 2004, and earns $33,000 in the six months from January through June, 2004. During this period, the amount of benefits SSA would withhold would be $640, $1 for every $3 earned above the $31,080 limit; that is, $33,000 minus $31,080 equals $1,920 divided by 3 equals $640. Starting in July when the person reaches FRA, full benefits would begin no matter how much the person earns. 
+
+Earnings: $33,000 (in year 2004, FRA)
+Subtract: 2003 Annual Exempt Amount: $31,080
+Equals: $1,920
+Divided by 3 Equals: $640 deducted from 2004 benefits
+
+The earnings test does not apply to disabled beneficiaries at any age; and once they are converted to retirement status at FRA, it still would not.  So, neither the earnings test nor any disability rules limiting earnings apply to those reaching FRA. 
+
+    C. Key Concepts of Substantial Gainful Activity, Continuing Disability Reviews, Work Incentives, the Ticket to Work and Conversion
+
+The key disability concept of substantial gainful activity (SGA) becomes irrelevant for SSDI beneficiaries who have attained their FRA because they are officially retirement beneficiaries to whom SGA does not apply. Similarly, medical or work Continuing Disability Reviews (CDR) is not an issue since retirement beneficiaries do not have to be disabled. With SGA no longer an issue, the work incentives or employment supports such as the Trial Work Period (TWP) and Impairment Related Work Expenses (IRWE) do not apply. Limitations on earnings cease to be a barrier to work.
+
+If an SSDI beneficiary is at FRA when a subsequent disability determination (medical or SGA) shows that person’s disability ceased prior to the conversion to retirement status, the conversion will remain valid, as will the conversion of entitled auxiliaries, and no new application is required. Footnote Reference 9
+
+Footnote 9: POMS GN 00201.005; 20 CFR 1590.
+
+SSDI beneficiaries who are setting aside their benefits under a Plan to Achieve Self Support (PASS) that was initiated prior to FRA and are still eligible for SSI due to the PASS may maintain and finish the plan past FRA. Footnote Reference 10
+
+Footnote 10: POMS SI 00870.006E.2; 20 CFR 404.1579.
+
+On the other hand, the Ticket to Work is not initially available to someone age 65 although a ticket holder can keep on working after FRA. The ticket will terminate the month in which disabled widow(er)s or disabled surviving divorced spouses attain age 65 if they are already using the ticket. Footnote Reference 11 
+
+Footnote 11: POMS DI 55002.055; 20 CFR 411.125.
+
+    D. Recalculation
+
+For Social Security beneficiaries drawing benefits on their own earnings records, another possible implication of working is an increase in the benefit amount. SSA uses its Automatic Earnings Reappraisal Operation (AERO) to screen a beneficiary’s earnings records, detect changes in their earnings information, and calculate the necessary changes. This process gives beneficiaries credit for any additional covered earnings in the previous year and recalculates the benefit amount. Such a recalculation never decreases a person’s benefits. However, an automatic recalculation can increase benefits, if earnings in the additional base year(s) are higher than the earnings in the lowest computation year used in the last calculation or recalculation. Footnote Reference 12
+
+Footnote 12: POMS RS 00605.560; 20 CFR 404.281; 20 CFR 404.286.
+
+The essential point in regard to recalculations for people with disabilities is that SSA excludes an established period of disability in determining benefits, unless the exclusion of the period results in higher benefits. That is, a recalculation will not result in a decreased Title II benefit. Beneficiaries can work and not worry that their earnings will negatively affect the calculation of their benefit amount. (See the discussion of the disability “freeze” in Section II.A. above.)
+
+A recalculation that includes a particular year's earnings is effective in January following the year in which the earnings were paid. Footnote Reference 13 For example, a benefit increase resulting from an automatic recalculation to include 2002 earnings will first be paid in January 2003 and then onward. The process takes most of the year, so that in this example, the beneficiary would receive the payment of the additional money, in the form of a lump sum for the amounts due since January, late in 2003.
+
+Footnote 13: 20 CFR 404.282.
+
+    E. Auxiliaries, Survivors, and New Entitlement
+
+A significant increase in the benefit amount for an auxiliary or survivor beneficiary (including a DAC, DWB, or surviving divorced spouse) can occur for various reasons. Most are related to a change of status of either the person whose record is being drawn upon, or other beneficiaries entitled on that same record. For instance, when a DAC’s parent dies (the parent whose record the DAC has been receiving benefits on), the DAC’s benefit amount goes from 50 percent to 75 percent of the parent’s primary insurance amount, subject to the family maximum limitation. Or when a DAC’s benefits are reduced because of the family maximum and one of the other auxiliaries/survivors on the same record becomes ineligible, the DAC’s benefit amount will rise. Numerous scenarios for Title II benefit increases are possible for auxiliaries and survivors. Footnote Reference 14
+
+Footnote 14: POMS RS 00203.025; 20 CFR 404.353; 20 CFR 404.403.
+
+New entitlement to Title II benefits as an auxiliary or survivor can, and is, more likely to occur as a recipient approaches retirement age. And someone can become eligible for Title II benefits not only because of reaching FRA, but also because of the retirement, death, or disability of a parent and/or spouse. 
+
+For example, a disabled person over 50 whose divorced spouse dies may be entitled to surviving spouse’s benefits. Or a 62-year-old person (disabled or not) whose spouse (divorced or not) retires or becomes disabled would be entitled to auxiliary benefits. Or, a DAC who has been drawing on one parent’s record may become newly entitled to higher benefits on the other parent’s record when the second parent retires, dies, or becomes disabled. Footnote Reference 15 Again, numerous variations of this type entitlement can occur. (How the implementation of, or an increase in, Title II benefit(s) affects an SSI recipient’s payment amount is a separate issue and is addressed later in the TII/TVI Interface section.)
+
+Footnote 15: 20 CFR 404.336; 20 CFR 404.350.
+
+    F. Medicare
+
+If a disability beneficiary has Medicare at age 65, it will continue after 65. Medicare coverage for the disabled is the same, in all respects, as Medicare coverage for retired individuals. That is, the rules regarding benefit periods, deductible and coinsurance amounts, and other elements of Medicare are the same for both disabled and retired individuals. Footnote Reference 16
+
+Footnote 16: POMS HI 00801.146; 42 CFR 406.5.
+
+If disability beneficiaries do not have Medicare at 65 because they have not been entitled to SSDI for 24 months, they become automatically entitled at 65. If they chose not to enroll before 65, they can do so without any surcharge during the months just before turning age 65, because the attainment of age 65 begins a new Initial Enrollment Period (IEP.) The same is true if disabled beneficiaries previously just enrolled in Part A. When turning age 65, they will be automatically enrolled in Part B receiving a new Medicare card reflecting the Part A entitlement date based on disability, and the Part B entitlement date based on age 65.  
+
+IV. Title XVI/Supplementary Security Income (SSI)
+
+The transition from disability to retirement in Title XVI differs in important ways from Title II. SSA does not use the term or concept of “retirement” in relation to SSI. Rather, a person at 65 who meets the program’s income and resource qualifications is an “Aged Individual” (AI) rather than a “Disabled Individual” (DI) and does not have to meet the definition of disability to be eligible.
+
+    A. Multicategory
+
+The SSI program has a “multicategory” status in which recipients eligible under more than one category can elect which category they want: Disabled Individual (DI), Blind Individual (BI), or Aged Individual (AI). Usually this is a matter of retaining their disability (DI) or blind (BI) status past age 65, even though normally someone over 65 would be considered an AI. A DI or BI recipient does not have to take any action to retain disability/blind status past 65, nor does SSA have any test or review for such a person. 
+
+Individuals may also change from one category to another and back again within 2 or 3 months’ time when it is in their interest. Footnote Reference 17 And an individual may initially apply as disabled or blind after attaining age 65. (See the Disability Evaluation section below.)
+
+Footnote 17: POMS DI 11055.010; SI 00501.300; 20 CFR 416.202.
+
+SSI recipients will normally request a change in category because they are seeking a higher Federal payment (for example, from disability to blindness before age 65); a higher State supplementary payment; and/or continuation of Medicaid under the special SSI eligibility status, 1619(b). (See more about this in the Work Incentives section below.)  So, unlike an SSDI beneficiary who has no choice in conversion to retiree status, an SSI recipient normally can choose the most advantageous status, although some restrictions on changes to type of claim category can occur, depending on the provisions of individual State-Federal agreements. 
+
+    B. SSI Work Incentives
+
+The monthly earned income exclusion (subtracting $65 from the gross wages and then subtracting half of the remainder) is considered a work incentive but applies to all SSI recipients -- Aged as well as Disabled and Blind. SSI recipients have this incentive, regardless of their category. Also, reinstatement of eligibility without a new application within 12 months of ineligibility applies to all SSI recipients. Footnote Reference 18
+
+Footnote 18: POMS SI 00820.520; 20 CFR 416.1112.
+
+Other work incentives also continue to apply to SSI recipients over 65, as long as the person is a DI or BI. Footnote Reference 19 These include Plan to Achieve Self Support (PASS), Blind Work Expenses (BWE), Impairment Related Work Expenses (IRWE), Property Essential to Self Support (PESS), and Expedited Reinstatement (EXR). Also continuing are both 1619(a), which continues SSI cash payments when earned income is above the SGA level, and 1619(b) which continues Medicaid eligibility for recipients who would be eligible for an SSI payment except for their work earnings.
+
+Footnote 19: POMS SI 02302.006; 20 CFR 416.265.
+
+Subsidy and Special Conditions, Unincurred Business Expenses, and Unsuccessful Work Attempt are relevant only if a person over 65 is applying for DI and has an initial SGA issue, since subsidies are not taken into account in computing the SSI payment amount. SSI recipients’ Ticket to Work will generally terminate the month following the month in which they attain age 65 although the recipient can keep working with the regular work incentives. Footnote Reference 20
+
+Footnote 20: 20 CFR 411.125.
+
+An SSI recipient over 65 who retains the disabled status has the advantage of keeping work incentives but is still subject to a Continuing Disability Review (CDR) and so could have that DI status terminated if medical recovery occurs. Of course, such recipients would still have the earned income exclusion if they otherwise meet all the other factors for SSI eligibility. Statistically, such a scenario is rare, but possible.
+
+
+V. Title II and Title XVI Interface
+
+SSI recipients’ payments or eligibility can be affected if they become insured for, and start receiving, Title II benefits on their own record; have an increase in existing Title II benefits (due to a recalculation or a change in status of others on the same record); or start receiving auxiliary or survivor benefits due to the retirement, disabling condition, or death of a spouse or parent. Footnote Reference 21 These events can occur at any time during a recipient’s life, but they are more likely to happen as a person approaches retirement age. Of course, one eligibility factor for SSI is that a person must apply for all other potential benefits, so a recipient cannot refuse entitlement to any Title II benefit and still receive SSI.
+
+Footnote 21: POMS SI 00510.001; 20 CFR 416.210.
+
+Working SSI recipients gaining insured status for Title II benefits on their own record is not unusual. This usually occurs with younger recipients who need relatively few work credits to be entitled to SSDI. However, the amount of the benefit is rarely high enough to preclude SSI eligibility, because the person’s earnings are relatively low. Even with ongoing work and subsequent recalculations, the SSDI benefit in such cases normally does not reach a level that makes a recipient ineligible. However, if a recipient has substantial earnings over several years, this could occur.
+
+The Title II/SSDI section above discussed how auxiliary and/or survivor benefits could increase or start. Such changes would usually affect SSI recipients’ payments and possibly eligibility. If the receipt of Title II benefits precludes eligibility, the person also loses automatic categorical Medicaid eligibility and would have to try to acquire MA coverage via other state programs. An exception for DAC’s comes under 42 U.S. Code 1383C, also called section 1634(c), where SSA requires states to consider DAC’s who lose SSI eligibility due to entitlement to, or increase in, Title II benefits. 
+
+For example, one possible scenario would be a person receiving a DAC benefit of 50 percent (auxiliary) of a parent’s benefit, then the parent dies so the DAC benefit goes up to 75 percent (survivor) which is high enough to cause the DAC’s SSI ineligibility. The DAC would still have Medicaid, since the person would have remained eligible for SSI except for an increase in Title II benefits. Similar protection exists under the Pickle continuation provisions Footnote Reference 22 (Public Law 94-566, Section 503). When recipients lose SSI eligibility due to the Cost of Living Adjustment (COLA) increase of Title II benefits, they retain Medicaid coverage.
+
+Footnote 22: POMS SI 01715.015.
+
+Attainment of retirement age should not normally affect Medicare Buy-In Programs such as Qualified Medicare Beneficiaries (QMB) because they are dependent on a person being entitled to Medicare and meeting income and resource qualifications whether they are disabled or retired.
+
+Many states have implemented a Medicaid Buy-In Option, which provides access to Medicaid coverage for people with disabilities who are working.  Obviously, retiring from employment means loss of eligibility for the buy-in, and long-term benefits support plans should address this issue.  
+
+
+VI. Disability Evaluation
+
+As indicated earlier in this paper, an individual may initially apply for SSDI up to FRA, and apply for SSI as a disabled or blind individual after attaining age 65. SSDI medical determinations for anyone over 65 are rare, given the program limitations discussed earlier. However, disability evaluations under SSI for applicants over 65 are more common.
+
+Evaluations and determinations of disability and/or blindness under Title XVI for an applicant over 65 will be needed in certain specific situations in which such a finding works to the advantage of the applicant. One situation involves aliens: to be eligible for SSI, a non-citizen must meet certain immigration criteria (that is, they must be a “qualified” alien) and one of several other conditions which include already being eligible for SSI, being a U.S. military veteran, and lawfully residing in the U.S. on 8/22/96, and being blind or disabled. Footnote Reference 23 When otherwise qualified aliens over age 65 do not meet any of the other non-citizen eligibility conditions for SSI, they need to be found disabled.
+
+Footnote 23: POMS DI 25015.025.
+
+Other SSI situations in which a Disability Determination Bureau (DDB) determination is needed are: where supplements in some states are payable only to blind or disabled recipients (section 1616 of the Social Security Act); when appropriate deeming of income and resources is an issue (section 1621(f)(1) of the Social Security Act); and when the work incentive provisions under 1619(b) are applicable. 
+
+In all of these circumstances, the DDB must evaluate an applicant’s medical condition and determine if it is disabling. In general, DDB uses the regulations and procedures for determining disability for adults under age 65 when determining whether an individual age 65 or older is disabled. Footnote Reference 24 For instance, a person applying for SSI and working at the Substantial Gainful Activity level (after taking the allowable work incentives into account), will not be considered disabled and will be disallowed as a Disabled Individual (DI.) 
+
+Footnote 24: 20 CFR 404.1520.
+
+However, in following the other steps in the five-step sequential disability evaluation process for those applicants over 65, DDB considers age a critical factor in making a determination. Even though the rules for determining disability are oriented for individuals who have not attained age 65, they take into account that certain characteristics of aging cause greater vocational adversity. 
+
+For instance, the regulations recognize that age imposes greater limits on vocational adaptability for individuals who retain the functional capacity to perform medium work, and that with advancing age some impairments are more likely to occur and are more likely to be chronic than acute: osteoporosis, certain cancers, adult-onset diabetes mellitus, impairments of memory, hypertension, and impairments of vision or hearing. Footnote Reference 25 Also an individual age 72 and older with any medically determinable impairment is conclusively deemed to have a "severe" impairment under the regulations.
+
+Footnote 25: POMS DI 25015.025; 20 CFR 404.1563; 20 CFR 404.924c.
+
+
+VII. Impact of Conversion on Other Benefits and Services
+
+The other federal and state support programs available to people with disabilities are usually equally available to people of retirement age. Food stamps and energy assistance eligibility requirements have to do with income. Housing assistance programs are also low income-oriented but give special consideration to both people with disabilities and the elderly. State vocational rehabilitation agencies serve people, regardless of age. The Department of Veterans Affairs has a priority group system that gives special consideration to veterans with disabilities for access to services and benefits.
+
+The Earned Income Tax Credit (EITC) is for people who work and have low income regardless of any disabling condition. However, certain other tax provisions (federal and state) do give specific breaks to the elderly. For example, people over 65 can claim a higher standard deduction than those under 65 in filing their federal taxes.
+
+Medicaid eligibility for those whose Title II benefit is too high to allow SSI eligibility remains a critical issue for people with disabilities approaching retirement age. Medicaid is one of the most important programs serving people with disabilities, since in most cases they cannot afford any other health insurance. Benefit specialists must have a comprehensive knowledge and full understanding of the Medicaid opportunities in their state to properly assist clients. 
+
+
+VIII. The Benefit Specialist’s Role
+
+Based on the discussion in this paper, benefit specialists must be cognizant of the various scenarios that could arise for clients approaching retirement age, or clients who have spouses/parents nearing retirement age. And they must have the knowledge and understanding to be able to correctly analyze and explain the alternatives to a client.
+
+Some states have benefits planners specifically for people of retirement age. For example, Wisconsin has had county and tribal Elderly Benefit Specialists serving people 60 or older since the late 1970s. However, people with disabilities reaching retirement age, especially those working, tend to have relatively unique situations that require the assistance of specialists trained and experienced in disability programs and provisions. 
+
+For example: Jane is a 55-year-old former executive who became disabled several years ago and was forced to leave her job.  Jane is now considering a return to work, but in a job that pays significantly less than her previous occupation.  Jane contacts a Benefit Specialist to ask how working while disabled might affect her retirement benefits when she reaches full retirement age.  The benefits specialist explains that wages earned during a period of disability will be excluded in the calculation of retirement benefits, unless the earnings are higher than earlier years and will increase her benefit.  The specialist also assures Jane that years of non-work due to a disability are not used in the calculation as well, preserving her insured status.
+
+To ensure that benefits specialists have the knowledge required to advise beneficiary’s about retirement benefits, initial and ongoing training should specifically deal with the disability/retirement transition issue. This would probably involve supplementing current training curricula. For example, when covering Social Security work incentives, trainers should incorporate the information about how certain incentives terminate at retirement age, or spend more time explaining survivor and auxiliary benefits. Such alterations could fit naturally into existing training systems. 
+
+
+IX. The Role of Protection and Advocacy
+
+Protection and advocacy specialists may encounter people with disabilities age 55 or older who feel they have been discriminated against by an employer because of their age or their disability. Advocacy specialists need to be aware of the implications for transition from disability programs to retirement benefits as they assist people with such programs and services as subsidized housing, energy assistance, and state and local benefits, in addition to Social Security Disability Programs.
+
+X. Conclusion
+
+The Social Security transition to retirement benefits for people with disabilities should not be a traumatic or even an unsettling experience. Certain potential changes can take place but should not have a negative effect. People with disabilities can still work, fulfill their capabilities, and receive most other supportive assistance. What is important is that they receive accurate information and appropriate assistance so they can better understand what the possibilities are. 
+

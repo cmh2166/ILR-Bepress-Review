@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Union Membership Wage-Premium Puzzle:  Is There a Free Rider Problem?</title>
+<publication-date>2004-04-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<institution>Australian National University</institution>
+<lname>Booth</lname>
+<fname>Alison</fname>
+<mname>L</mname>
+</author>
+<author>
+<institution>University of Essex</institution>
+<lname>Bryan</lname>
+<fname>Mark</fname>
+<mname>L</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Economists have long suggested that labor unions suffer a free rider problem. The argument is that, since union-set wages are available to all workers covered by unions irrespective of their union status, and union membership entails costs, workers will only join if they are coerced or are offered non-wage goods that they value above membership costs. Yet U.S. and British empirical research has found a substantial union membership wage premium among private-sector union-covered workers, implying that there is no free rider problem. The authors of this study hypothesize that these findings arise due to selectivity problems associated with identifying the union membership effect. Their analysis, which uses rich data from a new linked employer-employee survey for Britain and exploits the within-establishment variation in wages as a function of individual union membership status, demonstrates that the apparent wage premium for members is illusory. Hence, a potential free rider problem remains.&lt;/p&gt;</abstract>
+<coverpage-url>http://digitalcommons.ilr.cornell.edu/ilrreview/vol57/iss3/5</coverpage-url>
+<fulltext-url>http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1076&amp;amp;context=ilrreview&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1076</articleid>
+<submission-date>2005-07-12T07:16:38-07:00</submission-date>
+<publication-title>ILR Review</publication-title>
+<context-key>82998</context-key>
+<submission-path>ilrreview/vol57/iss3/5</submission-path>
+<fields>
+<field name="acknowledgements" type="string">
+<value>This research was supported by funds from the Leverhulme Trust under Award F/00213C &quot;Work-Related Training and Wages of Union and Non-Union Workers in Britain.&quot;  For helpful comments on earlier drafts of this paper, the authors thank Martyn Andrews, Wiji Arulampalam, René Böheim, John Budd, Lorenzo Cappellari, John Forth, Marco Francesconi, Andrew Hildreth, and participants in seminars at the University of Essex, the London School of Economics, and the 2001 conferences of the European Association of Labour Economics and the Education and Employment Economics Group.  The authors acknowledge the Department of Trade and Industry, the Economic and Social Research Council, the Advisory, Conciliation, and Arbitration Service, and the Policy Studies Institute as the originators of the 1998 Workplace Employee Relations Survey, and the Data Archive at the University of Essex as the distributor of the data.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-04-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,922 @@
+The Federal Earned Income Tax Credit
+
+A Work Incentive That Puts More Money in a Paycheck and Saves on Taxes
+
+Introduction
+
+
+Individuals with disabilities who work face many challenges.  One challenge is making ends meet when transitioning from the world of receiving disability benefits to the world of work. A little-known federal work incentive, the Federal Earned Income Tax Credit (EITC) can help overcome that challenge.  The EITC is a special tax benefit for working people who earn a low or moderate income, i.e., earnings up to $35,458 for a married couple with two children for the 2004 tax year.  While the EITC potentially applies to any individual who works and has low income, it can certainly assist individuals with disabilities in the work force.
+
+The Earned Income Tax Credit has several important purposes: to offset a portion of living expenses and FICA contributions, providing much needed support to low-income workers and making work more attractive than government benefits.  Individuals who qualify for the EITC and file a federal tax return can get back some or all of the federal income tax that was taken out of their pay during the year.  They may also get extra money back from the Internal Revenue Service (IRS).  Even individuals whose earnings are too low to owe income tax can get the EITC, in the form of extra money in their paycheck or as a tax refund when their tax return is filed. The Earned Income Tax Credit may even offset any additional taxes individuals may otherwise owe at the end of the tax year.  Amazingly, the EITC does not generally affect eligibility for Medicaid, food stamps, low-income housing subsidies, or Supplemental Security Income (SSI).  The impact of the EITC on welfare benefits, including Temporary Assistance to Needy Families (TANF), will vary from state to state.
+
+This Policy and Practice Brief (brief) will explain what the Earned Income Tax Credit is and how it works.  It will cover who is eligible for the EITC and how much it is worth.  It will also explain how to use the EITC to get a tax refund and the logistics of using it to receive advance EITC payments and thus increase a regular paycheck.
+
+The Purpose of This Policy and Practice Brief
+
+This Policy and Practice Brief, like others in this series, is directed to a primary audience of benefits specialists who work for Benefits Planning, Assistance and Outreach (BPA&O) projects and attorneys and advocates who work for Protection and Advocacy for Beneficiaries of Social Security (PABSS) programs.  Our intent, however, is not to provide a resource so that the reader can engage in either tax counseling or tax preparation.  Rather, our intent is to provide a screening tool so that BPA&O and PABSS staff can educate SSI and Social Security Disability Insurance (SSDI) beneficiaries about the potential benefits of the EITC and the general eligibility rules governing this special tax credit.
+
+The authors do not hold themselves out as either tax experts or experts on the EITC criteria that will apply to any individual.  For this reason, we will not provide citations to the law, regulation, and policy governing the EITC.  We encourage readers, who should likewise encourage the beneficiaries they serve, to either consult with the IRS or a professional tax preparer to answer EITC questions as they apply to specific individuals.  If the reader expects to screen their clients/ consumers for potential EITC eligibility, including eligibility for advance EITC payments, we urge you to obtain IRS Publication 596, Earned Income Credit (53 pages in pdf format), which is available on the IRS website. Footnote Reference 1  Again, your purpose in using this article and the IRS publication as reference materials is to help identify when a beneficiary might benefit from the EITC.
+
+Footnote 1: See www.irs.gov/pub/irs-pub/p596.pdf.
+
+Who Is Eligible for the EITC?
+
+I. A Wide Range of Single and Married Wage Earners, With or Without Children, Will Qualify for the EITC.
+
+Single or married people who worked full-time or part-time at some point in 2004 can qualify for the Earned Income Tax Credit, depending on their income.  Workers who were raising one child in their home and had family income of less than $30,338 (or $31,338 for married workers) in 2004 can get an EITC, ranging from $3 to $2,604 for the tax year.  Workers who were raising more than one child in their home and had family income of less than $34,458 (or $35,458 for married workers) in 2004 can get an EITC, ranging from $1 to $4,300.  Even workers, between the ages of 25 and 64, who were not raising children in their home and had income below $11,490 (or $12,490 for married workers) can get an EITC, ranging from $2 to $390.
+
+Example. Footnote Reference 2 Jaime and Nancy are married and have two children, ages 20 and 21, who both attend college.  Jaime is a former SSI recipient who is working despite his continuing severe disability.  Jaime gets continuing Medicaid coverage under the work incentive known as 1619(b).
+
+Footnote 2: The authors have consulted with the IRS’s tax resources and a tax specialist to make our examples as realistic as possible.  Readers must keep in mind, however, that tax liability will always vary with individual circumstances.
+
+During 2004, Jaime worked full time and earned $19,000 in gross wages while Nancy worked part time and earned $10,000 in gross wages.  They received $11 in bank interest during the 2004 tax year, but had no investment income or any additional source of taxable income.  They reported $29,011 as their Adjusted Gross Income (AGI) on line 21 of IRS Form 1040A.  Based on their AGI of $29,011 and using both their standard deduction and exemptions based on their household of four, this couple had taxable income of $6,911 and would owe the IRS $691 in taxes for 2004.  If we also assume they had a combined $230 withheld in federal taxes and would not be using the EITC or any other tax credit, Footnote Reference 3 they would be expected to send the IRS a check for $461, for their balance of taxes owed, when they file their tax return ($691 – 230 = $461).
+
+Footnote 3: If Jamie and Nancy have paid anything toward the college tuition of either of their adult children, during 2004, they might quality for education credits.  See line 31 on IRS Form 1040A.
+
+Now, let’s apply the Earned Income Tax Credit to this scenario.  Jaime and Nancy’s adjusted gross income of $29,011 makes them eligible for an EITC of $1,355. Footnote Reference 4  The EITC has eliminated the $691 they owed in income tax (including the $461 balance after withholding) and now provides them with a refund of $894.  Let’s look at the calculation before and after the tax credit is applied:
+
+Footnote 4: See 2004 IRS Earned Income Credit Table, at Appendix A following the end of this brief.
+
+Without the EITC:
+Taxes owned based on income: $ 691
+Minus taxes withheld from pay $230 
+Equals amount taxpayer(s) must pay to the IRS: $461
+
+With the EITC:
+Credit available based on income: $1,355 
+Minus taxes ordinarily owned based on income: $691 
+Equals credit remaining after deducting taxes owned: $664
+Plus taxes withheld during year: $230 
+Equals refund due to taxpayer(s): $894
+
+The EITC is a tax credit and not a tax deduction.  As a credit, once the value of the Earned Income Tax Credit is determined the tax savings are equal to the full value of the credit.  So, in the example of Jaime and Nancy, this couple gets the full benefit of the $1,355 in combined tax savings and refund.  By contrast, if the $1,355 were a tax deduction (such as mortgage interest for those who itemize), the tax savings would only be a percentage of the deduction (e.g., $135.50 for those in a 10 percent tax bracket).  Also, with a deduction the greatest benefit is to reduce taxes owed to $0; the taxpayer would never receive a refund when they owe no taxes and no federal taxes were withheld from their paycheck.
+
+
+II. The Special Rules
+
+By now, you are thinking that the EITC sounds too good to be true and there must be some special qualification rules.  You are right!  First, there are the rules for everyone and then there are three sets of rules, depending on the individual:  rules if you have a qualifying child, rules if you do not have a qualifying child, and the earnings rules.
+
+A. Rules for Everyone
+
+In addition to meeting the adjusted gross income requirements, individuals filing for the EITC must meet six other rules:
+
+1. The Individual, Their Spouse (if Filing Jointly) and Any Qualifying Child Must Have a Valid Social Security number.  
+
+The individual seeking the EITC must have a valid Social Security number.  In addition, the spouse if filing jointly, and the qualifying child, must have valid Social Security numbers. If the Social Security card of the individual claiming the tax credit (or the card of the spouse if filing a joint return) states “Not valid for Employment” and the Social Security card was issued so that the individual or the spouse could qualify for a federally funded benefit, like Medicaid, the individual with the notation on his or her card will not qualify for the EITC. 
+
+2. The Individual’s Filing Status Cannot be “Married Filing Separately.”  
+
+If the individual filing for the EITC is married, then he or she usually must file a joint return to claim the credit.  The one exception is for the individual whose spouse has not lived with them at any time in the last six months of the year.  Under those circumstances, the individual can file as head of the household instead of married filing separately and still qualify for the EITC.
+
+3. The Individual Must Be a U.S. Citizen or Resident Alien all Year.  
+
+An individual who is resident alien in any part of the year cannot claim the credit unless he or she is married to a U.S. citizen or another resident alien and chooses to be treated as a resident alien for the entire year by filing a joint tax return.  This means that the individual and spouse will be taxed on their worldwide income for the year.
+
+4. The Individual Cannot File Form 2555, Foreign Earned Income, or Form 2555-EZ, Foreign Earned Income Exclusion.  
+
+This is a follow-up to the rule above regarding taxation of worldwide income.  The individual who plans to exclude income earned in foreign countries from their gross income cannot claim the EITC.
+
+5. Investment Income Must Be $2,650 or Less.  
+
+An individual cannot claim the EITC unless the investment income (Form 1040, Form 1040A or Form 1040EZ) is $2650 or less. 
+
+6. The Individual Must Have Earned Income.  
+
+This credit is called the Earned Income Tax Credit because to qualify an individual must work and have earned income. A married couple filing jointly meets this rule if one spouse works and has earned income.  Earned income includes wages, salaries and tips, as well as net earnings from self-employment.  Interestingly, strike benefits paid by a union to its members are treated as earned income for EITC purposes.
+
+B. Rules If You Have A Qualifying Child
+
+An individual who has a qualifying child and meets all the rules for everyone must also meet four more rules to qualify for the earned income tax credit:
+
+1. The Child Must Meet the Definition of “Qualifying Child,” As Broadly Defined.  
+
+To be a qualifying child, a child must be the son, daughter, adopted child, stepchild, or descendant of any of them (for example, a grandchild); or an eligible foster child for whom the individual cared for as if they were their own child; or a brother, sister, stepbrother, stepsister, or descendant of any of them (for example, a niece or nephew) for whom the individual cared for as if they were their own child.  A child does not have to be the dependant of the individual to be a qualifying child of the individual claiming the EITC.
+
+2. A Qualifying Child Must Be Age Eligible and Must Have Lived With the Individual in the United States for at Least Half of the Year.  
+
+The child must be under age 19 at the end of the year, or a full-time student under age 24 at the end of the year, or permanently and totally disabled as defined by SSA, at any time during the year, no matter what age.  The child must have lived in the United States with the individual, claiming the EITC, for at least half of the year.  United States means the 50 states and the District of Columbia.  It does not include Puerto Rico and Guam, which are considered U.S. possessions.  A child who was born or died during the year is treated as having lived with the individual the entire year, if the individual’s home was the child’s home the entire time the child was alive during the year.
+
+3. The Individual’s Qualifying Child Cannot Be Used By Another Person to Claim the EITC.  
+
+Often, a child meets the rules to be a qualifying child of more than one person. Only one person, however, can treat the child as a qualifying child and access the EITC using that child.  If two individuals have the same qualifying child, the two individuals can choose who will claim the EITC using that qualifying child.  Sometimes, the two individuals cannot agree and both claim the EITC using the same child.  Then, the government applies the following rules to decide who can treat the child as a qualifying child.
+
+* If only one is the child’s parent, only the parent can treat the child as a qualifying child.
+* If both are the child’s parents, only the parent with whom the child lived the longest during the year can treat the child as a qualifying child.
+* If both are the child’s parents and the child lived with each parent the same amount of time during the year, only the parent with the highest adjusted gross income can treat the child as a qualifying child.
+* If neither is the child’s parent, only the person with the highest adjusted gross income can treat the child as a qualifying child.
+
+Example.  An example will help illustrate the qualifying child rule.  Ed and his five-year-old son, Jay, lived with Ed’s mom (i.e., Jay’s grandmother) all year.  Ed is 25 years old and his only income was $12,000 from a part-time job.  Ed’s mom’s only income was $19,999 from her job.  Jay is a qualifying child of both Ed and his mother as Jay meets the relationship, age, and residency tests for both Ed and his mother. Only one of the two can use Jay to claim the EITC.  Ed and his mother may choose which will treat Jay as a qualifying child to claim the credit.  If they cannot agree and both use Jay to claim the EITC, Ed as Jay’s parent will be the only one allowed to treat Jay as a qualifying child to claim the credit.  
+
+Note:  At age 25, Ed is not the qualifying child of his mother unless he is permanently and totally disabled.  As noted in the next section, if Ed was the qualifying child of his mother, he could not claim the EITC.
+
+4. The Individual Claiming the EITC Cannot Be a Qualifying Child of Another Person.  
+
+As already noted, an individual is the qualifying child of another person if: he or she is the son, daughter, adopted child, stepchild, grandchild or eligible foster child; or if he or she is the brother, sister, stepbrother, stepsister (or the child or grandchild of that person’s brother, sister, stepbrother or stepsister) and that person cared for the individual as if they were their own child.  Additionally, the qualifying child must meet the age and U.S. residency criteria as described above.
+
+If the individual (or spouse if filing a joint return) is a qualifying child of another person, the individual cannot claim the EITC. This rule applies even if the person, for whom the individual is a qualifying child, does not meet all of the rules to claim the EITC or does not claim the credit.
+
+Example.  How does this rule work in real life?  Let’s look at Ed once again, changing the facts slightly.  Ed and Jay live with Ed’s mom all year.  Ed is 22 years old and attended a trade school full time.  Ed also had a part-time job and earned $5,700.  Ed is a qualifying child of his mother as he meets the relationship, age (i.e., under age 24 and a student), and residency tests.  Ed’s mom can claim the EITC if she meets all the other requirements.  Ed, however, cannot claim the EITC as he is his mother’s qualifying child.  Ed cannot claim the EITC even if his mother cannot or does not claim it.
+
+C. Rules If You Do Not Have a Qualifying Child
+
+An individual who does not have a qualifying child and meets all the rules for everyone must also meet the following four rules to qualify for the EITC:
+
+1. The Qualifying Individual Must Be At Least Age 25, But Under Age 65, at the End of the Year.  
+
+If married and filing a joint return, either the individual or the individual’s spouse must meet this requirement.
+
+2. The Qualifying Individual Cannot Be the Dependent of Another Person.  
+
+If another person can claim the individual filing for the EITC (or their spouse if filing a joint return) as a dependent on his or her return but does not, the individual still cannot claim the credit.
+
+3. The Qualifying Individual Cannot Be a Qualifying Child of Another Person.  
+
+The same rules that apply to an individual with a qualifying child apply to an individual with no qualifying children. If the individual (or spouse if filing a joint return) is a qualifying child of another person, the individual cannot claim the EITC. This rule applies even if the person, for whom the individual is a qualifying child, does not meet all of the rules to claim the EITC or does not claim the EITC.
+
+4. The Qualifying Individual Must Have Lived in the United States at Least Half the Year.
+
+The qualifying individual (and spouse, if filing jointly) must have lived in the U.S. for at least half of the year.  United States means the 50 states and the District of Columbia.  It does not include Puerto Rico and Guam, which are considered U.S. possessions.  The home can be any location in which the individual regularly resides and need not be a traditional home.  This means that if the individual lived in one or more homeless shelters for more than half the year, the individual meets this rule.
+
+
+III. Rules for Computing and Claiming the Credit
+
+A. The Individual’s or Married Couple’s Earned Income and Adjusted Gross Income Must Both Be Below the Limits Set by the IRS.
+
+An individual or couple must know their gross earned income and then calculate adjusted gross income (AGI) in order to determine eligibility for the credit. In most cases, earned income and AGI will be nearly the same.  However, in some cases, AGI (line 21 of IRS Form 1040A) could be significantly higher than earned income because the individual or couple must report some additional form of unearned income, such as stock dividends or unemployment benefits (see lines 9a and 13 of IRS Form 1040A).  In other cases, AGI could be significantly lower than earned income because the individual or couple is allowed adjustments from gross income for items like an IRA deduction or a student loan interest deduction (see lines 17 and 18 of IRS Form 1040A).
+
+To claim the Earned Income Tax Credit, both the earned income and the AGI of the individual or couple must be below the following designated amounts for 2004:
+
+* for an individual with one qualifying child, less than $30,338 (or $31,338 if married, filing jointly); or
+* for an individual with more than one qualifying child, less than $34,458 (or $35,458 if married, filing jointly); or
+* for an individual with no qualifying child, between the ages of 25 and 64, less than $11,490 (or $12,490 if married, filing jointly).
+
+B. The Amount of the EITC Is Determined After Figuring AGI and Using the IRS’s Earned Income Credit Table.
+
+After determining that the individual or couple can claim the credit, the IRS’s EITC table must be used to determine the amount of the credit.  For example, we used that table in the example of Jaime and Nancy (part I, above) to determine they had a credit of $1,355 with an AGI of $29,011 and two qualifying children.  A copy of the EITC table for tax year 2004 is reproduced and included as an appendix. Footnote Reference 5  
+
+Footnote 5: See Appendix-A.  The table is also available as part of IRS Publication 596 (see note 1, above).
+
+C. Some Taxpayers Will Qualify for Advance EITC Payments.
+
+If an individual or couple, with a qualifying child, expects to be eligible for the tax credit at the end of the tax year, they might be eligible to get their EITC in advance as an addition to their paycheck.
+
+Example.  In March 2005, Ed tells his friend Shelley that he gets $50 added to his paycheck each month because of his Earned Income Tax Credit.  Shelley would like to get extra money in her paycheck and asks Ed what he is talking about.  Ed explains that he receives an advance EITC payment every paycheck.  Shelley must supply the correct answers to three questions to determine if she is eligible for advance payments.
+
+1. Does Shelley Expect to Have a Qualifying Child?  
+
+The definitions for qualifying child are fully discussed at part II.B, above.  If Shelley does not expect to have a qualifying child (i.e., the answer is no), the process stops.  Shelley cannot receive advance EITC payments in 2005.  If the answer is yes, Shelley then needs to answer the next question. 
+
+2. Does Shelley Expect Her Adjusted Gross Income and Earned Income Will Each Be Less Than About $31,000 ($33,000 For a Joint Return) in 2005?  
+
+If the answer is no, the process stops.  Shelley cannot receive advance EITC payments in 2005.  If the answer is yes, Shelley then needs to answer the next question.
+
+3. Does Shelley Expect to Be Eligible for the EITC in 2005?  
+This is pretty much a perfunctory step as long as Shelley meets all the requirements for everyone.  If the answer is no, the process stops.  Shelley cannot receive advance EITC payments in 2005.  If the answer is yes, Shelley can take steps to get her advance payments.  Shelley, however, cannot get advance EITC payments unless her wages are subject to federal income tax, Social Security tax, or Medicare tax withholding. 
+
+Readers will note that the three questions above all use the word “expect.”  This means that Shelley does not have to know if she will be able to answer yes when filing her tax return.  She need only make a best guess that she will be able to answer yes.  This does not mean that individuals can fraudulently answer a question in the affirmative when they know the answer is incorrect. 
+
+Since Shelley answered yes to the three questions posed above, she can complete Form W-5, give the lower part of the form to her employer and keep the upper part for her records.  Now Shelley will be able to receive part of her EITC in advance. This is because an individual may only get part of the EITC during the year in advance payments.  During 2005, a taxpayer can receive no more than $1,597 in advance EITC payments even though the actual credit might be more than double that amount.
+
+Finally, an individual who receives advance EITC payments in 2005 must file a 2005 tax return (even if not otherwise required to file) to report the payments and claim any additional credit.  Box 9 of the W-2 will show the amount of the advanced EITC the individual received from the employer.  In Shelley’s case, she will get the rest of the EITC when she files her tax return in 2006 and claims the credit.  On the other hand, if Shelley received advance payments and later learns she was not eligible for some or all of the payment, she must report the advance payment on her tax return.  She may be responsible for paying the overpaid amounts back.
+
+
+IV. The EITC Can Be Combined With Other Work Incentives When an SSI or SSDI Beneficiary Works.
+
+Individuals with disabilities will look to staff from the BPA&O and PABSS programs to assist them in determining what special benefits and incentives may be available to make their transition into paid employment more realistic.  In many cases, if the SSI or SSDI beneficiary looks to one program or benefit in isolation, the ability to succeed in employment and be self supporting may not be evident.  However, if the benefits specialist can assist the individual to identify multiple sources or program benefits and work incentives, the benefits of going to work may quickly emerge.  The Earned Income Tax Credit is a special incentive that can be used in tandem with other incentives and program benefits to ease the transition into paid employment.
+
+Example.  Let’s go back to the example of Jaime and Nancy from part I, above.  Here, we’ll introduce a few more facts about Jaime.  His disability is quadriplegia, having been injured in an automobile accident many years ago.  In May 2003, he graduated from college and began searching for work.  Prior to taking his first job after college, however, he sought the advice of a benefits specialist at his local BPA&O project.  
+
+The benefits specialist helped identify:  Jaime’s extended eligibility for Medicaid under the 1619(b) benefit after he loses SSI benefits due to wages; the potential eligibility for a Plan for Achieving Self Support (PASS) to purchase a van, using wages that would otherwise be counted in determining SSI eligibility; the use of funding through his state’s vocational rehabilitation (VR) agency to pay for modifications to the van to allow Jaime to drive it from his wheelchair; the ability to take advantage of the Section 8 Housing Choice Voucher Program’s earned income disregard to maintain a consistent housing subsidy payment and avoid immediate rent increases when he finds his first job; and the ability to use the Earned Income Tax Credit to reduce his family’s tax liability and even get extra money in his paycheck.
+
+We will not attempt to specify how each of these incentives or program benefits would work in Jaime’s case.  We will point out, however, that all of these additional benefits or incentives -- the 1619(b) Medicaid provisions, the PASS, the VR agency’s funding of van modifications and the housing subsidy program’s incentives -- are items that should routinely be a part of the benefits planning assistance that a BPA&O’s staff will offer to a beneficiary like Jaime.  While the BPA&O’s benefits specialists will not be expected to develop the same expertise on the EITC that they have developed on things like 1619(b) or the PASS, identification of the potential benefits of the EITC will aide Jaime and others like him to make fully informed decisions as they move into paid employment.
+
+Rules Governing Misuse of the EITC
+
+If the IRS denies an EITC and determines that the error was due to reckless or intentional disregard of the rules, then the individual cannot claim the credit for the next two years.  If the IRS determines that the error was fraudulent, then the individual cannot claim the credit for the next 10 years.
+
+Conclusion
+
+For individuals with disabilities, every penny counts.  This brief provides an overview of the EITC and how an individual might qualify for it either upon filing a tax return at the end of the year or as an advance payment throughout the year.  To assist benefits planners helping individuals determine whether they might be eligible for the credit, we recommend obtaining a copy of IRS Publication 596, Earned Income Credit, which includes checklists that can be used to screen for eligibility. Footnote Reference 6
+
+Footnote 6: See note 1, above.
+
+Finally, we wish to remind our readers that the authors of this brief are not tax attorneys or even specialists in the tax area. An individual with tax questions should consult a tax specialist or contact the IRS Taxpayer Assistance Centers.  To find the number of the Taxpayer Assistance Centers go to www.irs.gov or look in the phone book under “U.S. Government, Internal Revenue Service.”  An individual with unresolved tax concerns should consult either the Taxpayer Advocate or a tax specialist.  The Taxpayer Advocate independently represents an individual’s interests and concerns within the IRS by protecting that individual’s rights and resolving problems that have not been corrected through normal channels.  To contact the Taxpayer Advocate, dial 1-877-777-4778 or 1-800-829-4059 (TTY/TDD user) or visit the IRS web site at www.irs.gov/advocate.
+
+
+Publication 596 (BR)
+Earned Income Credit (EIC)
+For use in preparing 2004 Returns
+Catalog Number: 15173A
+
+Provided by the IRS AMC
+(Alternative Media Center)
+
+Contract No. 750-356/34899
+In 2 Volumes
+Volume 2
+Pages 42 through 47
+
+2004 Earned Income Credit Table 42124
+
+<Page 42>
+Appendix 2004 Earned Income Credit (EIC) Table 
+Caution. This is not a tax table.
+1. To find your credit, read down the &quot;At least--But less than&quot; columns and find the line that includes the amount you were told to look up from your EIC Worksheet.
+2. Then, go to the column that includes your filing status and the number of qualifying children you have. Enter the credit from that column on your EIC Worksheet. 
+Example. If your filing status is single, you have one qualifying child, and the amount you are looking up from your EIC Worksheet is $2,455, you would enter $842.
+The row containing At least: 2,450, But less than: 2,500 is circled; the column heading &quot;One child&quot; is circled; and the intersection of this row and column &quot;842&quot; is circled. 
+If the amount you are looking up from the worksheet is--At least; But the amount you are looking up from the worksheet is--less than; And your filing status is--Single, head of household, or qualifying widow(er) and you have--No children. Your credit is--; And your filing status is--Single, head of household, or qualifying widow(er) and you have--One child. Your credit is--; And your filing status is--Single, head of household, or qualifying widow(er) and you have--Two children. Your credit is--
+2,400; 2,450; 186; 825; 970
+2,450; 2,500; 189; 842; 990
+If the amount you are looking up from the worksheet is--At least; But the amount you are looking up from the worksheet is--less than; And your filing status is--Single, head of household, or qualifying widow(er) and you have--No children. Your credit is--; And your filing status is--Single, head of household, or qualifying widow(er) and you have--One child. Your credit is--; And your filing status is--Single, head of household, or qualifying widow(er) and you have--Two children. Your credit is--; And your filing status is--Married filing jointly and you have--No children. Your credit is--; And your filing status is--Married filing jointly and you have--One child. Your credit is--; And your filing status is--Married filing jointly and you have--Two children. Your credit is--
+1; 50; $2; $9; $10; $2; $9; $10
+50; 100; 6; 26; 30; 6; 26; 30
+100; 150; 10; 43; 50; 10; 43; 50
+150; 200; 13; 60; 70; 13; 60; 70
+200; 250; 17; 77; 90; 17; 77; 90
+250; 300; 21; 94; 110; 21; 94; 110
+300; 350; 25; 111; 130; 25; 111; 130
+350; 400; 29; 128; 150; 29; 128; 150
+400; 450; 33; 145; 170; 33; 145; 170
+450; 500; 36; 162; 190; 36; 162; 190
+500; 550; 40; 179; 210; 40; 179; 210
+550; 600; 44; 196; 230; 44; 196; 230
+600; 650; 48; 213; 250; 48; 213; 250
+650; 700; 52; 230; 270; 52; 230; 270
+700; 750; 55; 247; 290; 55; 247; 290
+750; 800; 59; 264; 310; 59; 264; 310
+800; 850; 63; 281; 330; 63; 281; 330
+850; 900; 67; 298; 350; 67; 298; 350
+900; 950; 71; 315; 370; 71; 315; 370
+950; 1,000; 75; 332; 390; 75; 332; 390
+1,000; 1,050; 78; 349; 410; 78; 349; 410
+1,050; 1,100; 82; 366; 430; 82; 366; 430
+1,100; 1,150; 86; 383; 450; 86; 383; 450
+1,150; 1,200; 90; 400; 470; 90; 400; 470
+1,200; 1,250; 94; 417; 490; 94; 417; 490
+1,250; 1,300; 98; 434; 510; 98; 434; 510
+1,300; 1,350; 101; 451; 530; 101; 451; 530
+1,350; 1,400; 105; 468; 550; 105; 468; 550
+1,400; 1,450; 109; 485; 570; 109; 485; 570
+1,450; 1,500; 113; 502; 590; 113; 502; 590
+1,500; 1,550; 117; 519; 610; 117; 519; 610
+1,550; 1,600; 120; 536; 630; 120; 536; 630
+1,600; 1,650; 124; 553; 650; 124; 553; 650
+1,650; 1,700; 128; 570; 670; 128; 570; 670
+1,700; 1,750; 132; 587; 690; 132; 587; 690
+1,750; 1,800; 136; 604; 710; 136; 604; 710
+1,800; 1,850; 140; 621; 730; 140; 621; 730
+1,850; 1,900; 143; 638; 750; 143; 638; 750
+1,900; 1,950; 147; 655; 770; 147; 655; 770
+1,950; 2,000; 151; 672; 790; 151; 672; 790
+2,000; 2,050; 155; 689; 810; 155; 689; 810
+2,050; 2,100; 159; 706; 830; 159; 706; 830
+2,100; 2,150; 163; 723; 850; 163; 723; 850
+2,150; 2,200; 166; 740; 870; 166; 740; 870
+2,200; 2,250; 170; 757; 890; 170; 757; 890
+2,250; 2,300; 174; 774; 910; 174; 774; 910
+2,300; 2,350; 178; 791; 930; 178; 791; 930
+2,350; 2,400; 182; 808; 950; 182; 808; 950
+2,400; 2,450; 186; 825; 970; 186; 825; 970
+2,450; 2,500; 189; 842; 990; 189; 842; 990
+2,500; 2,550; 193; 859; 1,010; 193; 859; 1,010
+2,550; 2,600; 197; 876; 1,030; 197; 876; 1,030
+2,600; 2,650; 201; 893; 1,050; 201; 893; 1,050
+2,650; 2,700; 205; 910; 1,070; 205; 910; 1,070
+2,700; 2,750; 208; 927; 1,090; 208; 927; 1,090
+2,750; 2,800; 212; 944; 1,110; 212; 944; 1,110
+2,800; 2,850; 216; 961; 1,130; 216; 961; 1,130
+2,850; 2,900; 220; 978; 1,150; 220; 978; 1,150
+2,900; 2,950; 224; 995; 1,170; 224; 995; 1,170
+2,950; 3,000; 228; 1,012; 1,190; 228; 1,012; 1,190
+3,000; 3,050; 231; 1,029; 1,210; 231; 1,029; 1,210
+3,050; 3,100; 235; 1,046; 1,230; 235; 1,046; 1,230
+3,100; 3,150; 239; 1,063; 1,250; 239; 1,063; 1,250
+3,150; 3,200; 243; 1,080; 1,270; 243; 1,080; 1,270
+3,200; 3,250; 247; 1,097; 1,290; 247; 1,097; 1,290
+3,250; 3,300; 251; 1,114; 1,310; 251; 1,114; 1,310
+3,300; 3,350; 254; 1,131; 1,330; 254; 1,131; 1,330
+3,350; 3,400; 258; 1,148; 1,350; 258; 1,148; 1,350
+3,400; 3,450; 262; 1,165; 1,370; 262; 1,165; 1,370
+3,450; 3,500; 266; 1,182; 1,390; 266; 1,182; 1,390
+3,500; 3,550; 270; 1,199; 1,410; 270; 1,199; 1,410
+3,550; 3,600; 273; 1,216; 1,430; 273; 1,216; 1,430
+3,600; 3,650; 277; 1,233; 1,450; 277; 1,233; 1,450
+3,650; 3,700; 281; 1,250; 1,470; 281; 1,250; 1,470
+3,700; 3,750; 285; 1,267; 1,490; 285; 1,267; 1,490
+3,750; 3,800; 289; 1,284; 1,510; 289; 1,284; 1,510
+3,800; 3,850; 293; 1,301; 1,530; 293; 1,301; 1,530
+3,850; 3,900; 296; 1,318; 1,550; 296; 1,318; 1,550
+3,900; 3,950; 300; 1,335; 1,570; 300; 1,335; 1,570
+3,950; 4,000; 304; 1,352; 1,590; 304; 1,352; 1,590
+4,000; 4,050; 308; 1,369; 1,610; 308; 1,369; 1,610
+4,050; 4,100; 312; 1,386; 1,630; 312; 1,386; 1,630
+4,100; 4,150; 316; 1,403; 1,650; 316; 1,403; 1,650
+4,150; 4,200; 319; 1,420; 1,670; 319; 1,420; 1,670
+4,200; 4,250; 323; 1,437; 1,690; 323; 1,437; 1,690
+4,250; 4,300; 327; 1,454; 1,710; 327; 1,454; 1,710
+4,300; 4,350; 331; 1,471; 1,730; 331; 1,471; 1,730
+4,350; 4,400; 335; 1,488; 1,750; 335; 1,488; 1,750
+4,400; 4,450; 339; 1,505; 1,770; 339; 1,505; 1,770
+4,450; 4,500; 342; 1,522; 1,790; 342; 1,522; 1,790
+4,500; 4,550; 346; 1,539; 1,810; 346; 1,539; 1,810
+4,550; 4,600; 350; 1,556; 1,830; 350; 1,556; 1,830
+4,600; 4,650; 354; 1,573; 1,850; 354; 1,573; 1,850
+4,650; 4,700; 358; 1,590; 1,870; 358; 1,590; 1,870
+4,700; 4,750; 361; 1,607; 1,890; 361; 1,607; 1,890
+4,750; 4,800; 365; 1,624; 1,910; 365; 1,624; 1,910
+4,800; 4,850; 369; 1,641; 1,930; 369; 1,641; 1,930
+4,850; 4,900; 373; 1,658; 1,950; 373; 1,658; 1,950
+4,900; 4,950; 377; 1,675; 1,970; 377; 1,675; 1,970
+4,950; 5,000; 381; 1,692; 1,990; 381; 1,692; 1,990
+5,000; 5,050; 384; 1,709; 2,010; 384; 1,709; 2,010
+5,050; 5,100; 388; 1,726; 2,030; 388; 1,726; 2,030
+5,100; 5,150; 390; 1,743; 2,050; 390; 1,743; 2,050
+5,150; 5,200; 390; 1,760; 2,070; 390; 1,760; 2,070
+5,200; 5,250; 390; 1,777; 2,090; 390; 1,777; 2,090
+5,250; 5,300; 390; 1,794; 2,110; 390; 1,794; 2,110
+5,300; 5,350; 390; 1,811; 2,130; 390; 1,811; 2,130
+5,350; 5,400; 390; 1,828; 2,150; 390; 1,828; 2,150
+5,400; 5,450; 390; 1,845; 2,170; 390; 1,845; 2,170
+5,450; 5,500; 390; 1,862; 2,190; 390; 1,862; 2,190
+
+<Page 43>
+5,500; 5,550; 390; 1,879; 2,210; 390; 1,879; 2,210
+5,550; 5,600; 390; 1,896; 2,230; 390; 1,896; 2,230
+5,600; 5,650; 390; 1,913; 2,250; 390; 1,913; 2,250
+5,650; 5,700; 390; 1,930; 2,270; 390; 1,930; 2,270
+5,700; 5,750; 390; 1,947; 2,290; 390; 1,947; 2,290
+5,750; 5,800; 390; 1,964; 2,310; 390; 1,964; 2,310
+5,800; 5,850; 390; 1,981; 2,330; 390; 1,981; 2,330
+5,850; 5,900; 390; 1,998; 2,350; 390; 1,998; 2,350
+5,900; 5,950; 390; 2,015; 2,370; 390; 2,015; 2,370
+5,950; 6,000; 390; 2,032; 2,390; 390; 2,032; 2,390
+6,000; 6,050; 390; 2,049; 2,410; 390; 2,049; 2,410
+6,050; 6,100; 390; 2,066; 2,430; 390; 2,066; 2,430
+6,100; 6,150; 390; 2,083; 2,450; 390; 2,083; 2,450
+6,150; 6,200; 390; 2,100; 2,470; 390; 2,100; 2,470
+6,200; 6,250; 390; 2,117; 2,490; 390; 2,117; 2,490
+6,250; 6,300; 390; 2,134; 2,510; 390; 2,134; 2,510
+6,300; 6,350; 390; 2,151; 2,530; 390; 2,151; 2,530
+6,350; 6,400; 390; 2,168; 2,550; 390; 2,168; 2,550
+6,400; 6,450; 387; 2,185; 2,570; 390; 2,185; 2,570
+6,450; 6,500; 384; 2,202; 2,590; 390; 2,202; 2,590
+6,500; 6,550; 380; 2,219; 2,610; 390; 2,219; 2,610
+6,550; 6,600; 376; 2,236; 2,630; 390; 2,236; 2,630
+6,600; 6,650; 372; 2,253; 2,650; 390; 2,253; 2,650
+6,650; 6,700; 368; 2,270; 2,670; 390; 2,270; 2,670
+6,700; 6,750; 365; 2,287; 2,690; 390; 2,287; 2,690
+6,750; 6,800; 361; 2,304; 2,710; 390; 2,304; 2,710
+6,800; 6,850; 357; 2,321; 2,730; 390; 2,321; 2,730
+6,850; 6,900; 353; 2,338; 2,750; 390; 2,338; 2,750
+6,900; 6,950; 349; 2,355; 2,770; 390; 2,355; 2,770
+6,950; 7,000; 345; 2,372; 2,790; 390; 2,372; 2,790
+7,000; 7,050; 342; 2,389; 2,810; 390; 2,389; 2,810
+7,050; 7,100; 338; 2,406; 2,830; 390; 2,406; 2,830
+7,100; 7,150; 334; 2,423; 2,850; 390; 2,423; 2,850
+7,150; 7,200; 330; 2,440; 2,870; 390; 2,440; 2,870
+7,200; 7,250; 326; 2,457; 2,890; 390; 2,457; 2,890
+7,250; 7,300; 322; 2,474; 2,910; 390; 2,474; 2,910
+7,300; 7,350; 319; 2,491; 2,930; 390; 2,491; 2,930
+7,350; 7,400; 315; 2,508; 2,950; 390; 2,508; 2,950
+7,400; 7,450; 311; 2,525; 2,970; 387; 2,525; 2,970
+7,450; 7,500; 307; 2,547; 2,990; 384; 2,547; 2,990
+7,500; 7,550; 303; 2,559; 3,010; 380; 2,559; 3,010
+7,550; 7,600; 299; 2,576; 3,030; 376; 2,576; 3,030
+7,600; 7,650; 296; 2,593; 3,050; 372; 2,593; 3,050
+7,650; 7,700; 292; 2,604; 3,070; 368; 2,604; 3,070
+7,700; 7,750; 288; 2,604; 3,090; 365; 2,604; 3,090
+7,750; 7,800; 284; 2,604; 3,110; 361; 2,604; 3,110
+7,800; 7,850; 280; 2,604; 3,130; 357; 2,604; 3,130
+7,850; 7,900; 277; 2,604; 3,150; 353; 2,604; 3,150
+7,900; 7,950; 273; 2,604; 3,170; 349; 2,604; 3,170
+7,950; 8,000; 269; 2,604; 3,190; 345; 2,604; 3,190
+8,000; 8,050; 265; 2,604; 3,210; 342; 2,604; 3,210
+8,050; 8,100; 261; 2,604; 3,230; 338; 2,604; 3,230
+8,100; 8,150; 257; 2,604; 3,250; 334; 2,604; 3,250
+8,150; 8,200; 254; 2,604; 3,270; 330; 2,604; 3,270
+8,200; 8,250; 250; 2,604; 3,290; 326; 2,604; 3,290
+8,250; 8,300; 246; 2,604; 3,310; 322; 2,604; 3,310
+8,300; 8,350; 242; 2,604; 3,330; 319; 2,604; 3,330
+8,350; 8,400; 238; 2,604; 3,350; 315; 2,604; 3,350
+8,400; 8,450; 234; 2,604; 3,370; 311; 2,604; 3,370
+8,450; 8,500; 231; 2,604; 3,390; 307; 2,604; 3,390
+8,500; 8,550; 227; 2,604; 3,410; 303; 2,604; 3,410
+8,550; 8,600; 223; 2,604; 3,430; 299; 2,604; 3,430
+8,600; 8,650; 219; 2,604; 3,450; 296; 2,604; 3,450
+8,650; 8,700; 215; 2,604; 3,470; 292; 2,604; 3,470
+8,700; 8,750; 212; 2,604; 3,490; 288; 2,604; 3,490
+8,750; 8,800; 208; 2,604; 3,510; 284; 2,604; 3,510
+8,800; 8,850; 204; 2,604; 3,530; 280; 2,604; 3,530
+8,850; 8,900; 200; 2,604; 3,550; 277; 2,604; 3,550
+8,900; 8,950; 196; 2,604; 3,570; 273; 2,604; 3,570
+8,950; 9,000; 192; 2,604; 3,590; 269; 2,604; 3,590
+9,000; 9,050; 189; 2,604; 3,610; 265; 2,604; 3,610
+9,050; 9,100; 185; 2,604; 3,630; 261; 2,604; 3,630
+9,100; 9,150; 181; 2,604; 3,650; 257; 2,604; 3,650
+9,150; 9,200; 177; 2,604; 3,670; 254; 2,604; 3,670
+9,200; 9,250; 173; 2,604; 3,690; 250; 2,604; 3,690
+9,250; 9,300; 169; 2,604; 3,710; 246; 2,604; 3,710
+9,300; 9,350; 166; 2,604; 3,730; 242; 2,604; 3,730
+9,350; 9,400; 162; 2,604; 3,750; 238; 2,604; 3,750
+9,400; 9,450; 158; 2,604; 3,770; 234; 2,604; 3,770
+9,450; 9,500; 154; 2,604; 3,790; 231; 2,604; 3,790
+9,500; 9,550; 150; 2,604; 3,810; 227; 2,604; 3,810
+9,550; 9,600; 146; 2,604; 3,830; 223; 2,604; 3,830
+9,600; 9,650; 143; 2,604; 3,850; 219; 2,604; 3,850
+9,650; 9,700; 139; 2,604; 3,870; 215; 2,604; 3,870
+9,700; 9,750; 135; 2,604; 3,890; 212; 2,604; 3,890
+9,750; 9,800; 131; 2,604; 3,910; 208; 2,604; 3,910
+9,800; 9,850; 127; 2,604; 3,930; 204; 2,604; 3,930
+9,850; 9,900; 124; 2,604; 3,950; 200; 2,604; 3,950
+9,900; 9,950; 120; 2,604; 3,970; 196; 2,604; 3,970
+9,950; 10,000; 116; 2,604; 3,990; 192; 2,604; 3,990
+10,000; 10,050; 112; 2,604; 4,010; 189; 2,604; 4,010
+10,050; 10,100; 108; 2,604; 4,030; 185; 2,604; 4,030
+10,100; 10,150; 104; 2,604; 4,050; 181; 2,604; 4,050
+10,150; 10,200; 101; 2,604; 4,070; 177; 2,604; 4,070
+10,200; 10,250; 97; 2,604; 4,090; 173; 2,604; 4,090
+10,250; 10,300; 93; 2,604; 4,110; 169; 2,604; 4,110
+10,300; 10,350; 89; 2,604; 4,130; 166; 2,604; 4,130
+10,350; 10,400; 85; 2,604; 4,170; 162; 2,604; 4,150
+10,400; 10,450; 81; 2,604; 4,190; 158; 2,604; 4,170
+10,450; 10,500; 78; 2,604; 4,210; 154; 2,604; 4,190
+10,500; 10,550; 74; 2,604; 4,210; 150; 2,604; 4,210
+10,550; 10,600; 70; 2,604; 4,250; 146; 2,604; 4,230
+10,600; 10,650; 66; 2,604; 4,270; 143; 2,604; 4,250
+10,650; 10,700; 62; 2,604; 4,290; 139; 2,604; 4,270
+10,700; 10,750; 59; 2,604; 4,204; 135; 2,604; 4,290
+10,750; 10,800; 55; 2,604; 4,300; 131; 2,604; 4,300
+10,800; 10,850; 51; 2,604; 4,300; 127; 2,604; 4,300
+10,850; 10,900; 47; 2,604; 4,300; 124; 2,604; 4,300
+10,900; 10,950; 43; 2,604; 4,300; 120; 2,604; 4,300
+10,950; 11,000; 39; 2,604; 4,300; 116; 2,604; 4,300
+11,000; 11,050; 36; 2,604; 4,300; 112; 2,604; 4,300
+11,050; 11,100; 32; 2,604; 4,300; 108; 2,604; 4,300
+11,100; 11,150; 28; 2,604; 4,300; 104; 2,604; 4,300
+11,150; 11,200; 24; 2,604; 4,300; 101; 2,604; 4,300
+11,200; 11,250; 20; 2,604; 4,300; 97;; 2,604; 4,300
+11,250; 11,300; 16; 2,604; 4,300; 93; 2,604; 4,300
+11,300; 11,350; 13; 2,604; 4,300; 89; 2,604; 4,300
+11,350; 11,400; 9; 2,604; 4,300; 85; 2,604; 4,300
+11,400; 11,450; 5; 2,604; 4,300; 81; 2,604; 4,300
+11,450; 11,500; If the amount you are looking up from the worksheet is at least $11,450 ($12,450 if married filing jointly) but less than $11,490 ($12,490 if married filing jointly), your credit is $2. Otherwise, you cannot take the credit.;  2,604; 4,300; 78; 2,604; 4,300
+
+<Page 44>
+11,500; 11,550; 0; 2,604; 4,300; 74; 2,604; 4,300
+11,550; 11,600; 0; 2,604; 4,300; 70; 2,604; 4,300
+11,600; 11,650; 0; 2,604; 4,300; 66; 2,547; 4,300
+11,650; 11,700; 0; 2,604; 4,300; 62; 2,547; 4,300
+11,700; 11,750; 0; 2,604; 4,300; 59; 2,547; 4,300
+11,750; 11,800; 0; 2,604; 4,300; 55; 2,547; 4,300
+11,800; 11,850; 0; 2,604; 4,300; 51; 2,547; 4,300
+11,850; 11,900; 0; 2,604; 4,300; 47; 2,547; 4,300
+11,900; 11,950; 0; 2,604; 4,300; 39; 2,604; 4,300
+12,000; 12,050; 0; 2,604; 4,300; 36; 2,547; 4,204
+12,050; 12,100; 0; 2,604; 4,300; 32; 2,547; 4,204
+12,100; 12,150; 0; 2,604; 4,300; 28; 2,547; 4,204
+12,150; 12,200; 0; 2,604; 4,300; 24; 2,547; 4,204
+12,200; 12,250; 0; 2,604; 4,300; 20; 2,604; 4,300
+12,250; 12,300; 0; 2,604; 4,300; 16; 2,604; 4,300
+12,300; 12,350; 0; 2,604; 4,300; 13; 2,604; 4,300
+12,350; 12,400; 0; 2,604; 4,300; 9; 2,604; 4,300
+12,400; 12,450; 0; 2,604; 4,300; 5; 2,604; 4,300
+12,450; 12,500; 0; 2,604; 4,300; If the amount you are looking up from the worksheet is at least $11,450 ($12,450 if married filing jointly) but less than $11,490 ($12,490 if married filing jointly), your credit is $2. Otherwise, you cannot take the credit.; 2,604; 4,300
+12,500; 14,050; 0; 2,604; 4,300; 0; 2,604; ; 4,300
+14,050; 14,100; 0; 2,599; 4,293; 0; 2,604; 4,300
+14,100; 14,150; 0; 2,591; 4,282; 0; 2,604; 4,300
+14,150; 14,200; 0; 2,583; 4,272; 0; 2,604; 4,300
+14,200; 14,250; 0; 2,575; 4,261; 0; 2,604; 4,300
+14,250; 14,300; 0; 2,567; 4,251; 0; 2,604; 4,300
+14,300; 14,350; 0; 2,559; 4,240; 0; 2,604; 4,300
+14,350; 14,400; 0; 2,551; 4,229; 0; 2,604; 4,300
+14,400; 14,450; 0; 2,543; 4,219; 0; 2,604; 4,300
+14,450; 14,500; 0; 2,535; 4,208; 0; 2,604; 4,300
+14,500; 14,550; 0; 2,527; 4,198; 0; 2,604; 4,300
+14,550; 14,600; 0; 2,519; 4,187; 0; 2,604; 4,300
+14,600; 14,650; 0; 2,511; 4,177; 0; 2,604; 4,300
+14,650; 14,700; 0; 2,503; 4,166; 0; 2,604; 4,300
+14,700; 14,750; 0; 2,495; 4,156; 0; 2,604; 4,300
+14,750; 14,800; 0; 2,487; 4,145; 0; 2,604; 4,300
+14,800; 14,850; 0; 2,479; 4,135; 0; 2,604; 4,300
+14,850; 14,900; 0; 2,471; 4,124; 0; 2,604; 4,300
+14,900; 14,950; 0; 2,463; 4,114; 0; 2,604; 4,300
+14,950; 15,000; 0; 2,455; 4,103; 0; 2,604; 4,300
+15,000; 15,050; 0; 2,447; 4,093; 0; 2,604; 4,300
+15,050; 15,100; 0; 2,439; 4,082; 0; 2,599; 4,293
+15,100; 15,150; 0; 2,431; 4,071; 0; 2,591; 4,282
+15,150; 15,200; 0; 2,423; 4,061; 0; 2,583; 4,272
+15,200; 15,250; 0; 2,415; 4,050; 0; 2,575; 4,261
+15,250; 15,300; 0; 2,407; 4,040; 0; 2,567; 4,251
+15,300; 15,350; 0; 2,399; 4,029; 0; 2,559; 4,240
+15,350; 15,400; 0; 2,391; 4,019; 0; 2,551; 4,229
+15,400; 15,450; 0; 2,383; 4,008; 0; 2,543; 4,219
+15,450; 15,500; 0; 2,375; 3,998; 0; 2,535; 4,208
+15,500; 15,550; 0; 2,367; 3,987; 0; 2,527; 4,198
+15,550; 15,600; 0; 2,359; 3,977; 0; 2,519; 4,187
+15,600; 15,650; 0; 2,351; 3,966; 0; 2,511; 4,177
+15,650; 15,700; 0; 2,343; 3,956; 0; 2,503; 4,166
+15,700; 15,750; 0; 2,335; 3,945; 0; 2,495; 4,156
+15,750; 15,800; 0; 2,327; 3,935; 0; 2,487; 4,145
+15,800; 15,850; 0; 2,319; 3,924; 0; 2,479; 4,135
+15,850; 15,900; 0; 2,311; 3,914; 0; 2,471; 4,124
+15,900; 15,950; 0; 2,303; 3,903; 0; 2,463; 4,114
+15,950; 16,000; 0; 2,295; 3,892; 0; 2,455; 4,103
+16,000; 16,050; 0; 2,287; 3,882; 0; 2,447; 4,093
+16,050; 16,100; 0; 2,279; 3,871; 0; 2,439; 4,082
+16,100; 16,150; 0; 2,271; 3,861; 0; 2,431; 4,071
+16,150; 16,200; 0; 2,263; 3,850; 0; 2,423; 4,061
+16,200; 16,250; 0; 2,255; 3,840; 0; 2,415; 4,050
+16,250; 16,300; 0; 2,247; 3,829; 0; 2,407; 4,040
+16,300; 16,350; 0; 2,239; 3,819; 0; 2,399; 4,029
+16,350; 16,400; 0; 2,231; 3,808; 0; 2,391; 4,019
+16,400; 16,450; 0; 2,223; 3,798; 0; 2,383; 4,008
+16,450; 16,500; 0; 2,215; 3,787; 0; 2,375; 3,998
+16,500; 16,550; 0; 2,207; 3,777; 0; 2,367; 3,987
+16,550; 16,600; 0; 2,199; 3,766; 0; 2,359; 3,977
+16,600; 16,650; 0; 2,191; 3,756; 0; 2,351; 3,966
+16,650; 16,700; 0; 2,183; 3,745; 0; 2,343; 3,956
+16,700; 16,750; 0; 2,175; 3,735; 0; 2,335; 3,945
+16,750; 16,800; 0; 2,167; 3,724; 0; 2,327; 3,935
+16,800; 16,850; 0; 2,159; 3,713; 0; 2,319; 3,924
+16,850; 16,900; 0; 2,151; 3,703; 0; 2,311; 3,914
+16,900; 16,950; 0; 2,143; 3,692; 0; 2,303; 3,903
+16,950; 17,000; 0; 2,135; 3,682; 0; 2,295; 3,892
+17,000; 17,050; 0; 2,127; 3,671; 0; 2,287; 3,882
+17,050; 17,100; 0; 2,119; 3,661; 0; 2,279; 3,871
+17,100; 17,150; 0; 2,111; 3,650; 0; 2,271; 3,861
+17,150; 17,200; 0; 2,103; 3,640; 0; 2,263; 3,850
+17,200; 17,250; 0; 2,095; 3,629; 0; 2,255; 3,840
+17,250; 17,300; 0; 2,087; 3,619; 0; 2,247; 3,829
+17,300; 17,350; 0; 2,079; 3,608; 0; 2,239; 3,819
+17,350; 17,400; 0; 2,071; 3,598; 0; 2,231; 3,808
+17,400; 17,450; 0; 2,063; 3,587; 0; 2,223; 3,798
+17,450; 17,500; 0; 2,055; 3,577; 0; 2,215; 3,787
+17,500; 17,550; 0; 2,047; 3,566; 0; 2,207; 3,777
+17,550; 17,600; 0; 2,040; 3,556; 0; 2,199; 3,766
+17,600; 17,650; 0; 2,032; 3,545; 0; 2,191; 3,756
+17,650; 17,700; 0; 2,024; 3,534; 0; 2,183; 3,745
+17,700; 17,750; 0; 2,016; 3,524; 0; 2,175; 3,735
+17,750; 17,800; 0; 2,008; 3,513; 0; 2,167; 3,724
+17,800; 17,850; 0; 2,000; 3,503; 0; 2,159; 3,713
+17,850; 17,900; 0; 1,992; 3,492; 0; 2,151; 3,703
+17,900; 17,950; 0; 1,984; 3,482; 0; 2,143; 3,692
+17,950; 18,000; 0; 1,976; 3,471; 0; 2,135; 3,682
+18,000; 18,050; 0; 1,968; 3,461; 0; 2,127; 3,671
+18,050; 18,100; 0; 1,960; 3,450; 0; 2,119; 3,661
+18,100; 18,150; 0; 1,952; 3,440; 0; 2,111; 3,650
+18,150; 18,200; 0; 1,944; 3,429; 0; 2,103; 3,640
+18,200; 18,250; 0; 1,936; 3,419; 0; 2,095; 3,629
+18,250; 18,300; 0; 1,928; 3,408; 0; 2,087; 3,619
+18,300; 18,350; 0; 1,920; 3,398; 0; 2,079; 3,608
+18,350; 18,400; 0; 1,912; 3,387; 0; 2,071; 3,598
+18,400; 18,450; 0; 1,904; 3,377; 0; 2,063; 3,587
+18,450; 18,500; 0; 1,896; 3,366; 0; 2,055; 3,577
+18,500; 18,550; 0; 1,888; 3,355; 0; 2,047; 3,566
+18,550; 18,600; 0; 1,880; 3,345; 0; 2,040; 3,556
+18,600; 18,650; 0; 1,872; 3,334; 0; 2,032; 3,545
+18,650; 18,700; 0; 1,864; 3,324; 0; 2,024; 3,534
+18,700; 18,750; 0; 1,856; 3,313; 0; 2,016; 3,524
+18,750; 18,800; 0; 1,848; 3,303; 0; 2,008; 3,513
+18,800; 18,850; 0; 1,840; 3,292; 0; 2,000; 3,503
+18,850; 18,900; 0; 1,832; 3,282; 0; 1,992; 3,492
+18,900; 18,950; 0; 1,824; 3,271; 0; 1,984; 3,482
+18,950; 19,000; 0; 1,816; 3,261; 0; 1,976; 3,471
+
+<Page 45>
+19,000; 19,050; 0; 1,808; 3,250; 0; 1,968; 3,461
+19,050; 19,100; 0; 1,800; 3,240; 0; 1,960; 3,450
+19,100; 19,150; 0; 1,792; 3,229; 0; 1,952; 3,440
+19,150; 19,200; 0; 1,784; 3,219; 0; 1,944; 3,429
+19,200; 19,250; 0; 1,776; 3,208; 0; 1,936; 3,419
+19,250; 19,300; 0; 1,768; 3,198; 0; 1,928; 3,408
+19,300; 19,350; 0; 1,760; 3,187; 0; 1,920; 3,398
+19,350; 19,400; 0; 1,752; 3,176; 0; 1,912; 3,387
+19,400; 19,450; 0; 1,744; 3,166; 0; 1,904; 3,377
+19,450; 19,500; 0; 1,736; 3,155; 0; 1,896; 3,366
+19,500; 19,550; 0; 1,728; 3,145; 0; 1,888; 3,355
+19,550; 19,600; 0; 1,720; 3,134; 0; 1,880; 3,345
+19,600; 19,650; 0; 1,712; 3,124; 0; 1,872; 3,334
+19,650; 19,700; 0; 1,704; 3,113; 0; 1,864; 3,324
+19,700; 19,750; 0; 1,696; 3,103; 0; 1,856; 3,313
+19,750; 19,800; 0; 1,688; 3,092; 0; 1,848; 3,303
+19,800; 19,850; 0; 1,680; 3,082; 0; 1,840; 3,292
+19,850; 19,900; 0; 1,672; 3,071; 0; 1,832; 3,282
+19,900; 19,950; 0; 1,664; 3,061; 0; 1,824; 3,271
+19,950; 20,000; 0; 1,656; 3,050; 0; 1,816; 3,261
+20,000; 20,050; 0; 1,648; 3,040; 0; 1,808; 3,250
+20,050; 20,100; 0; 1,640; 3,029; 0; 1,800; 3,240
+20,100; 20,150; 0; 1,632; 3,018; 0; 1,792; 3,229
+20,150; 20,200; 0; 1,624; 3,008; 0; 1,784; 3,219
+20,200; 20,250; 0; 1,616; 2,997; 0; 1,776; 3,208
+20,250; 20,300; 0; 1,608; 2,987; 0; 1,768; 3,198
+20,300; 20,350; 0; 1,600; 2,976; 0; 1,760; 3,187
+20,350; 20,400; 0; 1,592; 2,966; 0; 1,752; 3,176
+20,400; 20,450; 0; 1,584; 2,955; 0; 1,744; 3,166
+20,450; 20,500; 0; 1,576; 2,945; 0; 1,736; 3,155
+20,500; 20,550; 0; 1,568; 2,934; 0; 1,728; 3,145
+20,550; 20,600; 0; 1,560; 2,934; 0; 1,720; 3,134
+20,600; 20,650; 0; 1,552; 2,913; 0; 1,712; 3,124
+20,650; 20,700; 0; 1,544; 2,903; 0; 1,704; 3,113
+20,700; 20,750; 0; 1,536; 2,892; 0; 1,696; 3,103
+20,750; 20,800; 0; 1,528; 2,882; 0; 1,688; 3,092
+20,800; 20,850; 0; 1,520; 2,871; 0; 1,680; 3,082
+20,850; 20,900; 0; 1,512; 2,861; 0; 1,672; 3,071
+20,900; 20,950; 0; 1,504; 2,850; 0; 1,664; 3,061
+20,950; 21,000; 0; 1,496; 2,839; 0; 1,656; 3,050
+21,000; 21,050; 0; 1,488; 2,829; 0; 1,648; 3,040
+21,050; 21,100; 0; 1,480; 2,818; 0; 1,640; 3,029
+21,100; 21,150; 0; 1,472; 2,808; 0; 1,632; 3,018
+21,150; 21,200; 0; 1,464; 2,797; 0; 1,624; 3,008
+21,200; 21,250; 0; 1,456; 2,787; 0; 1,616; 2,997
+21,250; 21,300; 0; 1,448; 2,776; 0; 1,608; 2,987
+21,300; 21,350; 0; 1,440; 2,766; 0; 1,600; 2,976
+21,350; 21,400; 0; 1,432; 2,755; 0; 1,592; 2,966
+21,400; 21,450; 0; 1,424; 2,745; 0; 1,584; 2,955
+21,450; 21,500; 0; 1,416; 2,734; 0; 1,576; 2,945
+21,500; 21,550; 0; 1,408; 2,724; 0; 1,568; 2,934
+21,550; 21,600; 0; 1,400; 2,713; 0; 1,560; 2,924
+21,600; 21,650; 0; 1,392; 2,703; 0; 1,552; 2,913
+21,650; 21,700; 0; 1,384; 2,692; 0; 1,544; 2,903
+21,700; 21,750; 0; 1,376; 2,682; 0; 1,536; 2,892
+21,750; 21,800; 0; 1,368; 2,671; 0; 1,528; 2,882
+21,800; 21,850; 0; 1,360; 2,660; 0; 1,520; 2,871
+21,850; 21,900; 0; 1,352; 2,650; 0; 1,512; 2,861
+21,900; 21,950; 0; 1,344; 2,639; 0; 1,504; 2,850
+21,950; 22,000; 0; 1,336; 2,629; 0; 1,496; 2,839
+22,000; 22,050; 0; 1,328; 2,618; 0; 1,488; 2,829
+22,050; 22,100; 0; 1,320; 2,608; 0; 1,480; 2,818
+22,100; 22,150; 0; 1,312; 2,597; 0; 1,472; 2,808
+22,150; 22,200; 0; 1,304; 2,587; 0; 1,464; 2,797
+22,200; 22,250; 0; 1,296; 2,576; 0; 1,456; 2,787
+22,250; 22,300; 0; 1,288; 2,566; 0; 1,448; 2,776
+22,300; 22,350; 0; 1,280; 2,555; 0; 1,440; 2,766
+22,350; 22,400; 0; 1,272; 2,545; 0; 1,432; 2,755
+22,400; 22,450; 0; 1,264; 2,534; 0; 1,424; 2,745
+22,450; 22,500; 0; 1,256; 2,524; 0; 1,416; 2,734
+22,500; 22,550; 0; 1,248; 2,513; 0; 1,408; 2,724
+22,550; 22,600; 0; 1,241; 2,503; 0; 1,400; 2,713
+22,600; 22,650; 0; 1,233; 2,492; 0; 1,392; 2,703
+22,650; 22,700; 0; 1,225; 2,481; 0; 1,384; 2,692
+22,700; 22,750; 0; 1,217; 2,471; 0; 1,376; 2,682
+22,750; 22,800; 0; 1,209; 2,460; 0; 1,368; 2,671
+22,800; 22,850; 0; 1,201; 2,450; 0; 1,360; 2,660
+22,850; 22,900; 0; 1,193; 2,439; 0; 1,352; 2,650
+22,900; 22,950; 0; 1,185; 2,429; 0; 1,344; 2,639
+22,950; 23,000; 0; 1,177; 2,418; 0; 1,336; 2,629
+23,000; 23,050; 0; 1,169; 2,408; 0; 1,328; 2,618
+23,050; 23,100; 0; 1,161; 2,397; 0; 1,320; 2,608
+23,100; 23,150; 0; 1,153; 2,387; 0; 1,312; 2,597
+23,150; 23,200; 0; 1,145; 2,376; 0; 1,304; 2,587
+23,200; 23,250; 0; 1,137; 2,366; 0; 1,296; 2,576
+23,250; 23,300; 0; 1,129; 2,355; 0; 1,288; 2,566
+23,300; 23,350; 0; 1,121; 2,345; 0; 1,280; 2,555
+23,350; 23,400; 0; 1,113; 2,334; 0; 1,272; 2,545
+23,400; 23,450; 0; 1,105; 2,324; 0; 1,264; 2,534
+23,450; 23,500; 0; 1,097; 2,313; 0; 1,256; 2,524
+23,500; 23,550; 0; 1,089; 2,302; 0; 1,248; 2,513
+23,550; 23,600; 0; 1,081; 2,292; 0; 1,241; 2,503
+23,600; 23,650; 0; 1,073; 2,281; 0; 1,233; 2,492
+23,650; 23,700; 0; 1,065; 2,271; 0; 1,225; 2,481
+23,700; 23,750; 0; 1,057; 2,260; 0; 1,217; 2,471
+23,750; 23,800; 0; 1,049; 2,250; 0; 1,209; 2,460
+23,800; 23,850; 0; 1,041; 2,239; 0; 1,201; 2,450
+23,850; 23,900; 0; 1,033; 2,229; 0; 1,193; 2,439
+23,900; 23,950; 0; 1,025; 2,218; 0; 1,185; 2,429
+23,950; 24,000; 0; 1,017; 2,208; 0; 1,177; 2,418
+24,000; 24,050; 0; 1,009; 2,197; 0; 1,169; 2,408
+24,050; 24,100; 0; 1,001; 2,187; 0; 1,161; 2,397
+24,100; 24,150; 0; 993; 2,176; 0; 1,153; 2,387
+24,150; 24,200; 0; 985; 2,166; 0; 1,145; 2,376
+24,200; 24,250; 0; 977; 2,155; 0; 1,137; 2,366
+24,250; 24,300; 0; 969; 2,145; 0; 1,129; 2,355
+24,300; 24,350; 0; 961; 2,134; 0; 1,121; 2,345
+24,350; 24,400; 0; 953; 2,123; 0; 1,113; 2,334
+24,400; 24,450; 0; 945; 2,113; 0; 1105; 2,324
+24,450; 24,500; 0; 937; 2,102; 0; 1097; 2,313
+24,500; 24,550; 0; 929; 2,092; 0; 1089; 2,302
+24,550; 24,600; 0; 921; 2,081; 0; 1081; 2,292
+24,600; 24,650; 0; 913; 2,071; 0; 1073; 2,281
+24,650; 24,700; 0; 905; 2,060; 0; 1065; 2,271
+24,700; 24,750; 0; 897; 2,050; 0; 1057; 2,260
+24,750; 24,800; 0; 889; 2,039; 0; 1049; 2,250
+24,800; 24,850; 0; 881; 2,029; 0; 1041; 2,239
+24,850; 24,900; 0; 873; 2,018; 0; 1033; 2,229
+24,900; 24,950; 0; 865; 2,008; 0; 1025; 2,218
+24,950; 25,000; 0; 857; 1,997; 0; 1017; 2,208
+
+<Page 46>
+25,000; 25,050; 0; 849; 1,987; 0; 1,009; 2,197
+25,050; 25,100; 0; 841; 1,976; 0; 1,001; 2,187
+25,100; 25,150; 0; 833; 1,965; 0; 993; 2,176
+25,150; 25,200; 0; 825; 1,955; 0; 985; 2,166
+25,200; 25,250; 0; 817; 1,944; 0; 977; 2,155
+25,250; 25,300; 0; 809; 1,934; 0; 969; 2,145
+25,300; 25,350; 0; 801; 1,923; 0; 961; 2,134
+25,350; 25,400; 0; 793; 1,913; 0; 953; 2,123
+25,400; 25,450; 0; 785; 1,902; 0; 945; 2,113
+25,450; 25,500; 0; 777; 1,892; 0; 937; 2,102
+25,500; 25,550; 0; 769; 1,881; 0; 929; 2,092
+25,550; 25,600; 0; 761; 1,871; 0; 921; 2,081
+25,600; 25,650; 0; 753; 1,860; 0; 913; 2,071
+25,650; 25,700; 0; 745; 1,850; 0; 905; 2,060
+25,700; 25,750; 0; 737; 1,839; 0; 897; 2,050
+25,750; 25,800; 0; 729; 1,829; 0; 889; 2,039
+25,800; 25,850; 0; 721; 1,818; 0; 881; 2,029
+25,850; 25,900; 0; 713; 1,808; 0; 873; 2,018
+25,900; 25,950; 0; 705; 1,797; 0; 865; 2,008
+25,950; 26,000; 0; 697; 1,786; 0; 857; 1,997
+26,000; 26,050; 0; 689; 1,776; 0; 849; 1,987
+26,050; 26,100; 0; 681; 1,765; 0; 841; 1,976
+26,100; 26,150; 0; 673; 1,755; 0; 833; 1,965
+26,150; 26,200; 0; 665; 1,744; 0; 825; 1,955
+26,200; 26,250; 0; 657; 1,734; 0; 817; 1,944
+26,250; 26,300; 0; 649; 1,723; 0; 809; 1,934
+26,300; 26,350; 0; 641; 1,713; 0; 801; 1,923
+26,350; 26,400; 0; 633; 1,702; 0; 793; 1,913
+26,400; 26,450; 0; 625; 1,692; 0; 785; 1,902
+26,450; 26,500; 0; 617; 1,681; 0; 777; 1,892
+26,500; 26,550; 0; 609; 1,671; 0; 769; 1,881
+26,550; 26,600; 0; 601; 1,660; 0; 761; 1,871
+26,600; 26,650; 0; 593; 1,650; 0; 753; 1,860
+26,650; 26,700; 0; 585; 1,639; 0; 745; 1,850
+26,700; 26,750; 0; 577; 1,629; 0; 737; 1,839
+26,750; 26,800; 0; 569; 1,618; 0; 729; 1,829
+26,800; 26,850; 0; 561; 1,607; 0; 721; 1,818
+26,850; 26,900; 0; 553; 1,597; 0; 713; 1,808
+26,900; 26,950; 0; 545; 1,586; 0; 705; 1,797
+26,950; 27,000; 0; 537; 1,576; 0; 697; 1,786
+27,000; 27,050; 0; 529; 1,565; 0; 689; 1,776
+27,050; 27,100; 0; 521; 1,555; 0; 681; 1,765
+27,100; 27,150; 0; 513; 1,544; 0; 673; 1,755
+27,150; 27,200; 0; 505; 1,534; 0; 665; 1,744
+27,200; 27,250; 0; 497; 1,523; 0; 657; 1,734
+27,250; 27,300; 0; 489; 1,513; 0; 649; 1,723
+27,300; 27,350; 0; 481; 1,502; 0; 641; 1,713
+27,350; 27,400; 0; 473; 1,492; 0; 633; 1,702
+27,400; 27,450; 0; 465; 1,481; 0; 625; 1,692
+27,450; 27,500; 0; 457; 1,471; 0; 617; 1,681
+27,500; 27,550; 0; 449; 1,460; 0; 609; 1,671
+27,550; 27,600; 0; 442; 1,450; 0; 601; 1,660
+27,600; 27,650; 0; 434; 1,439; 0; 593; 1,650
+27,650; 27,700; 0; 426; 1,428; 0; 585; 1,639
+27,700; 27,750; 0; 418; 1,418; 0; 577; 1,629
+27,750; 27,800; 0; 410; 1,407; 0; 569; 1,618
+27,800; 27,850; 0; 402; 1,397; 0; 561; 1,607
+27,850; 27,900; 0; 394; 1,386; 0; 553; 1,597
+27,900; 27,950; 0; 386; 1,376; 0; 545; 1,586
+27,950; 28,000; 0; 378; 1,365; 0; 537; 1,576
+28,000; 28,050; 0; 370; 1,355; 0; 529; 1,565
+28,050; 28,100; 0; 362; 1,344; 0; 521; 1,555
+28,100; 28,150; 0; 354; 1,334; 0; 513; 1,544
+28,150; 28,200; 0; 346; 1,323; 0; 505; 1,534
+28,200; 28,250; 0; 338; 1,313; 0; 497; 1,523
+28,250; 28,300; 0; 330; 1,302; 0; 489; 1,513
+28,300; 28,350; 0; 322; 1,292; 0; 481; 1,502
+28,350; 28,400; 0; 314; 1,281; 0; 473; 1,492
+28,400; 28,450; 0; 306; 1,271; 0; 465; 1,481
+28,450; 28,500; 0; 298; 1,260; 0; 457; 1,471
+28,500; 28,550; 0; 290; 1,249; 0; 449; 1,460
+28,550; 28,600; 0; 282; 1,239; 0; 442; 1,450
+28,600; 28,650; 0; 274; 1,228; 0; 434; 1,439
+28,650; 28,700; 0; 266; 1,218; 0; 426; 1,428
+28,700; 28,750; 0; 258; 1,207; 0; 418; 1,418
+28,750; 28,800; 0; 250; 1,197; 0; 410; 1,407
+28,800; 28,850; 0; 242; 1,186; 0; 402; 1,397
+28,850; 28,900; 0; 234; 1,176; 0; 394; 1,386
+28,900; 28,950; 0; 226; 1,165; 0; 386; 1,376
+28,950; 29,000; 0; 218; 1,155; 0; 378; 1,365
+29,000; 29,050; 0; 210; 1,144; 0; 370; 1,355
+29,050; 29,100; 0; 202; 1,134; 0; 362; 1,344
+29,100; 29,150; 0; 194; 1,123; 0; 354; 1,334
+29,150; 29,200; 0; 186; 1,113; 0; 346; 1,323
+29,200; 29,250; 0; 178; 1,102; 0; 338; 1,313
+29,250; 29,300; 0; 170; 1,092; 0; 330; 1,302
+29,300; 29,350; 0; 162; 1,081; 0; 322; 1,292
+29,350; 29,400; 0; 154; 1,070; 0; 314; 1,281
+29,400; 29,450; 0; 146; 1,060; 0; 306; 1,271
+29,450; 29,500; 0; 138; 1,049; 0; 298; 1,260
+29,500; 29,550; 0; 130; 1,039; 0; 290; 1,249
+29,550; 29,600; 0; 122; 1,028; 0; 282; 1,239
+29,600; 29,650; 0; 114; 1,018; 0; 274; 1,228
+29,650; 29,700; 0; 106; 1,007; 0; 266; 1,218
+29,700; 29,750; 0; 98; 997; 0; 258; 1,207
+29,750; 29,800; 0; 90; 986; 0; 250; 1,197
+29,800; 29,850; 0; 82; 976; 0; 242; 1,186
+29,850; 29,900; 0; 74; 965; 0; 234; 1,176
+29,900; 29,950; 0; 66; 955; 0; 226; 1,165
+29,950; 30,000; 0; 58; 944; 0; 218; 1,155
+30,000; 30,050; 0; 50; 934; 0; 210; 1,144
+30,050; 30,100; 0; 42; 923; 0; 202; 1,134
+30,100; 30,150; 0; 34; 912; 0; 194; 1,123
+30,150; 30,200; 0; 26; 902; 0; 186; 1,113
+30,200; 30,250; 0; 18; 891; 0; 178; 1,102
+30,250; 30,300; 0; 10; 881; 0; 170; 1,092
+30,300; 30,350; 0; If the amount you are looking up from the worksheet is at least $30,300 ($31,300 if married filing jointly) but less than $30,338 ($31,338 if married filing jointly), your credit is $3. Otherwise, you cannot take the credit.; 870; 0; 162; 1,081
+30,350; 30,400; 0; 0; 860; 0; 154; 1,070
+30,400; 30,450; 0; 0; 849; 0; 146; 1,060
+30,450; 30,500; 0; 0; 839; 0; 138; 1,049
+30,500; 30,550; 0; 0; 828; 0; 130; 1,039
+30,550; 30,600; 0; 0; 818; 0; 122; 1,028
+30,600; 30,650; 0; 0; 807; 0; 114; 1,018
+30,650; 30,700; 0; 0; 797; 0; 106; 1,007
+30,700; 30,750; 0; 0; 786; 0; 98; 997
+30,750; 30,800; 0; 0; 776; 0; 90; 986
+30,800; 30,850; 0; 0; 765; 0; 82; 976
+30,850; 30,900; 0; 0; 755; 0; 74; 965
+30,900; 30,950; 0; 0; 744; 0; 66; 955
+30,950; 31,000; 0; 0; 733; 0; 58; 944
+
+<Page 47>
+31,000; 31,050; 0; 0; 723; 0; 0; 934
+31,050; 31,100; 0; 0; 712; 0; 0; 923
+31,100; 31,150; 0; 0; 702; 0; 0; 912
+31,150; 31,200; 0; 0; 691; 0; 0; 902
+31,200; 31,250; 0; 0; 681; 0; 0; 891
+31,250; 31,300; 0; 0; 670; 0; 0; 881
+31,300; 31,350; 0; 0; 660; 0; If the amount you are looking up from the worksheet is at least $30,000 ($31,300 if married filing jointly) butr less than $30,338 ($31,338 if married filing jointly), your credit is $3. Otherwise, you cannot take the credit; 870
+31,350; 31,400; 0; 0; 649; 0; 0; 860
+31,400; 31,450; 0; 0; 639; 0; 0; 849
+31,450; 31,500; 0; 0; 628; 0; 0; 839
+31,500; 31,550; 0; 0; 618; 0; 0; 828
+31,550; 31,600; 0; 0; 607; 0; 0; 818
+31,600; 31,650; 0; 0; 597; 0; 0; 807
+31,650; 31,700; 0; 0; 586; 0; 0; 797
+31,700; 31,750; 0; 0; 576; 0; 0; 786
+31,750; 31,800; 0; 0; 565; 0; 0; 776
+31,800; 31,850; 0; 0; 554; 0; 0; 765
+31,850; 31,900; 0; 0; 544; 0; 0; 755
+31,900; 31,950; 0; 0; 533; 0; 0; 744
+31,950; 32,000; 0; 0; 523; 0; 0; 733
+32,000; 32,050; 0; 0; 512; 0; 0; 723
+32,050; 32,100; 0; 0; 502; 0; 0; 712
+32,100; 32,150; 0; 0; 491; 0; 0; 702
+32,150; 32,200; 0; 0; 481; 0; 0; 691
+32,200; 32,250; 0; 0; 470; 0; 0; 681
+32,250; 32,300; 0; 0; 460; 0; 0; 670
+32,300; 32,350; 0; 0; 449; 0; 0; 660
+32,350; 32,400; 0; 0; 439; 0; 0; 649
+32,400; 32,450; 0; 0; 428; 0; 0; 639
+32,450; 32,500; 0; 0; 418; 0; 0; 628
+32,500; 32,550; 0; 0; 407; 0; 0; 618
+32,550; 32,600; 0; 0; 397; 0; 0; 607
+32,600; 32,650; 0; 0; 386; 0; 0; 597
+32,650; 32,700; 0; 0; 375; 0; 0; 586
+32,700; 32,750; 0; 0; 365; 0; 0; 576
+32,750; 32,800; 0; 0; 354; 0; 0; 565
+32,800; 32,850; 0; 0; 344; 0; 0; 554
+32,850; 32,900; 0; 0; 333; 0; 0; 544
+32,900; 32,950; 0; 0; 323; 0; 0; 533
+32,950; 33,000; 0; 0; 312; 0; 0; 523
+33,000; 33,050; 0; 0; 302; 0; 0; 512
+33,050; 33,100; 0; 0; 291; 0; 0; 502
+33,100; 33,150; 0; 0; 281; 0; 0; 491
+33,150; 33,200; 0; 0; 270; 0; 0; 481
+33,200; 33,250; 0; 0; 260; 0; 0; 470
+33,250; 33,300; 0; 0; 249; 0; 0; 460
+33,300; 33,350; 0; 0; 239; 0; 0; 449
+33,350; 33,400; 0; 0; 228; 0; 0; 439
+33,400; 33,450; 0; 0; 218; 0; 0; 428
+33,450; 33,500; 0; 0; 207; 0; 0; 418
+33,500; 33,550; 0; 0; 196; 0; 0; 407
+33,550; 33,600; 0; 0; 186; 0; 0; 397
+33,600; 33,650; 0; 0; 175; 0; 0; 386
+33,650; 33,700; 0; 0; 165; 0; 0; 375
+33,700; 33,750; 0; 0; 154; 0; 0; 365
+33,750; 33,800; 0; 0; 144; 0; 0; 354
+33,800; 33,850; 0; 0; 133; 0; 0; 344
+33,850; 33,900; 0; 0; 123; 0; 0; 333
+33,900; 33,950; 0; 0; 112; 0; 0; 323
+33,950; 34,000; 0; 0; 102; 0; 0; 312
+34,000; 34,050; 0; 0; 91; 0; 0; 302
+34,050; 34,100; 0; 0; 81; 0; 0; 291
+34,100; 34,150; 0; 0; 70; 0; 0; 281
+34,150; 34,200; 0; 0; 60; 0; 0; 270
+34,200; 34,250; 0; 0; 49; 0; 0; 260
+34,250; 34,300; 0; 0; 39; 0; 0; 249
+34,300; 34,350; 0; 0; 28; 0; 0; 239
+34,350; 34,400; 0; 0; 17; 0; 0; 228
+34,400; 34,450; 0; 0; 7; 0; 0; 218
+34,450; 34,500; 0; 0; If the amount you are looking up from the worksheet is at least $34,450 but less than $34,458, your credit is $1. Otherwise, you cannot take the credit.; 0; 0; 207
+34,500; 34,550; 0; 0; 0; 0; 0; 196
+34,550; 34,600; 0; 0; 0; 0; 0; 186
+34,600; 34,650; 0; 0; 0; 0; 0; 175
+34,650; 34,700; 0; 0; 0; 0; 0; 165
+34,700; 34,750; 0; 0; 0; 0; 0; 154
+34,750; 34,800; 0; 0; 0; 0; 0; 144
+34,800; 34,850; 0; 0; 0; 0; 0; 133
+34,850; 34,900; 0; 0; 0; 0; 0; 123
+34,900; 34,950; 0; 0; 0; 0; 0; 112
+34,950; 35,000; 0; 0; 0; 0; 0; 102
+35,000; 35,050; 0; 0; 0; 0; 0; 91
+35,050; 35,100; 0; 0; 0; 0; 0; 81
+35,100; 35,150; 0; 0; 0; 0; 0; 70
+35,150; 35,200; 0; 0; 0; 0; 0; 60
+35,200; 35,250; 0; 0; 0; 0; 0; 49
+35,250; 35,300; 0; 0; 0; 0; 0; 39
+35,300; 35,350; 0; 0; 0; 0; 0; 28
+35,350; 35,400; 0; 0; 0; 0; 0; 17
+35,400; 35,450; 0; 0; 0; 0; 0; 7
+35,450; 35,458; 0; 0; 0; 0; 0; 1
+35,458; or more; 0; 0; 0; 0; 0; 0
+

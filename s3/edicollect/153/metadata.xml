@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dynamic Modeling of the SSDI Application Timing Decision: The Importance of Policy Variables</title>
+<publication-date>2003-01-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>rvb1@cornell.edu</email>
+<institution>Cornell University</institution>
+<lname>Burkhauser</lname>
+<fname>Richard</fname>
+<mname>V.</mname>
+</author>
+<author>
+<lname>Butler</lname>
+<fname>J. S.</fname>
+</author>
+<author>
+<lname>Gumus</lname>
+<fname>Gulcin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>benefits</keyword>
+<keyword>charts</keyword>
+<keyword>data</keyword>
+<keyword>disability policy</keyword>
+<keyword>Disability Programs</keyword>
+<keyword>disability statistics</keyword>
+<keyword>Disability Statistics Research</keyword>
+<keyword>EDIcat5-DSR</keyword>
+<keyword>earnings</keyword>
+<keyword>economic</keyword>
+<keyword>economics</keyword>
+<keyword>economy</keyword>
+<keyword>employ</keyword>
+<keyword>employing</keyword>
+<keyword>employment</keyword>
+<keyword>estimates</keyword>
+<keyword>Federal Insurance Contributions Act</keyword>
+<keyword>FICA</keyword>
+<keyword>figures</keyword>
+<keyword>graphs</keyword>
+<keyword>Guiding Principles</keyword>
+<keyword>information</keyword>
+<keyword>Insurance</keyword>
+<keyword>Labor Market</keyword>
+<keyword>long term disability</keyword>
+<keyword>maternity leave</keyword>
+<keyword>numbers</keyword>
+<keyword>OASDI</keyword>
+<keyword>Old Age</keyword>
+<keyword>Survivors and Disability</keyword>
+<keyword>Old Age</keyword>
+<keyword>Survivors</keyword>
+<keyword>and Disability Insurance</keyword>
+<keyword>paternity leave</keyword>
+<keyword>policies</keyword>
+<keyword>policy</keyword>
+<keyword>procedures</keyword>
+<keyword>public policy</keyword>
+<keyword>public programs</keyword>
+<keyword>regulation</keyword>
+<keyword>retirement</keyword>
+<keyword>rules</keyword>
+<keyword>self-employment</keyword>
+<keyword>short term disability</keyword>
+<keyword>Social Security</keyword>
+<keyword>Social Security Disability Insurance</keyword>
+<keyword>SSDI</keyword>
+<keyword>SSI</keyword>
+<keyword>statistic</keyword>
+<keyword>statistics</keyword>
+<keyword>stats</keyword>
+<keyword>statute</keyword>
+<keyword>Supplemental Security Income</keyword>
+<keyword>work</keyword>
+</keywords>
+<abstract>&lt;p&gt;This paper analyzes the importance of policy variables in the context of Social Security Disability Insurance (SSDI) application timing decision. Previously, we explicitly modeled the optimal timing of SSDI application using dynamic structural models. We estimated these models using data from the Health and Retirement Study (HRS). This paper uses option value model estimates to simulate application timing under alternative SSDI policy formulations. We consider changes in three policy variables: benefit levels, acceptance rates, and employer accommodation. Our simulations suggest all these changes would have substantial effects on expected spell lengths until application and on lifetime application rates, and hence on SSDI caseloads.&lt;/p&gt;</abstract>
+<coverpage-url>http://digitalcommons.ilr.cornell.edu/edicollect/153</coverpage-url>
+<fulltext-url>http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1156&amp;amp;context=edicollect&amp;amp;unstamped=1</fulltext-url>
+<label>153</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1156</articleid>
+<submission-date>2005-09-26T12:35:38-07:00</submission-date>
+<publication-title>Employment and Disability Institute Collection</publication-title>
+<context-key>100657</context-key>
+<submission-path>edicollect/153</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>Burkhauser, R., Butler, J., &amp; Gümüs G. (2003). Dynamic Modeling of the SSDI Application Timing Decision: The Importance of Policy Variables, &lt;i&gt;Welfare State and Labor Market,&lt;/i&gt; Abstract obtained from Institute for Study of Labor (IZA), Discussion Paper No.942.
+http://digitalcommons.ilr.cornell.edu/edicollect/153</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>DE44A_HTM1.htm</archive-name>
+<upload-name>DE44A_HTM1.htm</upload-name>
+<url>http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=1156&amp;amp;context=edicollect&amp;amp;type=additional</url>
+<mime-type>text/html</mime-type>
+<description>Alternate Format</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

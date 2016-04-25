@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Workplace Education for Low-Wage Workers</title>
+<publication-date>2005-10-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Ahlstrand</lname>
+<fname>Amanda</fname>
+<mname>L.</mname>
+</author>
+<author>
+<lname>Bassi</lname>
+<fname>Laurie</fname>
+<mname>J.</mname>
+</author>
+<author>
+<lname>McMurrer</lname>
+<fname>Daniel</fname>
+<mname>P.</mname>
+</author>
+</authors>
+<coverpage-url>http://digitalcommons.ilr.cornell.edu/ilrreview/vol59/iss1/86</coverpage-url>
+<fulltext-url>http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1191&amp;amp;context=ilrreview&amp;amp;unstamped=1</fulltext-url>
+<label>86</label>
+<document-type>bookreview</document-type>
+<type>article</type>
+<articleid>1191</articleid>
+<submission-date>2005-09-23T13:09:27-07:00</submission-date>
+<publication-title>ILR Review</publication-title>
+<context-key>100394</context-key>
+<submission-path>ilrreview/vol59/iss1/86</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-10-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Workplace Education for Low-Wage Workers</value>
+</field>
+</fields>
+</document>
+</documents>

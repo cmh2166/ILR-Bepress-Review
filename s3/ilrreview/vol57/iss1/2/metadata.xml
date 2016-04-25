@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Meta-Analysis of Government-Sponsored Training Programs</title>
+<publication-date>2003-10-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<institution>University of Maryland</institution>
+<lname>Greenberg</lname>
+<fname>David</fname>
+<mname>H</mname>
+</author>
+<author>
+<institution>MDRC</institution>
+<lname>Michalopoulos</lname>
+<fname>Charles</fname>
+</author>
+<author>
+<institution>University of Miami</institution>
+<lname>Robins</lname>
+<fname>Philip</fname>
+<mname>K</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;This study uses meta-analysis to synthesize findings from 31 evaluations of 15 voluntary government-funded training programs for the disadvantaged that operated between 1964 and 1998. On average, the earnings effects of the evaluated programs seem to have been largest for women, quite modest for men, and negligible for youths. For men and women, the earnings effects of training appear to have persisted for at least several years after the training was complete. Classroom skills training was apparently effective in increasing earnings, but basic education was not. There is no evidence that more expensive training programs performed better than less expensive ones. Although the United States has more than three decades of experience in running training programs, the programs do not appear to have become more effective over time.&lt;/p&gt;</abstract>
+<coverpage-url>http://digitalcommons.ilr.cornell.edu/ilrreview/vol57/iss1/2</coverpage-url>
+<fulltext-url>http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1039&amp;amp;context=ilrreview&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1039</articleid>
+<submission-date>2005-07-11T10:33:41-07:00</submission-date>
+<publication-title>ILR Review</publication-title>
+<context-key>82887</context-key>
+<submission-path>ilrreview/vol57/iss1/2</submission-path>
+<fields>
+<field name="acknowledgements" type="string">
+<value>The research reported in this study was supported by a grant from the Rockefeller Foundation to the Maryland Institute for Policy Analysis and Research, University of Maryland, Baltimore County.  A previous version of this paper was presented in a seminar at MDRC and at the 2001 annual meeting of the Association for Public Policy and Management in Washington, D.C.  The authors acknowledge the valuable comments of Burt Barnow, Howard Bloom, Marvin Mandell, James Riccio, and especially Jeffrey Smith.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-10-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

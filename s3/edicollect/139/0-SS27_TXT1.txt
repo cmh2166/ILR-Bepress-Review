@@ -1,0 +1,274 @@
+The Benefits Planner
+Keys to Effective Benefits Planning, Assistance and Outreach
+
+Summer 2002
+Vol. 2, Issue 2
+
+This publication is sponsored in part by the NYS Developmental Disabilities Planning Council and the Social Security Administration through the NYS Department of Labor (NY Works Project), and is a collaborative publication of Cornell University's Program on Employment and Disability and Neighborhood Legal Services, Inc. (NLS) of Buffalo, NY.  The editors and primary authors are James R. Sheldon, Jr. of NLS and Edwin J. Lopez-Soto of Cornell University.
+
+*******
+
+In this issue...
+
+SSI’S PLAN FOR ACHIEVING SELF SUPPORT
+Using the PASS to Purchase Items and Services to Reach a Work Goal
+
+•  INTRODUCTION	
+•  WHAT IS A PASS?  
+•  HOW DOES IT WORK?
+•  CRITERIA FOR PASS APPROVAL
+•  WHAT ITEMS CAN BE FUNDED WITH A PASS?
+•  TIME LIMITS FOR THE PASS
+•  AN APPROVED PASS CAN BE AMENDED	
+•  USING THE PASS TO GAIN ACCESS TO 1619(b) MEDICAID
+•  CONCLUSION
+
+Special Features...
+
+•  SSA’s Pass Cadres
+•  LAWS, REGULATIONS AND POLICIES GOVERNING THE PASS
+•  PROTECTION AND ADVOCACY FOR BENEFICIARIES OF SOCIAL SECURITY BENEFITS
+•  Ticket to Work Update
+•  Benefits Planning Assistance & Outreach Projects in New York
+•  The PASS and Medicaid
+•  The PASS and Children under 18
+
+*******
+
+SSI’S PLAN FOR ACHIEVING SELF SUPPORT
+Using the PASS to Purchase Items and Services to Reach a Work Goal
+
+INTRODUCTION
+
+In recent years, federal and state policy makers have devoted considerable time to identifying barriers that stand in the way of successful work for persons with disabilities.  Several key barriers have been identified, such as the fear of losing Supplemental Security Income (SSI) or Social Security Disability Insurance (SSDI) benefits, and the fear of losing Medicaid or Medicare.
+Another barrier to employment is the need to obtain funding for the extra expenses associated with achieving a work goal.  Those expenses could include payment for college or a training course, purchase of a computer, purchase of a vehicle, vehicle adaptations to allow an individual with a disability to drive it, payment for child care expenses, and the purchase of new clothes to go on job interviews.  The cost of these items could put them outside the reach of many individuals who receive SSI or SSDI benefits.
+In many cases, funding for these extra expenses could be met through one of New York’s two vocational rehabilitation agencies: the Office of Vocational and Educational Services for Individuals with Disabilities (VESID) or the Commission for the Blind and Visually Handicapped. [For a discussion of services available through VESID or the Commission for the Blind, see the Fall 2001 issue of IMPACT, the quarterly newsletter of the State Assistive Technology Advocacy Project, available on the Neighborhood Legal Services website at www.nls.org/at/atfall01.htm.]  When funding through VESID or the Commission for the Blind is either limited or not available, the SSI program’s Plan for Achieving Self Support (PASS) may be available to help fund those extra items needed to achieve a work goal.
+Our lead article will describe the PASS and how it can be used to supplement funding available through VESID, the Commission for the Blind, or other sources.  We will explain what a PASS can pay for, what needs to appear in the written PASS proposal, and the resources available to assist individuals in preparing PASS proposals.  We will also explain how the PASS, by making an individual eligible for SSI, can guarantee future eligibility for continued Medicaid under the 1619(b) program when the individual goes to work.
+Readers who have questions or need additional information about the PASS are encouraged to call us at our State Work Incentives Support Center.  Our statewide toll-free number for technical assistance calls on any issues related to benefits and work is 1-888-224-3272.
+
+WHAT IS A PASS?  HOW DOES IT WORK?
+
+The SSI program provides cash benefits to persons with disabilities.  To get SSI benefits a person must have limited income and resources.  Countable resources, such as money in the bank, cannot exceed $2,000 for an individual.  In New York, the key SSI monthly rates are $632 for individuals who live alone and $568 for individuals who live with others and share expenses.  The monthly SSI check is determined by subtracting countable income from the relevant SSI base rate.
+Example.  Deborah has a mental illness and receives $520 in SSDI benefits based on her previous work record.  Since she lives alone her SSI base rate will be $632 per month.  The SSI program will disregard the first $20 of her SSDI as an unearned income exclusion ($520 - 20 = $500).  The $500 in countable income will then be subtracted from the SSI base rate and Deborah will receive an SSI supplement of $132 per month.  In New York, since she gets at least $1 in SSI benefits, she qualifies for Medicaid automatically.
+The PASS is a rule for excluding, or not counting, income or resources that a person will use to purchase items to reach a work goal.  This is best explained by looking at the following example.
+Example.  Deborah, from the example above, wants to become a beautician.  VESID agrees to pay for tuition, books, and required hair-cutting supplies for an 18-month cosmetology course, as well as fees to take state licensing exams upon her completion of the course.  The site of the training program is 31 miles from Deborah’s home and she is not on a bus route.  Deborah would like to save toward a car that would allow her to make the 62 mile round trip to cosmetology school.  VESID would then provide her with a mileage allowance to pay for gas.
+It is June 2002 and Deborah talks to a benefits specialist at one of the Benefits Planning, Assistance and Outreach (BPA&O) offices (see box, p. 46) who agrees to help her with a PASS proposal.  A cosmetology class starts on January 8, 2003 and Deborah is looking for a way to have a dependable used car by then.  Deborah and her BPA&O advocate decide that she will propose to set $500 of her monthly SSDI check into a PASS to save toward a used car, insurance premiums, and a modest fund for car maintenance.  Since Deborah started taking steps toward this goal as early as January 2002, when she first applied for VESID help, she will request that any PASS approval be retroactive to January 2002. (Note: Beneficiaries and their advocates will want to work directly with SSA’s PASS specialists, see box on this page, to get PASS proposals approved, especially when they seek retroactive approval.)
+Deborah’s PASS proposal is approved, retroactive to January 2002.  This means that the $500 of SSDI she puts into a special bank account for the PASS is no longer counted in determining her SSI eligibility.  Now, her SSI check will be calculated as follows:
+$ 520	SSDI check
+-  20	Unearned income exclusion
+- 500	Exclusion for PASS expenses
+$   0	Countable income
+$ 632	SSI base rate (living alone)
+-   0	Countable income
+$ 632	New SSI check amount
+With the PASS, Deborah’s SSI check will go up by $500, i.e., by the full amount of SSDI which she sets aside.  When the PASS is approved in August 2002, retroactive to January, this means that Deborah will get an SSI check of $3,500 for the seven retroactive months (January to July 2002).  Effective December 2002, Deborah will have $6,000 in her special PASS bank account.  She will use $5,500 to purchase a used car, then use the remaining $500 to pay her first six months of car insurance ($350) and begin a car maintenance fund ($150).
+After she buys the car and starts cosmetology school, Deborah’s needs for maintaining the car might be $1,200 to $1,500 per year (i.e, $700 for insurance, $500 to $800 for maintenance).  Deborah and SSA’s PASS specialist agree that she can put $500 into the PASS account in January 2003, getting the maintenance fund up to $650.  Thereafter, beginning with February 2003, she will put $100 per month into the PASS account for future maintenance and insurance premiums.  With only $100 going into the PASS, effective February 2003, her countable SSDI income is reduced by only $100 and will be $400 per month ($520 - 20 -100 = $400).  Her SSI check will then be $232 per month ($632 - 400) if we apply 2002 SSI rates.
+As this example illustrates, a PASS can be used to increase the monthly SSI check, allowing the person to maintain enough money for living expenses after their other income is set aside toward the work goal.  The PASS can also be used to obtain SSI, if current income would put the person above the SSI rate, or to retain SSI when income or resources have increased.
+Any kind of income can go into a PASS, including wages, disability payments, or income of a parent or spouse that is considered available to the SSI applicant or recipient (i.e., "deemed income").  Any liquid resource can also go into a PASS, including savings, an inheritance, a personal injury award, or retroactive SSI or SSDI payments.  When a person, like Deborah in the example, uses a PASS to save toward a future purchase, the PASS allows the person to accumulate resources in excess of SSI’s $2,000 limit.
+
+CRITERIA FOR PASS APPROVAL
+
+A PASS proposal must be in writing and submitted to SSA.  Anyone can write the PASS, including the person with a disability.  We recommend that a trained advocate or rehabilitation professional assist in drafting a PASS.  SSA is required to assist in writing a PASS if requested to do so.  We hope that many of our readers will become involved in either writing PASSes or identifying when a PASS might be available to an individual.  In most regions of the state, you should be able to refer a person to the BPA&O project (see box, p.46) to assist with writing the PASS.
+SSA has developed a 14-page form, form SSA-545, for preparing PASS proposals.  Although a PASS proposal can be submitted without using this form, it is always best to use it as the form ensures that all critical information is submitted to make approval more likely.  You can obtain a copy of the form from your local SSA office and it is also available on SSA’s website in a PDF format at www.ssa.gov/online/ssa-545.pdf.  If you have trouble obtaining the PASS form, call our toll-free technical assistance line at 1-888-224-3272 and we will get a form to you.
+The written PASS must contain:
+•	a specific occupational objective;
+•	a list of items to be funded and their cost;
+•	the income/resources to go into the PASS;
+•	specific savings and disbursement goals; and
+•	a timetable for achieving the goal.
+A PASS proposal must specify an expected level of earnings when the PASS is completed.  For SSI beneficiaries, that earning level should be enough to reduce or eliminate dependence on SSI.  For SSDI beneficiaries, the earning level should be enough to eliminate dependence on SSDI (i.e., above the monthly substantial gainful activity level of $780 or $1,320 for individuals who are legally blind).  The SSI beneficiary must comply with the terms of the approved PASS.
+
+WHAT ITEMS CAN BE FUNDED WITH A PASS?
+
+A PASS can fund any item that is connected to achieving a work goal.  SSI’s policy manual contains an extensive list of items that can be funded using a PASS.  See POMS SI 00870.025 B.5.g.  The following is a very short list of items that can be funded with a PASS:
+•	college or trade school tuition
+•	tools and equipment, including specially adapted items for a job or home office
+•	a computer and related equipment, including adaptations to allow use in school, work or in a home office
+•	a vehicle and/or any special modifications to it
+•	child care expenses
+•	work uniforms or professional attire as required for the job setting 
+Example.  Maria, age 38, was injured in a car accident at age 33.  She uses a power wheelchair for all mobility and personal care aids help her at home.  Two years ago she received a $250,000 settlement for her accident. $200,000 was used to buy a home and equip it for her disability, and $30,000 to buy a modified van that she can drive from her wheelchair.  She has lived off the remaining $20,000 and currently has $13,000 left.  Before the accident, Maria worked part-time as a nurse.  She currently receives $388 in monthly SSDI benefits.  The only other household income is child support payments of $250 per month for her two children, ages six and eight.
+Maria wants to attend a four-year college program to become a paralegal.  With her medical background, she hopes to do medically-related legal work.  Based on the limitations imposed by her disability, she plans to finish college in five years.  She will need money for tuition, books, a computer, and to replace her van when she graduates (it will be nearly eight years old then).  She is concerned that: $638 in monthly household income will not meet expenses when her savings are gone; she will be unable to pay for personal care aids; she will be unable to pay for a power wheelchair to replace her current five-year old wheelchair; and she will be unable to pay a baby sitter when she attends afternoon classes.
+It appears that Maria’s needs can be met through a combination of funding from VESID, Medicaid, and an approved PASS.  She would be eligible for VESID based on her disability and her work goal to become a paralegal.  VESID should be able to pay for tuition, books, and possibly the computer.  Also, if Maria can come up with the money to purchase a replacement van, VESID should be able to pay for modifications to allow Maria to drive the van from her wheelchair.  Although VESID will only fund these items for persons who meet a financial needs test, SSI and SSDI beneficiaries automatically meet the financial needs test.
+Currently, Maria is not eligible for SSI because of the $13,000 bank account.  Without that money, she would be eligible for SSI at the 2002 living with others rate of $568 per month.  The SSI program would count $368 of her $388 SSDI check, allowing her to get an SSI check of $200 per month.  (The SSI program would not count the $250 of monthly child support received for Maria’s children.)  When Maria becomes eligible for SSI, she will automatically be eligible for Medicaid which should then become a payment source for the replacement wheelchair, the personal care aids, and any other medically related expenses.
+Maria proposes a PASS to set aside $11,500 of her savings in a special account toward the future purchase of a replacement van.  She also proposes to set aside $368 of her SSDI check for: child care expenses during college; for additional savings for a van projected to cost $20,000; and to establish a home work station/study area in her spare bedroom (i.e., to purchase a computer package with a specially designed keyboard and a specially designed desk for a wheelchair user).  She agrees in her PASS proposal that she will exhaust any resources available through VESID, state Tuition Assistance Payments (TAP), and other non-loan assistance.
+If the PASS is approved, the $11,500 will be exempt and not counted against SSI’s $2,000 resource limit (the $1,500 retained in her regular bank account also keeps her under SSI’s resource limit).  The $368 of SSDI that she puts into the PASS will reduce her countable income to $0 per month ($388 - 20 = 368 - 368 = $0).  Thus, she will now be eligible for a $568 monthly SSI check and automatic Medicaid.
+Consider what Maria will accomplish through proactive planning.  First, VESID is identified as a funding source for tuition, books, potential computer equipment, and future van modifications.  Second, SSI’s PASS will be used to exclude savings for the future van purchase, with income excluded to pay for child care, computer equipment, and computer accessories to the extent not covered by VESID.  Third, Medicaid eligibility is established through creating SSI eligibility, creating funding for personal care services and a replacement power wheelchair.  Finally, by ensuring SSI eligibility, the family’s monthly income increases by $200, making it more realistic that Maria can attend college and meet household expenses.  Maria will apply for student loans only if she cannot meet her expenses after getting support from VESID, the PASS, Medicaid, and the SSI check.
+
+TIME LIMITS FOR THE PASS
+
+Currently, there is no firm time limit for a PASS.  Generally, SSA’s PASS specialist will initially approve a PASS in increments of 12 to 18 months.  After 48 months duration, current policy allows the PASS to be continued in any number of six-month extensions.
+Example.  Maria’s PASS is approved to attend college and become a paralegal.  She will need five years to complete the program because of her disability.  The PASS specialist will approve the first four years in 12-month increments and approve the last year of school in two six-month extensions.
+AN APPROVED PASS CAN BE AMENDED
+Maria enters college seeking to become a paralegal, but fails to plan for several expenses.  She must purchase computer software; must purchase Internet services, to do assignments involving use of websites; and pay for an increase in room and board costs.  VESID has assisted Maria up to its dollar limits.  She needs an extra $500 for the software; $20 per month for Internet services; and an extra $250 annually for room and board.
+Maria submits a written amendment to her PASS to include these items.  The amendment is approved and she continues to put her full SSDI check (minus the $20 exclusion) into the PASS and continues to get SSI at the full living-with-others rate of $568 per month.  This will lessen the amount she can save over the next five years for the purchase of the van.
+
+USING THE PASS TO GAIN ACCESS TO 1619(b) MEDICAID
+
+In our Fall 2002 issue of the Benefits Planner, we discussed section 1619(b) Medicaid.  The special rule allows individuals who lose SSI due to wages to continue Medicaid in most instances if their disability continues, annual income from wages is $33,294 or less in 2002, and absent the wages the individual would still be eligible for SSI.
+Example: Maria was not eligible for SSI until her PASS was approved.  When she completes college, she goes to work as a paralegal earning $24,000 per year.  Since her PASS was completed upon graduating and obtaining this job, her income from the job will be enough to eliminate her eligibility for SSI.  Since she lost the SSI due to wages and her annual income from employment is less than $33,294, she should be eligible for Medicaid under section 1619(b).  This will ensure continued payment for the personal care aids that she will continue to need.
+
+CONCLUSION
+
+The PASS is a very important work incentive as it creates a source of funding for items needed to achieve a work goal.  The PASS should be viewed as a supplement to the assistance that can be offered by VESID and the Commission for the Blind.  As always, readers who have more questions about the PASS are encouraged to call the State Work Incentives Support Center’s toll-free number, 1-888-224-3272, if you have questions about the PASS.
+
+*******
+
+SSA’S PASS CADRES
+
+PASS Specialists in Buffalo and New York City Are Responsible for All PASS Proposals
+
+In New York State, there are specialty units established, known as "PASS Cadres," to handle all PASS proposals for the upstate and downstate regions.  Their contact information is listed below:
+For Upstate, call the Cheektowaga site at either 800-510-5680 (toll-free) or 716-685-8039.
+For Downstate, call the New York City site at either 800-551-9583 212-264-0969, ext. 5 or 6.
+
+
+*******
+
+LAWS, REGULATIONS AND POLICIES GOVERNING THE PASS
+
+Statutes:  42 U.S.C. §§ 1382a(b)(4)(a)(iii) & (b)(iv), 1382b(a)(4)
+Regulations:	  20 C.F.R. §§ 416.1112, .1124, .1161, .1180-.1182, .1210 & .1225-.1227
+Policy:  Program Operations Manual Systems (POMS), SI 00870.001 et seq. (July 2000)
+NOTE: The POMS provisions are the most important reference if you are preparing PASS proposals.  The PASS-related provisions, along with all other POMS provisions, are easily accessible on SSA’s website at www.ssa.gov/representation.
+
+
+*******
+
+PROTECTION AND ADVOCACY FOR BENEFICIARIES OF SOCIAL SECURITY BENEFITS
+New Advocacy Program Will Assist SSI and SSDI Beneficiaries Who Face Legal Obstacles to Successful Employment
+
+The Protection and Advocacy for Beneficiaries of Social Security (PABSS) program is funded by the Social Security Administration to help SSI and SSDI beneficiaries who face a wide range of barriers to employment.  For example, the Americans with Disabilities (ADA) protects against discrimination and provides for reasonable accommodations in colleges, in most places of employment, and on public transportation systems.  A PABSS attorney may be able to help a beneficiary, through negotiation or litigation, to enforce the ADA to allow the individual to attend college, take public transportation or the para-transit system to school or work, or obtain/retain employment despite a disability.
+PABSS attorneys are located in four different regions of the state:
+
+Downstate Region: 
+Serving New York City, Long Island and Westchester County
+Pauline Yoo, Esq.
+New York Lawyers for the Public Interest, Inc.
+30 West 21st St., New York, NY 10010
+(212) 244-4664, (212) 244-3692 (TTY)
+
+Greater Hudson Region:
+Serving: Albany, Clinton, Columbia, Dutchess, Essex, Franklin, Fulton, Greene,
+Hamilton, Montgomery, Orange, Putnam, Rensselaer, Rockland, Saratoga,
+Schenectady, Schoharie, St. Lawrence, Sullivan, Ulster, Washington and Warren Counties.
+Simeon Goldman, Esq.
+Disability Advocates, Inc., 5 Clinton St., 
+Albany, NY 12207
+(518) 432-7861
+
+Cental New York Region:
+Serving: Broome, Cayuga, Chemung,Chenango, Cortland, Delaware, Herkimer,Jefferson, Lewis, Madison, Oneida,Onondaga, Oswego, Otsego, Schuyler, Tioga, and Thompkins Counties.
+David Hutt, Esq.
+Legal Services of Central New York, Inc., 
+The Empire Building,
+475 South Salina St., Syracuse, NY 13202
+(315) 475-3127
+
+Western Region:
+Serving: Allegany, Cattaraugus, Chautauqua, Erie, Genesee, Livingston, Monroe, Niagara, Ontario, Orleans, Seneca, Steuben, Wayne, Wyoming and Yates Counties.
+Karen Welch, Esq.
+Neighborhood Legal Services, Inc.295
+Main St., Room 495, Buffalo, NY 14203
+(716) 847-0650	
+
+
+*******
+
+TICKET TO WORK UPDATE 
+Another 10 Percent of Tickets Go Out in May
+
+The Ticket to Work and Self Sufficiency was the featured article of the Spring 2002 issue of the Benefits Planner.  Ten percent of New Yorkers, ages 18 to 64, who receive SSI or SSDI benefits received tickets in February 2002.  Under plans originally announced by the Social Security Administration, tickets were to be distributed in New York at a pace that would get all tickets out by the end of June (i.e., 20 percent in April, 30 percent in May, and 40 percent in June).  After certain state officials urged SSA to slow down the distribution, SSA agreed and no tickets were distributed in April, with only 10 percent (those whose Social Security numbers end with a "2") distributed during May.  As this issue went to press, it was not clear what the distribution schedule would be for June 2002 and later.
+
+
+*******
+
+Benefits Planning Assistance & Outreach Projects in New York
+
+The following are the Benefits Planning, Assistance and Outreach (BPA&O) projects serving New York State and the contact persons for each office.  The BPA&Os are funded by the Social Security Administration and are available to inform SSI and SSDI beneficiaries of the work incentives available to them and how going to work will affect their SSI, SSDI, Medicaid, or Medicare benefits.
+
+Resource Center for Independent Living
+Connie Angelini
+315-797-4642
+401-409 Columbia Street
+P.O. Box 210
+Utica, NY 13503-0210
+
+Research Foundation for Mental Hygiene ("Brooklyn Works")
+Olga Ivnitsky
+718-368-7923
+NY State Department of Labor
+17-17 Avenue Z
+Brooklyn, NY 11235
+
+Neighborhood Legal Services of Buffalo, Inc.
+Krista McDonald
+716-847-0650
+295 Main Street Room 495
+Buffalo, NY 14203
+
+Abilities, Inc. "National Center for Disability Services"
+Leslie Monsen
+516-465-1522
+201 I.U. Willets Road
+Albertson, NY 11507
+
+Barrier Free Living, Inc.
+Angela Caula,212-677-6668 
+270 East Second Street
+New York, NY 10009
+
+Queens Independent Living Center
+Charles Rusnak
+718-515-2800
+140-40 Queens Blvd
+Jamaica, NY 11435
+
+Independent Living, Inc.
+Barbara Lohrke
+845-565-1162
+5 Washington Terrace
+Newburgh, NY 12550
+
+*******
+
+THE PASS AND MEDICAID 
+The PASS Can be Used to Reduce the Medicaid Spend Down Amount
+
+For individuals with disabilities who do not receive SSI, Medicaid is available through the medically needy program, often called the spend down program.  In 2002, Medicaid’s monthly income limit is $634.  If an individual has countable income of more than $634, the individual must pay for or incur medical expenses to bring income down to $634 (i.e., the person must "spend down") before becoming eligible for Medicaid.  A PASS can be used to reduce income for Medicaid purposes in the same way it is used to reduce income for SSI purposes.  By doing this, the spend down is either reduced or eliminated.
+Example.  Robert, age 38, has a mental illness and severe rheumatoid arthritis, and receives $1004 per month in SSDI benefits.  After excluding the first $20 of SSDI, the Medicaid program will count $984 as income and Robert will have a $350 spend down.  He has been accepted in a community college program with a goal of becoming a mental health therapy aide.  VESID will pay for his two years of college.  Robert’s 1987 Chevy Cavalier needs a new transmission and he can no longer drive it, without the installation of hand controls, because of the progressive nature of his arthritis.  He would like to use a PASS to purchase a newer used car to make the 48-mile round trip commute to school which is not on a bus route.  VESID would then pay for the hand controls.
+Let us assume that Robert can either obtain credit or a co-signer for a car loan, that loan payments on a 48-month loan will be $190 per month, and that insurance payments on the car will be $60 per month.  Robert could propose a Medicaid PASS to his local Department of Social Services (or the Human Resources Agency in New York City) to put $250 of his SSDI into a special account to pay for his car payments and insurance payments.  If approved, his countable income would be reduced from $984 to $734 and his spend down reduced from $350 to $100 per month.  If Robert could justify another $100 per month toward computer equipment and set aside $350 per month for the PASS, his countable income would be reduced to $634 and his spend down eliminated.
+Regulations, Policy Governing the Medicaid PASS: 18 N.Y.C.R.R. § 360-4.6(a)(2)(xxiv), (b)(3); Medical Assistance Reference Guide, at pp. 200-201 (Aug. 1999 Update); Medicaid Disability Manual, Policy 45-49 (Aug. 2001 Update).
+
+
+*******
+
+THE PASS AND CHILDREN UNDER 18 
+The PASS Can Use a Parent’s Income to Pay for Items Related to a Work Goal
+
+A child who has countable income "deemed" available from a working parent could be eligible for SSI with a PASS by excluding deemed income.
+Example.  Ann is disabled and uses a wheelchair.  She just turned 16 years old and lives with her mother and 12 year old brother who does not have a disability.  She was getting a $568 SSI check until her mother went to work and started making $32,130 per year (about $2,677 per month).  Her countable deemed income is now $595 or $27 more then the 2002 living with others rate of $568.  A PASS is proposed to put $595 of the mother’s wage into an account to save for a van to allow Ann to attend college to become an engineer.
+The PASS is approved, meaning that the SSI program will no longer count the $595 in deemed income, thereby reducing Ann’s countable income to $0 per month.  She will once again qualify for a $568 SSI check and automatic Medicaid.  If Ann saves this amount each month for two full years, or until deeming stops on her 18th birthday, she will be able to save nearly $14,000 in her PASS fund.  Keep in mind, if the individual was not eligible for SSI before the PASS was submitted, an SSI application would need to be submitted along with the PASS proposal.
+
+*******
+
+In Our Next Issue 
+…  SSI’s Income and Resource Rules
+
+*******
+
+The NY State Work Incentives Support Center will provide statewide services, including: training through traditional means and through use of the latest technology for distance learning; a toll-free technical assistance line, 1-888-224-3272; and a quarterly newsletter, The Benefits Planner.  To subscribe to the Center's listserv, send your name and email address to tpg3@cornell.edu.  To request a print copy of this newsletter, contact the toll-free number above.
+
+*******
+
+If you have special needs and would like The Benefits Planner sent in a special format, would like our Spanish version or would like the newsletter delivered by email, please call our toll-free technical assistance line, 1-888-224-3272.
+
+*******
+
+Welcome to The Benefits Planner, a Quarterly Newsletter of  The NY State Work Incentives Support Center
+This newsletter will provide valuable information on how work for persons with disabilities affects government benefits, with an emphasis on the Supplemental Security Income (SSI) and Social Security Disability Insurance (SSDI) work incentives.  Each newsletter will contribute to an ongoing dialogue on topics related to benefits and work.  Back issues will appear on the Cornell University website, www.ilr.cornell.edu/ped and on the Social Security section of the Neighborhood Legal Services website, www.nls.org.
+
+NEIGHBORHOOD LEGAL SERVICES, INC.
+295 Main Street, Room 495
+Buffalo, NY 14203
+

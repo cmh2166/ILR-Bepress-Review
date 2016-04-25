@@ -1,0 +1,80 @@
+Just the Facts
+
+July 2004
+
+Disability and Retirement: Basic Information for BPAO and PABSS
+
+Basic Information for BPA&O and PABSS
+
+So, what does it mean?
+
+How this applies to you.
+
+With the intervention of benefits planning, more SSDI beneficiaries are choosing to return to work. However, many are unable to earn at the same level as their pre-disability salary/earnings.  They are legitimately concerned that returning to work at a lower wage level will cause a reduction in future retirement payments.
+
+Social Security Statements
+
+There are several ways an individual who qualifies for Social Security benefits can receive a statement of estimated benefit amounts to which they may be entitled upon retirement or upon becoming disabled.  The Social Security Administration mails a statement annually to workers or former workers 25 years of age or older, approximately 3 months before the person’s birthday. This letter, entitled “Your Social Security Statement,” includes 1) an overview about the Statement and benefits calculations, 2) estimated monthly benefit amounts for the individual’s Retirement, Disability, Family, Survivors and eligibility for Medicare benefits, and 3) information about some of the benefit program rules and regulations. Any worker of any age can also request a Statement at any time (typically, a request for a Statement will take 2-4 weeks to receive in the mail). 
+
+The Statement includes a disclaimer that the amounts may not be accurate because they are based on an estimate of future earnings and current law. The retirement estimate includes an approximation of how much the person will receive at early retirement (at age 62), and at full retirement age (the full retirement age began to increase gradually in 2003 from age 65 years, 0 months, and will eventually be capped at age 67). The estimated amount of a person’s monthly disability payment will often be less than the amount at full retirement age because there is an assumption the person will work fewer years if disabled. The disability benefit estimate is based on the person becoming disabled “right now.”  Page 3 of the letter includes a list of “Your Social Security Taxed Earnings.” Individuals can review this record to be sure that the Social Security Administration has an accurate record of earnings (underreporting of earnings can result in lower benefit amounts). Pages three and four of the letter also include information on how to report to SSA and additional facts about SSA benefit programs. 
+
+Individuals can receive an estimate of their Social Security benefits online from the SSA website. The process is:
+
+1. Log onto at www.ssa.gov, (the SSA home page)
+2. On the home page, click on the “Calculate Your Benefits” item in the middle of the page
+3. There are three types of calculators available on the bottom of the page, the “Quick Calculator,” the “On Line Calculator,” and the “Detailed Calculator”  
+(Note: The On Line calculator is easy to use but requires the individual to input past earnings for each year worked. This option provides rough estimates and should never be counted as highly accurate).
+
+Individuals can also receive an SSA benefit statement and related information through the following page under the SSA website: www.socialsecurity.gov/mystatement/
+
+This web page includes buttons to other options:
+
+* “Need to request a Statement?” allows the individual to request a  Statement of Benefits in the mail
+* “Sample Statement with explanations” provides an example of a benefits statement 
+* “Questions About Your Statement” includes links to frequently asked questions and answers to topical areas related to the benefit calculations, statements, and possible problems with information.
+
+Individuals who cannot or do not want to use the internet can call the Social Security Administration at 1-800-772-1213; they can write to Social Security Administration, Office of Earnings, Operations, P.O. Box 33026, Baltimore, MD, 21290-3026, or they can go into their local SSA office to request a Statement. 
+
+Retirement: Considerations for disability beneficiaries
+
+When a worker becomes disabled, and qualifies for SSDI, the monthly benefits are an estimate of the benefits he would receive had he worked until reaching full retirement age.  The methods used to calculate disability or retirement benefits are very complicated and BPAO specialists should refer beneficiaries to the Social Security Administration if they have questions about benefit calculations.  
+
+The earnings used in determining the Primary Insurance Amount (PIA) are set or fixed at the time the person qualifies for disability benefits.  The SSA will not use any years of “non-work” during a period of disability to calculate the retirement benefit.
+
+If a SSDI beneficiary returns to work and leaves the rolls, the amount of disability benefits received will not reduce future retirement benefits.  Nor will wages earned during a period of disability have a negative impact on future retirement benefits. Wages are “frozen” during a period of disability and used in the calculation of retirement benefits only if it would be to the person’s advantage to do so.  However, if the lower earnings continue AFTER cessation of benefits and termination of the disability,
+retirement benefits may be reduced.
+
+If the SSDI beneficiary switches to retirement benefits prior to reaching Full Retirement Age (FRA), the monthly cash benefit is reduced by the number of months remaining until FRA.  The reduction is 5/9 of 1 percent for each of the first thirty-six months and 5/12 of 1 percent for each month in excess of thirty-six.
+
+In certain situations, it may be advantageous for the DI beneficiary to take early retirement at age 62.  Some examples include:
+
+1. Workers Compensation benefits will offset the SSDI benefit, but in many states will not offset retirement benefits.  A DI beneficiary receiving Workers Compensation may be better off by taking the early retirement payment.  The Claims Representative can provide the beneficiary with a comparison of the payment with offset versus the lower retirement payment without offset.  Since there are differences among states in administration of the Workers Compensation benefit, the beneficiary or BPAO specialist should consult with the entity administering the WC benefit before making the change to ask if the retirement benefit would reduce the workers compensation payment.
+
+A subsequent change in the workers compensation payment could reduce the offset, resulting in a higher DI payment. The beneficiary can request that they be returned to DI status rather than continue with the reduced retirement benefit.
+
+2. Because the computation for retirement benefits is more generous than for disability benefits, the family maximum will often be higher for retirees.  If a DI beneficiary has a spouse and dependent children, he/she may decide to switch to retirement status at age 62 to get the higher auxillary payments for family members.  [Family maximum goes from 50% to 75%]
+
+3. Retirees are allowed to earn more than SSDI beneficiaries, but people under age 65 are subject to the “Annual Earnings Test”.  In 2005, people who elect to take retirement at age 62 can earn $12,000 before benefits are reduced.  Retirees who turn 65 in 2005 can earn $31,800 before any benefits are withheld.  SSDI beneficiaries are subject to the test of Substantial Gainful Activity and risk termination of benefits if they have completed their Trial Work Period and countable earnings are more than $9,960 in 2005. 
+
+Because they are technically still entitled to SSDI benefits even if they elect to take the early retirement benefit, the SSA will track the earnings for the purpose of determining if Trial Work months are being used, or if the individual is in the Extended Period of Eligibility.  Conceivably, the disability status could be terminated due to SGA level earnings even if the beneficiary is receiving reduced retirement benefits rather than SSDI benefits.  
+
+Normally, when retirement benefits are elected at age 62, the reduced benefit will continue because the full benefit is reduced by the number of months until full retirement age.  This is called the “adjustment reduction factor”, or ARF.  It is important to note that SSDI beneficiaries who elect retirement at age 62 are not subject to the adjustment reduction factor.  Therefore, when they reach full retirement age they will get the full benefit rather than the reduced benefit.  Technically, the disability status never really ended, so they are simultaneously eligible for retirement and disability between age 62 and full retirement age.  POMS RS 00615.482 indicates that in adjusting the reduction factor, any month of simultaneous eligibility for retirement and disability is a crediting month that is, not counted as a reduction month.  CFR 404.412
+
+In the scenario described in # 3 above, lower earnings and termination of disability status due to SGA level earnings would result in a reduced retirement benefit at FRA.
+
+It cannot be emphasized enough that BPAO and PABSS specialists should always encourage beneficiaries to consult with the local Social Security office if they have questions about retirement.
+
+References:
+
+Code of Federal Regulations:
+404.409 What is Full Retirement Age?
+404.410 How does SSA reduce my benefits when my entitlement begins before full retirement age?
+404.411 404.412 After my benefits are reduced for age when and how will adjustments to that reduction be made? 
+404.415  Deductions because of excess earnings; annual earnings test.
+404.252 Subsequent entitlement to benefits 12 months or more after entitlement to disability benefits ended.
+404.290 Recalculations.
+
+Social Security Handbook
+
+302.1, 302.2, 723 Reduction of Benefit Rate
+

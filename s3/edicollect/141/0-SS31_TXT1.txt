@@ -1,0 +1,190 @@
+THE BENEFITS PLANNER
+KEYS TO EFFECTIVE BENEFITS PLANNING, ASSISTANCE AND OUTREACH
+VOLUME 1, ISSUE 2
+SUMMER 2001
+
+This publication is sponsored in part by the NYS Developmental Disabilities Planning Council and the Social Security Administration through the NYS Department of Labor (NY Works Project), and is a collaborative publication of Cornell University's Program on Employment and Disability and Neighborhood Legal Services, Inc. (NLS) of Buffalo, NY.  The editors and primary authors are James R. Sheldon, Jr. of NLS and Edwin J. Lopez-Soto of the Greater Upstate Law Project, Rochester, NY.
+FOR TECHNICAL ASSISTANCE IN NEW YORK STATE CALL
+1-888-224-3272
+
+***********************
+
+IN THIS ISSUE
+
+The Substantial Gainful Activity Rule
+
+The Trial Work Period
+
+The Extended Period of Eligibility
+
+Expedited Reinstatement of SSDI Benefits
+
+
+Special Features:	
+
+NY Works Contact Information
+
+Relevant Law, Regulations and Policy
+
+Contact Information For Benefits Planning, Assistance and Outreach Services
+
+SSA Raises Medicaid 1619(b) Threshold Amounts
+
+***********************
+
+The NY State Work Incentives Support Center will provide statewide services, including: training through traditional means and through use of the latest technology for distance learning; a 
+toll-free technical assistance line, 1-888-224-3272; and a quarterly newsletter, The Benefits Planner.  To subscribe to the Center's listserv, send your name and email address to tpg3@cornell.edu.  To request a print copy of this newsletter, contact the toll-free number above.
+
+***********************
+
+IMPROVED WORK INCENTIVES IN SOCIAL SECURITY DISABILITY INSURANCE PROGRAM
+Changes Will Make Work More Attractive to SSDI Recipients
+
+ABBREVIATIONS USED IN THIS ARTICLE
+
+EPE - Extended Period of Eligibility	
+SSA - Social Security Administration
+EXR - Expedited Reinstatement	
+SSDI - Social Security Disability Insurance
+MIRS - Medical Improvement Review Standard	
+SSI - Supplemental Security Income
+SGA - Substantial Gainful Activity	
+TWP - Trial Work Period
+
+Social Security Disability Insurance (SSDI) beneficiaries have long faced major barriers when they considered working.  As recently as June 1999, earnings of $500 per month were enough to terminate benefits after a brief trial work period.  If work continued at this modest level for another three years but then stopped, it would take a new application and new approval to re-establish eligibility.  The SSDI beneficiaries also feared that any work activity would trigger continuing disability reviews and that their work would be held against them during that review.
+The trial work period appeared to be a great work incentive, allowing the individual to collect both a paycheck and SSDI check for nine months.  There was a major drawback, however.  The recipient could use up the entire trial work period by earning as little as $200 per month.  Thus, a 10-hour per week job at minimum wage was enough to use up trial work months.  Even work at a sheltered workshop, which could not be considered competitive employment, was often enough to put wages above this $200 threshold.
+Our feature article will discuss SSDI changes that address these issues.  These changes have come through the Ticket to Work and Work Incentives Improvement Act of 1999 and through new regulations published during 2000.  These changes include:
+* An increase in July 1999 from $500 to $700, then an increase in January 2001 to $740 (with annual indexing), as the monthly earnings that are considered to be substantial gainful activity
+* An increase in January 2001 from $200 to $530 per month in the earnings required for a trial work month, with annual indexing
+* An expedited reinstatement provision as of January 2001, allowing SSDI recipients who work and lose benefits following the trial work period and extended period of eligibility, to later return to benefits status without a new application if they stop working or significantly reduce their earnings
+* An elimination of the work-triggered continuing disability review
+
+THE SUBSTANTIAL GAINFUL ACTIVITY RULE
+
+The Social Security Administration (SSA) periodically establishes a monthly gross earnings figure that is considered to be substantial gainful activity (SGA).  When an applicant for SSDI or Supplemental Security Income (SSI) disability benefits has earnings above that amount his or her application is ordinarily denied on a finding that the individual is not disabled.  (This article will not discuss the use of income averaging, impairment related work expenses, or subsidies to reduce countable income below the SGA level.)
+The SGA amount, for persons who are not legally blind, was $500 per month between January 1990 and June 1999 with no inflationary adjustments.  By regulation, SSA increased this amount to $700 in July 1999 and to $740 effective January 2001.  The 2001 SGA amount for persons who are legally blind is $1,240 per month.
+SSA has, for many years, made annual adjustments to the SGA amount for persons who are legally blind.  Now, the SGA amount for persons who are not legally blind will be adjusted each year based on the National Wage Index.  Beginning in 2002, the amount will increase if the wage index for the previous year has increased.  If the index stays the same or goes down, the SGA amount for the previous year will continue unchanged.
+The SGA rule will not apply to SSI recipients after the initial application, but it will apply to SSDI beneficiaries.  For SSI recipients, the only impact of wages above the SGA amount is that they will be budgeted against the monthly SSI maximum or base rate (see The Benefits Planner, Spring 2001).  For SSDI beneficiaries, the trial work period, the extended period of eligibility, and the new expedited reinstatement provisions will limit but not eliminate the impact of the SGA rule.
+THE TRIAL WORK PERIOD
+This nine-month period allows the SSDI beneficiary to test his or her ability to work without losing benefits.  (The SSI program has no trial work period (TWP), as SSI recipients do not face an SGA rule.)  During the nine TWP months, the individual will be allowed to get both a paycheck and an SSDI check no matter what the amount of earnings.  The nine months need not be consecutive.  Once an individual has used up nine TWP months within any 60 month period, the TWP is over.
+Between January 1990 and December 2000, a TWP "services month" was any month in which gross earnings were $200 or more.  This has been increased to $530 effective January 2001.  Starting with 2002, this amount will be increased each year based on increases in the National Wage Index.  If the index remains the same or goes down, the amount considered to be a TWP month will remain at the previous year's level.
+Application of the TWP
+Consider Jerry Barnes:  He was awarded SSDI benefits in 1990 based on a back injury.  His monthly SSDI check was $600 in 1990 and would be much higher in 2001 based on cost of living adjustments.  In 1993, Jerry goes to work part-time doing lighter work.  He earns $400 per month between January and June 1993 when he re-injures his back and stops working.  He does not work again until 1998.  He starts work in October 1998 and works the remainder of 1998 and all of 1999 earning $650 per month.
+Jerry worked his first TWP month in January 1993.  This is the first month he worked as an SSDI beneficiary and earned more than the TWP services month amount ($200 in 1993).  Between January and June 1993, he used up six TWP months.
+When Jerry went to work in October 1998, he had no TWP months within the last 60 months (i.e., between November 1993 and October 1998).  This means his TWP started over.  Since he then earns at least $200 in gross wages for nine consecutive months, October 1998 to June 1999, Jerry completes his TWP in June 1999.
+NOTE: Under pre-2001 rules, this would be Jerry's only TWP.  He would only get a second TWP if he lost SSDI, reapplied, and was awarded benefits on the new claim and had a new five-month waiting period.  Effective 2001, the new expedited reinstatement provisions, discussed later in the article, allow Jerry to qualify for a new TWP after he has received reinstated benefits for 24 months.
+
+THE EXTENDED PERIOD OF ELIGIBILITY
+
+The extended period of eligibility (EPE), like the TWP, applies only to SSDI beneficiaries.  It does not apply to SSI recipients because SGA is not a factor in SSI payments.  The EPE is sometimes referred to as the re-entitlement period.
+The 36-month EPE immediately follows the ninth TWP month.  The 36 months run consecutively whether the individual is working or not.  During these 36 months, the SSDI beneficiary can move in and out of benefits status depending upon monthly earnings.
+Here is how the EPE works.  The first month during the EPE that the individual has gross earnings above the SGA limit will be considered the "benefit cessation month."  In all cases, the individual will continue to receive SSDI for the benefit cessation month and the following two months.  These three months are known as the "grace period."
+Following the grace period, and for the remainder of the EPE, the right to an SSDI check will depend on monthly wages:
+* when countable wages are above the 2001 SGA level of $740 (as adjusted in years 2002 and later), the individual will not get an SSDI check
+* when countable wages are below $740, the individual will get an SSDI check
+Impairment related work expenses and subsidies can be subtracted from gross monthly wages to determine countable wages (this will be discussed in a future newsletter).
+Upon completion of the EPE, if a person is not performing SGA (i.e., not earning more than $740 in 2001), his or her SSDI benefits will continue.  Historically, a person who performed SGA after the EPE would lose his or her entitlement to SSDI.  If he or she later had countable wages go below the SGA amount, it would take a new application to re-establish eligibility.  This has changed under the new, expedited reinstatement provisions summarized below.
+Application of the EPE
+Back to Jerry's case: As noted above, Jerry returns to work in October 1998 and earns $650 per month (all figures refer to gross wages) between October 1998 and December 1999.  In 2000, he gets a raise and earns $720 per month throughout all of 2000 and for the first four months of 2001.  In late April 2001, Jerry is laid off and earns no money between May and October 2001.  In November 2001, he goes back to work and earns $1,000 per month between November 2001 and December 2002.
+Jerry's EPE began in July 1999 (i.e., immediately following his ninth TWP month).  His 36-month EPE will run from July 1999 though June 2002.
+Jerry is clearly eligible for SSDI between July 1999 and December 1999.  His  gross wages of $650 per month were less than the SGA amount in effect at that time and his eligibility continued. (Remember: The monthly SGA level increased from $500 to $700 effective July 1999 and remained at that level through the end of 2000.)
+January 2000, when Jerry gets a raise up to $720 per month, will be considered his "benefit cessation month."   This is the first month of SGA during his EPE.  (Again, the SGA amount of $700, effective July 1999, continued throughout 2000.)  Jerry is entitled to SSDI benefits for January, February and March 2000 - - the benefit cessation month and two more months.  This is his three-month grace period.
+Starting in April 2000, Jerry will get checks only when his countable wages are below the SGA amount.  Since his gross earnings were $720 per month throughout the remainder of 2000 - more than the 2000 SGA amount of $700 - he will not receive an SSDI check during the April through December 2000 period.
+Starting in January 2001, Jerry will start getting SSDI checks again.  This is because the SGA amount was increased to $740 and Jerry's monthly earnings remained at $720.  He will get SSDI checks for January through April as his earnings remained below $740.  He will also get checks for the months of May through October 2001 when he was out of work and earned nothing.
+Starting in November 2001, Jerry earned $1,000, which is more than the $740 SGA amount.  This means he will not get checks for November or December 2001.  Since his wages remained at $1,000 per month throughout 2002 (and we assume that the 2002 adjustment to the SGA level might be in the $20 range), Jerry will continue to be ineligible for SSDI through the end of his EPE (i.e., through June 2002).
+What happens in July 2002 when Jerry's EPE is over?  What if he stops working in 2003?  Jerry will not be eligible for SSDI checks through the remaining months of 2002 because he is performing SGA after his EPE.  Under pre-2001 law, a later reduction in earnings below the SGA level would not allow Jerry to go back on benefits automatically.  Rather, he would have to file a new application and wait many months for a new eligibility decision.  This has changed under the new expedited reinstatement provisions.
+
+EXPEDITED REINSTATEMENT OF SSDI BENEFITS
+
+Under pre-2001 law, a person who performed SGA after the EPE would lose SSDI benefits.  If the person later lost his or her job or had wages reduced below the SGA level, he or she would have to reapply to re-establish SSDI eligibility.  This prospect of a new application, with the uncertainty of whether a new decision maker would find the individual disabled (especially in light of recent work activity), made many individuals pause at the notion of taking a chance at work that might not be successful in the long term.  The new expedited reinstatement (EXR) program should make more SSDI beneficiaries willing to try working, despite a severe disability, knowing they may re-establish eligibility if their work is not sustained because of their impairment(s).  NOTE: Under EXR criteria, individuals must have become unable to continue performing SGA because of their impairment(s) and must be under a disability based on the application of the medical improvement review standard (MIRS).
+
+The EXR Criteria
+
+Effective January 2001, a person who performs SGA after the EPE and had his or her benefits terminated and later has wages reduced below SGA levels because of his or her impairment(s) or health condition will be reinstated to SSDI, without a new application, if the individual:
+* was eligible for SSDI;
+* lost SSDI due to performance of SGA (i.e., in 2001 by earning more than $740 per month or $1,240 if legally blind);
+* requests reinstatement within 60 months of the last month of entitlement (the earliest that someone could have had benefits terminated and be eligible for reinstatement is February 1996), or, if the request is filed after 60 months, the individual establishes good cause for missing the 60-month deadline;
+* has a disability that is the same as (or related to) the physical or mental disability that was the basis for their original claim; and
+* that disability renders the individual incapable of SGA based on application of the medical improvement standard.	
+If an individual believes he or she meets the EXR criteria, the individual should contact SSA and say that he or she wants to request reinstatement.  This includes individuals who in the last five years (since February 1996) stopped receiving benefits due to SGA and who, since their last month of SSDI entitlement, also stopped performing SGA because of their impairment(s) or health condition..   SSA has issued "Field Instructions," outlining the criteria and procedures to be followed by local offices.  The instructions also include an EXR request form.  (Copies of the Field Instructions or the EXR request form, in electronic format, are available by calling the State Work Incentives Support Center, toll free, at 1-888-224-3272.)
+If the SSDI beneficiary satisfies the EXR criteria, both his or her benefits and the benefits of dependents can be reinstated.  SSDI dependent's benefits, including benefits for dependent children and spouses, can be reinstated if the dependent satisfies all the eligibility criteria as a dependent (this includes having a new medical determination if the dependent's entitlement is based on being disabled.)  A previously-entitled dependent does not have to file a new application to qualify for reinstated benefits.  New dependents will have to file an application to qualify for reinstated benefits.
+
+Provisional Benefits Pending Reinstatement Decision
+
+While the EXR request is pending, the individual is eligible for up to six consecutive months of provisional benefits.  Provisional benefits are payable when EXR is requested.  The individual may also be eligible for Medicare coverage while receiving provisional benefits, if not already covered for such benefits.  Provisional benefits may be suspended under current rules (e.g., prisoner suspension), and performing SGA will terminate provisional benefits.  Early reports are that SSA is processing these requests quickly and individuals have received provisional benefits within weeks of the 
+EXR request.
+
+What happens if SSA later determines that the individual was not entitled to reinstatement?  Must they repay the provisional benefits received?  SSA's Field Instructions state that any resulting overpayment cannot be recovered unless SSA determines that the individual knew or should have known that he or she did not meet the EXR criteria.
+
+A New Trial Work Period and Extended Period of Eligibility
+
+For years, SSDI beneficiaries were told they would get one TWP and one EPE.  The TWP and EPE could be exhausted for good at very low levels of earnings.  In fact, the EPE could be exhausted whether the person was working or not.  This has changed under the new EXR program.
+After being paid 24 months (need not be consecutive) of reinstated benefits (including any months for which provisional and retroactive payments were actually received), the beneficiary gets: a new TWP; a new EPE; and another 60-month period in which to request EXR if benefits are terminated again due to SGA.  As demonstrated in the continuation of Jerry's case, the chance for a new TWP and EPE, fortunately, allows the person to work through the peaks and valleys of their continuing disability.
+Application of the New TWP and EPE
+Back to Jerry's case: On New Year's Day of 2003, Jerry aggravates his injured back taking down holiday decorations.  He must stop working and remains out of work for the entire year, January to December 2003.  In January 2004, Jerry returns to work on a lighter schedule.  He has gross monthly earnings of $500 between January and December 2004.  In January 2005, he increases his hours of work and has gross monthly earnings of $1,000 between January and December 2005.
+Jerry's EXR eligibility: Since Jerry stopped working for health reasons, he became eligible for EXR in January 2003, because his wages were now below the SGA amount, it was within 60 months of his last month of entitlement to SSDI (i.e., within 60 months of October 2001), and the other EXR criteria are met (i.e., has the same or related impairment and is disabled based on the application of the MIRS criteria).  We assume that Jerry would have applied for EXR as early as January 2001, or as soon as it became apparent that he would not return to work right away.  We expect that Jerry would be eligible for up to six months of provisional benefits while his EXR request was being processed.  (NOTE: One can argue that the 60-month time limit for EXR applications begins after the last month of the EPE rather than after the last month Jerry received an SSDI check.  This issue should be clarified when SSA issues EXR instructions in its Program Operations Manual System or POMS.)
+The facts indicate that Jerry had no earnings during 2003 and his wages during 2004 were $500 per month, well below the SGA level.  In addition, having been found to meet the EXR medical criteria, Jerry is eligible for EXR benefits for all of 2003 and 2004, a 24-month period.
+A new TWP and EPE:  When Jerry returns to work in January 2005, he will be entitled to a new TWP.  This is because Jerry received reinstated benefits for at least 24 months.  Since he made at least $530 each month (as adjusted for wage inflation), his new TWP would run from January through September 2005.  His new EPE would start in October 2005 and run for 36 months through September 2008.  The same EPE rules would apply as did in the earlier years.
+
+Do The EXR Rules Apply To SSI?
+
+They sure do.  However, most SSI recipients who lose benefits due to higher wages will retain an SSI connection through the 1619(b) Medicaid provisions (see box below). When they once again become eligible for SSI through reduced wages, they can go back to cash benefit status without the need to use the EXR rules.
+The most likely user of these provisions would be the SSI recipient who loses cash benefits because of wages or a combination of wages and unearned income, then either loses or fails to establish 1619(b) Medicaid eligibility.  When that individual remains ineligible for either cash or 1619(b) Medicaid benefits for 12 consecutive months, he or she will lose his or her connection to SSI.  This means a new application would be required, under pre-2001 rules, to re-establish eligibility for cash benefits if wages were sufficiently reduced and he or she met other SSI requirements.  Effective January 2001, that individual can most likely use the EXR provisions to re-establish eligibility for SSI.  All EXR requirements, as discussed above, apply to the individual seeking reinstatement of SSI.  In addition, the individual must meet all SSI eligibility requirements related to income and resources.
+
+CONCLUSION
+
+Changes to the criteria governing substantial gainful activity, the trial work period, and the extended period of eligibility, along with the introduction of the expedited reinstatement provisions, will provide powerful new incentives for SSDI beneficiaries to consider work.  Coupled with the elimination of the work-triggered continuing disability review in January 2002, these new and improved work incentives will reduce much of the risk and uncertainty that traditionally made individuals shy away from attempts to work.
+SSDI and SSI beneficiaries can only take advantage of these new incentives if they know about them.  It is, therefore, important that our readers work with us to get the word out about these very important changes.
+
+***********************
+
+SSA RAISES MEDICAID 1619(B) THRESHOLD AMOUNTS
+
+Section 1619(b) allows a working SSI disability recipient to remain eligible for Medicaid when earnings become too high to allow SSI cash payments.  For example, in 2001 an individual who lives alone and receives SSI at the monthly rate of $618 would lose SSI if gross wages are $1,321 or more per month.  In New York, for calendar year 2001, if the gross annual wages of a former SSI recipient are less than $32,261, the individual will continue to be eligible for Medicaid. Some former SSI recipients can retain Medicaid at even higher levels of income when their medically related expenses are high enough.
+The 1619(b) provisions are important because many employers either do not provide health insurance or the insurance they do provide does not cover expensive items like home health care services.  The 1619(b) provisions are also important because they allow an individual to retain their SSI status or connection to SSI.  This means, for example, that a 1619(b) recipient who lives alone can return to cash benefits status when their gross wages fall below $1,321 per month.
+If you have questions about section 1619(b), call the Work Incentives Support Center's technical assistance line, toll free, at 1-888-224-3272.
+
+***********************
+
+CONTACT INFORMATION FOR BENEFITS PLANNING, ASSISTANCE AND OUTREACH SERVICES
+
+In each region of the state, a project is available to assist SSI and SSDI recipients who need to understand how working will affect their benefits (including Medicaid or Medicare).  The Benefits Planning, Assistance and Outreach (BPA&O) project for your region will also help recipients understand how they can use any of the special work incentives available to them.  For BPA&O contact information in your region of the state, call the State Work Incentives Support Center, toll free, at 1-888-224-3272.
+
+***********************
+
+NY WORKS CONTACT INFORMATION
+
+This SSA-funded demonstration project is available to certain adult SSI recipients, with a primary diagnosis of serious mental illness, who reside in New York City or Erie County.  Volunteer participants, who are assigned to one of two intervention groups, will receive a range of special services including benefits advisement and the availability of four special SSI waivers (see The Benefits Planner, Spring 2001).  For further information about the project, including how to sign up, call 1-800-732-7697 (toll free).
+
+***********************
+
+RELEVANT LAW, REGULATIONS AND POLICY
+
+Substantial gainful activity - 20 C.F.R. §§ 404.1574, 416.974; Social Security Rulings 83-33, 83-34; Program Operations Manual System (POMS) DI 10501.000 et seq.
+Trial work period - 20 C.F.R. § 404.1592; POMS DI 13010.035 et seq.
+Extended period of eligibility - 20 C.F.R. 404.1592a; POMS DI 13010.210 et seq.
+Expedited reinstatement of benefits - Section 112 of the Ticket to Work and Work Incentives Improvement Act of 1999, 42 
+U.S.C. § 423(i); Social Security Administration, "Field Processing of Expedited Reinstatement Cases", EM-01028 (2/15/01).
+NOTE: The final regulations, which raised the amount considered to be substantial gainful activity to $740 per month and raised the amount considered to be a trial work services month to $530, were published in the Federal Register on December 29, 2000.  65 FR 82905.
+
+***********************
+
+In Our Next Issue ...
+* Medicaid and Persons with Disabilities:  Section 1619(b), Medicaid Spend Down, Special Eligibility Provisions.
+If you have special needs and would like 
+The Benefits Planner sent in a special format,  would like our Spanish version or would like the newsletter delivered by email, please call our toll-free technical assistance line, 1-888-224-3272.
+Welcome to The Benefits Planner, a Quarterly Newsletter of  
+The NY State Work Incentives Support Center
+
+***********************
+
+This newsletter will provide valuable information on how work for persons with disabilities affects government benefits, with an emphasis on the Supplemental Security Income (SSI) and Social Security Disability Insurance (SSDI) work incentives.  Each newsletter will contribute to an ongoing dialogue on topics related to benefits and work.  Back issues will appear on the Cornell University website, www.ilr.cornell.edu/ped and on the Social Security section of the Neighborhood Legal Services website, www.nls.org.
+
+***********************
+
+NEIGHBORHOOD LEGAL SERVICES, INC.
+295 Main Street, Room 495
+Buffalo, New York 14203
+
+FOR TECHNICAL ASSISTANCE IN NEW YORK STATE CALL
+1-888-224-3272

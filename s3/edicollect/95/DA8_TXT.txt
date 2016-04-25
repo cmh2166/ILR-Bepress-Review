@@ -1,0 +1,676 @@
+A Review of Selected E-Recruiting Sites:  Disability Accessibility Considerations
+
+
+
+By
+
+William A. Erickson, M.S.
+Research Specialist
+Program on Employment and Disability
+Cornell University
+
+May, 2002
+
+This report is part of a series of reports under a Research and Demonstration project entitled
+Improving Employer Practices Covered by Title I of the ADA
+A Research and Demonstration Project Funded by
+U.S. Department of Education
+National Institute on Disability and Rehabilitation Research
+Grant No. H133A70005
+Susanne M. Bruyère, Ph.D., Principal Investigator
+
+
+
+       This paper is part of a four-year Research and Demonstration Project funded by the U.S. Department of Education National Institute on Disability and Rehabilitation Research (NIDRR), to address ways to improve the employment practices covered by Title I of the ADA (Grant No. H133A70005). The study is administered by the Program on Employment and Disability in the School of Industrial and Labor Relations-Extension Division at Cornell University, in collaboration with the Washington Business Group on Health, the Society for Human Resource Management, and The Lewin Group.  The purpose of this effort is to investigate the impact of the ADA on the employment practices of private sector businesses. The intended outcome of the research is to assist in the identification of employment practices that have been the most challenging in implementing the ADA, and to identify interventions that can be used by the private sector employers and persons with disabilities to address these employment practices.  Employment policy and practices that enhance both the hiring and retention of workers with disabilities are being examined. 
+	During the course of the project, the growth of the World Wide Web, the accessibility of electronic information and the growing use of electronic human resources applications became major areas of concern.  Therefore, the focus of Year Four has been an inquiry into the current employer use of information technologies (IT) in the employment and human resources management processes, and the accessibility of these services.  We believe this will assist us in better understanding the skills young people with disabilities need to access the workplace, and remain employed, as well as illustrating the needs of older employees.   This information will also inform the DBTACs about the accommodation and IT accessibility information needs of businesses, as well as how that will translate to preparation of both young and older individuals with disabilities for the work force. 
+
+
+Table of Contents
+* Abstract
+* Introduction
+o Background of the Cornell Study
+o Results to Date
+o E-Human Resources and Disability Nondiscrimination Initiative
+o An Overview of This Article
+* Methods
+o Sample Selection
+o Software Selection
+o Evaluation Process
+* Results
+o Job Boards 
+* Bobby
+* Simulated application process 
+o Corporate sites 
+* Bobby
+* Simulated application process 
+* Conclusions
+
+
+Abstract
+      Ten Job boards*1 and 31 corporate E-recruiting websites were evaluated for accessibility for people with disabilities. The examination was performed using both an automated accessibility testing software (Bobby v3.2) and an examination of a sub-sample of the sites through a “simulated” application process. The simulated application process was performed utilizing only the information available to a screen reader and navigating the site using only keyboard commands, duplicating how a blind individual would typically navigate the web. The purpose of this second method was to see if it would be possible to successfully proceed through the entire multi-step job search and application process.
+      None of the job board pages (home, job search, signup, or resumé submittal pages) evaluated by Bobby were found to be accessible. The vast majority of corporate E-recruiting sites also failed Bobby’s tests. The simulated application process evaluation was slightly more promising, but still only three of the nine job boards and three of the twelve corporate sites evaluated were accessible enough to work through the entire process of registration, job searching, resumé submittal, and application for a position. Many of the issues encountered could easily be corrected through the consistent use of alternative text for essential submit image buttons (i.e. “apply”, “post resumé”). 
+Introduction:
+
+"The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect."
+-- Quote from Tim Berners-Lee, W3C Director and inventor of the World Wide Web
+
+The use of the Web for business purposes has been rapidly expanding over the past several years. One of the areas of the greatest growth is E-recruiting, which nearly all (91%) Fortune 5001 businesses have embraced, according to an iLogos Research survey (2002). The purpose of the research described in this report was to examine the accessibility of E-recruiting for people with disabilities.  Accessibility of both job boards (where employers pay to post their positions and to search the resumé database for candidates), and large corporate career Web sites (where an individual applies directly on a corporation’s careers website) were examined.
+Background
+      With the millions of jobs and resumés available online, “The Internet has become the most effective way to broadly disseminate information about the availability of jobs and people” (How online recruiting changes the hiring game, 2001). Bruce Hatz, a corporate staffing manager at Hewlett-Packard, states “It’s dramatically more effective than any medium ever known. The Web is the future of recruiting.” (Useem, 1999, p. 97).  Indeed, research by Goldman Sachs showed that between the beginning of 1999 and November 2000, traffic to career-oriented Web sites had more than doubled, to 12.3 million unique visitors per day (Rosenwald, 2000). 
+      A January 2001 poll by the Society for Human Resource Management (SHRM, 2001) found HR managers made heavy use of Web recruiting with, 88% of the HR managers surveyed reporting using Internet job postings, just slightly behind the proportion using personal contact/networking (95%), newspaper advertisements (96%) and employee referrals (91%).  Internet job postings came in ahead of headhunters (74%), employment agencies (76%), and advertisements in professional and trade journals (67%). The majority (58%) of the respondents said that Internet job postings were an effective or extremely effective search technique, just slightly less effective than the highest rated “personal contact/networking” (61%).
+      Since recruiting is the first step in the employment process, and E-recruiting has made a huge impact on businesses, Cornell University included in its research on disability employment nondiscrimination in the HR process an examination of the actual accessibility of online application processes. This paper presents our findings. E-recruiting has the potential to be a great boon to individuals with disabilities, who could browse job listings easily from home or from publicly accessible locations such as libraries. For this potential to be realized Web recruiting sites themselves must not present accessibility problems to individuals with disabilities that might limit their use of this employment technology.  If E-recruiting is not accessible, it could prevent people from finding or applying for open positions.
+      What types of disabilities might cause difficulties in using the Web and what are those potential difficulties? The following is a list from the World Wide Web Consortium (W3C), whose mission focuses on making the Web more accessible, describing some of the barriers the Internet can present to people with different kinds of disabilities: 
+* For people with visual disabilities: 
+o unlabeled graphics, undescribed video 
+o poorly marked-up tables or frames 
+o lacask of keyboard support or screen reader compatibility 
+* For People with hearing disabilities: 
+o lack of captioning for audio 
+o proliferation of text without visual signposts 
+* Pfor people with physical disabilities: 
+o lack of keyboard or single-switch support for menu commands 
+* For people with ognitive or neurological disabilities: 
+o lack of consistent navigation structure 
+o overly complex presentation or language 
+o lack of illustrative non-text materials 
+o flickering or strobing designs on pages
+   (Brewer, 2001, p.5)
+      Only one study has examined the accessibility of Web recruiting sites (Jackson-Sanborn, Odess-Harnish and Warren, 2001). They examined the 50-100 most visited Web sites in six categories: overall most visited, clothing, international, jobs, college, and a random sample of 295 government sites.  An automatic Web accessibility evaluation tool, Bobby v3.2, was used to evaluate the first layer of each of these sites. The results only discussed Bobby’s most basic Priority 1 level errors, “show stoppers” that could prevent individuals with various disabilities from being able to access information on the site. Most of the categories performed poorly. Overall, two thirds (66%) of the Web sites evaluated failed Bobby’s most basic accessibility Priority 1 error tests. They found that four out of five (81%) of the job sites were found to be not accessible according to Bobby’s Priority 1 criteria. Additionally, only 6% of the sites passed Bobby’s more stringent user checks level -- areas that may create accessibility problems that require manual evaluation. It is important to note that this study did not follow-up to determine if these user checks actually made the site inaccessible 
+      Since finding and applying for a position online is a multi-step process, this study expands upon this research and moves beyond simply performing an automated evaluation of home pages. If the home page is accessible but the search page or application pages are not, then the user hits a brick wall in the process. This research examines the essential pages required to actually register at a site, search for open positions, and submit an application at the ten most popular job boards as well as 31 corporate recruiting sites.
+Methods
+1)  Sample Selection
+      Forty-one web sites were evaluated in all, 31 corporate E-recruiting web sites and ten job boards. The ten job boards were selected on the basis of those with the greatest traffic, defined as the largest number of unique visitors in the month of January 2001 according to Neilsen/Netratings (White, 2001). The list of sites evaluated is noted in the appendix. All evaluations took place in January and February of 2002.
+   The 31 corporate recruitment sites selected for the accessibility review were derived from two sources.  Cambria Consulting, a Boston based Human Resources consulting firm, selected 140 companies from Fortune Magazines list of America’s “Best Companies to Work for” and Most Admired Companies”(Densford, 2000). They then examined their E-recruiting web sites and rated them on their “overall usefulness to employer” (up to five stars) and “overall ease of use”(up to five stars) for applicants. The most effective sites, 14 in all, were awarded 10 stars and were included in our accessibility testing (see appendices) The following summarizes some of the “user friendly” features Cambria Consulting found on the recruiting sites: 
+* Easy site navigation and links to career pages for candidates
+* Categories such as location, job function, and key-word search to help candidates identify appropriate positions
+* Attractive and easy to read graphics
+* Candidates can easily paste resumes to application page, e-mail them, or create online applications for specific job openings 
+* Self-assessment quizzes asking candidates about their interests and experience to direct them to appropriate openings.
+* Access to company information and “culture” as well as profiles of archetypal employees to give a sense of what working for the company would be like.
+   The remaining corporate sites were selected from the list of the top Fortune 500*2 companies. If any of these companies were already included in the previous “most effective recruiting site” sample, the next Fortune 500 company on the list was selected. 
+      These two samples allowed us to examine what was independently determined as the “best of corporate E-recruiting sites” along with other major corporate sites with fewer “bells and whistles”. It was hypothesized that the 14 most effective recruiting sites might tend to be less accessible through the use of fancier and more complex web design than the Fortune 500 companies.
+   The sites selected for the process evaluation included nine of the ten job boards (Jobs.com was undergoing reorganization at the time) as well as six of the Top 14 Web recruiter sites and six of the Fortune 500 company sites. These sites were selected to cover the range of performance as determined by Bobby’s accessibility evaluation to attempt to examine their “real world” performance.
+2) Evaluation Software Selected for Site Review
+      Following the lead of several other accessibility studies (Jackson-Sanborn, 2001; Odess-Harnish and Warren, 2001; Rowland and Smith, 1999; Rowland, 2000; Sams and Yates-Mercer, 2000; Schmetzke, 2001), Bobby 3.2 was the primary evaluation software utilized. Bobby was developed by the Center for Applied Technology (CAST), a non-profit entity, and is designed to analyze accessibility based on the World Wide Web Consortium’s (W3C) Web Accessibility Initiative (WAI) Web Content Accessibility Guidelines. It is designed to check for accessibility errors and a report is generated listing the type, number and the location where the error was detected. Bobby evaluates sites according to three priority levels for accessibility errors. “Priority 1” level errors are the ones that determine if the site achieves the “Bobby approved” status and this was the level/criteria used in this study. These errors are “show stoppers” that would make it impossible for one or more groups to access the information contained on the page. Since Bobby cannot automatically check every W3C-WAI guideline, it also lists “user checks” to be manually examined if triggered by a specific attribute on a page. A site can receive the “Bobby approved” icon only if does not contain any “Priority 1” errors and passes all the level 1 “user checks”. Due to the large number of pages evaluated in this study, these user checks were noted but not checked.
+      Bobby has several limitations as noted by Schmetzke (2001). Bobby is not able to test the accessibility of script (i.e. Javascript) or content created by scripts. When Bobby encounters images it checks to see if there is alternative text (typically referred to as alt text) associated with it.  If there is alt text associated it will pass that image, however, it cannot determine if the alt text will provide adequate information to successfully navigate the page and understand its contents. For example, a page may indicate a field which is required to be completed by a user with a picture of a star. The alt text “star” is descriptive of the image, but does not clarify that the star’s purpose is to identify required information. Bobby is also unable to evaluate pages that require the user to register or log in, which limited its usefulness in certain types of pages examined in this study, specifically resume submittal pages. 
+      It is important to note that even when Bobby detects an error it does not necessarily mean the site is completely inaccessible. Bobby has no way of determining the importance or insignificance of the errors it detects. For example, it may detect missing alt text on a page for an image that is only an advertisement or a background. Bobby will note it as an error and flag the site as inaccessible, despite the fact that a particular error may not have any impact on the actual purpose of the page.  Despite these issues Bobby is still the most often used tool to evaluate a large number of sites for accessibility and gives a useful and stringent test for overall accessibility. 
+      Due to the issues of Bobby evaluations noted above, all of the job boards and six sites from each of the two corporate categories of sites were further evaluated manually.  This evaluation was performed with two computers, both running under the Windows 2000 operating system.  Pages were loaded with Microsoft Internet Explorer, version 5.5.  
+      Another accessibility testing tool, WAVE version 2.01, was used to supplement Bobby’s evaluations. WAVE performs similar checks, but has the advantage of being able to evaluate certain sites that Bobby is unable to access. WAVE was developed by Pennsylvania’s Initiative on Assistive Technology (PIAT) based at Temple University.5
+      Two screen readers were used in conjunction with the simulated application process: Windows Narrator and JAWS. Narrator is a very basic screen reader installed as part of the Microsoft Windows 2000 operating system designed to assist with computer setup or use other people’s computers. Although it is not nearly as functional as the commercial screen readers, it was thought that this “free” reader might be the only affordable option for unemployed individuals searching for work. JAWS version 4.0 (Job Access with Speech) is a much more sophisticated screen reader and is the most popular reader used by blind or low vision computer users (http://www.FreedomScientifi c.com). Narrator and JAWS were used to evaluate situations which appeared to be potentially problematic to screen readers.
+3_ The Evaluation Process
+      The simulated application process was performed following a portion of the W3C’s recommended preliminary review for evaluating sites for accessibility. The purpose of this simulated application process was to see if it was actually possible to search and apply for a job given the potentially more challenging scenario of an individual using a screen reader with limited hand dexterity that prevented the use of a mouse. One computer was running Microsoft Internet Explorer with images and sound turned off, and navigation limited to the keyboard only. Another computer was set up alongside the first, but running a fully functional version of Internet Explorer to determine what was lost in the dropping of images and to clarify problematic navigation issues. Inaccessible links and images not required for the purpose of performing a job search and the application process were ignored in this evaluation, although links that were deemed potentially useful for these purposes (i.e. help pages) that were inaccessible were also noted. 
+      Four web pages were chosen for evaluation on each site. The pages selected were those most likely to be encountered and navigated by a person looking and applying for a job. The corporate site pages evaluated included the home pages of each site, the corporate careers page, job search or job postings page, and finally the resume submission front page (when available). The job board pages selected for evaluation were similar, and included the following components: the home page, job search/postings page, and the first page for resume submission. As most job boards required signing up/registering for their service before a resume could be submitted the job board registration page was also evaluated for accessibility. Both the process and the Bobby evaluations were performed in the first quarter of 2002. 
+Results
+Job Boards: Bobby evaluation:
+      None of the ten job board home pages passed Bobby’s Priority 1 evaluation (see Table 1), with all containing at least one priority 1 type error(s).*4 Bobby therefore deemed them all inaccessible. When the job search pages of the job boards were tested by Bobby, none were determined to be accessible. The same was found for the sign up/registration pages of the job boards with all showing Bobby Level 1 errors. Due to most sites requiring registration before allowing access to their resumé builder/submittal page, Bobby was only able to evaluate two of the job board’s resumé pages. Neither of the two resumé pages which Bobby was able to evaluate received Bobby approval, with both having at least three priority 1 errors.
+Table 1: Job Boards, Bobby Priority 1 Test Results
+Number of sites Bobby Evaluated
+	Home Pages: 10
+	Sign up pages: 10
+	Job search pages: 10
+	Resume Builder Pages: 2
+
+Percent of each type of page accessible (i.e. No priority 1 errors detected)
+
+	Home Pages: 0
+	Sign up pages:0
+	Job search pages: 0
+	Resume Builder Pages: 0 of 2
+
+Accessibility Errors Noted by Bobby:
+
+Alternative Text not provided for all image-type buttons in forms
+	Home Pages: 40%
+	Sign up pages:60%
+	Job search pages: 30%
+	Resume Builder Pages: 1 of 2
+
+Alternative Text not provided for all images:
+	Home Pages: 100%
+	Sign up pages:90%
+	Job search pages: 80%
+	Resume Builder Pages: 2 of 2
+
+Each Frame on the page not given a title:
+	Home Pages: 20%
+	Sign up pages:30%
+	Job search pages: 20%
+	Resume Builder Pages: 2 of 2
+
+Alternative text not given for all imagemap “Hot spots” (clickable areas):
+	Home Pages: 20%
+	Sign up pages:20%
+	Job search pages: 20%
+	Resume Builder Pages: 1 of 2
+
+Each frame does not reference an HTML file:
+	Home Pages: 10%
+	Sign up pages:20%
+	Job search pages: 100%
+	Resume Builder Pages: 1 of 2
+      The most common error was the lack of alternative text (alt text) for images, which Bobby detected on nearly all of the pages (80-100 percent of each page type evaluated) in all ten job board sites. Alternative text is a text description that screen readers can read to identify images for those with visual problems (see the Visual Glossary on page 9 for examples). The number of these errors on a single page ranged from a low of four to as many as 272 on a single home page (average of 78). 
+      Some of these are non-essential images or backgrounds, but they frequently include essential links, or an important title for a list of links. In the case of image-links without this descriptive text, a user with a screen reader would only have a link address (often cryptic) to fi gure out where it leads. While labeling images is important, some images such as spacers and backrounds are non-essential to either navigation or comprehension. These images should be given the null alt-text (<IMG src=“fi lename” alt=“” />) so that a screen reader user does not have to wade through a host of unnecessary image descriptions to get to the content of the site. 
+      The next most common error detected was not providing alternative text for image-type buttons in forms. This is particularly prevalent and problematic with six of the ten registration pages and three of the ten job search pages. In order to register with a job board or submit a search, a button that is an image (often labeled “submit”) must be “pressed.” If these buttons are not identifi ed with alt text, the user has no way of registering with the job board (and therefore applying for any of the positions posted on the board) or any way to fi nd out the results of a search—the Web equivalent of hitting a brick wall. This situation was also found in one of the two resumé submittal pages that Bobby was able to evaluate—again another job application “brick wall” for an individual using a screen reader. 
+      Other errors Bobby detected included two sites using frames that did not label the frames, and two others that did not provide alternative text for image map “hot-spots.” page).  
+Evaluation of Job Board Application Process:
+	Only nine of the ten job boards underwent this evaluation, as Jobs.com was undergoing reorganization at the time of this analysis and the site was not available. As can be seen in Table 3, all the home pages of the job boards contained accessible links to the essential pages examined: signup/login/registration, resumé builder, and the job search page. One site’s home page link to the job search was an image map link without alt text, but it was possible to access via the site map page (which was accessible from the home page).
+      When a basic screen reader such as “Narrator” encounters a link missing alt text it will just read “link” – clearly a dead end. More sophisticated screen readers (i.e. JAWS) will read the link address if there is no alt text. However, this information is not always useful depending on the actual link address. One example of an unlabeled “job agent” (which e-mails a user of new job postings that fits their search criteria): link address “http://jobcast.jobboard.com/texis/ja/%2Bnww_qt5wcwGO/new.html','commonwindow','720',%20'650” – not very helpful or explanatory of where that link leads.
+Table 2. Summary of Application Simulated application process: Job Boards 
+
+Screen reader/Keyboard navigation barriers encountered
+
+Notes on reading the table: 
+“Minimally accessible” means basic information and links are accessible via screen reader and keyboard  Other links and buttons may lack alt text and other accessibility issues may still exist
+Button missing alt text: Essential submit button image missing alternative text (i.e. search, go, continue, submit)
+Link Missing Alt Text: Essential image link missing alternative text
+“Combo Box auto-submits”:  “Combo box” menu automatically submits on change.  Not keyboard accessible – item is submitted as soon as item is selected (making it impossible to get beyond first item in menu)
+Frames Issue:  Can’t access essential areas of page with keyboard
+
+
+Board 1
+Home page 
+Minimally accessible
+Signup/Login 
+Button missing alt text
+Resumé builder
+Button missing alt text
+Search Page
+Minimally accessible
+Search Results
+Minimally accessible
+
+Board 2
+Home page 
+Minimally accessible
+Signup/Login
+Minimally accessible
+Resumé builder
+Minimally accessible
+Search Page
+Minimally accessible
+Search Results
+Minimally accessible
+Other
+"premium” service inaccessible
+Board 3
+Home page 
+Minimally accessible
+Signup/Login
+Button missing alt text
+Resumé builder
+Button missing alt text
+Search Page
+Button missing alt text
+Search Results
+Button missing alt text
+Other
+Generates many popup windows
+Board 4
+Home page 
+Minimally accessible
+Signup/Login
+Minimally accessible
+Resumé builder
+NA
+Search Page
+Minimally accessible
+Search Results
+Minimally accessible
+
+Board 5
+Home page 
+Minimally accessible
+Signup/Login
+Button missing alt text
+Resumé builder
+Minimally accessible
+Search Page
+Minimally accessible
+Search Results
+Minimally accessible
+Other
+Only lacks alt text for 1 signup submit button
+Board 6
+Home page 
+Minimally accessible *
+Signup/Login
+Button missing alt text
+Combo Box auto-submits
+Resumé builder
+Link Missing Alt Text
+Button missing alt text
+Search Page
+Button missing alt text
+Search Results
+Minimally accessible
+Other
+*Home page image map link to job search page in-accessible (must use sitemap)
+Board 7
+Home page 
+Minimally accessible
+Signup/Login
+Button missing alt text
+Resumé builder
+Button missing alt text
+Search Page
+Button missing alt text
+Link Missing Alt Text
+Frames Issue
+Search Results
+Button missing alt text
+
+Board 8
+Home page 
+Minimally accessible
+Signup/Login
+Minimally accessible
+Resumé builder
+Minimally accessible
+Search Page
+Minimally accessible
+Search Results
+Minimally accessible *
+Other
+* Results page e-mail & add to clipboard submit buttons inaccessible, apply button OK
+Board 9
+Home page 
+Minimally accessible
+Signup/Login
+Minimally accessible
+Resumé builder
+Minimally accessible
+Search Page
+Minimally accessible
+Search Results
+Button missing alt text
+
+Overall
+9/9 Home pages  Minimally accessible
+4/9 Signup/Logins Minimally accessible
+4/9 Resumé builders Minimally accessible
+6/9 Search Pages Minimally accessible
+6/9 Search Results Minimally accessible
+
+     Only four of the nine job boards had accessible signup/logon pages. Most of the inaccessible pages were passable until the critical “submit” stage where five of the sites used image buttons without identifying alt text. 
+     As with links without alt text, one site’s registration submit button is read by the JAWS screen reader as: “btn_submit_org.gif”. A screen reader user might be able to deduce the button’s purpose, but would be much simpler if it had alt text attached “click to submit your registration information”. 
+     One board also utilized a problematic auto-submit combo box that allows a mouse-using applicant to select one of 67 job categories (see Figure 1). Unfortunately, if you attempt to navigate the list with the standard method using the arrow keys, only accountants can progress further, as that is the fi rst item and automatically chosen. Successful navigation is possible using Internet Explorer, but requires the use of a non-intuitive and undocumented key combination (“alt-down arrow”). This disables the auto-submit, allowing the user to browse through the list and make a selection. As there is no way for a user to differentiate between a standard combo box and an auto-submit combo box, a user would probably accidentally trigger the auto-submit, be sent to the wrong page, and have to return to the original page to use this key combination and make a selection. The key combination workaround is not available in Netscape. 
+     An additional issue was found with one job board. Whenever a user clicked on a link or submitted information the site would throw up at least one, if not two or three, additional “popup” windows from their advertisers. This is annoying to sighted users but far more disruptive to users of screen readers who now are faced with several new unanticipated windows in front of the page they were expecting.   
+Figure 1. Picture of a Job Board auto-submit combo box
+(Only Accounting category available with keyboard commands)
+
+     Three of the job search pages were inaccessible – most because of the simple oversight of not including alt text for the submit search buttons (see Figure 2). In addition one site utilizes a completely inaccessible image map of the United States to select job locations, due to the lack of alt text (see Figure 3). Once a job is identified, three sites did not have alt text for their “apply” image button (for example see Figure 4). Of the eight sites that had a resumé builder page, half were inaccessible, once again most often due to the lack of alt text on the image buttons for “continue” or “submit”(for example see Figure 5). 
+     Overall, only a third of the nine job boards were accessible through the entire process using information available to a screen reader and navigating with keyboard commands. In fully a third of all the Job Board pages examined the primary issue was the simple lack of alt text for a critical image button required to submit information. 
+
+      Examples of Web Recruiting Accessibility Issues
+      The following pages provide representations of various job boards and corporate Web recruiting pages illustrating some of problems and solutions found in the examination of the sites around Web accessibility issues. Each example provides two images: the upper image is what is visible with a fully operational Microsoft Internet Explorer browser. The lower image is the same page, but with images turned off and alternative text showing (where it has been implemented). What text is visible on the page in this mode is the information a screen reader has available to read. Images without alternative text show up as an empty box with an image icon inside. Although these pictures do not comprehensively show all the Web access issues on a particular page, they do illustrate and highlight some of the major issues encountered by an individual with a visual disability using a screen reader.
+      The most common issues encountered on the pages include:
+* Critical submit buttons lacking alternative text (alt text)
+* Critical links lacking alternative text
+* Image maps lacking alternative text
+* Combo-boxes designed to “auto submit on change”
+* Form tables with inadequate labels for column and rows
+
+Visual glossary of basic screen reader Web accessibility issues encountered:
+
+(image description: Shows an image of small box with the words “search jobs”, next to this box is what it looks like when images are turned off – an empty box with no information for a screen reader to read) 
+This is an image without alternative text.  Images can be anything from photographs, to icons, to an image of text as in these examples. A screen reader will ignore it if it is just an image and has no alt text. If it has alt text the text will be read. If it is a link without alt text, basic screen readers will note it simply as “link”. More sophisticated screen readers will read the address of the link itself.  Addresses can be quite cryptic as is this one whose photograph of an employee links to a description of her experience working for the company: http://www.careers.com/images/portrait3_On.jpg. 
+
+(Description: an image of a long rectangular box containing four clickable links: find a job, post resume broadcast resume, job alerts)
+This is an image map with “hot spots”: This is a single larger image that has four areas (hot spots) within it “mapped” to link to other pages on the site. Each of these “hot spots” needs alt text for successful navigation using a screen reader.
+
+(Description: This is a commonly used “submit” button image-- an elongated oval containing the word “search”)
+This is a typical “submit” button image. As with other images, if a button lacks alternative text it is impossible for a screen reader to determine what the button’s purpose is. The second image is what is displayed when images are turned off in the Web browser – a blank box containing an image icon. The third image illustrates how the button would appear if it had associated alt text of “Search”. 
+
+(Description: a rectangular box containing a long list of choices including “make a difference in:, Asset protection, private fleet, quality assurance, reality etc.)
+The figure on the left is referred to as a “combo box” which provides a listing of alternate choices. On recruitment sites these are often used to select a job type or location. Combo boxes are typically not problematic for keyboard navigation (a non-sighted user can tab to the box and use the arrow keys to select their choice). However, on some Web pages these combo boxes are designed to “auto-submit upon change”. This means as soon as an item is selected the user is sent to that selection. For a mouse user this is not an issue as they can scroll through the list then make their selection. However this “auto-submit feature” makes keyboard navigation through the list impossible as it sends the user off to that page - without giving the screen reader/user an opportunity to read/hear the other choices. In this example, a keyboard user can only access the “Asset Protection” category, completely missing the 19 other choices listed. 
+
+(Description: a rectangular table headed “Previous experience Please enter previous Job Titles and Employer information. Most recent employment first. The table has four columns by four rows with the column headers title, employer from date, to date)
+To the left is a form table from a resumé submittal page. The way it is designed results in a screen reader reading the headers across the top (Title, Employer, From Date, To Date) and then “enter” 16 times (once for each text field) - making it very difficult if not impossible to determine what information is needed for that particular field. Most resumé submittal pages avoided this problem by separating each position out rather than using this table type design.
+
+Figure 2. Job Board Job Search page 
+* “Search Jobs” Image Button inaccessible (no alt text)
+
+Image Description: This figure contains two “screen shots” of a job board search page. The upper image shows it with all images turned on, the lower with images off and alternative text displayed (if any) There are three menu lists job category, job location and date range to select with a submit image button labeled “search jobs”. The lower image shows that this button has no screen readable alt text therefore inaccessible.
+
+Figure 3. Job Board Search Page
+This is the first step of a job search for one job board. 
+* “Steps 1-3” are images without identifying alt text.  
+* The U.S. map is an “image map” where a mouse click in different regions selects the state. A screen reader reads “Javascript:windowfocus()imagemap link” for each of the 50+ locations on the map – completely inaccessible.
+* If the user is sighted but cannot use a mouse it is possible to use the keyboard to “tab through” the map. However the order in which the images are tabbed through has no apparent logic. It skips from Washington D.C. to Alaska, Hawaii, Montana, Minnesota, Massachusetts, Nevada, Pennsylvania . . . not very user friendly. 
+* Frames issue: if a state is selected, a list of cities in that state is presented, but the list is not accessible via the keyboard nor are the  “next” and “finish” buttons.
+* The “previous”, “next” and “finish” submit buttons are image buttons lacking alt text. 
+
+Image Description:  This figure shows two “screen shots” of a job board search page. The upper image shows it with all images turned on, the lower with images off and alternative text displayed (if any). The upper page shows a map of the U.S. with the 50 states identified and the steps required to perform a search which are: Step 1 location: where do you want to work? Step 2 Category: What type of work?, Step 3 Employer: Which employer?.  The lower web page, with images turned off, presents no sign of a map or any mention of how to use the page.
+
+
+Figure 4. Job Board Job Search Results Page
+* Note the lack of alt text identifying the essential submit image buttons 
+o Apply now
+o Send to friend
+o Print
+o Close
+
+Image Description: two “screen shots” of a job description page including a description and job requirements and four “submit buttons”.
+
+
+Figure 5. Job Board Resumé Submittal Page
+* Note the lack of alt text for all images including all critical submit button images:
+Job Search, Add Skill, Remove Skill, Preview, and Reset”. 
+
+Image Description:  two “screen shots” of a job board resume submittal page. The upper image shows it with all images turned on, the lower with images off and alternative text displayed (if any). It has spaces to copy and paste in a resume and a smaller box to enter skills and experience along with 3 selection boxes: type of employment, education and salary range and 5 different submit buttons.
+
+
+      Corporate Recruitment sites:
+      The Bobby evaluation of the top 14 E-recruitment sites and those of the 17 Fortune 500 sites were found to be quite similar so their results are combined here. The home pages of the corporate E-recruitment sites fared somewhat better than the job boards, with eight of the 31 (26%) passing without any priority 1 errors (see Table 3). Again, the most common error detected was lack of alternative text for an image. Of the eight that passed without errors all had between nine and eleven Bobby “user checks” that needed to be performed to determine if it actually could be  “Bobby approved”. At the career page level only three company’s sites passed without any Bobby priority 1 errors. The job search pages did slightly better with five passing without errors although all had between five and nine user checks. Bobby again had difficulty with many of the resumé submittal pages as most required a sign in. Only one of the eleven resumé pages Booby was able to access were free from priority 1 accessibility errors.
+Table 3
+Corporate Web Recruiting Sites: Bobby Priority 1 test results
+
+
+Number of sites Bobby evaluated
+Home Pages:  n=31
+Career page:  n=29
+Job Search: n=29
+Resumé Builder:n=11
+
+Bobby Found No priority 1 errors 
+Home Pages: 26%
+Career page: 10%
+Job Search: 17%
+Resumé Builder:9%
+
+Bobby found pages that did not provide alternative text for all image-type buttons in forms
+Home Pages: 19%
+Career page: 10%
+Job Search: 28%
+Resumé Builder:9%
+
+Bobby found pages that did not provide alternative text for all images
+Home Pages: 52%
+Career page: 79%
+Job Search: 59%
+Resumé Builder:64%
+Bobby found pages that did not give each frame a title. 
+Home Pages: 10%
+Career page: 10%
+Job Search: 28%
+Resumé Builder:36%
+
+Bobby found pages that did not provide alternative text for all image map hot-spots (AREAs). 
+Home Pages: 13%
+Career page: 14%
+Job Search: 7%
+Resumé Builder: None 
+
+Bobby found pages that did not reference an HTML file for each frame
+Home Pages: 3%
+Career page: none 
+Job Search: 7%
+Resumé Builder:9%
+      
+      End of Table 2
+      Simulated Process Evaluation 
+      The findings from the simulated application process of corporate sites are similar to those of the job boards (see Table 4). Nearly all of the home pages examined (11/12) had accessible links to the careers page. The one site in which access was problematic had their career link embedded in an auto-submit combo box. Given the apparent effort this company made to make everything else on their home page accessible (and the fact that the combo-box had a submit button) makes it appear as if the auto submit feature was an accidental oversight. That site did have an accessible link to the site map that contained a text link to the careers page. Nine of the twelve careers pages contained accessible links to the essential job search and resumé submittal pages. Seven of the twelve job search pages were accessible and the same number of the search results had accessible results that allowed application for a position identified.
+      Several examples of career pages are shown on the following pages to show some of the issues encountered. 
+      Figure 6 shows the primary careers page for a Fortune 500 company. The page contains 27 careers related links as images, all of which are lacking alt text. Luckily the site map link does have alt text and is accessible from this page. The site map allows access to all the inaccessible links on the career page. However, both the resumé builder page and the search results page also make heavy use of images, most of which are without associated alt text thereby making those pages inaccessible.
+      Figure 7 is another example of a typical career page of a Fortune 500 company. 
+Although the search and apply link is accessible, all of the primary links lack alt text (“Working at . .”, “Campus recruiting”, “Search jobs”, “Career development”, etc.). Alt text that could be applied to these would be as simple as duplicating the text used in the image.  All the header/titles/descriptions that describe the contents of the lists on the page are images lacking alt text. Note that the site index link (upper right hand corner), which presents many of the inaccessible links available from this page accessibly, is itself inaccessible due to the lack of identifying alt text. Also the photographs of employees are links to a description of their experiences as employees – information that is unavailable to a screen reader without alt text descriptions.
+    Figure 8 shows the job opportunities page of a Fortune 500 company through which all career traffic is routed. Note that all links listed along the left hand side of the screen are images and none of the images contain alt text. This page is a dead end for a non-sighted user. What is interesting about this site is that several of the pages it links to, such as the career search page, actually contain text links to most of the pages, but the only way to get there is through this completely inaccessible page. This type of inconsistency was encountered on many sites and pages.
+      It was not unusual to find pages that were almost accessible, such as that shown in the example in Figure 9.  Clearly an attempt to make the information accessible was made, as even the required information asterisk images had alt text. Unfortunately the even more important detail of the submit image button to begin the search is missing alt text. 
+      An extreme example of inaccessibility is shown in Figure 10, which shows a job listing accessed from a search results page. The “Careers Quickpick” list/combo box lacks an alt tag for its image, so it is unclear what its purpose might be. The combo box is also designed to automatically submit, allowing easy selection of different opportunities via a mouse, however, as previously noted this approach makes it problematic to navigate from the keyboard as it automatically submits when a change is made. The navigation buttons lack alt text so basic screen readers such as Microsoft’s Navigator would just read “link, link, link, link . . .”.  More sophisticated screen readers such as JAWS read the link address of the button. As noted previously, the addresses can be virtually unintelligible, as can be seen from examples taken from this page:
+* First : Javascript:submitrecordflag(‘first’,’/company/companies/Maincareers.jsp’)
+* Back to Search Results: http://www.walmartstores.com/company/companies /Maincareers.jsp?BV_sessionID=@@@@1493205465.1017437931@@@@&BV_EngineID=ccccadcchk
+
+      Figure 11 demonstrates what an accessible job search page could look like and some simple features can make a good page even more accessible. All of the images used have alt Text, and this page goes beyond basic text to include descriptive explanations to improve a screen reader users experience.  For example, the alt text for the “help” button is not merely “help,” but  reads “click on help for Job Category searching.”  The page also includes useful hints on how to navigate it with only keyboard commands, and offers a link to a screen reader.
+    Figure 12 shows an excellent example of an accessible job application/resumé builder page. Many of the fields have additional information specifically provided for screen reader use in the form of alt text, greatly simplifying completion by the applicant. This additional information is alt text cleverly “hidden” as a clear image behind the fields to not be distracting in the “images on” view. This way the information only appears when a screen reader is in use or when images are turned off on the browser.
+      
+Table 4. Summary of Application Simulated application process: Corporate Sites 
+        Screen reader/Keyboard navigation barriers encountered
+        
+Notes on reading the table: 
+“Minimally accessible” means basic information and links are accessible via screen reader and keyboard  Other links and buttons may lack alt text and other accessibility issues may still exist
+Button missing alt text: Essential submit button image missing alternative text (i.e. search, go, continue, submit)
+Link Missing Alt Text: Essential image link missing alternative text
+“Combo Box auto-submits”:  “Combo box” menu automatically submits on change.  Not keyboard accessible – item is submitted as soon as item is selected (making it impossible to get beyond first item in menu)
+Table Problems:  Improperly labeled tables  
+Frames Issue:  Can’t access essential areas of page with keyboard
+        
+Company 1
+Home Page: Careers link: Minimally accessible
+Careers page: Minimally accessible
+Resumé builder: Minimally accessible
+Search Page:Combo Box auto-submits,  Button missing alt text
+Search Results: Button missing alt text
+Other: Many informative links on Careers page inaccessible 
+
+Company 2
+Home Page: Careers link: Combo Box auto-submits *
+Careers page: Minimally accessible
+Resumé builder: Minimally accessible
+Search Page: Minimally accessible
+Search Results: Minimally accessible
+Other: *Home page link to Careers page inaccessible - can be accessed via site map
+
+Company 3
+Home Page: Careers link: Minimally accessible
+Careers page: Link Missing Alt Text *
+Resumé builder: Minimally accessible
+Search Page: Minimally accessible
+Search Results: Minimally accessible
+Other: *All links inaccessible on central job opportunities page – dead end!
+
+Company 4
+Home Page: Careers link: Minimally accessible
+Careers page: Minimally accessible
+Resumé builder: Button missing alt text
+Search Page: Button missing alt text
+Search Results: Button missing alt text
+
+Company 5
+Home Page: Careers link: Minimally accessible
+Careers page: Minimally accessible
+Resumé builder: Minimally accessible
+Search Page: Minimally accessible
+Search Results: Minimally accessible
+Other: Excellent site, many accessible features
+
+Company 6
+Home Page: Careers link: Minimally accessible
+Careers page: Link Missing Alt Text,  Button missing alt text
+Resumé builder: Button missing alt text
+Search Page: Button missing alt text
+Search Results: Minimally accessible
+
+Company 7 
+
+Home Page: Careers link: Minimally accessible
+Careers page: Minimally accessible
+Resumé builder: Button missing alt text
+Search Page: Link Missing Alt Text,  Button missing alt text
+Search Results: Button missing alt text
+
+Company 8
+Home Page: Careers link: Minimally accessible
+Careers page: Link Missing Alt Text *
+Resumé builder: Link Missing Resumé builder: Link missing Alt Text,  Table Problems
+Search Page: Minimally accessible
+Search Results: Link Missing Alt Text
+Other: *All essential links on careers page are inaccessible. Must use site map to access search or resumé pages
+
+Company 9
+Home Page: Careers link: Minimally accessible
+Careers page: Minimally accessible
+Resumé builder: Button missing alt text
+Search Page: Minimally accessible
+Search Results: Minimally accessible
+Other: Intermediate “help” contents page inaccessible
+
+Company 10
+Home Page: Careers link: Minimally accessible *
+Careers page: Minimally accessible
+Resumé builder: Minimally accessible
+Search Page: Minimally accessible
+Search Results: Minimally accessible
+Other: * Careers page difficult to navigate to from home page
+
+Company 11
+Home Page: Careers link: Minimally accessible
+Careers page: Minimally accessible
+Resumé builder:Minimally accessible
+Search Page: Minimally accessible *
+Search Results: Minimally accessible
+Other: * Some alternate search screens lack alt text for submit buttons
+
+Company 12
+Home Page: Careers link: Minimally accessible
+Careers page: Minimally accessible
+Resumé builder:Button missing alt text
+Search Page: Combo Box auto-submits *,  Button missing alt text
+Search Results: Button missing alt text
+Other: *Auto-submit list occurs before main search –confusing to screen reader users
+
+Overall
+Home Page: Careers link: 11/12 Minimally accessible
+Careers page: 9/12 Minimally accessible
+Resumé builder:6/12 Minimally accessible
+Search Page: 7/12 Minimally accessible
+Search Results: 7/12 Minimally accessible
+
+End Table 4
+
+Figure 6. Main Careers Page of a Fortune 500 Company 
+This is an example of an image heavy careers page.
+* All 27 careers related links are images, all of which are lacking alt text.
+* Luckily the site map link does have alt text and most links are accessible from that page. 
+
+Image Description: two “screen shots” of a Fortune 500 Company’s careers page. The upper image shows it with all images turned on, the lower with images off and alternative text displayed (if any). The upper screen shot shows many image links and several photographs of people working at the company. The links include job listings, events calendar, assess your own career, benefits and education, student programs. The lower screen shot shows that nearly all of these links are images without screen readable alt text.
+
+
+Figure 7. Main Careers Page of a Fortune 500 Company
+This is the career page of a Fortune 500 company. 
+* Although the search and apply link is accessible, all of the primary links lack alt text (“Working at . .”, “Campus recruiting”, “Search jobs”, “Career development”, etc.). Alt text that could be applied to these would be as simple as duplicating the text used in the image.
+* Note that the site index link (upper right hand corner), which presents many of the inaccessible links available from this page accessibly, is itself inaccessible due to the lack of identifying alt text.
+* The photographs of employees are links to a description of their experiences as employees – information that is unavailable to a screen reader without alt text descriptions. 
+* All the header/titles/descriptions that describe the contents of the lists are images lacking alt text
+
+Image Description: 
+
+
+Figure 8. Job Opportunities page of a Fortune 500 Company 
+This is the job opportunities page of a Fortune 500 company through which all career traffic is routed.
+* Note that all links listed along the left hand side of the screen are images and none of the images contain alt text. This page is a complete dead end for a non-sighted user. 
+
+Image Description: two “screen shots” of another Fortune 500 Company’s job opportunities page. The upper image shows it with all images turned on, the lower with images off and alternative text displayed (if any). The first portion of the page reads:  “welcome to job postings!” and includes a brief description of the career opportunity web site. Along the left hand side is a listing of all the career links including job search, career profile, edit profile, help, how to submit a resume, and career opportunities.  The bottom image shows that the left-hand listing, as well as the page greeting, do not appear when images are turned off.
+
+
+Figure 9. Job Search results page of a Fortune 500 company
+* The “Careers quickpick” title is an image without an alt tag.
+* The  “quickpick”combo box is an inaccessible auto-submit list
+* All navigation buttons lack alt text. 
+
+Image Description: two “screen shots” of another Fortune 500 Company’s job search results page. The upper image shows it with all images turned on, the lower with images off and alternative text displayed (if any). The text below the job description title reads: You can use the navigation arrows below to flip through your search results one by one. The four navigation buttons are images with first, previous, next and last.  The bottom image demonstrates that these navigation arrows lack descriptive alt text.
+
+
+Figure 10. Corporate job search page
+This is an interesting example of a nearly accessible corporate job search page. 
+* The required fields denoted by the red asterisk images are identified with alt text “this field is required” (an item that is frequently forgotten in many of the other sites) 
+* The critical “OK” and “Cancel” image buttons lack alt text.
+
+Image Description: two “screen shots” of another Fortune 500 Company’s job search page. The upper image shows it with all images turned on, the lower with images off and alternative text displayed (if any). The page has combo boxes for the user to select their criteria including job type (full or part time), locales (country and states), salary, percent travel and job level. At the bottom of the screen shot are two image buttons OK and cancel.
+
+
+Figure 11: Accessible Example of a Job Search Page
+This page is an excellent example of an accessible job search page. 
+* Note that all the images (i.e. the questions mark icons) have alternative text. 
+* The designers actually include truly descriptive tags – instead of simply “help” it is “click here for help on . . .” . 
+* The page also includes useful hints as to how to navigate it with only keyboard commands and offers a link to a screen reader.
+
+Image Description: two “screen shots” of another Fortune 500 Company’s job search page. The upper image shows it with all images turned on, the lower with images off and alternative text displayed (if any). It shows 7 categories with help links and lists to select from including: job category, location, group, job type, job level, education, and major (if recent graduate).  
+
+
+Figure 12. Accessible Example of a Job Application/Resumé Builder Page 
+This site is an excellent example of what can be done to make a resumé builder page more accessible.
+* Many of the fields have additional information specifically provided for screen reader use in the form of alt text
+* Note the helpful address and phone number alt text that only appears when a screen reader is in use or when images are turned off on the browser.
+
+Image Description: two “screen shots” of the first page of a Fortune 500 Company’s job application. The upper image shows it with all images turned on, the lower with images off and alternative text displayed (if any). It includes empty fields for an applicant to complete for contact information including name, address, e-mail and phone numbers. Every field has identifying text for screen readers to read. Many have additional information specifically designed for screen readers in the form of hidden alt text. One example is each grouping of phone numbers : area code, home local exchange (first 3 digits) Home phone (last 4 digits). 
+
+
+      Conclusion
+      In summary, none of the job board pages (home, job search, signup, or resumé submittal pages) evaluated by Bobby were found to be accessible (without at least one Priority 1 error). The corporate E-recruiting fared slightly better, with eight of the 31 home pages passing without priority 1 errors, but only three of 29 sites (10%) career pages and 5 of 29 job search pages (17%) passed. Only one of the 11 corporate resumé submittal pages that Bobby was able to access was found to be without priority 1 errors. 
+      The results of the simulated application process using information available to screen readers and keyboard navigation was slightly more encouraging, but still far from ideal. Overall, about half of the job board and corporate pages evaluated were accessible to a screen reader user with keyboard navigation. However, it is important to remember that this is a multi-step process and each step must be accessible for an applicant to actually apply for a position online. Using these criteria, only three of the nine job boards and three of the twelve corporate sites were accessible enough to work through the entire process of registration, job searching, resumé submittal, and application. For the majority of inaccessible pages, fixing the screen reader and keyboard navigation issues would be quite simple. Creating alternative text for the submit image buttons and links would address many of the major roadblocks encountered in the inaccessible sites. 
+      Individual pages could frequently be navigated, and many allowed a user to set up search criteria or complete resumé or registration forms, but then at a critical point were totally inaccessible – most often an image button that had to be clicked to submit the information had no identifying alt text for a screen reader to access. Fully a third of all job board pages and nearly a third of the corporate career related pages examined contained submit buttons with this problem. To complicate matters, there were often multiple unidentified buttons: (i.e. submit, cancel, go back). Without alt text the screen reader user would have no idea as to which button to select except by trial and error, typically losing the data entered if the guess was incorrect.
+      The majority of the problems encountered were the lack of alt text, especially in the case of the critical image buttons, which submitted the information from various forms. Correcting most of the problems encountered would be fairly simple and would not require a significant commitment of time or finances on the part of businesses.
+      It is important to note that making these changes will not make the entire site accessible for all users with disabilities, but it would be a step that would vastly improve accessibility for those using screen readers and accessing sites using keyboard commands. The majority of these sites contained other image links that lacked alt text and other issues identified by Bobby as problematic that were not evaluated.
+      Almost all the literature on online recruiting and job postings agrees that the Web is rapidly becoming the medium of choice for many, if not most, companies (Densford, 2000, iLogos Research 2002, SHRM, 2001, Useem, 1999, White, 2001). Given the growth of online recruiting, combined with the frequent access problems discovered in this study, there is a very real potential for certain populations of disabled individuals to be all but cut off from this most promising avenue for job searches and applications.  None of the accessibility issues encountered were insurmountable, and most could be easily altered to significantly improve accessibility. It is vital to ensure that career recruiting sites on the World Wide Web are made accessible so all individuals, regardless of their situation, have access to this wealth of jobs available on the Internet. 
+
+Top 10 Job Boards *7
+CareerBuilder.com
+Monster.com
+JobsOnline.com
+Jobs.com
+Dice.com
+HotJobs.com
+Salary.com
+FlipDog.com
+Net-Temps.com
+Vault.com
+
+Top 14 Corporate Web recruiters *8 
+EDS 
+Fidelity
+General Electric 
+Guidant 
+IBM 
+Intel 
+Johnson & Johnson 
+Lucent Technologies 
+Microsoft 
+Pfizer 
+Price Waterhouse Coopers 
+Procter & Gamble 
+Sun Microsystems
+United Parcel Service 
+
+Fortune 500 Companies evaluated*9:
+Exxon Mobil 
+Wal-Mart Stores 
+General Motors 
+Ford Motor 
+Citigroup 
+AT&T 
+Verizon Communications 
+Philip Morris 
+J.P. Morgan Chase 
+Bank of America Corp. 
+SBC Communications 
+Boeing 
+ChevronTexaco 
+Duke Energy 
+Kroger 
+Chevron
+
+
+References:
+Brewer, J.  (2000). Overview of the Web Accessibility Initiative. Retrieved November 28, 2001 from http://www.w3.org/Talks/WAI-Intro/Overview.html
+Densford, L. (2000, November). Web recruiting: tips from the masters. Benefitnews. Retrieved from http://www.benefitnews.com/tech/detail.cfm?id=728
+How online recruiting changes the hiring game (2001, February 22). Knowledge@Wharton.  Wharton Center for Human Resources, University of Pennsylvania.  Retrieved May 30, 2001, from http://knowledge.wharton.upenn.edu/articles.cfm?catid=10&articleid=314
+iLogos Research. (2002).  Global 500 Web site recruiting, 2002 survey.  Author. Retrieved April 8, 2002, from https://www.ilogos.com/iLogosReport2002/secure
+Jackson-Sanborn,E., Odess-Harnish, K. and Warren, N. (2001, May 30). Website accessibility: a study of ADA compliance (working paper). Retrieved November 27, 2001 from http://www.ils.unc.edu/ils/research/reports/accessibility.pdf
+Rosenwald, M. (2000, November 26). Online recruiting surviving volatility.  The Boston Globe, p. G2.
+Rowland, C. & Smith, T. (1999). Website accessibility. The power of independence (Summer Edition), 1-1. Outreach Division, Center for Persons with Disabilities: Utah State University.
+Rowland, C. (2000) Accessibility of the Internet in postsecondary education: Meeting the challenge. Presentation from the Universal Web Accessibility Symposium 2000, WebNet World Conference on the WWW and Internet, San Antonio. Retrieved on October 9, 2001 from http://www.webaimorg/articles/whitepaper
+Sams, L. & Yates-Mercer, P.  (2000).  The Web for students and staff with disabilities: visual impairment, dyslexia and motor impairment [Report of a survey of Higher Education Lecturers’ Awareness of the World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG)].  Retrieved November 30, 2001, from http://www.disinhe.ac.uk/library/article.asp?id=39
+Schmetzke, A.  (2001).  Web page accessibility on University of Wisconsin campuses:  2001 Survey Data. Retrieved from  http://library.uwsp.edu/aschmetz/Accessible/UW-Campuses/Survey2001/contents2001.htm.  
+Society for Human Resource Management.  (2001). Search Tactics Poll (report from the SHRM Survey Program).  Alexandria, VA: Author.  Retrieved August 20, 2001, from: http://www.careerjournal.com/special/20010405-shrmpoll.pdf
+Useem, J. (1999). For sale online: You.  Fortune, 140(1), 67-78.
+White, R. (2001, March 18). More job seekers, firms use the Net but effectiveness of the web sites remains unclear. Los Angeles Times, (Home Edition), W-1.
+
+*1 Job Board: an Internet site where employers pay to post their positions and to search the resume database for candidates. Candidates can search and apply online for positions as well as post resumes for free.
+1 The Fortune 500 group of companies is comprised of the 500 largest companies in the U.S., based on gross revenue, compiled by Fortune Magazine
+*2 The Fortune 500 group of companies is a list of the largest U.S. companies based on gross revenue, compiled by Fortune Magazine (http://www.fortune.com)
+*4 Bobby Priority 1 errors are “show stoppers” that would make it impossible for one or more groups to access the information contained on the page.
+*7 As defined as the largest number of unique visitors in the month of January 2001 according to Neilsen/Netratings (White, 2001)
+*8 Densford, 2000
+*9 Fortune 500 list from: http://www.fortune.com/indexw.jhtml?channel=list.jhtml&list_frag=list_3column_fortune500_list.jhtml&list=15&_requestid=53134
+1
+

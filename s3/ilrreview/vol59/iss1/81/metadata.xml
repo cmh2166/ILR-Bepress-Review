@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Future of the Family</title>
+<publication-date>2005-10-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Moynihan</lname>
+<fname>Daniel</fname>
+<mname>P.</mname>
+</author>
+<author>
+<lname>Smeeding</lname>
+<fname>Timothy</fname>
+<mname>M.</mname>
+</author>
+<author>
+<lname>Rainwater</lname>
+<fname>Lee</fname>
+</author>
+</authors>
+<coverpage-url>http://digitalcommons.ilr.cornell.edu/ilrreview/vol59/iss1/81</coverpage-url>
+<fulltext-url>http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1186&amp;amp;context=ilrreview&amp;amp;unstamped=1</fulltext-url>
+<label>81</label>
+<document-type>bookreview</document-type>
+<type>article</type>
+<articleid>1186</articleid>
+<submission-date>2005-09-23T12:57:03-07:00</submission-date>
+<publication-title>ILR Review</publication-title>
+<context-key>100387</context-key>
+<submission-path>ilrreview/vol59/iss1/81</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-10-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>The Future of the Family</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,433 @@
+THE TRANSITION FROM SCHOOL TO WORK
+
+The Special Education and State Vocational Rehabilitation Systems' Obligations to Prepare Students With Disabilities for the World of Work
+
+This is one of a series of articles written for benefits specialists employed by Benefits Planning, Assistance and Outreach (BPA&O) projects and attorneys and advocates employed by Protection and Advocacy for Beneficiaries of Social Security (PABSS) programs.  The author is Ronald M. Hager, an attorney with Neighborhood Legal Services, Inc. (NLS) of Buffalo, New York.  NLS provides services under both a BPA&O project and PABSS program.  Mr. Hager has extensive experience with special education and vocational rehabilitation advocacy issues.  The author wishes to thank David Brewer from Cornell University's Program on Employment and Disability, School of Industrial and Labor Relations, for providing helpful insights into the content and structure of this article.
+
+
+I. INTRODUCTION
+
+The special education systems in school districts, nationwide, are the starting point for preparing many people with disabilities for the adult world, including the world of work.  The federal law governing the obligations of school districts is called the Individuals with Disabilities Education Act (IDEA). Footnote Reference 1
+
+Footnote 1: 20 U.S.C. § 1400, et seq.
+
+Historically known as Public Law 94-142, the IDEA was initially passed in 1975 and became effective on September 1, 1978.  From the beginning, its stated purpose was to help prepare students with disabilities for increased independence and self-sufficiency.  The legislative history of Public Law 94-142, after citing statistics showing the lack of adequate special education services for students with disabilities at the time of its passage, underscores this point:
+
+The long-range implications of these statistics are that public agencies and taxpayers will spend billions of dollars over the lifetimes of these individuals to maintain such persons as dependents in a minimally acceptable lifestyle.  With proper education services, many would be able to become productive citizens, contributing to society instead of being forced to remain burdens.  Others, through such services, would increase their independence, thus reducing their dependence on society. Footnote Reference 2
+
+Footnote 2: S.Rep. at 9, U.S. Code Cong. & Admin. News 1975, p. 1433.
+
+Although the IDEA has been amended several times since 1975, the basic provisions remain the same.  It is a sweeping statute.  States are given federal money to help meet the costs of educating students with disabilities.  In turn, they must agree to comply with the terms of the law.  However, the IDEA has yet to live up to its promise, making it all the more important for advocates to be aware of its provisions.
+
+On June 4, 1997, President Clinton signed into law a significant amendment to the IDEA (IDEA '97).  On March 12, 1999, the final federal regulations implementing IDEA '97 were published in the Federal Register. Footnote Reference 3  IDEA '97 once again emphasizes the importance of the special education system for preparing people with disabilities for the adult world.  The Congressional findings that accompany IDEA '97 state:
+
+Footnote 3: 64 Fed. Reg. 12406.
+
+Disability is a natural part of the human experience and in no way diminishes the right of individuals to participate in or contribute to society.  Improving educational results for children with disabilities is an essential element of our national policy of ensuring equality of opportunity, full participation, independent living, and economic self-sufficiency for individuals with disabilities. Footnote Reference 4
+
+Footnote 4: 20 U.S.C. § 1400(c)(1).
+
+This article is designed to provide a basic overview of the requirements of the special education system under the IDEA.  It will then review, in greater detail, the specific "transition planning" obligations under the IDEA to prepare students for the adult world as they enter their high school years.  It will also discuss how the obligations of the school districts interact with the obligations of the state vocational rehabilitation (VR) agencies Footnote Reference 5 and the importance of collaboration between the two systems.  Over the years, amendments to both the special education and VR laws have increased the requirements for this type of cooperation to ensure the smooth transition of students with disabilities from school to post-school activities.
+
+Footnote 5: A separate article in this series, Vocational Rehabilitation Services Available to Prepare Individuals with Disabilities for Work, reviews the obligations of VR agencies in greater detail.
+
+This article is written primarily for individuals who work for either a Benefits Planning, Assistance and Outreach (BPA&O) project or a Protection and Advocacy for Beneficiaries of Social Security (PABSS) program, both of which are mandated to serve individuals with disabilities who receive either Supplemental Security Income (SSI) or Social Security Disability Insurance (SSDI) benefits.  It is intended that this article will also be distributed to many SSI and SSDI beneficiaries, their families, and the agencies that serve them.
+
+A major expectation of the BPA&O and PABSS projects is that they reach out to, and serve, beneficiaries who are as young as 14.  This includes beneficiaries who are transitioning out of the special education system.  For BPA&O staff, this article will provide a grounding in special education law and its transition requirements.  For PABSS staff, it will provide a grounding in the law and a foundation for handling special education transition cases, if the PABSS project chooses to take these types of cases.
+
+
+II. OVERVIEW OF THE IDEA
+
+A. Free Appropriate Public Education
+
+The IDEA guarantees that all students with disabilities aged 3 through 21 have the right to a "free appropriate public education" (FAPE). Footnote Reference 6  The right to a FAPE ends when a student graduates with a regular high school diploma. Footnote Reference 7  This does not include students who have received a certificate of attendance or a certificate of graduation that is not a regular high school diploma. Footnote Reference 8
+
+Footnote 6: 20 U.S.C. §§ 1401(8), 1412(a)(1)(B) and 1419(b)(2).
+Footnote 7: 34 C.F.R. § 300.122(a)(3)(i).
+Footnote 8: Id. § 300.122(a)(3)(ii).
+
+All services provided under the IDEA must be at no cost to the parents or student. Footnote Reference 9  There is no financial needs test under the IDEA.  Therefore, children with disabilities are entitled to receive services at no charge, regardless of family income.
+
+Footnote 9: 20 U.S.C. § 1401(8)(A).
+
+To be eligible, the student must meet the definition of one of several enumerated disabilities, such as a speech, mobility, orthopedic, health, hearing or visual impairment, mental retardation, or a learning or emotional disability, and, "by reason thereof," need special education and related services. Footnote Reference 10  Special education is defined as specially designed instruction to meet the unique needs of the child.  Related services are defined as developmental, corrective and other support services required to assist a student with a disability to benefit from an education, such as occupational therapy, physical therapy, speech pathology, counseling, health services, and parent training. Footnote Reference 11
+
+Footnote 10: Id. § 1401(3).
+Footnote 11: Id. § 1401(22) & (25).
+
+In Board of Ed. of the Hendrick Hudson Sch. Dist. v. Rowley, Footnote Reference 12 the United States Supreme Court set forth the standard for determining whether a student was receiving the appropriate education required by the IDEA.  The Court concluded that the obligation to provide an appropriate education does not mean a school must provide the "best" education or one designed to maximize a student's potential. Footnote Reference 13  However, the program must be based on the student's unique individual needs and be designed to enable the student to benefit from an education.  In other words, the student must be making progress. Footnote Reference 14  More than a minimal benefit is required for the program to be appropriate.  The child's written individualized education program (IEP) must confer "meaningful benefit," which means that it must provide for "significant learning."  In determining how much benefit is enough, the student's intellectual potential must be considered. Footnote Reference 15
+
+Footnote 12: 458 U.S. 176 (1982).
+Footnote 13: Id. at 199.
+Footnote 14: Id. at 188, 189.
+Footnote 15: See Ridgewood Board of Ed. v. N.E., 172 F.3d 238 (3rd Cir. 1999); Polk v. Central Susquehanna Intermediate Unit, 853 F.2d 171 (3rd Cir. 1988), cert. denied, 488 U.S. 1030 (1989).
+
+During the passage of IDEA '97, Congress did not specifically modify the definition of FAPE itself. Footnote Reference 16  However, Congress did make some profound statements which seem to undercut the Supreme Court's analysis in Rowley.  In delineating the purposes of the IDEA, Congress explicitly enlarged the scope of an appropriate education by requiring that not only should it meet students' unique needs, it should also "prepare them for employment and independent living." Footnote Reference 17  The U.S. Department of Education, in the commentary to its proposed regulations implementing IDEA '97, stressed:
+
+Footnote 16: See 20 U.S.C. § 1401(8).
+Footnote 17: Id. § 1400(d)(1)(A).
+
+This change represents a significant shift in the emphasis of [the IDEA]-to an outcome-oriented approach that focuses on better results for children with disabilities rather than on simply ensuring their access to education. Footnote Reference 18
+
+Footnote 18: 62 Fed. Reg. 55029 (emphasis added).
+
+Nevertheless, because the phrase "appropriate" is still used in the definition, it is unlikely that these comments mean that Rowley has been effectively overruled by Congress in all circumstances.  However, in determining whether a student is benefiting from an education, the analysis cannot be limited solely to academic achievement.  Even if a student is making significant academic progress that can no longer be the end of the inquiry.  How well the student is being prepared for the adult world must also be considered.
+
+B. Least Restrictive Environment
+
+The IDEA requires that all students receive their educational services in the least restrictive environment (LRE). Footnote Reference 19  Removal from regular education classes should occur only when the student cannot be successfully educated in that setting, even with supplemental aids and services. Footnote Reference 20
+
+Footnote 19: 20 U.S.C. § 1412(a)(5).
+Footnote 20: 34 C.F.R.  § 300.550(b)(2).
+
+However, in determining the LRE for a student, the program must still be appropriate to meet the student's individual needs. Footnote Reference 21  Accordingly, schools must have available a continuum of alternative placements, ranging from services in regular classes to separate classes, separate schools and even residential programs. Footnote Reference 22  Moreover, in determining the student's actual placement, it should be as close as possible to the child's home and, unless the written IEP calls for some other arrangement, the child should attend the school he or she would attend if not disabled. Footnote Reference 23
+
+Footnote 21: Id. § 300.550(b)(1).
+Footnote 22: Id. § 300.551.
+Footnote 23: Id. § 300.552(c).
+
+The 1999 regulations emphasize that students with disabilities cannot be removed from age-appropriate regular classrooms "solely because of needed modifications in the general curriculum." Footnote Reference 24  Additionally, a student cannot be required to demonstrate a specific level of performance before being considered for regular class placement.  However, the strong preference for placement in regular education does not mean that a student must fail in the regular education environment before a more restrictive setting may be considered. Footnote Reference 25  Placement decisions must be based on the needs of the student and not on such factors as the classification of the student, availability of services, "configuration of the service delivery system, availability of space, or administrative convenience." Footnote Reference 26
+
+Footnote 24: Id. § 300.552(e).
+Footnote 25: Id. Part 300, Appendix (App.) A, Question (Quest.) 1.
+Footnote 26: Id.
+
+C. Individualized Education Program
+
+The written IEP is the focal point of the IDEA.  The Supreme Court called the IEP the "centerpiece of the [IDEA's] education delivery system." Footnote Reference 27  It is obvious that the process of developing the IEP and the resulting document itself are more than mere technicalities.
+
+Footnote 27: Honig v. Doe, 484 U.S. 305, 311 (1988).
+
+1. Evaluating the Child
+
+Developing the IEP begins with a comprehensive, individual evaluation.  As one court has noted, the evaluation provides the foundation for the IEP.  If the evaluation is incomplete, the IEP cannot be appropriate. Footnote Reference 28 The parents or the school staff may initiate an evaluation.  In either event, before the school may evaluate a student for the first time, it must obtain parental consent for the evaluation. Footnote Reference 29  The evaluation is designed to assist the IEP Team in determining whether the student has a disability and, if so, to determine the educational needs of the child. Footnote Reference 30  Evaluations must be conducted before the initial provision of services. Footnote Reference 31
+
+Footnote 28: East Penn School District v. Scott B., 29 Individuals with Disabilities Educ. L. Rep. (LRP Publications) 1058 (E.D. Pa. 1999). 
+Footnote 29: 20 U.S.C. § 1414(a)(1)(C).
+Footnote 30: Id. § 1414(a)(1)(B).
+Footnote 31: Id. § 1414(a)(1)(A).
+
+If the parents disagree with the evaluation obtained by the school, they may request an independent evaluation at school expense. Footnote Reference 32  Parents should submit their request prior to obtaining the evaluation, but this is not required. Footnote Reference 33  The school is allowed to ask the parents for the reasons they are disagreeing with the school's evaluation, but cannot require it. Footnote Reference 34  In either event, the school must, without unreasonable delay, either agree to pay for the independent evaluation or initiate a hearing to show its evaluations were appropriate. Footnote Reference 35
+
+Footnote 32: 34 C.F.R. § 300.502(b).
+Footnote 33: Policy Letter to Hon. J. Fields, 2 Educ. Handicapped L. Rep. (LRP Publications) 213:259 (U.S. Dep't. of Educ. Office of Special Educ. Programs (OSEP) Sept. 15, 1989).
+Footnote 34: 34 C.F.R. § 300.502(b)(4).
+Footnote 35: Id. § 300.502(b)(2).
+
+2. IEP Team Members
+
+The IDEA requires that the IEP be developed at a meeting with a group of people, including the parents. Footnote Reference 36  The IEP Team must be composed of the following members:
+
+Footnote 36: Id. § 300.344.
+
+(i) the parents of a child with a disability;
+
+(ii) at least one regular education teacher of such child (if the child is, or may be, participating in the regular education environment);
+
+(iii) at least one special education teacher, or where appropriate, at least one special education provider [such as a speech pathologist] of such child;
+
+(iv) a representative of the [school] who-
+
+(I) is qualified to provide, or supervise the provision of, specially designed instruction to meet the unique needs of children with disabilities;
+
+(II) is knowledgeable about the general curriculum; and
+
+(III) is knowledgeable about the availability of resources of the local educational agency;
+
+(v) an individual who can interpret the instructional implications of evaluation results, who may be a member of the team described in clauses (ii) through (vi);
+
+(vi) at the discretion of the parent or the agency, other individuals who have knowledge or special expertise regarding the child, including related services personnel as appropriate; and
+
+(vii) whenever appropriate, the child with a disability. Footnote Reference 37
+
+Footnote 37: 20 U.S.C. § 1414(d)(1)(B).
+
+3. IEP Content
+
+The IEP is a written document, setting out in detail the nature of the student's educational needs, the services to be provided and specific goals for the student.  The IEP must list the student's current levels of performance, including how the child's disability affects the child's involvement and progress in the general curriculum.  The IEP must also list annual goals and short-term objectives or benchmarks.  They must be measurable and relate to meeting each of the child's educational needs that result from the disability, including those which will enable the child to be involved and progressing in the general curriculum. Footnote Reference 38
+
+Footnote 38: Id. § 1414(d)(1)(A)(i) and (ii).
+
+The IEP must include all special education and related services and supplementary aids and services to be provided to the child, or on behalf of the child.  It must also list all program modifications, and supports for school personnel which will help the child to:  (1) attain the annual goals; (2) participate and progress in the general curriculum, if appropriate; (3) be educated with both disabled and non-disabled peers; and (4) participate in extracurricular and nonacademic activities with both disabled and non-disabled peers.  The projected date for initiating all services and modifications, as well as their anticipated frequency, location and duration, must be specified. Footnote Reference 39
+
+Footnote 39: Id. § 1414(d)(1)(A)(iii) & (vi).
+
+The IEP must also include provisions to assist students in making the transition from school to adult living.  These are called "transition services," and will be discussed in greater detail below.  Beginning at age 14, or younger, the IEP must include the transition service needs related to the child's course of study under each of the applicable sections of the IEP, such as "participation in advanced-placement courses or a vocational education program." Footnote Reference 40  Beginning at 16, or younger if appropriate, actual transition services are to begin, including identifying the responsibilities of agencies other than the schools to provide services.  The IEP must list all such services.  At least one year before a student reaches the age of majority under state law, the IEP must include a statement that the student has been informed of any rights that would normally be exercised by the parents that will transfer to the student at the age of majority. Footnote Reference 41
+
+Footnote 40: Id. § 1414(d)(1)(A)(vii)(I); 34 C.F.R. § 300.347(b)(1).
+Footnote 41: Id. § 1414(d)(1)(A)(vii)(II) & (III).
+
+D. Due Process
+
+Schools must regularly and fully inform parents of their due process rights. Footnote Reference 42  Prior to taking any action regarding the student, they must also notify the parents, in writing, of the basis for their action.  This notice must include:  (1) a description of the action proposed or refused; (2) an explanation of why the school made the decision; (3) a description of any other options considered and an explanation of why they were rejected; (4) a description of the records, reports or evaluations used as a basis for the decision; and (5) a description of any other factors that are relevant to the decision. Footnote Reference 43
+
+Footnote 42: Id. § 1415(b)(3), (c) and (d)(2).
+Footnote 43: Id. § 1415(c).
+
+Under the IDEA, parents have the right to request an impartial hearing to appeal any actions taken by a school. Footnote Reference 44  At the hearing, the parents have the right to be represented by an attorney or other person with specialized training, to compel the attendance of witnesses, to present evidence and to cross-examine witnesses. Footnote Reference 45  The parents have the right to a written or, at their option, electronic, verbatim transcript of the hearing. Footnote Reference 46  Impartial hearings have become extremely technical and complicated.  Therefore, it is highly advisable for parents to contact an attorney or trained advocate if they believe it is necessary to request a hearing.  Some PABSS programs may choose to represent transition-aged students at special education hearings where the student is an SSI or SSDI beneficiary and the service that was denied is directly related to a future employment goal.
+
+Footnote 44: Id. § 1415(b)(6).
+Footnote 45: Id. § 1415(f).
+Footnote 46: 34 C.F.R. § 300.509(a)(4).
+
+The decision of the hearing officer is final, unless there is an appeal. Footnote Reference 47  States have the option to create a second, state level of administrative review.  In that case, either the parents or school have the right to file an appeal to the state. Footnote Reference 48  Following the hearing decision or state level decision, if applicable, either the parents or the school have the right to appeal to state or federal court. Footnote Reference 49
+
+Footnote 47: 20 U.S.C. § 1415(i)(1)(B).
+Footnote 48: Id. § 1415(g).
+Footnote 49: Id. § 1415(i)(2).
+
+1. Status Quo: The Right to Retain Existing Services Pending Appeal
+
+The child remains in the current educational placement during all of the appeal proceedings, unless the parent and school or state agree otherwise. Footnote Reference 50  This is referred to as "pendency," "stay put," or "status quo."  Status quo applies to the services listed in the IEP as well as "the setting in which the IEP is implemented, such as a regular" or self-contained classroom. Footnote Reference 51  However, a school may change the location of a child's classroom within the school district. Footnote Reference 52  Status quo is also not intended to require that a student remain in the same grade pending an appeal. Footnote Reference 53  Status quo also applies to children moving from one school to another within the state. Footnote Reference 54  However, status quo does not apply when a student moves from one state to another. Footnote Reference 55
+
+Footnote 50: Id. § 1415(j); 34 C.F.R. § 300.514(a).
+Footnote 51: 64 Fed. Reg. 12616.
+Footnote 52: Id.; Concerned Parents v. N.Y.C. Bd. of Ed., 629 F.2d 751 (2nd Cir. 1980).
+Footnote 53: 64 Fed. Reg. 12616.
+Footnote 54: Policy Letter to L. Rieser, Educ. Handicapped L. Rep. (LRP Publications) 211:403 (OSEP July 17, 1986).
+Footnote 55: Michael C. Ex. Rel. Stephen C. v. Radnor Township School District, 202 F.3d 642 (3rd Cir. 2000), cert. den. 531 U.S. 813 (2000); OSEP Policy Memorandum 96-5, 24 Individuals with Disabilities Educ. L. Rep. (LRP Publications) 320 (Dec. 6, 1995).
+
+2. Mediation
+
+The IDEA now mandates that states and schools have a mediation process available to resolve any and all complaints, at least whenever an impartial hearing is requested.  Mediation is to be voluntary and cannot be used to deny or delay a parent's right to an impartial hearing.  If a parent does not choose to use mediation, a school or state may establish a procedure requiring the parent to meet with a specified disinterested party to explain the benefits of mediation. Footnote Reference 56
+
+Footnote 56: 20 U.S.C. § 1415(e).
+
+The state shall bear the costs of mediation.  The mediators are to be impartial, trained in mediation techniques and knowledgeable of special education law.  All discussions during mediation sessions are to be confidential. Footnote Reference 57
+
+Footnote 57: Id.
+
+3. Attorneys' Fees are Available When the Student Wins an Appeal
+
+When parents request an impartial hearing, they are entitled to reasonable attorneys' fees if they ultimately prevail at the hearing, on review, in court, or through settlement.  The fees are based on the prevailing rates in the community.  The parents' fees may be reduced if they reject an offer of settlement made by the school, in writing, and received at least 10 days before the hearing, if the relief the parents obtain is not more favorable than the school's offer of settlement. Footnote Reference 58
+
+Footnote 58: Id. § 1415(i)(3).
+
+Additionally, with a request for an impartial hearing, there must be a statement listing the student's name, address and school attended, as well as a description of the problem, giving rise to the hearing request and a proposed resolution of the problem to the extent known and available. Footnote Reference 59  If this statement was not submitted, attorneys' fees can be limited. Footnote Reference 60
+
+Footnote 59: Id. § 1415(b)(7).
+Footnote 60: Id. § 1415(i)(3)(F)(iv).
+
+III. THE IDEA'S TRANSITION PLANNING REQUIREMENTS
+
+A. Introduction
+
+As noted above, schools must begin planning for a student's transition to the adult world beginning at age 14, when curricular options within the school are considered.  No later than age 16, a full-blown transition services plan must be included in the IEP.
+
+Transition planning was not part of the IDEA when it was first enacted.  It was not added until 1990.  However, the legislative history adding these transition planning requirements specifically noted that they "do not constitute new provisions of law.  Rather, these inclusions provide a clarification and focus to already existing requirements of law dating back to the enactment of P.L. 94-142." Footnote Reference 61 Nevertheless, there was strong sentiment that students were not being adequately prepared for the adult world.  The legislative history cited statistics that of the 250,000 students 16 years or older who exit the educational system, less than one half graduate with a high school diploma and nearly 60,000 drop out. Footnote Reference 62  Noting that students who exit the special education system without a diploma meet with varying degrees of success, the legislative history cautions that there will be those who:
+
+Footnote 61: H.R. No. 101-544 at 11, U.S. Code Cong. & Admin. News 1990, p. 1733. 
+Footnote 62: Id. at 1731.
+
+will exit our nation's schools into nothing.  Years of special education will be wasted while these individuals languish at home, their ability to become independent and self-sufficient (therefore making a positive contribution to society) placed at significant risk. Footnote Reference 63
+
+Footnote 63: Id.
+
+Accordingly, transition planning requires that schools develop a long-range plan for students to prepare them for post-school life, begin to make connections with adult service providers while students are still in school, and look to others, such as the VR system, to provide services.  Despite adding these transition requirements in 1990, statistics for the 1996 through 1998 school years indicate that only about 27% of the students 14 years or older who exit school each year have a diploma, and that about one third of these students either dropped out of school or moved and were not known to continue in school. Footnote Reference 64
+
+Footnote 64: "Transition and Post-School Outcomes for Youths with Disabilities: Closing the Gap to Post-Secondary Education and Employment," National Council on Disability, Social Security Administration, pp. 7-8 (November 1, 2000), available at www.ncd.gov.newsroom/publications/oopublications/transition_11-1-00.html.
+
+B. A Case Scenario
+
+To help understand the principles discussed in this article, a hypothetical case study, borrowed from Cornell University's Participant Manual, "The Right Start: Working Together with Public Schools," (1998) Footnote Reference 65 (Participant Manual) will be used.
+
+Footnote 65: This case example is reproduced with permission and has been slightly modified.
+
+Case Study: Sam
+
+Sam received special education services from age three onward.  As a high school student with a developmental disability, he was in a pre-vocational "shop" and worked as a dishwasher in the high school cafeteria for one hour of each school day.  When asked what sort of job he would like to have as an adult, he responded, "I like working with computers.  I'd like a job where I work with computers."
+
+One year prior to aging out of school, he was referred by his special education teacher to the state VR agency for an assessment and employment services.  The VR counselor contracted with a local rehabilitation agency for assessment.  Sam spent one month out of his last year in school traveling to a sheltered workshop, where he sampled tasks in food service, light manufacturing and janitorial areas for a $5.00 per week stipend.
+
+The results of that assessment indicated that Sam would be ready for employment after six months of "personal adjustment" training, followed by six months of "work adjustment" training.  Sam went back to school to complete his academic course work, and left school at age 21 without a high school diploma.
+
+In July, after he had left school, Sam began his 12 months of training to be a dish washer, funded by the state VR agency.  He increased his productivity from 30 percent to 55 percent of competitive norms.  Because the local threshold for entry into supported employment (community job placement and job coaching) services was 65 percent productivity, it was decided that Sam would be placed on a waiting list for the sheltered workshop.  At that time, the waiting list for the sheltered workshop was estimated to be three years long. Footnote Reference 66
+
+Footnote 66: Note: This case scenario raises independent questions, under the Americans with Disabilities Act, which are beyond the scope of this article, concerning the appropriateness of a supported employment program having a strict 65 percent cut-off rule for entry into the program.
+
+Sam began receiving SSI at the age of 18 because of the nature of his disability and because his parents' income was no longer counted as available (or deemed) to him.  Since he is living in a state where Medicaid is automatic for SSI recipients, he also became eligible for Medicaid at the same time.
+
+After he left school, Sam was provided with Medicaid-funded Home and Community Based Waiver services that included weekly outings to practice shopping skills and to go bowling.  Through this waiver program, Medicaid also paid for a services coordinator who managed Sam's referral paperwork, kept track of Sam's place on various waiting lists, and spent 30 minutes of time per month visiting with Sam.
+
+Sam's parents are very concerned with Sam's long term support and are equally concerned with the potential loss of SSI and Medicaid if he begins to work.  Therefore, they are very hesitant to have Sam work in any setting other than a sheltered workshop, as they have been assured that his earnings will never be high enough to disqualify him for SSI and Medicaid. Footnote Reference 67
+
+Footnote 67: Also important, but beyond the scope of this article, are the many SSI and SSDI issues faced by transitioning students who are beneficiaries or soon to be applicants for benefits.  These include the impact of work on benefits, continuing disability reviews, and age 18 redeterminations for SSI recipients.
+
+Questions:
+*What did the school do to help Sam become employable?
+*What did community agencies do to help Sam?
+*How many people were involved in Sam's transition?
+*What roles were missing?
+*What actions could have been added to improve Sam's outcomes?
+*What actions could replace actions to improve Sam's outcomes?
+
+The specific transition planning requirements under the IDEA will now be reviewed in detail, using the facts from the hypothetical to provide concrete examples.  The article will conclude with an analysis of how the IDEA and VR laws are intended to work together to ensure the smooth transition of students with disabilities from school to post-school activities.  Again, the facts of Sam's case will be used to emphasize the importance of these principles.
+
+C. Transition Services
+
+Transition services are defined in the IDEA as a coordinated set of activities for a student, designed within an outcome-oriented process that promotes movement from school to post-school activities.  The areas of adult living to be considered include preparation for postsecondary education, vocational training, integrated employment (including supported employment), continuing and adult education, adult services, independent living, and community participation.
+
+Services are to be based on the individual student's needs, taking into account the student's preferences and interests. Footnote Reference 68  Given this requirement at the outset, how did Sam, who expressed an interest in computers, end up in a training program to become a dishwasher?  The importance of considering the students preferences when planning transition services cannot be underestimated.
+
+Footnote 68: 20 U.S.C. § 1401(30); 34 C.F.R. § 300.29(a).
+
+A 1998 study looked at the relationship between self-determined behavior and positive adult outcomes.  It found that 80 percent of the students contacted one year after graduation who were rated highly self-determined were "working for pay, compared to 43 percent of the students who were rated low."  Of those working, the "students who were rated as highly self-determined averaged $4.26 per hour, while those in the low group averaged $1.93 per hour." Footnote Reference 69
+
+Footnote 69: Participant Manual, p. 12.
+
+While one may be tempted to wonder how someone with a disability such as Sam's could be involved in a career such as computing, this should not preclude an individualized inquiry, as required by the statute.  Might there not be some aspect of the computer field where Sam could be successful?  He certainly has not achieved a high degree of success as a dishwasher.  And, wouldn't Sam's interests be the best place to start when preparing his transition plan?
+
+The specific services to be offered in a transition plan include:  (1) instruction, (2) related services, (3) community experiences, (4) development of employment and other post-school adult living objectives, and (5) if appropriate, acquisition of daily living skills and a functional vocational evaluation. Footnote Reference 70  The list of activities is not intended to be exhaustive. Footnote Reference 71  One court noted that specially designed instruction in driver's education, self-advocacy, and independent living skills such as cooking and cleaning were appropriate transition services for a student with an orthopedic impairment who wanted to attend college. Footnote Reference 72
+
+Footnote 70: 20 U.S.C. § 1401(30); 34 C.F.R. § 300.29(a).
+Footnote 71: See, comments to the 1999 special education regulations at 64 Fed. Reg. 12553.
+Footnote 72: Yankton School Dist. v. Schramm, 93 F.3d 1369,1374 (8th Cir. 1996).
+
+Here, Sam began receiving Medicaid waiver services, including trips to practice shopping skills and to go bowling, after he exited school.  There is no indication that he had these experiences while still a student, even though the transition guidelines specifically include community experiences and, if appropriate, acquisition of daily living skills.
+
+While the law does not specifically mention financial planning, as noted above, the comments to the new regulations indicate that the enumerated services are not intended to be exhaustive.  Moreover, would not financial planning be a critical part of adult life?  Therefore, these services should have been considered when developing Sam's transition plan, especially given the concerns expressed by his parents about how the services Sam would require as an adult would be funded.
+
+The 1990 amendments to the IDEA, which incorporated transition services, added "social work services" to the definition of related services. Footnote Reference 73  The stated reason for this addition was to encourage educational agencies "to utilize social work services where needed," and to "base the IEP recommendation on the individual student's need for social work services, rather than on the perceived availability of such services." Footnote Reference 74  The legislative history noted the role social work services could play in preparing students and their families, including helping to "develop linkages to other community supports, and providing counseling, assessment, and case management services." Footnote Reference 75
+
+Footnote 73: 20 U.S.C. § 1401(22).
+Footnote 74: H.R. Rep. No. 101-544 at 7, U.S. Code Cong. & Admin. News 1990, p. 1729.
+Footnote 75: Id.
+
+Although Sam did begin receiving case management services after he left the educational system, there is no indication that he received these services while still in school.  Had he began to receive these services while still a student, perhaps there would have been an earlier and smoother linkage to adult service providers, and he would not now be on a three-year waiting list for services.  Additionally, his need for case management services may have been diminished.
+
+The 1990 amendments to the IDEA also added rehabilitation counseling services to the definition of related services. Footnote Reference 76  Rehabilitation counseling services are to be provided by qualified personnel in individual or group sessions.  They are to focus specifically on career development, employment preparation, and achieving independence and integration in the workplace and community.  They include VR services provided to students with disabilities by state VR agencies funded under the Rehabilitation Act. Footnote Reference 77
+
+Footnote 76: 20 U.S.C. § 1401(22).
+Footnote 77: 34 C.F.R. § 300.24(b)(11).
+
+The legislative history to the IDEA again emphasizes the critical importance of rehabilitation counseling in the transition process:
+
+School rehabilitation counseling is an important component of transition services because none of the other professionals involved in special education have the clear responsibility for transition planning and preparation.  Furthermore, the rehabilitation counseling discipline embodies the wide range of knowledge needed for successful school to work transition, i.e., vocational implications of disability, career development, career counseling for individuals with disabilities, job placement, and job modification.  Therefore, rehabilitation counselors are professionally prepared to provide the appropriate counseling services as well as to coordinate the services of the special education disciplines, adult services providers, and postsecondary education agencies to ensure effective, planned transition services for students with disabilities. Footnote Reference 78
+
+Footnote 78: H.R. Rep. No. 101-54 at 7-8, U.S. Code Cong. & Admin. News 1990, 1729-30.
+
+The legislative history also notes that not all students with disabilities may be eligible for rehabilitation counseling services from the VR system and that rehabilitation counselors may be employed by school districts.  Moreover, the addition of rehabilitation counseling to the definition of related services does not "relieve state [VR] agencies or special education programs of their responsibilities of cooperative transition planning and programming." Footnote Reference 79
+
+Footnote 79: Id. (emphasis added).
+
+For Sam, the effect of the failure to provide rehabilitation counseling early in his transition years is quite apparent.  There is no indication that he ever received any sort of vocational evaluation of his interests and abilities prior to being placed in his dishwashing program while a student.  Nor is there any indication of any attempt to provide career counseling concerning his stated interest in a career in computing.  Assuming his desired goal within the computing field may have been unrealistic, this counseling could have identified a goal within this field that would have been appropriate, or could have helped Sam develop another viable career goal in which he was interested.
+
+D. Developing a Transition Services IEP
+
+If an IEP meeting is to consider transition services for a student, the school must invite the student and a representative of any other agency that is likely to be responsible for providing or paying for transition services.  If the student does not attend, the school must take other steps to ensure that the student's preferences and interests are considered.  If an invited representative does not attend, the school must take other steps to obtain the participation of that agency in the planning of any transition services. Footnote Reference 80  Here, again, we have no indication of whether Sam was involved in developing his transition plan.  Furthermore, since he did not start receiving services from community agencies until after he left school it is highly unlikely that any of these agencies were involved in the planning process.
+
+Footnote 80: 34 C.F.R. § 300.344(b).
+
+As noted above, beginning at least by age 14, the IEP must include the transition service needs related to the child's course of study under each of the applicable sections of the IEP, such as "participation in advanced-placement courses or a vocational education program." Footnote Reference 81  Sam did begin a pre-vocational "shop" program while a high school student and also worked as a dishwasher in the cafeteria for one hour per day.  Although these are examples of the types of curricular options to be considered in transition planning, there is no indication that the shop program and the dishwashing experience were interrelated.
+
+Footnote 81: 20 U.S.C. § 1414(d)(1)(A)(vii)(I).
+
+Additionally, even with the training in high school and for a year after leaving school, Sam was still not able to perform at a level sufficient for entry into a supported employment program.  It is precisely for students like Sam that schools must consider the possibility of providing services before age 14.  The legislative history to the IDEA indicates that transition services may be considered for some students even before age 14, especially where, because of the nature of their disabilities, they may need more "time to develop the essential skills which will be critical for them throughout their lives." Footnote Reference 82
+
+Footnote 82: H.R. Rep. No. 101-544 at 10, U.S. Code Cong. & Admin. News 1990, p. 1732-33.
+
+The legislative history refers to another group of students for whom transition services may need to be provided before age 14: those at risk of dropping out. Footnote Reference 83  For this group of students, the school district's curriculum should be analyzed to "help reduce the number of students with disabilities who drop out." Footnote Reference 84  The IEP Team should "work with each student with a disability and the student's family to select courses of study that will be meaningful to the student's future and motivate the student to complete his or her education." Footnote Reference 85
+
+Footnote 83: Id.
+Footnote 84: 34 C.F.R. Part 300, App. A, Quest. 11.
+Footnote 85: Id. (emphasis added).
+
+Beginning at 16, or younger if appropriate, actual transition services should begin.  The IEP must list all needed services under each area of transition, including responsibilities of other agencies to provide services and any linkages to be developed with other agencies." Footnote Reference 86  The IDEA's legislative history underscores two key principles behind these requirements.  First, "the preparation of students with disabilities for movement from school to post-school environments [is] not ... the sole responsibility of public education. Footnote Reference 87  On the one hand, "schools are not expected to become job placement centers."  On the other hand, "there are many employment and employment-related activities which are appropriately provided by and funded through the" school districts. Footnote Reference 88  The specific ways in which the special education and VR systems are to interact with each other will be discussed below.
+
+Footnote 86: 20 U.S.C. § 1414(d)(1)(A)(vii)(II); 34 C.F.R. § 300.347(b).
+Footnote 87: H.R. Rep. No. 101-544 at 12, U.S. Code Cong. & Admin. News 1990, p. 1734.
+Footnote 88: Id. at 11, p. 1733.
+
+Second, schools will need to become familiar with the services available to students with disabilities in their communities and "make use of this information in the transition planning for individual students." Footnote Reference 89  The result:
+
+Footnote 89: Id.
+
+[S]chools can facilitate linkage with agencies when needed by students, can ascertain requirements for access to, and participation in, the opportunities offered by these agencies, and thus can effectively communicate this information to students and their families, and identify ways in which they can prepare students with disabilities to take advantage of these opportunities. Footnote Reference 90
+
+Footnote 90: Id.
+
+Recall that Sam ended up on a three-year waiting list for services.  Had linkages been made while Sam was still a student, this could have been avoided.  Additionally, recall that Sam's parents were very concerned about Sam losing SSI and Medicaid.  As a result, they were hesitant for Sam to be employed in any setting other than a sheltered workshop.  Indeed, Sam's parents are not alone.  Fear of loss of benefits creates a significant barrier to people with disabilities who contemplate working.  However, these concerns were based on false, or at least misleading, information.  The comments referred to above make it clear that the school district staff would not necessarily need to become experts in the work incentives available for SSI recipients.  However, they should become familiar with community resources which could provide this information, and to whom they could refer the family.  It is highly unlikely that many school districts will be aware of who could provide this information.  This would, therefore, provide an excellent opportunity for the BPA&Os, as part of their outreach efforts.  For example, a BPA&O could determine who the transition coordinators of the school districts in its area are and offer to meet with them to explain the services, which the BPA&O can provide.  It could also provide project brochures to the transition coordinators for distribution to school age students and families or offer to provide workshops to students, families and school staff.
+
+As with other parts of the IEP, the transition planning requirements are much more than mere technicalities.  The court in the Scott B. case, discussed above, also found that a school district, which only provided for the vocational needs of the student, failed to meet its transition obligations to him.  It did not develop a plan to help the student "survive an adult life."  In other words, the plan was not functional.  The court noted the school:  (1) did not identify any goals for the student for after he left school; (2) did not perform any transition evaluations, other than a vocational evaluation; (3) did not provide "the full panoply of services that transition planning envisions" to prepare him for life outside of school in such areas as personal needs, getting around the community and recreation; and (4) failed to meet his individual, unique needs and instead placed him in an existing generic program with minor adaptations. Footnote Reference 91
+
+Footnote 91: East Penn School District v. Scott B., 29 Individuals with Disabilities Educ. L. Rep. (LRP Publications) 1058 (ED PA. 1999).
+
+It appears Sam's school district made some of the same errors as the district in the Scott B. case.  Sam's district did not provide linkages to community service agencies while he was still in school.  It also appears to have placed Sam in a pre-existing, generic, shop and dishwashing training program without considering his unique needs and interests.
+
+
+IV. SPECIAL EDUCATION AND VOCATIONAL REHABILITATION SERVICES: HOW DO THE TWO SYSTEMS WORK TOGETHER?
+
+As noted above, the VR system also has a role to play in preparing students for the world of work.  In fact, VR agencies must now be actively involved, in collaboration with school officials, to plan for and provide services to students with disabilities during their transition years.  However, in our experience, all too many state VR agencies are still unwilling to get involved until very late in a student's transition to post-school activities.  What is the VR agency's responsibility while students are still in school?
+
+A. Obligations Under the IDEA
+
+It is clear under the IDEA, that VR agencies are intended to be involved both in the planning process with schools and in the actual provision of services.  The comments to the special education regulations note that "because many students receiving services under IDEA will also receive services under the Rehabilitation Act, it is important, in planning for their future, to consider the impact of both statutes." Footnote Reference 92
+
+Footnote 92: 34 C.F.R. Part 300, App. A, Sect. III.
+
+State VR agencies are specifically referred to in the IDEA regulations.  As noted above, rehabilitation counseling includes services provided by the VR agency. Footnote Reference 93  The definition of assistive technology (AT) services includes coordinating other services with AT devices "such as those associated with existing education and rehabilitation plans and programs." Footnote Reference 94  The special education  regulations also note that nothing in the transition services requirements relieves any participating agency, "including a State [VR] agency," of the responsibility to provide or pay for any transition service that the agency would otherwise provide. Footnote Reference 95  A "participating agency" means a state or local agency, other than the school, that is financially and legally responsible for providing transition services to the student. Footnote Reference 96  If a participating agency fails to provide agreed-upon transition services contained in the IEP, the school must initiate a meeting as soon as possible to identify alternative strategies to meet the transition objectives and, if necessary, revise the IEP. Footnote Reference 97
+
+Footnote 93: Id. § 300.24(b)(11).
+Footnote 94: 20 U.S.C. § 1401(2)(D)(emphasis added).
+Footnote 95: 34 C.F.R. § 300.348(b).
+Footnote 96: Id. § 300.340(b).
+Footnote 97: Id. § 300.348(a).
+
+IDEA '97 strengthened the obligations of other public agencies to provide services to students while they are still in school.  All states must now have interagency agreements to ensure that all public agencies that are responsible for providing services, which are also considered special education services, fulfill their responsibilities.  Agencies meeting this definition would include both Medicaid and the state VR agency.  The financial responsibility of these public agencies must precede that of the school.  If an agency does not fulfill its obligation, the school must provide the needed services, but has the right to seek reimbursement from the public agency.  The agreement must also specify how the various agencies will cooperate to ensure the timely and appropriate delivery of services to the students. Footnote Reference 98
+
+Footnote 98: 20 U.S.C. § 1412(a)(12).
+
+B. Obligations Under the VR Laws
+
+Title I of the federal Rehabilitation Act, which governs State VR agencies, contemplates that VR agencies will play an active role in special education transition planning. Footnote Reference 99  Title I was amended in 1998 and final regulations implementing the changes were published on January 17, 2001.  The comments to the new regulations note that the 1998 law requires state VR agencies to "increase their participation in transition planning and related activities. Footnote Reference 100  Accordingly, the state VR Plan must include policies for coordination between the VR agency and education officials to facilitate the transition from the special education system to the VR system, including development of a formal interagency agreement.  The agreement must include:  (1) provisions for consultation and assistance to, and planning with, the educational agencies in preparing students for transition and in developing the transition plan in the IEP; (2) the relative roles and financial responsibilities of the special education and VR systems to provide services; and (3) provisions for outreach to and identification of students with disabilities who need transition services. Footnote Reference 101
+
+Footnote 99: For a fuller discussion, see "Vocational Rehabilitation Services Available to Prepare Individuals With Disabilities For Work," another article published in this series.
+Footnote 100: 66 Fed. Reg. 4424 (emphasis added).
+Footnote 101: 20 U.S.C. § 721(a)(11)(D).
+
+The regulations make it clear that state VR agencies are to be actively involved in the transition planning process with the school districts, including: (1) outreach to, and identification of, students with disabilities who may need transition services, as early as possible during the process; (2) consultation and technical assistance to assist school personnel in transition planning; and (3) involvement in transition planning with school personnel that facilitates development of the special education IEP. Footnote Reference 102  In discussing the importance of the early involvement of the VR system in the transition planning process, the comments to the regulations stress that the VR agency should "participate actively throughout the transition planning process, not just when the student is nearing graduation." Footnote Reference 103
+
+Footnote 102: 34 C.F.R. § 361.22(b).
+Footnote 103: 66 Fed. Reg. 4424.
+
+Recall that Sam was not referred to the VR agency until his last year in school and that, as a result of the VR assessment, he was identified for job training as a dishwasher.  While this matched the program he received as a student, it did not match his stated interest in the computer field.  Had the VR agency been involved earlier in the transition planning process, perhaps the VR staff could have assisted the school and family in locating a job, which met his stated employment objective and his abilities.  If not, they could have assisted in identifying an employment objective and training program that matched his stated interests and abilities as closely as possible.
+
+The VR system is also expected to provide services to at least some students with disabilities while they are still in school.  The legislative history of the 1998 amendments to Title I emphasizes that, subject to the state VR Plan, the VR agency is required to provide services to students to facilitate achievement of the employment outcome as spelled out in the individualized plan for employment (IPE). Footnote Reference 104  Transition services are specifically listed in the VR regulations as an available VR service. Footnote Reference 105
+
+Footnote 104: Congressional Record-House, H6693, July 29, 1998.
+Footnote 105: 34 C.F.R. § 361.48(r).
+
+Moreover, as noted above, one of the obligations of the VR system is to provide outreach to students with disabilities.  As part of the mandated outreach, the VR agency must inform these students of the purpose of the VR program, the application procedures, the eligibility requirements, and the potential scope of services that may be available ... as early as possible during the transition planning process.
+
+The stated reason for this requirement is "to enable students with disabilities to make an informed choice on whether to apply for VR services while still in school." Footnote Reference 106  In other words, it is the student's, and family's, choice about whether to apply for VR services while still in school.
+
+Footnote 106: 66 Fed. Reg. 4424.
+
+Of course, when transition services are provided by the state VR agency, as with any other VR service, they must be designed to "promote or facilitate the achievement of the employment outcome identified in the student's [IPE]." Footnote Reference 107  As with any other person with a disability who is receiving services from the VR system, VR transition services will only be provided to "students who have been determined eligible under the VR program and who have an approved IPE." Footnote Reference 108  What services the VR agency will provide to students with disabilities and the circumstances under which they will be provided are to be consistent with the mandated state interagency agreement between the state VR and special education systems. Footnote Reference 109  "However, State [VR] agencies should not interpret the 'interagency agreement' provisions as shifting the obligation for paying for specific transition services normally provided by those agencies to local school districts.  State [VR] agencies still have that responsibility." Footnote Reference 110  Additionally, "the IPE for a student with a disability who is receiving special education services must be coordinated with the IEP for the individual in terms of the goals, objectives, and services identified in the IEP." Footnote Reference 111
+
+Footnote 107: 34 C.F.R. § 361.5(b)(55).
+Footnote 108: 66 Fed. Reg. 4424.
+Footnote 109: 34 C.F.R. § 361.45(d)(8)(ii).
+Footnote 110: Congressional Record-House, H6693, July 29, 1998.
+Footnote 111: 34 C.F.R. § 361.46(d).
+
+How will all of this play out for Sam?  First, an appropriate employment objective must be identified for him as part of the special education transition planning.  Then, once this is done, potential locations to receive his training must be identified.  Will it be a school program or one operated by a community agency?  Will he need additional support services to make his experience a success?  Once the location and types of services are identified, the next question is: who will be responsible for paying for what services?
+
+In answering this question, several factors must be considered.  Assuming the student is eligible for VR services, the VR laws make it clear that the student and family have the right to decide whether to apply for VR services while still in school.  Second, since both the IDEA and VR laws require these systems to develop a state interagency plan, this must be considered.  Another factor to consider is whether the identified service provider is one with which the school district can enter into a contract.  If not, perhaps the VR system will be responsible.
+
+Finally, for those students who have not received VR services while still in school, the VR regulations require the VR system to determine eligibility and develop an IPE, for students eligible for VR services, as soon as possible during transition planning but, at the latest, by the time the student leaves the public school setting. Footnote Reference 112  The comments to the VR regulations explain, again, how critical this is:
+
+Footnote 112: Id. § 361.22(a)(2).
+
+Requiring the IPE to be in place before the student exits school is essential toward ensuring a smooth transition process, one in which students do not suffer unnecessary delays in services and can continue the progress toward employment that they began making while in school. Footnote Reference 113
+
+Footnote 113: 66 Fed. Reg. 4424 (emphasis added).
+
+For Sam, although there was no delay in receiving his initial VR services, once he completed his first year of VR services, he was placed on a three-year waiting list for any additional services.  Given the severity of his disability and the amount of training he apparently needed to be job ready, either he should have begun to receive VR services earlier in the process, or the follow-up he might need after his first year of preparation should have been anticipated.
+
+
+V. CONCLUSION
+
+The availability of special education transition services is a critical piece in preparing students with disabilities for work as young adults.  The IDEA requires that transition services be "outcome oriented" and take into consideration the student's choice of a career goal.  The IDEA also envisions linkages with appropriate community agencies.  Likewise, the state VR agency is a critical player in the preparation of students for the world of work.  The VR agency should be involved as soon as possible in the special education transition process, and, ideally, be a joint participant with the school district in developing a student's transition plan two or more years before the student leaves the public school program.
+
+The BPA&Os are now one of the agencies that school districts will need to become aware of as a potential referral source.  They can be a key resource to transition-aged SSDI and SSI beneficiaries, as they can provide beneficiaries with individual benefits assessments.  Where the system breaks down, BPA&Os can facilitate referrals to advocacy agencies for special education issues or to the Client Assistance Program for VR issues.  The PABSS projects can likewise refer beneficiaries to other advocacy agencies or, in some cases, represent these beneficiaries directly when the issue directly relates to overcoming a barrier to work.

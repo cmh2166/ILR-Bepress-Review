@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Strike Incidence and Strike Duration:  Some New Evidence from Ontario</title>
+<publication-date>2005-07-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<institution>University of Toronto</institution>
+<lname>Campolieti</lname>
+<fname>Michele</fname>
+</author>
+<author>
+<institution>McGill University</institution>
+<lname>Hebdon</lname>
+<fname>Robert</fname>
+</author>
+<author>
+<institution>University of Toronto</institution>
+<lname>Hyatt</lname>
+<fname>Douglas</fname>
+</author>
+</authors>
+<keywords>
+<keyword>strike incidence</keyword>
+<keyword>strike duration</keyword>
+<keyword>Ontario</keyword>
+<keyword>teetotaler effect</keyword>
+<keyword>positive duration dependence</keyword>
+<keyword>bargaining unit size and strikes</keyword>
+</keywords>
+<abstract>&lt;p&gt;The authors use a unique longitudinal data set from Ontario, covering the years 1984–92, to estimate the determinants of strike incidence and duration. Unlike most empirical analyses of strikes, the data set for this study contains both small and large bargaining units. The authors find strong evidence that the likelihood of a future strike was lower among bargaining units that had struck before than among those that had not (the “teetotaler” effect); the longer a strike lasted, the greater was the probability of settling (positive duration dependence); and smaller bargaining units were less likely to strike than were larger bargaining units, but had longer strikes when they did strike.&lt;/p&gt;</abstract>
+<coverpage-url>http://digitalcommons.ilr.cornell.edu/ilrreview/vol58/iss4/5</coverpage-url>
+<fulltext-url>http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1142&amp;amp;context=ilrreview&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1142</articleid>
+<submission-date>2005-07-13T11:23:54-07:00</submission-date>
+<publication-title>ILR Review</publication-title>
+<context-key>83231</context-key>
+<submission-path>ilrreview/vol58/iss4/5</submission-path>
+<fields>
+<field name="acknowledgements" type="string">
+<value>The authors thank George Jakubson of Cornell for his valuable contribution to an earlier version of this paper.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-07-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

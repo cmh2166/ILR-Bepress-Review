@@ -1,0 +1,212 @@
+The Benefits Planner
+Keys to Effective Benefits Planning, Assistance and Outreach
+
+Fall 2001
+Vol. 1, Issue 4
+
+This publication is sponsored in part by the NYS Developmental Disabilities Planning Council and the Social Security Administration through the NYS Department of Labor (NY Works Project), and is a collaborative publication of Cornell University's Program on Employment and Disability and Neighborhood Legal Services, Inc. (NLS) of Buffalo, NY.  The editors and primary authors are James R. Sheldon, Jr. of NLS and Edwin J. Lopez-Soto of Cornell University.
+
+*******
+
+In this Issue:
+
+• SSI AND SSDI OVERPAYMENTS
+• INTRODUCTION
+• SOURCES OF OVERPAYMENTS 	
+• REQUESTING THE RECONSIDERATION AND/OR WAIVER
+• AVOIDING OVERPAYMENTS THROUGH TIMELY  REPORTING
+• EVALUATING THE MERITS OF A RECONSIDERATION
+• ESTABLISHING THE RIGHT TO A WAIVER 
+• CONCLUSION
+
+Special Features:
+
+• ABBREVIATIONS USED IN THIS ARTICLE
+• FINAL REGULATIONS FOR "TICKET" PROGRAM?
+• BPA&O PROJECTS IN NY
+• WHEN TO CALL OUR TOLL-FREE LINE FOR TECHNICAL ASSISTANCE
+• MEDICAID INCOME AND RESOURCE LIMITS FOR 2002
+
+*******
+
+ABBREVIATIONS USED IN THIS ARTICLE
+
+BPA&O - Benefits Planning, Assistance and Outreach Project
+BWE - Blind Work Expenses
+EPE - Extended Period of Eligibility
+IRWE - Impairment Related Work Expense
+NLS - Neighborhood Legal Services, Inc. of Buffalo, N.Y.
+PASS - Plan for Achieving Self Support
+SEIE - Student Earned Income Exclusion
+SGA - Substantial gainful activity
+SSA - Social Security Administration
+SSDI - Social Security Disability Insurance
+SSI - Supplemental Security Income
+TWP - Trial Work Period
+
+*******
+
+SSI AND SSDI OVERPAYMENTS
+
+INTRODUCTION
+A high percentage of Supplemental Security Income (SSI) and Social Security Disability Insurance (SSDI) beneficiaries who work will face an overpayment of benefits at some time.  This will occur whenever the Social Security Administration (SSA) asserts that an individual received a benefit payment that he or she was not legally entitled to receive.  While many alleged overpayments are small and their recovery by SSA can be avoided by a timely request for waiver, many will amount to $1,000 or more.  In fact, we are aware of many cases in which beneficiaries faced overpayments in excess of $20,000.
+When SSA informs an individual of an alleged overpayment, he or she has three choi-ces: 1)  agree they were overpaid, determine it is not worth pursuing a waiver, and agree to repay the money; 2) use SSA's appeals system and request a reconsideration to challenge the overpayment determination; or 3) agree with all or part of the determination and seek a waiver of SSA's right to recover the overpayment.  While not all readers can represent beneficiaries to support a reconsideration or waiver request, you can provide beneficiaries with information concerning how to assert those rights and then refer them to an advocacy program that could represent them.
+This overview article will not cover all the intricacies of the overpayment area.  A more comprehensive article, Dealing with Overpayments of SSI and SSDI Benefits: a Practical Guide for Advocates, will be published by Cornell Univer-sity's Northeast Work Incentives Support Center and contains extensive citations to law, regulation and policy.  It will be available on the Neighborhood Legal Services (NLS) website at www.nls.org in the near future.
+
+SOURCES OF OVERPAYMENTS 
+
+An overpayment can result from a seemingly endless variety of events.  Most SSI overpayments are caused by excess unearned income, excess earned income or excess resources.  Many other factors can also affect the right to a check or affect the SSI payment rate that applies.  For example, a person who is out of the country for 30 consecutive days will be ineligible for SSI. Similarly, a person who goes into a public institution for a full calendar month will also be ineligible.  If an individual goes into a treatment facility for a full calendar month and Medicaid pays for at least 50 percent of the care, the SSI payment will be limited to $35 per month. An individual who shares an apartment or house, and ceases to contribute to the household expenses, may face up to a one third reduction in the amount of SSI that is due. When the individual continues to receive the same SSI check, despite these changes in circumstances, it is likely that he or she will be overpaid.
+A very common overpayment occurs when an SSDI beneficiary continues to receive benefits while performing substantial gainful activity (SGA) during the extended period of eligibility (EPE) or following the EPE.  (See our Summer 2001 issue of The Benefits Planner for a full discussion of the rules that apply to SSDI and work activity, available on the NLS website at www.nls.org/planner/summer01.htm.)  Compared to work-related SSI overpayments, the SSDI monthly overpayment amounts tend to be much higher.  This is because these SSDI overpayments will always be equal to the full monthly check.  So, for example, an SSDI beneficiary who performed SGA as their EPE began and continued to do so throughout their entire 36-month EPE will face a 33-month overpayment if they continued to receive SSDI throughout that period.  If this individual received a $700 per month SSDI check during these 33 months, he or she would face an overpayment of more than $23,000.  Sometimes overpayments like this occur, despite timely reporting of wages, because SSA's staff fails to timely determine continuing SSDI eligibility during and after the EPE.
+
+REQUESTING THE RECONSIDERATION AND/OR WAIVER
+
+The beneficiary can file the reconsideration in one of two ways, by drafting a letter or by using SSA's Request for Reconsideration form. To avoid confusion, the beneficiary or advocate should use SSA's "Request for Reconsideration" form, SSA-561-U2, available on SSA's website at www.ssa.gov/online/forms.html#other.  If the individual submitting the request needs to write a longer explanation than will fit in the form, a letter of explanation can be submitted with the form.  The written request can either be mailed to the address specified on SSA's notice or it can be hand delivered to an SSA office.  Many advocates routinely send these important documents by certified mail, return receipt requested, so that they can prove that the request was filed within the 60 day limit for requesting a reconsideration.
+The request for waiver can also be submitted by drafting a letter or by completing an SSA form, SSA-632-BK (also available on SSA's website as referenced above). The official SSA form will eventually have to be completed in all cases as it asks a series of questions that go to the criteria that must be established to obtain a waiver.
+Requests for reconsideration or waiver typically will be supported by the underlying facts.  In many cases, the beneficiary or the beneficiary's attorney or advocate will need to submit additional documents to support their case.  For example, in a reconsideration which challenges an SSI determination of overpayment associated with earned income, the individual or advocate may wish to submit actual wage stubs or a statement from an employer that shows that SSI's determination was based on inaccurate information.  In the case of a waiver request, which seeks to establish that the beneficiary was without fault in causing the overpayment, the individual or advocate may wish to submit copies of a series of SSA notices which support the beneficiary's contentions.
+
+AVOIDING OVERPAYMENTS THROUGH TIMELY REPORTING
+
+Many overpayments occur because information about wages and other events is either not timely reported or not reported in a fashion that ensures a timely determination of SSI payment amounts or continuing eligibility for SSDI benefits.  To avoid these unnecessary overpayments (and underpayments as well), we recommend communication with SSA field offices to establish protocols for reporting changes in income and other information.  Due to differences in the ways SSA offices operate, we cannot recommend one method that will work in all offices.
+As many  beneficiaries have learned, despite timely reporting of wages, SSA offices sometimes do not make timely inputs into their data system after they receive the information.  SSA is aware of this problem and is looking to improve its operations. It is also looking to new collaborations to address these issues.  For example, in the New York Works project, a demonstration project funded by SSA in Erie County and New York City, a special collaboration between SSA staff and benefits specialists is being piloted.  In the project's Erie County site, for example, members of SSA's regional Plan for Achieving Self Support (PASS) Cadre are serving as project liaisons.  SSA provides benefits specialists postage-paid envelopes addressed to the PASS Cadre.  At the end of each month, the beneficiary is to mail his or her wage stubs to SSA.  A PASS Cadre member, upon receipt of this wage information, inputs it into SSA's system and returns the wage stubs to the assigned benefits specialist.  The benefits specialist records the information in his or her file and returns the wage stubs to the beneficiary with an envelope to be used for the next month.  (A description of NY Works and the special SSI waivers available to NY Works participants appears in the Spring 2001 issue of The Benefits Planner, available on the NLS website at www.nls.org/planner/spring01.htm.)
+The New York Works wage reporting system is designed to drastically reduce, if not eliminate, overpayments and underpayments for working SSI beneficiaries.  It is also designed to allow benefits specialists to retain accurate wage information to ensure quality benefits planning and assistance.  To date, this system is meeting its goals.  If SSA determines that this system is cost-effective, they may institute it in other offices.  Benefits Planning, Assistance and Outreach (BPA&O) projects may wish to see if SSA field offices in their regions are willing to institute some variation of this wage reporting system.  Ultimately, the hope is that beneficiaries who have more confidence in this payment system will have greater incentives to work without the fear of being overpaid and facing the collection of an overpayment.
+When the SSI recipient is expected to have fluctuating wages, another strategy is to provide SSA with future wage estimates that are somewhat higher than what the individual expects to earn.  The advantage to beneficiaries is they avoid overpayments and often receive small supplements to their SSI payment to make up for any underpayment.  Many SSA offices have embraced this strategy, as it takes much less time to issue a periodic underpayment supplement than it does to process an overpayment determination and then collect it from future checks and/or devote staff time to dealing with requests for reconsideration and waiver.
+Timely reporting of earned income will also enable SSA staff to track use of trial work period (TWP) and EPE months for SSDI beneficiaries.  The potential challenge here is that approximately 30 percent of SSI recipients are dually entitled to SSDI benefits.  Many SSA offices have one group of claims representatives handling SSI cases and another group handling SSDI cases.  In the authors' experience, this often means that a report of wages to the SSI claims representative does not guarantee that the report ever reaches the SSDI claims representative and vice versa.  Separate reports to the different claims representatives may be needed.  In the NY Works project, described above, this problem is avoided by having the SSA liaison (i.e., PASS Cadre member) serve as the claims representative for both SSI and SSDI claims.  This allows the liaison to work with the benefits specialist to track both SSI payment changes and TWP and EPE months (and the right to continued benefit checks) for the SSDI claim.
+Most unearned income comes in equal amounts each month.  Sometimes, however, unearned income may be temporary.  It can also vary each month.  For example, unemployment insurance benefits will be available to many working beneficiaries who lose their jobs.  Typically, unemployment benefits will continue for no more than six months.  If the individual returns to work part-time while receiving unemployment benefits, the unemployment check may be reduced accordingly.  Whenever the income in question varies from month to month, it is important that the beneficiary report the receipt of income to SSA on a monthly basis.
+Additionally, SSI payments and payment rates can be affected by circumstances like a change in living circumstances or receipt of a non-excluded resource which might place a person's resources above SSI's $2,000 limit for an individual (or $3,000 for a couple).  These changes must be reported timely.
+
+EVALUATING THE MERITS OF A RECONSIDERATION
+
+Before a beneficiary or advocate assumes that SSA made a correct determination, a few steps can be taken to evaluate the merits of a potential appeal.  Since SSA's determination may be based on information about income and other changes in a person's life, reported at various times during a period of months or years, it is often the case that SSA has acted upon wrong or incomplete information.  Additionally, since SSA's determination may be based on any number of complex rules and exceptions to rules, SSA may have misapplied or failed to apply one of these rules or exceptions.
+In a significant number of cases, a quick review will reveal that the overpayment found by SSA is either totally wrong or much higher than it should be.  Keep in mind, however, that sometimes a review will show that the overpayment may be even higher than what SSA determined it to be.
+With SSI overpayments due to excess income, SSA's notice of overpayment must contain a summary of the monthly income used to re-do the calculations..  Thus, a quick comparison of SSA's information to the beneficiary's information (or that supplied by an employer) should tell you if there are any mistakes.  When verifying income for SSI purposes, remember that the gross wages (not take-home pay) are counted when received.  This means that most individuals will have "extra paycheck months" each year (a fifth paycheck four times per year if paid weekly; a third paycheck twice per year if paid every two weeks).  The best record of monthly earned income will be pay stubs.
+This review can be labor intensive.  If you work for a BPA&O or other advocacy project, you should encourage the beneficiary to perform this task whenever that is realistic.  Sometimes the beneficiary will be working with a social worker, job coach or other professional who can work with the beneficiary to perform this task.
+Based on the income information you gathered or verified, do monthly calculations and see if the SSI check you say was due agrees with SSA's calculation.  Do not forget that under SSI's retrospective monthly accounting rules, an SSI check is based on the wages and other income received two months earlier.  Be particularly diligent with calculations in those cases that have added complications, such as: monthly income that is constantly changing; wages from two or more jobs; a combination of earned and unearned income; impairment related work expenses (IRWEs); blind work expenses (BWEs); and the student earned income exclusion (SEIE).  The IRWE, BWE and SEIE are all deductions that SSA staff frequently overlooks.  Even when SSA uses the deduction, they sometimes don't identify every dollar of deduction allowed.  In the authors' experience, identification of these deductions can significantly reduce the overpayment identified by SSA.
+With SSDI overpayments due to SGA, the review will be similar to the review in SSI cases.  Like SSI, you will want to verify gross monthly wages.  One difference is that wages that are used to determine if a person performed SGA are counted when those wages are earned, not when they are received.  So, for example, an individual who earns $360 every two weeks would have gross wages of $780 each month (i.e., $360 times 2.167) even though pay periods of every two weeks might result in gross monthly paychecks of $720 in most months. [Note: In the authors' experience, wage reports in SSA's files almost always contain information based on the wages 
+received in a month and SGA has been determined on that basis.]
+Additionally, a benefits counselor must verify correct application of TWP and SGA amounts.  As these figures will probably vary every year now that they are indexed to the National Wage Index, you must check to ensure that SSA is applying correct figures.  Once you verify the correct amount of monthly wages and match up the correct TWP and SGA amounts for the period in question, you can begin to analyze whether SSA has correctly applied the TWP, EPE and new expedited reinstatement rules.  This will also involve analysis of potential application of IRWEs and subsidies as deductions from earned income.
+This task is among the most challenging to be performed by advocates, including the BPA&O's benefits specialists, and it is beyond the scope of this article to discuss the detailed fact development and policy analysis that is necessary to evaluate SSA's determination of a work-related SSDI overpayment.  This development and analysis is, however, at the heart of the benefits specialist's job.  In fact, when benefits planning is done in combination with timely reporting to SSA, this development and analysis will ensure that the beneficiary is aware of the effects that work will have on benefits before those effects occur.  Therefore, SSA's timely determinations regarding continuing eligibility, due to performance of SGA, will not come as a surprise.
+
+ESTABLISHING THE RIGHT TO A WAIVER 
+
+The SSI and SSDI programs follow the same two-part test for granting a waiver.  The beneficiary must satisfy part one and one of part two's three alternatives.	
+
+Part One:  Was the Beneficiary Without Fault?
+
+When an individual first qualifies for benefits and periodically thereafter, SSA provides written notices that detail the recipient's obligation to report changes in income, living arrangements, marital status, and other things that may affect continuing eligibility.  A good rule of thumb is that monthly income should be reported to SSA within 10 days of the last paycheck received each month, unless SSA has agreed upon less frequent reporting.  If the beneficiary has timely reported wages and other income, he or she should be able to establish they were without fault unless the beneficiary knew or should have known that the checks they received were more than they were entitled to.
+Even if the beneficiary timely and accurately reported wages, unearned income or other events affecting eligibility, the individual can still be at fault if they knew or had reason to believe that the SSI or SSDI checks received were more than they deserved.  For example, some beneficiaries may know the rules governing work and benefits very well.  If they continued to receive the same SSI check after a significant increase in wages, or continued to receive an SSDI check despite performing SGA throughout the EPE, SSA may decide the individual was not without fault because they had reason to know that they were not entitled to the checks they received.
+On the other hand, a majority of beneficiaries have, historically, had very limited knowledge of how work affected benefits.  Many advocates have successfully asserted to SSA's decision makers that the rules for determining SGA, the TWP, the EPE, IRWEs and subsidies are so complex that very few beneficiaries can be expected to know how they operate.  Faced with a complexity of rules that even the best SSA Claims Representative struggles with, many SSA staff have been very willing to find the beneficiary without fault so long as the individual timely reported his or her wages.
+
+Part Two: Three Alternative Tests 
+
+Alternative 1: Would recovery cause an undue hardship?
+
+Current SSI recipients automatically meet this test. On the Request for Waiver form, once the questions related to fault are completed, the SSI recipient is not expected to complete the questions about household income and expenses as an SSI recipient is presumed to be incapable of repaying the overpayment without undue hardship.
+For persons not on SSI, i.e., recipients of SSDI only, SSA presumes recovery of the overpayment will cause an undue hardship if the person uses substantially all of his or her income to meet "ordinary and necessary living expenses," and if resources are less than $3,000 for an individual or $5,000 for a couple, with $600 added for each additional dependent. Whether a person meets this test will be determined by how they answer the Request for Waiver form's series of questions to establish income, expenses, and resources available to repay the overpayment.
+Most beneficiaries who complete the expenses section of the Request for Waiver form tend to leave out many expenses.  For example, the following expenses are often not included when the beneficiary completes the form: over-the-counter medications, haircuts, a daily newspaper, modest amounts for birthday and holiday gifts, modest amounts for entertainment, modest amounts for church donations, vehicle maintenance, occasional long distance charges to retain family relationships, and cable T.V.  Some may debate whether cable T.V. is a legitimate expense, but many individuals with disabilities report that it one of their only forms of entertainment.
+
+Alternative 2: Would recovery be against equity and good conscience?
+
+Recovery will be waived for any individual who is without fault and for whom recovery would be "against equity and good conscience."  If an individual has lost valuable rights or changed his or her position for the worse as a result of reliance upon the overpayment, then SSA will waive recovery of the overpayment. To prevail on this ground, the individual should describe ways in which he or she either declined additional income (such as refusing a job promotion) or spent money, or otherwise became obligated to spend money due to a reasonable belief that incorrect payments were correct.  For example, SSA should be able to find recovery against equity and good conscience if an individual leased a more expensive apartment believing that an incorrect benefit rate was correct.
+SSA has also instructed its staff to find recovery against equity and good conscience and waive any SSI overpayment caused by excess resources of $50 or less. Similarly, SSA has instructed its staff to waive the remainder of any SSI overpayment, resulting from excess resources, once SSA has first recouped the amount of money that exceeded the resource limit.
+Finally, it should be pointed out that the evaluation of equity and good conscience does not take into account the individual's finances.  Thus, it may provide a crucial ground for obtaining waiver of overpayments in cases where the overpaid individual has income or resources too high to ever permit the individual to establish that recovery would create an undue hardship.
+
+Alternative 3: Would recovery impede the effective and efficient administration of the SSI program due to the small amount involved?
+
+Recovery will be waived for any individual who is without fault if recovery would impede the efficient and effective administration of the SSI program in that the amount of the overpayment is less than the average cost of attempting to recover it.  The availability of waiver on this ground depends on the amount of the alleged overpayment.  For example, if the overpayment is between $1 and $30, SSA will send a notice only under certain very rare conditions. If notice is sent and the individual requests a waiver, SSA will grant it automatically.
+In other cases, for both SSI and SSDI, if the overpayment is less than $500 and the individual requests waiver and reconsideration, SSA will presume "without fault" and will grant the waiver.  In addition if the overpayment is less than $500 and the recipient requests only reconsideration, SSA will treat the request for reconsideration as a request for waiver and will waive recovery of the overpayment.
+
+CONCLUSION
+
+Overpayments are one of the very common problems that SSI and SSDI beneficiaries will run into when they go to work.  This means that BPA&O and other advocacy program staff, who work with beneficiaries, will encounter many individual beneficiaries who receive notices of alleged overpayments.
+A very important role that BPA&Os and other advocates can play, with respect to overpayment issues, is to work with beneficiaries and SSA to foster better communication about the changes in income and other circumstances that may lead to overpayments.  With better reporting, more timely input of wage information by SSA, and more timely determinations by SSA with respect to things like the SSDI program's TWP and EPE, many overpayments can be avoided and the associated stress imposed on beneficiaries eliminated.
+
+*******
+
+FINAL REGULATIONS FOR "TICKET" PROGRAM?
+
+	As this newsletter went to press in mid-December, the final SSA regulations governing the Ticket to Work and Self Sufficiency program had not been published.  By the time you read this, those regulations should be published.  Shortly after they are published, we will develop fact sheets to describe how the Ticket program will operate in New York.  Feel free to call us at 1-888-224-3272 after the first of the year to check on the status of the regulations and the roll out of the Ticket program in New York.  Our Spring 2002 issue of the newsletter will carry a feature article on the Ticket.
+
+*******
+
+WHEN TO CALL OUR TOLL-FREE LINEFOR TECHNICAL ASSISTANCE
+
+	Our State Work Incentives Support Center offers a statewide, toll-free number to call for information and technical assistance on a wide range of issues involving benefits and work.  The staff of Neighborhood Legal Services are available to take calls concerning any of the topics you see discussed in these newsletters.  For example, if a caller seeks information about any of the overpayment information discussed in this article, you can call us at 1-888-224-3272 for more information on these issues.
+MEDICAID INCOME AND RESOURCE LIMITS FOR 2002
+The following amounts will apply when determining Medicaid eligibility for individuals with disabilities (i.e., those served in the "medically needy" program) during 2002:
+
+Household size 			Monthly Income 		Resources 
+1 person 			$634 			$3,800
+2 people 			$925			$5,550
+3 people 			$934			$5,600
+4 people 			$942			$5,650
+5 people 			$992 			$5,950
+
+For more information about Medicaid and eligibility for persons with disabilities, see our Fall 2001 issue of The Benefits Planner, available on the Neighborhood Legal Services website at www.nls.org/planner/fall01.htm.
+
+*******
+
+BPA&O PROJECTS IN NEW YORK
+
+The following are the Benefits Planning Assistance and Outreach (BPA&O) projects serving New York 
+
+Resource Center for Independent Living
+Connie Angelini
+315-797-4642
+401-409 Columbia Street, 
+P.O. Box 210, Utica, NY 13503-0210
+
+Research Foundation for Mental Hygiene ("Brooklyn Works")
+Olga Ivnitsky
+718-368-7923
+44 Holland Avenue, 6th Floor 
+Albany, NY 12229
+
+Neighborhood Legal Services of Buffalo, Inc.
+Krista McDonald
+716-847-0650
+295 Main Street, Room 495, 
+Buffalo, NY 14203
+
+Abilities, Inc., National Center for Disability Services
+Leslie Monsen
+516-465-1522
+201 I.U. Willets Road, 
+Albertson, NY 11507
+
+Barrier Free Living, Inc.
+Angela Caula
+212-677-6668
+270 East Second Street, 
+New York, NY 10009
+
+Queens Independent Living Center
+Charles Rusnak
+718-515-2800
+140-40 Queens Blvd., 
+Jamaica, NY 11435
+
+Independent Living, Inc.
+Barbara Lohrke
+845-565-1162   
+5 Washington Terrace, 
+Newburgh, NY 12550
+
+*******
+
+*******
+
+The NY State Work Incentives Support Center will provide statewide services, including: training through traditional means and through use of the latest technology for distance learning; a toll-free technical assistance line, 1-888-224-3272; and a quarterly newsletter, The Benefits Planner.  To subscribe to the Center's listserv, send your name and email address to tpg3@cornell.edu.  To request a print copy of this newsletter, contact the toll-free number above.
+
+*******
+
+If you have special needs and would like The Benefits Planner sent in a special format, would like our Spanish version or would like the newsletter delivered by email, please call our toll-free technical assistance line, 1-888-224-3272.
+
+*******
+
+Welcome to The Benefits Planner, a Quarterly Newsletter of  The NY State Work Incentives Support Center
+This newsletter will provide valuable information on how work for persons with disabilities affects government benefits, with an emphasis on the Supplemental Security Income (SSI) and Social Security Disability Insurance (SSDI) work incentives.  Each newsletter will contribute to an ongoing dialogue on topics related to benefits and work.  Back issues will appear on the Cornell University website, www.ilr.cornell.edu/ped and on the Social Security section of the Neighborhood Legal Services website, www.nls.org.
+
+NEIGHBORHOOD LEGAL SERVICES, INC.
+295 Main Street, Room 495
+Buffalo, NY 14203
+

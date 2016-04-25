@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Job Training Policy in the United States</title>
+<publication-date>2005-10-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>O&#39;Leary</lname>
+<fname>Christopher</fname>
+<mname>J.</mname>
+</author>
+<author>
+<lname>Straits</lname>
+<fname>Robert</fname>
+<mname>A.</mname>
+</author>
+<author>
+<lname>Wandner</lname>
+<fname>Stephen</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<coverpage-url>http://digitalcommons.ilr.cornell.edu/ilrreview/vol59/iss1/87</coverpage-url>
+<fulltext-url>http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1192&amp;amp;context=ilrreview&amp;amp;unstamped=1</fulltext-url>
+<label>87</label>
+<document-type>bookreview</document-type>
+<type>article</type>
+<articleid>1192</articleid>
+<submission-date>2005-09-23T13:11:39-07:00</submission-date>
+<publication-title>ILR Review</publication-title>
+<context-key>100395</context-key>
+<submission-path>ilrreview/vol59/iss1/87</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-10-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Job Training Policy in the United States</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,894 @@
+NOTE: 
+FOOTNOTES are indicated with an asterisk (*) and a number.  The footnote text follows the report text.
+This document contains 16 FIGURES.  
+Text versions of all figures are included at the end, after the report text and footnotes.  Each begins with the Title “Figure 1” with the appropriate number.
+
+
+Accessible IT for People with Disabilities: HR Considerations
+
+by Susanne M. Bruyère, Ph.D., William Erickson, M.S., and Sara VanLooy, B.A.
+
+Cornell University
+
+School of Industrial and Labor Relations Extension Division Program on Employment and Disability
+
+ This report is part of a series of reports under the project Improving Employer Practices Covered by Title I of the ADA, a research and demonstration project funded by the U.S. Department of Education National Institute on Disability and Rehabilitation Research (Grant No. H133A70005).
+
+ May, 2003
+
+School of Industrial and Labor Relations
+Program on Employment and Disability
+
+©Cornell University 2003. Citations of this publication should be made as follows: Bruyère, S., Erickson W., & VanLooy, S. (2003). Accessible IT for People with Disabilities: HR Considerations. Ithaca, NY: Cornell University, School of Industrial and Labor Relations Extension Division, Program on Employment and Disability.
+
+
+The authors would like to acknowledge the significant contributions to this study of Yasamin DiCiccio Miller, Director, and the staff of the Computer Assisted Survey Team in the School of Industrial and Labor Relations at Cornell , and Jessica Collison, Manager, Survey Programs, of the Research Department of the Society for Human Resource Management (SHRM). Report design by Larry Clarkberg.
+
+Abstract
+
+Online technology has made significant inroads into human resource (HR) processes over the past several years, including recruitment, benefits information dissemination, and training. The accessibility of the information technology (IT) used in these processes is much less well documented. The purpose of this study is to address this information need.
+
+Human resource (HR) representatives were interviewed regarding their organizations’ use of Web technology in HR processes and computer accessibility issues in the workplace. The survey addressed: the organization’s use of Web technology in HR processes; knowledge and perceptions of barriers to the use of computer/Web technology to employees with disabilities; and familiarity with assistive technology (equipment to improve functionality for people with disabilities) and resources. The respondents represented a wide variety of industries and organizational sizes.
+
+Online/Web HR processes were used heavily by the participating organizations. Nine of the ten organizations reported using Web processes for job postings, eight of ten for online benefits information dissemination, and about six out of ten for online benefits self service and online employee training. Knowledge of various assistive technologies for computer users with disabilities was low. Slightly less than half the respondents were familiar with screen magnifiers, 32 percent with speech recognition software, a quarter or less were familiar with video captioning and Braille readers. Nearly three quarters of those interviewed were unfamiliar with guidelines for accessible Web design— only 13 percent were familiar—a significant issue considering the heavy usage of HR-based Web processes in these organizations.
+
+Employee use of computers was extensive as well, with the majority of employees in the organizations using computers and a very large proportion working on computers more than half the workday. Despite the low level of knowledge regarding assistive technologies, nearly half the respondents reported having made some type of adaptation to make a computer accessible to an employee with a disability. Most of the adaptations were directed towards making the workstation itself accessible for wheelchair users, but also included the purchase of special input devices (ergonomic keyboards, voice recognition, an ergonomic mouse) and adaptations for employees with visual impairments (i.e. screen magnifiers, large monitors). Recommendations to increase the awareness of HR professionals and organizations about Web/online accessibility are provided.
+
+Contents
+
+Key Findings
+
+Introduction
+
+Methodology
+
+The Survey Instrument
+
+Sampling
+
+ Data Collection and Analysis
+
+Respondent and Organization Characteristics
+
+Survey Results
+
+Computer Use
+
+Use of Online Technology in HR Processes
+
+Perceived Barriers for Specific Disabilities
+
+Familiarity with Assistive Technologies
+
+Staff Training in Web and Computer Accessibility
+
+Computer Adaptations Made for Employees with Disabilities
+
+Familiarity with Accessibility Resources
+
+Helpfulness of Web Accessibility Organizational Resources
+
+Approaches to Remove Technology Barriers
+
+Conclusion
+
+Organizational Commitment to Accessible Employment and HR Processes
+
+Applicant/Employee with a Disability as Key IT Accommodation Resource
+
+Training on IT Accessibility
+
+Knowledge of External Resources
+
+Employment Training Policy Implications
+
+References
+
+Related Reports and Publications
+
+For Further Information on the ADA and on IT Accessibility
+
+Survey
+
+Key Findings
+
+* In the summer of 2002, 433 primarily private sector human resource (HR) representatives were interviewed regarding their organizations’ use of Web technology in HR processes and computer accessibility issues in the workplace.
+
+* Approximately one quarter (24 percent) were from companies of more than 5,000 employees, a third (33 percent) were from medium to large-sized companies, and 43 percent from smaller companies (fewer than 500 employees).
+
+* Two in five (41 percent) of the respondents were from service industries and one in five (21 percent) were in durable or non-durable manufacturing; together, finance and insurance represented 13 percent.
+
+* When asked about the extent of computer use by employees in respondents’ companies, the majority reported that employees had some use of computers.
+
+* HR respondents from insurance, high tech, and finance sectors reported that four out of five of the employees in their respective organizations use computers more than half of their workday.
+
+* The smallest firms (less than 100 employees), reported the largest percentage of employees using computers more than half the workday (67 percent).
+
+* Only one in ten saw computer use as not presenting a barrier at all to people with disabilities, with great variation across disability types as to the degree of difficulty perceived (e.g. it was perceived as a greater barrier for those with visual impairments, than for those who are wheelchair users).
+
+* Those who had previously made adaptations for Web/ computer accessibility for employees were less likely to perceive making such accommodations as difficult.
+
+* Respondents were asked about their organizations’ use of online technology across four HR processes —job postings, employee benefits information dissemination, self-service employee benefits, and personnel training; the majority responded they were using each of the four to some extent.
+
+* When asked about their familiarity with six assistive technologies to adapt computers or information technology applications, nearly half (46 percent) were familiar with screen magnifiers, and approximately a third were familiar with speech recognition software.
+
+ n The majority of respondents were unfamiliar with assistive technologies designed for blind individuals.
+
+* Overall, only 13 percent of all respondents noted familiarity with guidelines for accessible Web design.
+
+* Only one respondent in ten reported awareness of whether any of their organization’s HR Web sites had been evaluated for accessibility for people with disabilities.
+
+* Only 15 percent of the respondents reported that any of their employees had received training in Internet accessibility for persons with disabilities.
+
+* Nearly one-third (31 percent) reported that organizational staff had received training on how to make computers accessible.
+
+* Despite the large number of respondents who were not very familiar with accessibility issues, nearly half reported having made alterations to make a computer accessible to an employee with a disability.
+
+* Nearly half (44 percent) of the respondents reported that they or their staff were not familiar with five accessibility resources to address information technology (IT).
+
+* When asked about the helpfulness of organizational internal resources to help address computer/Web accessibility issues, the highest rated resource (rated as helpful by 84 percent), was the employee with a disability him or herself.
+
+* Health and safety/ergonomics staff were rated helpful by 72 percent. Two-thirds also viewed both their organization’s computer network services and disability case management staff as helpful; three out of five rated the central HR staff as helpful on computer/Web accessibility issues.
+
+* More than seven out of ten considered the following helpful in removing technology barriers for persons with disabilities: specific expertise or technical assistance on technology accessibility issues, trained technical staff, uniform guidelines to make Web based employer processes accessible, and computer training for potential employees with disabilities.
+
+* Results demonstrate the magnitude of computer use and computer related skills required throughout the labor force and highlights the importance of computer training for potential employees with disabilities.
+
+ Accessible IT for People with Disabilities: HR Considerations
+
+ Introduction
+
+In 1998, the Society for Human Resource Management (SHRM) and the Cornell University Program on Employment and Disability conducted a survey assessing human resource practices in response to the employment provisions of the Americans with Disabilities Act of 1990 (ADA) (Brannick & Bruyère, 1999). This research was funded by a four-year grant from the U.S. Department of Education, National Institute on Disability and Rehabilitation Research (Grant No. H133A70005).
+
+Results of these inquiries have assisted us in the identification of progress made in the implementation of the ADA in business organizations to date, and remaining problem areas and barriers to the employment and retention of people with disabilities.
+
+That research project examined accommodation practices across the employment process, from pre-employment and interview accommodations, to hiring, training, and promotion. It identified some remaining barriers faced by people with disabilities.
+
+Even as the initial survey results were being analyzed, a new issue was emerging. In the fall of 1998, there were about three million World Wide Web sites available to Internet users. By early 2002, there were nearly 40 million (Zakon, 2002). In December of 1998, 32.7 percent of individuals aged 3 and older used the Internet; by September 2001, that percentage had grown to 53.9 percent (U.S. Department of Commerce, 2002). As of April 2002, there were 165 million Americans online—nearly 60 percent of the population (Nua Internet, 2002).
+
+This rapid growth in computer and Internet use has not been the same for individuals with disabilities, however. A report by the U.S. Department of Commerce (2002) found that 63.1 percent of people aged 25-60 without disabilities had used the Internet, while people with disabilities in that age range were much less likely to have accessed the Internet (ranging from 30.3 percent of those with multiple disabilities to 54.8 percent of those who were deaf or had a severe hearing impairment). Compounding this lack of access to technology is the fact that many Internet sites themselves are not accessible to those with vision impairments, hearing problems, or limited dexterity for mousing/navigating. A study performed in 2001 found that two thirds of the sites evaluated contained major “show stopper” accessibility issues that could prevent access by a person with one or more of these disabilities (Jackson-Sanborn, Odess-Harnish and Warren, 2001). A recent review of E-recruiting sites found that only a third of the job boards and a quarter of the corporate E-recruiting sites were accessible throughout the entire application process (Erickson, 2002).
+
+As the Web expands, businesses are becoming increasingly network intensive (Schrage, 2000). The Web’s influence in this area is impacting small businesses as well as large, according to a survey performed at the Harvard Business School (Kanter, 2001). They found that small (fewer than 100 employees) and medium (100-500 employees) businesses matched or outpaced larger businesses in the use of the Internet for internal operations such as training and receiving employee feedback.
+
+The following are some statistics from earlier studies regarding the use of the Internet for three human resource processes:
+
+* E-Recruiting: The Society for Human Resource Management (Collison, 2001) found that 88 percent of the HR managers surveyed reported using Internet job postings. The majority (58 percent) of the respondents said that Internet job postings were an effective or extremely effective method of search techniques, just slightly less effective than the highest rated “personal contact/networking” (61 percent).
+
+* E-Benefits: 91 percent of the firms surveyed by Towers Perrin (2001) offered employees access to their HR Web site at work (up from 83 percent in 2000). Over half (60 percent) of the firms allow online benefit enrollment, almost double that found the previous year.
+
+* E-Training: 90 percent of the firms surveyed by Training Magazine made some use of Internet/intranet based training. Over half (54 percent) of companies surveyed always or often used it. Even in the least frequent industry user (manufacturing), one-third reported often using it (Galvin, 2002).
+
+Each of these areas can have a significant impact on employees with disabilities. If E-recruiting is not accessible, it could prevent people from applying for or even finding open positions.
+
+E-benefits, while likely to make enrollment and other activities easier for many employees, may become an obstacle for individuals with certain disabilities if not designed to be accessible.
+
+E-training, if not accessible, could create a new barrier to the advancement of individuals who are unable to access online training to improve or update their skills.
+
+What types of disabilities might cause difficulties in using the Web and what are those potential difficulties? The following is a list from the World Wide Web Consortium (W3C), whose mission focuses on making the Web more accessible, describing some of the barriers the Internet can present to people with different kinds of disabilities:
+
+For people with visual disabilities:
+
+* unlabeled graphics, undescribed video
+* poorly marked-up tables or frames
+* lack of keyboard support or screen reader compatibility
+
+For people with hearing disabilities:
+
+* lack of captioning for audio
+* proliferation of text without visual signposts
+
+For people with physical disabilities:
+
+* lack of keyboard or single-switch support for menu commands
+
+For people with cognitive or neurological disabilities:
+
+* lack of consistent navigation structure
+* overly complex presentation or language
+* lack of illustrative non-text materials
+* flickering or strobing designs on pages
+
+(Brewer, 2000, p.5)
+
+A vast number of HR transactions currently occur online, and according to all reports this number will continue to increase. Given that so many human resource functions and much of the employment process are increasingly being delivered by Web-based approaches, knowledge of how to access and navigate the Internet is absolutely imperative for all job seekers and incumbents. Employers who use computer technology and the Internet should concern themselves with accessibility issues not only because it is the right thing to do, but also because employment nondiscrimination laws require reasonable accommodations in all areas of the employment process. It is vital to gain an understanding of the accessibility of E-HR in order to be prepared to cope with a Web-based revolution in the workplace, as the Web will become central to the essential functions of many jobs in the near future.
+
+To examine emerging issues presented by the increasing use of information technology in the workplace, in the summer of 2002 Cornell University performed a follow- up to the 1998 study. Special attention was given to how these Internet-based technologies may present barriers to equal employment access for persons with disabilities, and to exploring what might be done to assist organizations and individuals with disabilities to be better prepared to deal with these emerging issues.
+
+Methodology
+
+The Survey Instrument
+
+The survey was pilot tested on nearly two dozen HR professionals. It was then revised and retested to ensure the clarity of the questions and validity of data collected. In addition to gathering respondent and organizational characteristics, the survey incorporated questions on the extent of computer use in the organization, scope of online technologies applied to human resource processes, awareness of potential barriers computers might present to people with specific disabilities, knowledge of assistive technology and accessibility resources, as well as familiarity with computer related adaptations made for employees with disabilities, availability of employees trained in computer accessibility, helpfulness of organizational resources to address accessibility issues and other types of resources/solutions. The final survey instrument took approximately 10 to 15 minutes to complete (see pages 19 to 23 for a copy of the survey).
+
+Sampling
+
+The sample for the 2002 survey consisted of the 813 members of the Society for Human Resource Management (SHRM) who had participated in the original 1998 survey. SHRM, the largest human resource organization in the United States, was sampled with the assumption that this would provide respondents who clearly identify themselves by interest and function with the HR profession. The original SHRM survey sample consisted of 1,402 randomly selected SHRM members, chosen based on the size of their work organization to provide a sample representing small, medium, and large organizations in the U.S. (Brannick & Bruyère, 1999). Choosing to survey the respondents from the 1998 survey may mean that results presented here are not reflective of the knowledge of newer SHRM members. Our respondents were therefore for the most part more seasoned professionals. 6 Accessible IT for People with Disabilities: HR Considerations
+
+Data Collection and Analysis
+
+Announcement letters were sent to the potential SHRM respondents in May 2002. Data collection began five days later, and was completed in July 2002. All surveys were conducted by telephone using a CATI (computer assisted telephone interviewing) system. Hard copies of the survey were available to respondents via email and fax if requested. If the original respondent was no longer with the company or otherwise unavailable, attempts were made to locate an appropriate and/or equivalent informant within the company. A total of 493 individuals were successfully contacted, of whom 433 completed the survey (60 refused to participate), resulting in an 88 percent response rate. Overall, 59 percent of the respondents had also participated in the 1998 survey. Most of the 320 original respondents who were not resurveyed in 2002 had invalid phone numbers, were no longer with the company, or unavailable for some other reason.
+
+Basic descriptive statistics were generated for this report. In addition, selected questions were further examined using specific factors such as organization type, size and whether the organization had experienced making adaptations to a computer for an employee with a disability, to explore the impact of these factors on responses. These comparisons were made using a Chi-square test of association with statistical significance assessed at the p<0.05 level. Across all survey questions fewer than 4 percent of respondents answered “don’t know/refused” on average. Given this small number, these responses have been excluded from the analysis presented in this report.
+
+Respondent and Organization Characteristics
+
+Approximately one quarter (24 percent) of the respondents were from very large companies (those with more than 5,000 employees), a third (33 percent) were from medium to large sized companies (more than 500, but less than 5,000) and the remainder (43 percent) were from smaller companies with fewer than 500 employees (see Figure 1).
+
+The respondents represented a spectrum of industries as well (see Figure 2). Two in five were from service industries and one in five were in durable or non-durable manufacturing. Together, finance and insurance represented 13 percent, seven percent were high-tech industries, while public administration and transportation/utilities each represented six percent, and companies in the retail/ wholesale trade made up five percent.
+
+The majority of respondents were from the upper levels of the company, with one in ten a president/owner or vice-president, one-third director/assistant directors, and another third manager/assistant manager. The remainder did not fall neatly into the job title categories presented, but the majority of those were also at upper levels of the companies. In terms of the respondent’s function within the organization, the majority fell into the category of HR generalists (68 percent), with seven percent administrative, six percent employment/recruitment and three percent employee relations. Most participants were quite experienced with their companies. More than a third (37 percent) reported having been with the company more than ten years, nearly a quarter (22 percent) six to ten years, and a third reported between two and five years of experience with their current company. Only nine percent had been with the company a year or less.
+
+Survey Results
+
+Computer Use
+
+One of the issues of interest was the extent of computer use by employees of the respondents’ companies. As can be seen in Figure 3, the majority of HR informants in all industries reported that most of the company’s employees used computers at least part of the time. Fewer than one in ten employees in finance, insurance and high-tech/ computer/telecommunications do not use computers at all, and fewer than one in five don’t use computers in the public administration and service industries. Only slightly more than a third of the workforces in the manufacturing, transportation/utilities and retail/wholesale trade do not use computers at all.
+
+While the majority of the employees in the participants’ companies use computers, we also inquired about how much time is spent using them. The question was asked “What percentage of existing positions in your organization require using a computer more than half the workday?” As shown in Figure 4, even in the industries with the lowest computer use (transportation/utilities, manufacturing, and retail/wholesale trade), two out of five employees spend at least half the workday on computers. Three out of five positions in public administration and service industries use computers more than half the day, and four out of five in the insurance, high tech and finance sectors use computers this much. It is interesting to note that regardless of organization size (number of employees), the respondents on average reported that nearly three out of five employees (58 percent) used computers more than half the day. Surprisingly, the smallest firms (less than 100 employees), reported the largest percentage of employees using computers more than half the workday (67 percent). This is in part due to the preponderance of service industries in the small firms surveyed, but even when only service industries are examined, smaller firms still make heavier use of computers in their workforce. These results clearly demonstrate the magnitude of computer use and computer related skills required throughout the labor force and highlighting the importance of computer training for potential employees with disabilities.
+
+Use of Online Technology in HR Processes
+
+In order to determine the distribution of online technologies in human resources within the sample, the survey included a question asking about the use of four prominent online HR technologies: online employee training, self-service benefits, benefits information dissemination, and job postings. The majority of the respondents reported their companies were using each of the four online technologies to some extent (see Figure 5). Overall, more than two-thirds reported using at least three of the online technologies, with only three percent reporting not using any. Online job postings were by far the most commonly used: nearly nine out of ten companies reported using them, and nearly half (44 percent) use them “a great deal.” Online benefits information dissemination was also common, and was used by more than four out of five companies; one-quarter reported using it “a great deal.” Online benefits self service—where an employee can alter personal benefits online—was used by over half the companies, and was used a great deal by nearly one out of five. The majority (63 percent) of respondents also reported that their companies made use of online training, but its use was not as intensive, with only four percent reporting using it a great deal.
+
+Larger companies were significantly more likely to use these HR technologies than smaller companies, and to use them more heavily (See Figure 6). However, even online training, the least-used technology, was used to some extent by nearly half (45 percent) of the smaller companies (less than 500 employees) and by 88 percent of the largest companies (5,000+ employees).
+
+A sizable proportion of organizations that did not currently use such technologies expected to begin to do so within the next 12 months:
+
+* 41 percent expected to use online job postings
+* 34 percent expected to use online benefits information dissemination
+* 33 percent expected to use online benefits self service
+* 28 percent expected to use online training
+
+Perceived Barriers for Specific Disabilities Given this amount of computer use in the workplace, how do HR representatives view barriers posed by Web/computer technology to individuals with different disabilities? Five categories of disabilities were inquired about—wheelchair users, visually-impaired/ blind users, deaf users, fine motor limitations that restrict use of keyboard or mouse, and cognitive or learning disabilities (see Figure 7), and respondents were asked how significant a barrier Web/computer technology would be for individuals with each of these disabilities.
+
+Only two percent saw wheelchair users as experiencing a significant barrier when operating a computer, with a large majority (86 percent) viewing it as “not a barrier at all.” At the other end of the scale, over a third of respondents rated Web/computer technology as a very significant barrier for people with visual impairments, and half considered it somewhat of a barrier. The majority of respondents also saw those with fine motor limitations and cognitive/ learning disabilities as encountering at least “somewhat” of a barrier. Only one in ten saw computer use as not presenting a barrier at all to people with these disabilities. Interestingly, although fewer respondents saw technology as presenting a very significant barrier to users who are deaf, only about half rated it as “not a barrier at all.”
+
+Do companies who have introduced computer adaptations for employees with disabilities in the past assess potential barriers differently? To answer this question, the assessment of barriers by organizations reporting having made computer adaptations for employees with disabilities was compared with those organizations who had not. Figure 8 shows that respondents who had no experience making adaptations were almost twice as likely, compared to those who had made adaptations, to rate a visual impairment as a very significant barrier (47 percent and 27 percent respectively). They were also much more likely to judge fine motor limitations (23 percent and 12 percent, respectively) and cognitive or learning disabilities (17 percent and 10 percent) as very significant barriers. These results suggest that the experience of having made accommodations may have a positive effect on the attitudes held by the respondents regarding the ease or difficulty (or perhaps knowledge of choices available) of adapting computers for employees with disabilities. Estimations of barriers did not differ by size of the organization.
+
+Familiarity with Assistive Technologies
+
+The respondents were asked about how familiar they or their staff were with six of the most common assistive technologies used to adapt computers or information technology applications (see Figure 9). Nearly half (46 percent) were familiar with screen magnifiers—software or equipment that allows enlarging an area of the screen for those with low vision—although nearly a third were unfamiliar with this technology. Approximately a third reported being familiar with speech recognition software, which enables a user who cannot use a keyboard to use a computer with verbal commands. Video captioning, most often used to make media such as training videos accessible to individuals with hearing disabilities, was familiar to one out of four respondents, but was unfamiliar to over half. Assistive technologies designed for blind individuals were unfamiliar to the majority of respondents. Braille readers, which use computer software to render text from the screen as Braille dots on a special display, were familiar to only one in five respondents, while only 16 percent of respondents were familiar with screen readers (software that reads computer text aloud). As would be expected, those who reported having made computer adaptations for employees were significantly more likely to report familiarity with each of these technologies. In most cases they were twice as likely to report familiarity.
+
+Overall only 13 percent of all respondents noted familiarity with guidelines for accessible Web design, with those from larger organizations (500+) more likely to report familiarity (17 percent compared to nine percent). Those with experience adapting computers for accessibility were more than twice as likely to be familiar than those without this experience (19 percent compared to seven percent). Considering the number of organizations utilizing Web based HR processes, this low level of familiarity highlights an area of real concern.
+
+Following up on this issue, respondents were queried about their awareness of whether any of their organization’s HR Web sites had been evaluated for accessibility for people with disabilities. Of those who had such sites, only about one in ten said they were aware of an evaluation, two of five said their sites had not been evaluated, and slightly over half were unsure. Even though those with experience adapting computers for accessibility were more than twice as likely to report evaluating their Web sites for accessibility, this still accounted for only 14 percent of that sub-group, compared to six percent of those without experience. Although the sample sizes by industry are small, it is interesting to note that the public administration respondents were more likely to say their sites had been evaluated (21 percent) than those in other industries. This may reflect a greater awareness of governmental legislation regarding accessibility (i.e. Section 508). Section 508 requires that electronic and information technology developed, procured, maintained, or used by the Federal government be accessible to people with disabilities. The Center for Information Technology Accommodation (CITA) in the U.S. General Services Administration’s Office of Government-wide Policy has been charged with the task of educating Federal employees and building the infrastructure necessary to support Section 508 implementation. See www.section508.gov for further information.
+
+Staff Training in Web and Computer Accessibility
+
+The number of organizations not testing their Web sites for accessibility is not surprising, given that two-thirds reported that their organization had not trained any staff in either Internet accessibility or in making computers accessible to persons with disabilities. Only 15 percent of the respondents reported that any of their employees had received training in Internet accessibility for persons with disabilities. When this training had occurred, the organization’s IT staff (58 percent of those organizations) was the most common recipient. However, HR staff (52 percent), occupational safety/ medical staff (47 percent) and managerial staff (44 percent) were reported to have received some degree of training as well.
+
+A larger proportion of respondents, nearly a third (31 percent), reported organizational staff had received training in making computers accessible for people with disabilities. Over three quarters of those reporting some training had noted the IT staff as the main recipients, with about a quarter saying someone on their occupational/safety/medical, HR, or managerial staff had received training in this area. Respondents indicated considerable interest in getting more information regarding these topics, with nearly seven out of ten expressing a desire for more information.
+
+As expected, those who had experience adapting computers for employees with disabilities were nearly three times more likely to have staff trained in Internet accessibility (23 percent compared to eight percent) and over five times more likely to have staff trained in making computers accessible for persons with disabilities (53 percent compared to nine percent) (See Figure 10). These differences remained significant, albeit somewhat smaller, even after controlling for the number of employees in the organization.
+
+Computer Adaptations Made for Employees with Disabilities
+
+Despite the large number of respondents who were not very familiar with accessibility issues, nearly half reported having made alterations to make a computer accessible to an employee with a disability, and only one percent reported being unable to accommodate. As might be expected, larger companies were more likely to have made adaptations for employees with disabilities, since they would be more likely to have a larger number of employees with disabilities (See Figure 11). Nearly three quarters (73 percent) of the largest employers (5,000+ employees) had made adaptations, compared with six in ten medium-large companies (500 to 4,999) and three in ten small companies (less than 500). The single adaptation reported by nearly half of those respondents who reported making accommodations was that of altering the workstation (see Figure 12). Making computer workstations accessible to employees using wheelchairs (26 percent) was also common, but also smaller changes such as special keyboard trays for individuals with carpal tunnel problems were mentioned. Nearly two-thirds of the adaptations (65 percent) were for individuals with visual impairments (see Figure 13) and included screen magnifiers (41 percent), large screens (16 percent), screen readers (8 percent) and Braille readers (6 percent). Special computer input apparatus such as mice, keyboards and pointing devices were mentioned by almost a third (31 percent) of those who had made adaptations. Voice recognition software was also mentioned by one in five respondents.
+
+Familiarity with Accessibility Resources
+
+The HR representatives were asked about their (or their staffs’) familiarity with five IT accessibility resources. If they were familiar, they were asked whether or not the resources had been used by their organization (see Figure 14). Nearly half (44 percent) were not familiar with any of the five resources asked about. The majority of the respondents had little knowledge of any individual resource. The only resource that more than a third were familiar with were disability specific organizations, and approximately three in five of those familiar with them had actually used them. One in five were familiar with the Job Accommodation Network (JAN) (see “Further Information” on page 18) and nearly three quarters of those familiar had actually used it. Slightly more than half of the 16 percent of those familiar with vendors of accessible computer software/hardware had actually used them as a resource. Respondents were least likely to be familiar with the World Wide Web consortium (WC3) and the Clearinghouse for Information Technology Accessibility (CITA) but, again approximately half of those familiar had actually used them as a resource.
+
+Organizational size did have an impact on awareness of two of the resources. Nearly a quarter of the respondents from the largest organizations (5,000+) reported to be very familiar with JAN, compared with less than ten percent of the other respondents. Eighty-six percent of those from the largest organizations who were aware of JAN had actually used JAN’s services. Only a third of the smaller organizations (less than 500) were aware of disability specific organizations, while nearly half of the largest organizations (5,000+) were. Again, the largest organizations were much more likely to have used this resource (73 percent compared to 45 percent).
+
+Helpfulness of Web Accessibility Organizational Resources
+
+Organizations may also have internal resources that could be consulted to help address computer/Web accessibility issues for employees with disabilities. How helpful do respondents feel their own organization’s internal resources are? The highest rated resource, rated as helpful by 84 percent, was the employee with a disability themselves (see Figure 15). Given that an employee is often the most knowledgeable about his or her situation, and has a vested interest in ease of accessibility on the job, it is encouraging that this appears to be recognized by most respondents. Nearly three quarters (72 percent) recognized their health and safety/ergonomics staff as a valuable resource as well.
+
+Two-thirds viewed both their organization’s computer network services staff and disability case management staff as helpful. Larger organizations were more likely than small firms to say staff from these departments would be helpful in addressing computer/Web accessibility questions. This difference is likely due to a greater size and sophistication of these “specialty” departments in the larger firms. Three out of five rated the central HR staff as helpful. Of some concern is the fact that only about a third (35 percent) rated their procurement office staff as helpful and nearly two of five considered them not helpful. The procurement department is most likely to actually purchase accessibility solutions for employees with disabilities. This low rating suggests a lack of confidence in the ability of this function to prove helpful as a general rule.
+
+Approaches to Remove Technology Barriers The respondents were asked to rate how helpful eight specific resources would be in removing technology barriers for applicants or employees with disabilities. The majority of the respondents saw all of them as potentially helpful (see Figure 16). More than seven out of ten considered the following helpful: specific expertise or technical assistance on technology accessibility issues in your organization, trained technical staff within your organization, uniform guidelines to make Web based employer processes accessible, computer training for potential employees with disabilities. Interestingly, information in the form of telephone or e-mail consultation on Internet accessibility and print information was seen as slightly less helpful (66 and 61 percent respectively) than Web-based resources on Internet/computer accessibility (70 percent). Also of interest is that training purchasing or procurement specialists in Internet access issues for people with disabilities was least often rated as helpful by the respondents. This rating is consistent with the previous rating for purchasing or procurement specialists noted in Figure 15.
+
+Conclusion
+
+Results of this survey of online/Web use in human resource processes and implications for applicants and employees with disabilities verified the significance of this issue. The majority of the HR representatives surveyed reported that online/Web HR processes are used extensively by their organization, with only three percent reporting not making use of these online technologies. Not surprisingly, larger companies were more likely to use these technologies and to a greater degree than smaller organizations. Many companies not using online HR technologies within their organization expected to in the near future. Given that access to human resource services are essential for all employees, the issue of potential barriers for applicants and employees with disabilities is evident.
+
+Employee use of computers on the job was also reported as intensive, with the majority of employees in the organizations using computers more than half the workday. This was even true in the firms of less than 100 employees, who reported the largest percentage of employees using computers more than half the workday. Thus, both for the ability to access job opportunities and employee information, as well as getting their jobs done, people with disabilities will need to be able to access online processes.
+
+These findings not only have implications for people with disabilities, but also for the general workforce, which is aging. According to U.S. Census projections, those portions of the U.S. population between the ages of 45 and 64 are increasing, and are projected to account for nearly half (44 percent) of the working age population (aged 20 to 64) by the year 2010. *1 As the workforce ages, work limitations due to disabilities also increase. According to the 2000 March Current Population Survey (CPS), 6.7 percent of those aged 25-34 reported a work limitation. For ages 45-54, the proportion of those reporting work limitations increased to nearly one in ten (9.8 percent) and to 16.1 percent of those ages 55-61 (Burkhauser & Houtenville, 2001). The increase in work limitations, coupled with a rapidly growing population of older workers, greatly increases the population that may require workplace accommodation assistance, particularly in the computer and information technology areas.
+
+In addition, the ADA requires employers to make reasonable accommodations for applicants and employees with disabilities, and this includes providing accessible computer technology. Employers should be aware of barriers that computers can create, be familiar with the types of assistive technologies available, receive training in Internet and computer accessibility, understand the types of computer adaptations available, and know what resource organizations are available to provide technical assistance. Such proactive efforts toward removing technology barriers will go far to reduce the likelihood that claims of IT accessibility discrimination will occur.
+
+This section of the report will make recommendations to assist organizations in effectively addressing these barriers, and proactively addressing these challenges. These findings strongly suggest a need for workplace policies and practices that will focus attention on accessibility of businesses’ Web-based HR processes, as well as a need for greater preparation of people with disabilities for an increasingly computerized workplace. Some recommendations that have grown out of the results of this study are:
+
+* online/Web-based applications used in HR processes should be designed and implemented with accessibility in mind from initial concept through system maintenance;
+
+* the person with the disability should be a key resource in finding solutions to IT accessibility concerns;
+
+* HR and selected personnel should be trained in IT accessibility considerations;
+
+* information about resources that can assist in addressing IT access questions should be made readily available throughout the organization; and
+
+* technology training for people with disabilities must be emphasized as a critical component of all national workforce development efforts.
+
+Organizational Commitment to Accessible Employment and HR Processes
+
+The use of the Web for business purposes has expanded rapidly. Companies increasingly are using the Web as their primary outlet for new employee recruitment. However, prior Cornell research (Erickson, 2002), shows that many easily addressed yet critical features that would make job board and employer recruiting sites accessible have not been built into the site’s overall design, thereby precluding applicants with certain disabilities from being able to use these sites to submit job applications. In the current study, few respondents who reported using Web technology were aware of accessibility evaluations, and the majority said their sites had not been evaluated. 
+
+It is imperative that there be an articulated commitment from top management regarding organizational accessibility for people with disabilities, including Web/ IT accessibility. Such leadership is needed if all staff contributing to the design, implementation, and maintenance of IT applications are to take accessibility considerations seriously. This includes technical and HR staff involved in the acquisition, design, and implementation of applications used in HR processes, as well as supervisors and technical staff implementing new applications in work processes. Such policies and practices might include the development and promotion of specific accessibility guidelines which can be used across the organization’s computer and Web-based application designs and equipment procurement. In this study, the majority of respondents felt uniform guidelines to make Web-based employer processes accessible would be helpful. Such guidelines are readily available including those promoted by Section 508 for the federal government *2 and the World Wide Web Consortium. *3
+
+Applicant/Employee with a Disability as Key IT Accommodation Resource
+
+It is encouraging that the resource most often identified as helpful in addressing computer/Web accessibility issues was the employee with a disability him or herself. It is important that HR professionals or other organizational personnel involved in the accommodation problem-solving process interact directly with the individual with a disability, as that person is often the most knowledgeable about his or her needs. Such an approach is also consistent with the intent of the Americans with Disabilities Act of 1990, *4 which calls for the accommodation process to be an informal interactive problem-solving approach between employer and the individual with a disability. Even in situations where the technology or process may also be new to the person with the disability, for best results it still is important that he or she is closely involved in the process.
+
+Despite the large number of respondents who were unfamiliar with accessibility issues, nearly half reported having made alterations to make a computer accessible to an employee with a disability, with only one percent reporting being unable to make an accommodation. Our results suggest that organizational experience with accommodation may lead to the perception that barriers for employees with disabilities are more manageable and/or less significant, compared with the perceptions of those who have never made such changes. Greater exposure to available accommodation technologies could well lead to a more realistic assessment of the required assistive technologies.
+
+Some ways to facilitate similar awareness in more organizations in a positive and proactive way might be to promote internal knowledge of successful adaptations, so that solutions become more widely known. A good example of an awareness raising approach used by the Federal sector is the use of mentoring and internship programs for youth with disabilities. *5 Such programs afford supervisors and other employees an opportunity to view first-hand the capabilities of these young workers, as well as to gain valuable experience in how accommodations can make a work environment accessible.
+
+Training on IT Accessibility
+
+Although there is a general awareness that Web and computer technology can create barriers for people with certain disabilities, most organizations have not addressed those issues within their own online HR processes. Two-thirds of respondents reported that their organization did not have any staff trained in either Internet accessibility or in making computers accessible to persons with disabilities. This is despite the fact that respondents felt that having specific expertise on accessibility issues and trained technical staff within their organization would be the most helpful ways to remove technological barriers. Notably, nearly seven out of ten expressed a desire for more information on this topic.
+
+Training on IT accessibility needs to be extended to a wider variety of potentially affected groups within the organization. Most respondents felt that staff other than IT staff, such as the employee with a disability, health and safety or ergonomics staff, or disability case management staff could be helpful in addressing computer and accessibility issues. Yet, over three-quarters of those reporting some accessibility training noted the IT staff as the main recipients, while only about a quarter said their occupational/safety/medical, HR, or managerial staff had received such training. Since accommodation requests often come to HR professionals and supervisors, it is vital that these groups have information on appropriate responses and resources. Some of the topics which might be covered in such training include:
+
+* the general employment disability nondiscrimination requirements of the Americans with Disabilities Act of 1990 (ADA);
+* the reasonable accommodation process;
+* Web IT accessibility guidelines;
+* computer workstations accommodations;
+* common computer and software accommodations for individuals with specific disabilities, such as visual or fine motor disabilities; and
+* available resources to find further information to respond to accommodation requests. 
+
+This is an area where SHRM can make a significant contribution, by possibly including these topics in their certificate training program for HR professionals, *6 as well as posting information and providing links to resources on the SHRM Web site.
+
+Knowledge of External Resources
+
+The HR representatives were asked about their (or their staffs’) familiarity with five IT accessibility resources. Knowledge of various assistive technologies for computer users with disabilities was low, with nearly half of the respondents not familiar with any of the five resources.
+
+At the same time, this survey confirms an awareness among HR respondents that computer technology can present problems for people with certain disabilities, especially those with visual or hearing impairments, and cognitive or learning disabilities. Of special interest is that this assessment of the problem’s severity appears to be mediated in part by knowledge of, and experience with having actually made adaptations for existing employees with disabilities.
+
+Getting the word out about IT resources and adaptations that can be made may help improve the ability of employers to accommodate their existing employees with disabilities, as well as change their attitudes towards potential employees with disabilities, thereby increasing the likelihood of hiring. Respondents in this study identified Web based resources as the most helpful way to receive such information, followed by telephone or e-mail expert consultation, with print media coming in third.
+
+Employment Training Policy Implications
+
+Results from this survey confirm the importance of computer skills training for all Americans as a part of general workforce preparation planning. Few workplaces do not use computers at all. Even in “low computer use” industries surveyed, representatives reported a majority of workers use a computer, many of whom use it for more than half of the working day. This applies to companies of all sizes, and is even more pronounced in small companies. This trend has significant implications for employees with disabilities; the majority of respondents felt computer training would be helpful for potential employees with disabilities.
+
+In the 1999 Cornell University survey, SHRM members identified lack of requisite skills, experience and training in people with disabilities as major barriers to employment and advancement (Brannick & Bruyère, 1999). These barriers will become even more pronounced in an increasingly computerized work environment, unless people with disabilities get the needed training to become and stay competitive. This perception of disparity in requisite skills, training, and related experience of persons with disabilities has implications for any attempt to advance the interests of people with disabilities in the employment and training arena via social policy changes.
+
+It is vital that initiatives such as those in existence under the Workforce Investment Act include people with disabilities in their mandate and implementation. *7 For example, training and technology initiatives should be targeted to people with disabilities, and One-Stop Career Centers must be equipped to accommodate job seekers with disabilities. Technology training is an appropriate part of the current administration’s New Freedom Initiative for persons with disabilities. *8 This means not only having the direction for such inclusion written into legislation and resulting regulations, but also making certain that implementation at the local level takes into account the unique training needs of local industries and the populations of persons with disabilities in a specific community. Local incentive programs for collaboration between employers, organizations promoting employment for persons with disabilities, and technology training programs will assist in promoting useful partnerships to address these issues in a meaningful and effective way.
+
+References
+
+Brannick, A., & Bruyère, S. (1999). The ADA at work: Implementation of the employment provisions of the Americans with Disabilities Act. Alexandria, VA: Society for Human Resource Management.
+
+Brewer, J. (2000). Overview of the Web Accessibility Initiative. Retrieved November 28, 2001 from http://www.w3.org/Talks/ WAI-Intro/Overview.html
+
+Burkhauser, R.V., Houtenville, A.J., 2001. Employment among working- age people with disabilities: What current data can tell us. In Work and disability: Issues and strategies for career development and job placement (2nd ed.), edited by Edna Mora Szymanski (2nd ed.), edited by Edna Mora Szymanski and Randall M. Parker.
+
+Collison, J. (2001). Search Tactics Poll (report from the SHRM Survey Program). Alexandria, VA: Society for Human Resource Management. Retrieved August 20, 2001, from: http:// www.careerjournal.com/special/20010405-shrmpoll.pdf
+
+Erickson, W. (2002). A review of selected e-recruiting websites: disability accessibility considerations. Ithaca, NY: Cornell University Program on Employment and Disability.
+
+Galvin, T. (2002, October). 2002 Industry Report, Training Magazine. 39 (10).
+
+Jackson-Sanborn,E., Odess-Harnish, K. and Warren, N. (2001, May 30). Website accessibility: A study of ADA compliance (working paper). Retrieved November 27, 2001 from http:// www.ils.unc.edu/ils/research/reports/accessibility.pdf
+
+Kanter, R. (2001, February 1). You are here: E-culture survey. Inc. Magazine. Retrieved April 9, 2001 from http://www.inc.com/ articles/details/printable/0,3535,CID22345_REG14,00.html
+
+Nua Internet (2002). How many online? Retrieved 1/30/03 from http: Retrieved 1/30/03 from http: //www.nua.ie/surveys/how_many_online/n_america.html
+
+Rosenwald, M. (2000, November 26). Online recruiting surviving volatility. The Boston Globe, p. G2.
+
+Schrage, M. (2000, May 15). E-commodating the disabled in the workplace. Fortune, 141(10), 502.
+
+Towers Perrin. (2001). 2001 HR service center survey. Retrieved October 29, 2001, from http://www.towers.com/towers/ services_products/TowersPerrin/hrsurvey2001.htm
+
+U.S. Department of Commerce. (2002). A nation online: How Americans are expanding their use of the Internet. Washington DC: Author. Retrieved April 7, 2003 from z
+
+Zakon, R. (2003). Hobbes’ Internet Timeline. Retrieved January 31, 2003 from http://www.zakon.org/robert/internet/timeline
+
+Related Reports and Publications
+
+Brannick, A., & Bruyère, S. (1999). The ADA at work: Implementation of the employment provisions of the Americans with Disabilities Act. Alexandria, VA: Society for Human Resource Management.
+
+Bruyère, S. (1999). Working effectively with human resource professionals using the employment provisions of the Americans with Disabilities Act. New York: The Hatherleigh Company.
+
+Bruyère, S. (2000). Disability employment policies and practices in private and federal sector organizations. Ithaca, NY: Cornell University, School of Industrial and Labor Relations Extension Division, Program on Employment and Disability.
+
+Bruyère, S., and Erickson, W. (2001). E-Human resources: A review of the literature and implications for people with disabilities. Ithaca: NY: Cornell University, School of Industrial and Labor Relations, Extension Division, Program on Employment and Disability.
+
+Bruyère, S., Erickson, W., & Horne, R. (2002). Survey of the Federal government on supervisor practices in employment of people with disabilities. Ithaca, NY: Cornell University, School of Industrial and Labor Relations Extension Division, Program on Employment and Disability.
+
+Bruyère, S., Erickson, W., & Horne, R. (2002). Disability employment policies and practices in U.S. Federal Government agencies: EEO/ HR and supervisor perspectives. Report by the Presidential Task Force on Employment of Adults with Disabilities. Ithaca, NY: Cornell University, School of Industrial and Labor Relations— Extension Division, Program on Employment and Disability.
+
+Bruyère, S., Erickson, W., & VanLooy, S. (2000). HR’s role in managing disability in the workplace. Employment Relations Today, Autumn, 47-66.
+
+Bruyère, S., & Horne, R. (1999). Disability employment policies and practices in U.S. Federal Government agencies. Report by the Presidential Task Force on Employment of Adults with Disabilities. Ithaca: NY: Cornell University, School of Industrial and Labor Relations, Extension Division, Program on Employment and Disability.
+
+For Further Information on the ADA and on IT Accessibility
+
+ADA Technical Assistance Program
+
+The National Institute on Disability and Rehabilitation Research (NIDRR) has established ten regional centers to provide information, training, and technical assistance to employers, people with disabilities, and other entities with responsibilities under the Americans with Disabilities Act (ADA). The Centers also provide information on accessible information technology issues. Call 1-800-949-4232 or go to www.adata.org.
+
+The Job Accommodation Network (JAN)
+
+The Job Accommodation Network (JAN) is a free consulting service that provides information about job accomodations, the Americans with Disabilities Act (ADA), and the employability of people with disabilities. Visit janweb.icdi.wvu/, or call 1-800-526-7234 for more information.
+
+The Center for IT Accommodation (CITA)
+
+Section 508 Resources
+
+The Center for Information Technology Accommodation (CITA), in the U.S. General Services Administration’s Office of Governmentwide Policy, has a Web site where Federal employees and the public can access resources for understanding and implementing the requirements of Section 508. Go to www.section508.gov for more information.
+
+The World Wide Web Consortium (W3C)
+
+The W3C develops inter-operable technologies (specifications, guidelines, software, and tools) to lead the Web to its full potential. See http://www.w3.org/ for further information.
+
+
+Contact Information
+
+For further information about this and other related reports contact:
+Susanne M. Bruyère, Ph.D., CRC, Director
+Program on Employment and Disability
+School of Industrial & Labor Relations
+Extension Division
+Cornell University
+Ithaca, New York 14853-3901 USA
+Phone: (607) 255-9536
+Fax: (607) 255-2763
+TTY/TDD: (607) 255-2891
+Email: smb23@cornell.edu
+
+Footnotes:
+
+ *1 Census Population Survey, 2000.
+
+*2 For further information, see www.section508.gov.
+
+*3 The World Wide Web Consortium (W3C) develops interoperable technologies (specifications, guidelines, software, and tools) to lead the Web to its full potential. See http://www.w3.org/ for further information.
+
+*4 See the US Equal Employment Opportunity Commission at http:// www.eeoc.gov, or the ADA Information and Technical Assistance Home Page at http://www.ada.gov/ for further information.
+
+*5 See http://www.dol.gov/odep/programs/workforc.htm for further information.
+
+*6 Visit the SHRM Web site at http://www.shrm.org/education/ for further information about the Society for Human Resource Management.
+
+*7 See http://www.whitehouse.gov/news/freedominitiative/ freedominitiative.html for more information about the New Freedom Initiative.
+
+*8 For further information on the Workforce Investment Act, see http:// www.doleta.gov/usworkforce/wia.asp
+
+
+Figure 1
+
+Breakdown of Respondents’ Organizations by Number of Employees
+
+Less than 100 employees: 15%
+100-499: 28%
+500-999: 12%
+1,000-2,499: 10%
+2,500-4,999: 11%
+5,000+: 24%
+
+Note: Percent of all respondents (n=433) excluding “don’t know/refused” responses.  
+
+Source: Accessible IT for People with Disablities: HR Considerations.  Cornell University, 2003.
+
+(End Figure 1)
+
+Figure 2
+
+Respondent Organizations’ Sample Breakdown by Industry
+
+Service: 41%
+Manufacturing: 21%
+Finance: 9%
+High tech/computers/telecomm: 7%
+Public Administration: 6%
+Transportation/Utilities: 6%
+Retail/wholesale Trade: 5%
+Insurance: 4%
+Other: 1%
+
+Note: Percent of all respondents (n=433) excluding “don’t know/refused” responses.  
+
+Source: Accessible IT for People with Disablities: HR Considerations.  Cornell University, 2003.
+
+(End Figure 2)
+
+Figure 3
+
+Percentage of Respondents Organizations’ Workforce Not Using Computers at all, by Industry
+
+Finance (n=37): 3%
+Insurance (n=17): 3%
+High tech/computers/telecomm (n=29): 7%
+Public Administration (n=26): 19%
+Service (n=171): 21%
+Manufacturing (n=93): 34%
+Transportation/Utilities (n=24): 35%
+Retail/wholesale Trade (n=23): 35%
+
+Note: Percent of all respondents (n=433) excluding “don’t know/refused” responses.  
+
+Source: Accessible IT for People with Disablities: HR Considerations.  Cornell University, 2003.
+
+(End Figure 3)
+
+Figure 4
+
+Percentage of Respondents Organizations’ Workforce Using Computers More than Half the Workday by Industry
+
+Transportation/Utilities (n=24): 40%
+Manufacturing (n=93): 42%
+Retail/wholesale Trade (n=23): 47%
+Public Administration (n=26): 60%
+Service (n=171): 60%
+Insurance (n=17): 80%
+High tech/computers/telecomm (n=29): 80%
+Finance (n=37): 87%
+
+Note: Percent of all respondents (n=433) excluding “don’t know/refused” responses.  
+
+Source: Accessible IT for People with Disablities: HR Considerations.  Cornell University, 2003.
+
+(End Figure 4)
+
+
+Figure 5
+
+Organizations’ Use of Online Technology
+
+Online employee training
+	A great deal (1): 4%
+	Some (2,3,4): 59%
+	Not at all (5): 37%
+
+Online benefits self service
+	A great deal (1): 18%
+	Some (2,3,4): 39%
+	Not at all (5): 43%
+
+Online benefits information dissemination
+	A great deal (1): 25%
+	Some (2,3,4): 57%
+	Not at all (5): 18%
+
+Online job postings
+	A great deal (1): 44%
+	Some (2,3,4): 45%
+	Not at all (5): 11%
+
+Note: Percent of all respondents (n=433) excluding “don’t know/refused” responses.  
+
+Source: Accessible IT for People with Disablities: HR Considerations.  Cornell University, 2003.
+
+(End Figure 5)
+
+Figure 6
+
+Use of Online Technology by Organization Size
+
+Online employee training*
+	<500 Employees: 45%
+	500-4,999 Employees: 68%
+	5000+ Employees: 88%
+
+Online benefits self service*
+	<500 Employees: 46%
+	500-4,999 Employees: 57%
+	5000+ Employees: 78%
+
+Online benefits information dissemination*
+	<500 Employees: 74%
+	500-4,999 Employees: 84%
+	5000+ Employees: 93%
+
+Online job postings*
+	<500 Employees: 84%
+	500-4,999 Employees: 91%
+	5000+ Employees: 97%
+
+*Statistically significant difference at the p<0.05 level
+
+Note: Percent of all respondents (n=433) excluding “don’t know/refused” responses.  
+
+Source: Accessible IT for People with Disablities: HR Considerations.  Cornell University, 2003.
+
+(End Figure 6
+
+Figure 7
+
+Respondents’ Perceptions of Barriers to Computer Use, by Employee’s Disability Type
+Percentages are those considering computer use a very significant barrier for people with this type of disability.
+
+Wheelchair Users
+	Very significant barrier (1): 2%
+	Somewhat significant barrier (2,3,4): 13%
+	Not a barrier at all (5): 86%
+
+Deaf
+	Very significant barrier (1): 7%
+	Somewhat significant barrier (2,3,4): 45%
+	Not a barrier at all (5): 48%
+
+Cognitive/learning disabilities
+	Very significant barrier (1): 14%
+	Somewhat significant barrier (2,3,4): 79%
+	Not a barrier at all (5): 6%
+
+Fine motor limitations
+	Very significant barrier (1): 18%
+	Somewhat significant barrier (2,3,4): 73%
+	Not a barrier at all (5): 10%
+
+Visually Impaired
+	Very significant barrier (1): 38%
+	Somewhat significant barrier (2,3,4): 52%
+	Not a barrier at all (5): 10%
+
+Note: Percent of all respondents (n=433) excluding “don’t know/refused” responses.  
+
+Source: Accessible IT for People with Disablities: HR Considerations.  Cornell University, 2003.
+
+(End Figure 7)
+
+Figure 8
+
+Respondents’ Perceptions of Barriers to Computer Use for People with Specific Disability Types, by Respondents’ Experience Making Computers Accessible
+Percentages are those considering computer use a very significant barrier for people with this type of disability.
+
+Wheelchair
+	Respondent previously made computer accessible: 1%
+	Respondent never made computer accessible: 2%
+
+Deaf
+	Respondent previously made computer accessible: 5%
+	Respondent never made computer accessible: 10%
+
+Cognitive/learning disabilities*
+	Respondent previously made computer accessible: 10%
+	Respondent never made computer accessible: 17%
+
+Fine motor limitations*
+	Respondent previously made computer accessible: 12%
+	Respondent never made computer accessible: 23%
+
+Visually Impaired*
+	Respondent previously made computer accessible: 27%
+	Respondent never made computer accessible: 47%
+ 
+% Rated a Very Significant Barrier
+
+*Statistically significant difference at the p<0.05 level
+
+Note: Percent of all respondents (n=433) excluding “don’t know/refused” responses.  
+
+Source: Accessible IT for People with Disablities: HR Considerations.  Cornell University, 2003.
+
+(End Figure 8)
+
+
+Figure 9
+
+Familiarity with Assistive Technologies
+
+Guidelines for Web design
+	Familiar (1,2): 13%
+	Neither (3): 14%
+	Unfamiliar (4,5): 73%
+
+Screen readers
+	Familiar (1,2): 16%
+	Neither (3): 14%
+	Unfamiliar (4,5): 70%
+
+Braille readers
+	Familiar (1,2): 21%
+	Neither (3): 19%
+	Unfamiliar (4,5): 60%
+
+Video captioning
+	Familiar (1,2): 25%
+	Neither (3): 20%
+	Unfamiliar (4,5): 55%
+
+Speech recognition software
+	Familiar (1,2): 32%
+	Neither (3): 23%
+	Unfamiliar (4,5): 45%
+
+Screen magnifiers
+	Familiar (1,2): 46%
+	Neither (3): 22%
+	Unfamiliar (4,5): 32%
+
+Note: Percent of all respondents (n=433) excluding “don’t know/refused” responses.  
+
+Source: Accessible IT for People with Disablities: HR Considerations.  Cornell University, 2003.
+
+(End Figure 9)
+
+Figure 10
+
+Accessibility Training of Employees by Experience Making Computers Accessible
+
+Employees trained in Internet accessibility for persons with disabilities*
+	Never made computer accessible: 8%
+	Made computer accessible: 23%
+
+Employees trained in making computers accessible for persons with disabilities*
+	Never made computer accessible: 9%
+	Made computer accessible: 53%
+
+% Organizations with Employees with Accessibility Training
+
+*Statistically significant difference at the p<0.05 level
+
+Note: Percent of all respondents (n=433) excluding “don’t know/refused” responses.  
+
+Source: Accessible IT for People with Disablities: HR Considerations.  Cornell University, 2003.
+
+(End Figure 10)
+
+Figure 11
+
+Made Computers Accessible for an Employee with a Disability by Organization Size*
+
+<500 Employees: 29%
+500-4,999 Employees: 61%
+5000+ Employees: 73%
+
+*Statistically significant difference at the p<0.05 level
+
+Note: Percent of all respondents (n=433) excluding “don’t know/refused” responses.  
+
+Source: Accessible IT for People with Disablities: HR Considerations.  Cornell University, 2003.
+
+(End Figure 11)
+
+Figure 12
+
+Computer Adaptations Made for Employees with Disabilities (of those who made adaptations: n=180)
+
+Braille reader: 6%
+Screen reader: 8%
+Large Screen: 16%
+Voice recognition: 20%
+Computer input (special mouse, keyboard etc.): 31%
+Screen magnifier: 41%
+Workstation alteration: 47%
+
+Source: Accessible IT for People with Disablities: HR Considerations.  Cornell University, 2003.
+
+(End Figure 12)
+
+Figure 13
+
+Computer Adaptations Made,  by Type of Disability
+
+Visual accommodation: 65%
+Wheelchair accommodation: 26%
+Hearing accommodation: 9%
+
+Note: Percent of all respondents who made computers accessible for employees with disabilities (n=179).  
+
+Source: Accessible IT for People with Disablities: HR Considerations.  Cornell University, 2003.
+
+(End Figure 13)
+
+Figure 14
+
+Familiarity with IT Accessibility Resources
+
+Clearinghouse for Information Technology Accessibility (CITA)
+	Familiar (1,2): 7%
+	Neither (3): 11%
+	Unfamiliar (4,5): 82%
+
+World Wide Web Consortium (W3C)
+	Familiar (1,2): 8%
+	Neither (3): 14%
+	Unfamiliar (4,5): 78%
+
+Vendors of accessible computer software/hardware
+	Familiar (1,2): 16%
+	Neither (3): 23%
+	Unfamiliar (4,5): 62%
+
+JAN (Job Accommodation Network)
+	Familiar (1,2): 20%
+	Neither (3): 10%
+	Unfamiliar (4,5): 70%
+
+Disability specific organizations (eg. American Federation for the Blind)
+	Familiar (1,2): 39%
+	Neither (3): 25%
+	Unfamiliar (4,5): 35%
+
+Note: Percent of all respondents (n=433) excluding “don’t know/refused” responses.  
+
+Source: Accessible IT for People with Disablities: HR Considerations.  Cornell University, 2003.
+
+(End Figure 14)
+
+Figure 15
+
+Helpfulness of Organizational Resources to Address Computer/Web Accessibility Questions for Employees with Disabilities
+
+Procurement office staff
+	Helpful (1-2): 35%
+	Neither (3): 24%
+	Not Helpful (4-5): 41%
+
+Central HR staff
+	Helpful (1-2): 60%
+	Neither (3): 20%
+	Not Helpful (4-5): 20%
+
+Disability case management staff
+	Helpful (1-2): 66%
+	Neither (3): 16%
+	Not Helpful (4-5): 18%
+
+Computer/network services staff
+	Helpful (1-2): 66%
+	Neither (3): 21%
+	Not Helpful (4-5): 12%
+
+Health and safety/ergonomics staff
+	Helpful (1-2): 72%
+	Neither (3): 16%
+	Not Helpful (4-5): 12%
+
+The employees with disabilities themselves
+	Helpful (1-2): 84%
+	Neither (3): 9%
+	Not Helpful (4-5): 7%
+
+Note: Percent of all respondents (n=433) excluding “don’t know/refused” responses.  
+
+Source: Accessible IT for People with Disablities: HR Considerations.  Cornell University, 2003.
+
+(End Figure 15)
+
+Figure 16
+
+Helpfulness in Removing Technology Barriers
+
+Training purchasing or procurement specialists in Internet access issues for people with disabilities
+	Helpful (1-2): 55%
+	Neither (3): 27%
+	Not Helpful (4-5): 18%
+
+Print information on Internet accessibility
+	Helpful (1-2): 61%
+	Neither (3): 25%
+	Not Helpful (4-5): 15%
+
+Telephone or e-mail expert consultation on Internet accessibility
+	Helpful (1-2): 66%
+	Neither (3): 21%
+	Not Helpful (4-5): 13%
+
+Web based resource on Internet/computer accessibility 	
+      Helpful (1-2): 70%
+	Neither (3): 20%
+	Not Helpful (4-5): 10% 
+
+Computer training for potential employees with disabilities
+	Helpful (1-2): 71%
+	Neither (3): 13%
+	Not Helpful (4-5): 15%
+
+Uniform guidelines to make Web-based employer processes accessible
+	Helpful (1-2): 73%
+	Neither (3): 16%
+	Not Helpful (4-5): 12%
+
+Trained technical staff within your organization
+	Helpful (1-2): 73%
+	Neither (3): 15%
+	Not Helpful (4-5): 11%
+
+Specific expertise or technical assistance on technology accessibility issues in your organization
+	Helpful (1-2): 74%
+	Neither (3): 16%
+	Not Helpful (4-5): 10%
+
+Note: Percent of all respondents (n=433) excluding “don’t know/refused” responses.  
+
+Source: Accessible IT for People with Disablities: HR Considerations.  Cornell University, 2003.
+
+(End Figure 16)
+
+(END OF REPORT)

@@ -1,0 +1,189 @@
+The Benefits Planner
+Keys to Effective Benefits Planning, Assistance and Outreach
+
+Winter 2002-03
+Vol. 2, Issue 4
+
+This publication is sponsored in part by the NYS Developmental Disabilities Planning Council and the Social Security Administration through the NYS Department of Labor (NY Works Project), and is a collaborative publication of Cornell University's Program on Employment and Disability and Neighborhood Legal Services, Inc. (NLS) of Buffalo, NY.  The editors and primary authors are James R. Sheldon, Jr. of NLS and Edwin J. Lopez-Soto of Cornell University.
+
+*******
+
+Welcome to The Benefits Planner, a Quarterly Newsletter of  The NY State Work Incentives Support Center
+This newsletter will provide valuable information on how work for persons with disabilities affects government benefits, with an emphasis on the Supplemental Security Income (SSI) and Social Security Disability Insurance (SSDI) work incentives.  Each newsletter will contribute to an ongoing dialogue on topics related to benefits and work.  Back issues will appear on the Cornell University website, www.ilr.cornell.edu/ped and on the Social Security section of the Neighborhood Legal Services website, www.nls.org.
+
+*******
+
+In this issue...
+
+• Some Pre-Walton History
+• The Walton Decision
+• Post-Walton Application Of SSA’s Policies
+• Conclusion - Some Practicalities For The Benefits Planner
+
+Special Features...
+
+• Selected Resources Related To This Article
+• Key 2003 Social Security And Medicare Changes
+• When To Call Our Toll-Free Line For Technical Assistance
+• The TechnicalAssistance Corner
+• Flow Chart: Application of Post-Barnhart v. Walton Policy
+
+*******
+
+The U.S. Supreme Court’s Walton Decision:
+When Will an SSDI or SSI Appicant/Beneficiary Face a Denial or Termination of Benefits If SGA-Level Work Occurs Within 12 Months of the Disability Onset?
+
+When a Social Security Disability Insurance (SSDI) or Supplemental Security Income (SSI) beneficiary works, the individual should be protected by special work incentives, even if gross monthly wages exceed the relevant substantial gainful activity (SGA) level for the year in question (i.e., $800 per month or $1,330 for the legally blind in 2003).  The SSDI beneficiary will be protected by trial work period rules, allowing the individual to collect both the disability check and the paycheck for up to nine months during any 60-month period.  Even if SGA-level work continues after the trial work period and SSDI benefits stop, those benefits can be restored if countable wages fall below the SGA level during any month of the 36-month extended period of eligibility.
+Under similar circumstances, an SSI beneficiary will be protected by section 1619(a), allowing the SSI check to continue under a benefit reduction formula even when countable wages exceed the current SGA level.  This SSI work incentive will allow benefit checks to continue indefinitely, even if work continues at the SGA level.  A detailed discussion of these SSDI and SSI work incentives appears in the Summer 2001 issue of the Benefits Planner, available on the Neighborhood Legal Services website at www.nls.org/planner/summer01.htm.
+Will the SSDI and SSI work incentives protect individuals who perform SGA-level work shortly after the onset date of their disability?  Will it matter if the work starts within 12 months of the disability’s onset, but after the final favorable decision is issued?  Will SSDI and SSI cases be treated the same?  These and related questions will now be answered by a set of policies that apply, nationwide, following the Supreme Court’s decision of March 27, 2002 in Barnhart v. Walton, 535 U.S. 212, 122 S.Ct. 1265 (2002).
+This article will: describe how SSA’s policy, prior to the Walton decision, varied by region of the country; explain the basic holding of the Walton decision; explain SSA’s current nationwide policy as it relates to SGA-level work performed shortly after the onset of disability; and explain how SSA’s current policy will differ depending on such factors as the timing of a favorable decision and which benefit, SSDI or SSI, is involved.  To aid the reader in understanding these policies, we use examples to show how these policies will apply in real cases.
+
+SOME PRE-WALTON HISTORY
+
+In the past, thanks to a string of decisions from the Courts, as long as the applicant could show that he or she was disabled and had not been performing SGA on the date of onset, the regular work incentive rules for each program would apply - - at least in those states covered by decisions of the U.S. Courts of Appeals for the Fourth, Sixth, Seventh, Eighth, and Tenth Circuits.  Even in states like New York, a part of the Second Circuit, the ability of advocates to reference court decisions covering nearly half of the country often meant that administrative law judges would not enforce the Social Security Administration (SSA) policies that now apply everywhere following the Walton decision.
+
+THE WALTON DECISION
+
+These court decisions were all reversed on March 27, 2002, when the U.S. Supreme Court issued its decision in Barnhart v. Walton.  The Court held that SSA’s interpretation of the Social Security Act on two issues falls within the agency’s lawful authority to interpret that law. 
+The Supreme Court held that the duration requirement in the disability definition for both SSDI and SSI means that both the medical impairment and the inability to engage in SGA must have lasted or be expected to last for a continuous period of not less than 12 months.  The Court also held that an SSDI beneficiary is not entitled to a trial work period if he or she performs work at the SGA level (i.e., $800 per month or $1,330 for the legally blind in 2003) within 12 months of the onset of the disability that prevented performance of SGA and before the date of any notice of final determination finding that the individual is disabled.  These Supreme Court holdings approve longstanding SSA policies that had been successfully challenged in the U.S. Courts of Appeals, referenced above, dating back to 1986.
+POST-WALTON APPLICATION OF SSA’S POLICIES
+As this was written, the only post-Walton policy that had been issued by SSA was an Emergency Message, EM-02044, issued in April 2002. The EM makes clear that Walton does not apply to cases that were fully adjudicated (i.e., an approval notice issued and received) before March 27, 2002.  For cases decided favorably on or after March 27, 2002, some may be reopened, with the approval rescinded and a denial issued, if work at the SGA level was performed within 12 months of the onset of disability.
+The EM refers the reader to five different provisions of SSA’s  Program Operations Manual Systems (POMS) for an explanation of SSA’s nationwide policy for return to work less than one year from onset of disability. (POMS DI 13010.105, 13010.110, 24001.005, 24010.001 and 25505.005)  Although these policies have been around for many years, they were not enforceable in many states because of the five separate Court of Appeals rulings that had struck down these policies.
+Under these longstanding policies, now enforceable in every state after Walton, the implications will vary somewhat depending on which benefit, SSDI or SSI, is under scrutiny and based on the timing of the favorable decision and the return to work.  In the analysis that follows, we use examples to go through the most typical scenarios where Walton issues will now come up.
+
+Fully Favorable Decision Before March 27, 2002
+
+According to EM-02044, if a case was fully adjudicated and decided favorably before March 27, 2002 (i.e., the date of the Supreme Court  decision), SSA cannot reopen the case to change the decision to a denial, based on the performance of SGA within 12 months of the onset of disability.
+How might this rule apply?  Consider Teresa, who lives in Florida and was, prior to the Walton decision, subject to a decision in the Tenth Circuit that had successfully challenged SSA  policy.  Teresa was also subject to the Acquiescence Ruling issued by SSA, following that decision, which covered SSA decision making in Florida and the other states that make up the Tenth Circuit.  Teresa applied for SSDI benefits on July 30, 2001 claiming an onset of disability on July 1, 2001.  On December 15, 2001, SSA issues a fully favorable decision awarding benefits with an onset date of July 1, 2001.  SSA’s award letter goes out on December 15, 2001 and is received by Teresa three days later.  On November 1, 2001, Teresa began work earning above the SGA level.  In June 2002, SSA learns that Teresa has been working and earning above the SGA level since November 2001.
+Pursuant to EM-02044, SSA may not reopen Teresa’s  case because it was fully adjudicated before March 27, 2002, the date of the Walton decision.  At the time the decision was issued in Teresa’s case, the policy governing her case was pursuant to the Tenth Circuit decision and subsequent Acquiescence Ruling.  That policy allowed Teresa’s return to work in November 2001 as the beginning of her nine-month trial work period.  When SSA learns of her work activity in June 2002, she is in the eighth month of the trial work period.  During each of these eight months, she has been able to receive both her paycheck and her SSDI check.  That is the most favorable news in the EM.
+If Teresa had lived in New York, rather than Florida, she might have received a similar ruling particularly if her case had gone to an administrative law judge hearing.  Even though New York is not a jurisdiction that was governed by one of the pre-Walton U.S. Court of Appeals decisions, the experience of advocates was that New York’s SSA decision makers did not, routinely, apply the nationwide policy that governed outside the five Circuit Court districts referenced above.  Moreover, since only SSA’s regulations and not its POMS provisions are enforceable at administrative law judge hearings, many hearing decisions were in line with the holdings of the courts.  So, assuming Teresa lived in New York and received a fully favorable decision prior to March 27, 2002, SSA could not reopen her case based on the policies upheld in Walton.
+
+Fully Favorable Decision On or After March 27, 2002
+
+EM-02044 and the relevant POMS provisions authorize SSA to reopen cases and revise a fully favorable decision when that decision was issued on or after March 27, 2002, work at the SGA level occurred within 12 months of the onset of disability, and certain other conditions are met.
+These are cases in which SSA found that the person was disabled because evidence supported a finding that the disability was expected to last for a period of 12 consecutive months.  When work at the SGA level occurs before the 12 month duration period has been met, the question is whether that work activity, and the individual’s right to continued benefits, is protected by a special work incentive:
+• In the case of an SSDI applicant/beneficiary, the question is whether the work activity is protected under trial work period rules that allow a nine-month period during which the beneficiary can collect disability checks even if countable wages are above the SGA level;
+• In the case of an SSI applicant/beneficiary, the question is whether the work activity is protected under the provisions of section 1619(a) which allows SSI benefits to continue, subject to a benefit reduction formula, even if countable wages are above the SGA level.
+As we will see in the analysis of the POMS provisions that follows, timing will be everything with these cases.
+
+Return to Work in SSDI Cases 
+
+The basic rules, found in POMS DI 13010.105 A, are as follows:
+• Work which is SGA, performed less than 12 months after disability onset, and prior to the date of the final favorable determination, cannot be protected by the trial work provisions and would constitute the basis for a denial or the establishment of the later onset (if SGA stopped).
+• Work performed in or after the month of entitlement (i.e., after the five-month waiting period) and more than 12 months after onset, is protected by the trial work provisions, regardless of whether such work occurs before or after the final determination.
+• Work performed after the five-month waiting period and after the date of the final determination is protected by the trial work provisions, regardless of whether such work occurs less than, or more than, 12 months after onset.
+• Work activity which is otherwise protected by the trial work provisions will still raise an issue of possible medical recovery in cases which are diaried for medical recovery.
+
+Return to Work in the Five-Month Waiting Period
+
+Generally, in SSDI cases, a period of disability can begin as early as the month of disability onset, but in no case can it begin earlier than the 17th month prior to the month of application.  The first five months of a period of disability are called the “waiting period.”  The individual is not entitled to a benefit check during the waiting period.  Entitlement to SSDI will begin in the sixth month of the period of disability.
+SSA’s POMS DI 13010.105 D. provides for three separate instances of work performed above the SGA level during the waiting period:
+
+• When an applicant/beneficiary (i.e., claimant) returns to work at the SGA level during the waiting period and/or before the final favorable determination, and this work continues, the claim must be denied.
+• When a claimant returns to work at the SGA level during the waiting period and after the final determination, and this work continues, the determination of allowance on the claim must be reopened and revised to a denial.
+• When a claimant returns to work at the SGA level during the waiting period, but this work activity later stops (and the unsuccessful work attempt criteria are not met), the claim must be forwarded to the state Disability Determination Service or DDS (in New York, the Office of Disability Determinations or ODD) for their consideration of a later onset date.
+How would these rules apply to real cases?  Let us take the example of Teresa, above, and bring all the dates forward by one year.  Now, her application for SSDI was filed on July 30, 2002, alleging an onset date of July 1, 2002.  She is found disabled effective July 1, 2002 by a decision dated December 15, 2002.  She began work above the SGA level on November 1, 2002 and that work has continued.
+Under these revised facts, the final determination of disability has occurred after March 27, 2002 so that the post-Walton policy can be used to reopen the decision.  Since the work above the SGA level began during the five-month waiting period and before the final determination of disability, SSA will reopen the decision and now issue a denial.
+What if the final determination/adjudication in Teresa’s case occurred on October 15, 2002, awarding benefits with an onset date of July 1, 2002, and Teresa began SGA-level work on November 1, 2002?  Under these facts, the final determination of disability has occurred after March 27, 2002 so that post-Walton policy can be used to reopen the decision.  Since the work above the SGA level began during the five-month waiting period and after the final determination of disability, SSA will reopen the decision and now issue a denial.
+What if Teresa had started SGA-level work on November 1, 2002, the final determination was made on December 15, 2002, and she stopped working (or earnings were reduced to a non-SGA level) in March 2003?  Assuming this does not meet the criteria for an unsuccessful work attempt, the claim must now be forwarded to the DDS (i.e., New York’s ODD) for their consideration of a later onset date.  Assuming that Teresa’s medical condition in March 2003 is as severe as it was in July 2002, she should be approved for SSDI with March 2003 as the onset of disability.
+In this last example, March 2003 will now be the first month of Teresa’s five-month waiting period for SSDI benefits, making August 2003 her first month of entitlement.  The reader should keep in mind that in determining whether Teresa is performing SGA during any of the months in question, SSA must apply several key work incentives.  If gross monthly wages can be reduced below the SGA level using impairment related work expenses or subsidies, or if her work was determined to be an unsuccessful work attempt, her case could not be reopened under the post-Walton policies.
+
+Return to Work and the Trial Work Period Provisions
+
+As stated above, work performed in or after the month of entitlement and more than 12 months from onset is protected by the trial work provisions, regardless of whether such work occurs before or after the final determination.  Let’s look at the case of Teresa once again.  In this case, Teresa applied for SSDI benefits on January 30, 2002 claiming an onset of disability on January 1, 2001.  On April 15, 2002, SSA issues a fully favorable decision awarding benefits with an onset date of January 1, 2001.  SSA’s award letter goes out on April 15, 2002 and is received by Teresa three days later.  On May 1, 2002, Teresa begins work earning above the SGA level.  In September 2002, SSA learns that Teresa has been working and earning above the SGA level since May 2002.  
+Pursuant to POMS DI 13010.105 A, since Teresa began working above the SGA level in May 2002, 16 months after the onset of her disability, Teresa is protected by the trial work provisions as the work was performed more than 12 months after onset.  Keep in mind that Teresa would have been protected by the trial work provisions even if she had performed the work prior to the final determination as long as  the work occurred more than 12 months after onset. Teresa would have been further protected by the trial work provisions as another basic rule in POMS DI 13010.105 A. provides that work performed after the waiting period and after the date of the final determination is protected by the trial work provisions, regardless of whether such work occurs less than, or more than, 12 months after onset.
+Return to Work in SSI Cases
+The post-Walton policies that apply to SSI cases are much more favorable.  According to POMS DI 13010.110 A.3. and C.2, SSI applicants will either be protected or not protected depending on whether they perform SGA-level work before or after a final favorable determination.  SSI applicants who return to SGA within 12 months of the onset of their disability but before a final favorable determination do not benefit from section 1619(a) and will either have their applications denied based on performance of SGA or will be subject to approval with a later onset date (if SGA stopped).  However, SSI applicants, who perform SGA-level work after the final favorable determination but within 12 months of the onset of disability, are not subject to reopening and a revision to a denial.  Instead, they are protected by section 1619(a), allowing benefits to continue despite SGA-level work.  
+Return To Work in Concurrent Claims
+What happens if an individual is applying for concurrent benefits, that is both SSDI and SSI benefits?  We must look at each situation individually. In the case of an SSDI applicant/beneficiary, as discussed above, the question is whether the work activity is protected under trial work period rules that allow a nine-month period during which the beneficiary can collect disability checks even if countable wages are above the SGA level. In the case of an SSI applicant/beneficiary, the question is whether the work activity is protected under the provisions of section 1619(a) which allows SSI benefits to continue, subject to a benefit reduction formula, even if countable wages are above the SGA level.  Based on the separate SSDI and SSI rules, discussed above, this means that at times the individual may be eligible for SSI, but not SSDI under the same set of facts.  The individual will be eligible for SSI as SGA-level work is not a factor once the SSI applicant is considered a b!
+eneficiary.  However, the individual may not be eligible for SSDI benefits if he or she returns to SGA level work within 12 months after the onset date.
+Let’s look at the case of Teresa yet again to illustrate this anomaly. Assume that Teresa applies for SSDI and SSI benefits in July 2002, receives a final favorable determination on October 15, 2002, awarding benefits with an onset date of July 1, 2002, and began SGA-level work on November 1, 2002.  Under these facts, the final determination of disability has occurred after March 27, 2002 so that post-Walton policy can be used to reopen the SSDI decision.  In the SSDI claim, since the work above the SGA level began during the five-month waiting period and after the final determination of disability, SSA will reopen the SSDI decision and now issue a denial.  In the SSI claim, however, since SSI applicants, who perform SGA-level work after the final favorable determination but within 12 months of the onset of disability, are protected by section 1619(a), Teresa’s SSI benefits would continue despite SGA-level work.
+
+CONCLUSION - SOME PRACTICALITIES FOR THE BENEFITS PLANNER
+
+Persons with disabilities may come to many of our readers seeking information about how work activity will affect their SSDI or SSI application which is still pending.  They may also want to know what will happen if they go to work shortly after their application is approved.  Since these are complicated issues, you may want to refer the individual to a trained benefits specialist who can provide accurate information to allow the individual to make a decision concerning their work plans.  (To find out what agencies are available to provide advice in these matters, call our State Work Incentives Support Center at 1-888-224-3272.)	
+For those individuals who are appealing the denial of an application for SSDI or SSI benefits, these issues become more critical.  Practically speaking, with the long delays for SSDI and SSI hearings to be scheduled and the ever-increasing pressure from local welfare offices for claimants to enroll in work programs, applicants may feel forced to attempt work prior to their hearings.  Unless the applicant for benefits is confident of establishing an onset date that is at least 12 months before the work attempt, the individual should be advised of the potential serious consequences of attempting to return to work before their claim is finally decided.  (Keep in mind, however, that one can always argue that the work in question was not SGA because countable wages were reduced by impairment related work attempts or subsidies, or was an unsuccessful work attempt.)
+
+*******
+
+SELECTED RESOURCES RELATED TO THIS ARTICLE
+
+SSA’s POMS Manual - available on SSA’s website at www.ssa.gov/representation (go to “POMS,” click “Table of Contents,” then go to the POMS section needed).
+
+The Benefits Planner - you can subscribe to this newsletter (hard copy or electronic copy) by contacting Wilma Castro at Neighborhood Legal Services (NLS), 716-847-0650 ext. 271 or wcastro@nls.org.  It also appears on the NLS website: www.nls.org/tocplanr.htm.
+
+Work Incentives for Persons with Disabilities Under the Social Security and SSI Programs - contains a detailed discussion of nearly all SSDI and SSI work incentives.  A free hard copy of this 25-page booklet is available by calling Wilma Castro (see above).  It also appears on the NLS website: www.nls.org/wkboklet.htm.
+
+*******
+
+KEY 2003 SOCIAL SECURITY AND MEDICARE CHANGES
+SSI Monthly Payment Rates for New York:
+Living alone - $639
+Living with others - $575
+Living in the household of another - $391
+Couple - $933
+
+Social Security Disability Insurance Thresholds:
+Substantial gainful activity - $800 per month ($1,330 for legally blind)
+Trial work month - $570
+SSI Student Earned Income Exclusion Amounts:
+Up to $1,340 per month excluded
+Up to $5,410 per year excluded
+
+Section 1619(b) Eligibility Thresholds:
+Based amount - $16,356
+Title 19 or Medicaid amount - $17,780
+Total threshold - $34,136
+Medicare Part B Premium - $58.70 per month
+
+*******
+
+WHEN TO CALL OUR TOLL-FREE 
+LINE FOR TECHNICAL ASSISTANCE
+Our State Work Incentives Support Center offers a statewide, toll-free number to call for information and technical assistance on a wide range of issues involving benefits and work.  The staff of Neighborhood Legal Services is available to take calls concerning any of the topics you see discussed in these newsletters.  For example, if a caller seeks information about any of the  information discussed in this article, you can call us at 1-888-224-3272 for more information on these issues.
+
+*******
+
+Application of Post-Barnhart v. Walton Policy
+
+When Will SSDI or SSI Applicant/Beneficiary Face a Denial or Termination of Benefits if  Substantial Gainful Activity (SGA) 
+Level Work Occurs Within 12 Months of the Disability Onset Date?
+
+If Date of Favorable Decision is Before March 27, 2002, then Post-Walton policy does not apply. SSA cannot reopen the case, and issue a denial, based on SGA within 12 months of disability.
+If Date of Favorable Decision is On or after March 27, 2002, then Post-Walton policy does apply.
+If SSI is Involved, and SGA occurs within 12 months of onset and before final determination, then it is Not protected by 1619(a). 
+Application will be DENIED, or subject to LATER ONSET DATE (if SGA stopped).
+If SSI is Involved, and SGA occurs within 12 months of onset and after final determination, then Work is protected by 1619(a).
+Application will not be reopened.
+If SSI is Involved, and SGA occurs more than 12 months after onset, then Work is protected by 1619(a), regardless of whether SGA occurred before or after final determination.
+If SSDI is Involved, and SGA performed during 5-month waiting period... and before final favorable determination, and work continues, then the Claim must be DENIED.
+If SSDI is Involved, and SGA performed during 5-month waiting period... and after final favorable determination, and work continues, then the Claim must be REOPENED and revised to a DENIAL.
+If SSDI is Involved, and SGA performed during 5-month waiting period... and after final favorable determination, and SGA stops, then the Claim must be forwarded to Disability Determination Service to consider LATER ONSET DATE.
+If SSDI is Involved, and SGA is Performed after5-month waiting Period... and more than 12 months after onset of disability, then work protected by trial work provisions, regardless of whether it occurs before or after final determination.
+If SSDI is Involved, and SGA is Performed after5-month waiting Period... and less than 12 months after onset and final determination, then the work is protected by trial work provisions.
+If SSDI is Involved, and SGA is Performed after5-month waiting Period.. and less than 12 months after onset, and before final determination, then the work is not protected by trial work provisions.  Claim must be DENIED, or subject to a LATER ONSET DATE (if SGA stopped)
+
+*******
+
+In our upcoming issues...
+
+• New York’s New Medicaid Buy-In Program
+• SSI and Transition-Aged Special Education Students
+
+*******
+
+The NY State Work Incentives Support Center will provide statewide services, including: training through traditional means and through use of the latest technology for distance learning; a toll-free technical assistance line, 1-888-224-3272; and a quarterly newsletter, The Benefits Planner.  To subscribe to the Center's listserv, send your name and email address to tpg3@cornell.edu.  To request a print copy of this newsletter, contact the toll-free number above.
+
+*******
+
+If you have special needs and would like The Benefits Planner sent in a special format, would like our Spanish version or would like the newsletter delivered by email, please call our toll-free technical assistance line, 1-888-224-3272.
+
+*******
+
+NEIGHBORHOOD LEGAL SERVICES, INC.
+295 Main Street, Room 495
+Buffalo, NY 14203
+
+
+
+

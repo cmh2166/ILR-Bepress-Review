@@ -1,0 +1,30 @@
+Just the Facts
+
+August 2004
+
+
+WORK STUDY AND SUPPLEMENTAL SECURITY INCOME
+
+by Ray Cebula
+
+The Supplemental Security Income (SSI) program is essentially a needs-based welfare program.  As a needs-based program, SSI must consider the income and resources of the individual applicant or recipient.  The Code of Federal Regulations (CFR) discusses both income and resources at length.  When considering Work Study income it is necessary to consult the CFRs, the Programs Operation Manual System (POMS), as well as other federal law.  
+
+Income is defined as anything the recipient receives in cash or in kind that can be used to meet the need for food, clothing and shelter.  20 CFR 416.1102.  As Work Study programs provide wages to the working student that can be used to meet basic needs, at first blush, these wages raise a concern as to the impact on SSI benefits.  The CFRs continued to discuss income in terms of “countable” and “excluded.”  The regulations discuss excluded income at 20 CFR 416. 1112.  SSA will not count earned income that has been excluded by other federal laws.  20 CFR 416.1112(a).  Some of these federal laws are listed in Appendix K to SubPart 416.  
+
+Appendix K (III) deals with education and employment programs that provide for specific exclusion of income from the SSI program.  “Student financial assistance for attendance costs received from a program funded in whole or in part under Title IV of the Higher Education Act of 1965...” is excluded income when considering financial eligibility for SSI benefits.  20 CFR 416, App. K (III)(c).  Part C of the Higher Education Act of 1965 provides funding for the federal work study program.  42 U.S.C. 2751 (Part C).  
+
+When combined, the effect of these various statutes and regulations is to exclude work study wages from consideration during the SSI financial eligibility process.  The necessary follow-up question: When is a “student” receiving excluded, federal work study wages?
+
+In order for the work study wages to be excluded from SSI income consideration the wages must be funded by Title IV of the Higher Education Act (as discussed above) and be part of a program made available to the student for assistance with tuition and fees normally assessed to any other student carrying the same academic workload.  20 C.F.R. 416, App. K (III)(c).  Tuition and fees may include the costs for the purchase or rental of equipment, materials, or supplies required of all students in the same course of study as well as an allowance for books, supplies, transportation, and “miscellaneous personal expenses” for a student attending school on, at least, a half-time basis.  
+
+For example, Julie is a full time student at a local community college.  She has received a work study award of $3000 per school year.  This amount will meet all tuition and fees as well as a portion of her book and supply needs.  She is also an SSI recipient and asks the necessary question:  How will the work study income affect my SSI?  
+
+The first inquiry must deal with the funding stream associated with the work study wages.  Documentation provided by Julie indicates that the work study is federally funded under Title IV of the Higher Education Act.  As a result, there will be no effect on her SSI benefits.  However, the receipt of the work study income must still be reported to SSA in accordance with the general reporting requirements.
+
+Work study funding can originate from a variety of funding sources.  Federal funds, state funds, and private funds provided directly by the institution of higher learning are all possibilities.  However, only work study programs funded by the federal government under Title IV of the Higher Education Act – and the resulting student wages – will be considered excluded income by the Social Security Administration.  In order to determine what type of work study is being received, rely only on official documentation provided by the school’s financial aid office.
+
+HOW WILL THIS INFORMATION HELP BPAO AND PABSS?
+
+Our goal as benefits planners and advocates for recipients of SSI with disabilities is to counsel and assure that all work incentives are utilized and effectuated by SSA.  Work study is a reality for many recipients entering higher education.  Benefits planning should include information about the work study income exclusion for higher education students.  The failure to properly credit this income exclusion during the SSI financial eligibility process will result in a reduced monthly benefit.  Advocacy services may be required to assist the client in evidence gathering, insure that the exclusion is processed properly and that monthly benefits payments have been properly calculated.
+
+

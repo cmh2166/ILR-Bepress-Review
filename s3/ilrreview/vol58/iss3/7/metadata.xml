@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Impact of School Resources on Student Performance:  A Study of Private Schools in the United Kingdom</title>
+<publication-date>2005-04-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<institution>Oxford University</institution>
+<lname>Graddy</lname>
+<fname>Kathryn</fname>
+</author>
+<author>
+<institution>Oxford University</institution>
+<lname>Stevens</lname>
+<fname>Margaret</fname>
+</author>
+</authors>
+<keywords>
+<keyword>school resources</keyword>
+<keyword>student performance</keyword>
+<keyword>private schools</keyword>
+<keyword>United Kingdom</keyword>
+<keyword>student-teacher ratio</keyword>
+</keywords>
+<abstract>&lt;p&gt;This article reports the results of an empirical study of the impact of school inputs on pupils’ performance in private (independent) schools in the United Kingdom, using a new school-level panel dataset constructed from information provided by the Independent Schools Information Service. The authors show a consistent negative relationship between the pupil-teacher ratio at a school and the examination results achieved by pupils aged 18, controlling for the pupils’ performance in examinations two years earlier. The results are noteworthy in comparison with results of studies for the state sector, relatively few of which have found a consistent and statistically significant effect of the pupil-teacher ratio.&lt;/p&gt;</abstract>
+<coverpage-url>http://digitalcommons.ilr.cornell.edu/ilrreview/vol58/iss3/7</coverpage-url>
+<fulltext-url>http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1134&amp;amp;context=ilrreview&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1134</articleid>
+<submission-date>2005-07-13T10:51:17-07:00</submission-date>
+<publication-title>ILR Review</publication-title>
+<context-key>83219</context-key>
+<submission-path>ilrreview/vol58/iss3/7</submission-path>
+<fields>
+<field name="acknowledgements" type="string">
+<value>The authors thank Cecilia Rouse and other participants at the conference held at Princeton University in honor of Orley Ashenfelter for helpful comments.  Thanks are also due to Donald Hay for invaluable help on this project, to seminar participants at Oxford for comments, and to the Independent Schools Information Service and especially Julian Bewick for providing the data for this study.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-04-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,280 @@
+PLANNING A STRUCTURED SETTLEMENT FOR SOCIAL SECURITY BENEFICIARIES
+
+
+This is one of a series of articles written for benefits specialists employed by Benefits Planning, Assistance and Outreach (BPA&O) projects and attorneys and advocates employed by Protection and Advocacy for Beneficiaries of Social Security (PABSS) programs.  Materials in this policy brief have been reviewed for accuracy by the Social Security Administration (SSA), Office of Employment Support Programs.  However, the thoughts and opinions expressed in these materials are those of the authors and do not necessarily reflect the viewpoints or official policy positions of the SSA.  The information, materials and technical assistance are intended solely as information guidance and are neither a determination of legal rights or responsibilities, nor binding on any agency implementation and/or administrative responsibilities.
+
+The author Ray Cebula, is a Training and Organizational Development Specialist for Protection and Advocacy, Programs for Beneficiaries of Social Security, Work Incentives Support Center, Employment and Disability Institute, Cornell University.
+
+
+Introduction
+
+Supplemental Security Income (SSI) and Social Security Disability Insurance (SSDI) beneficiaries who work must understand how the receipt of employment income will impact their Social Security cash benefits, as well as their Medicare or Medicaid benefits, and the myriad of other public benefits that they may have received or continue to receive.  In addition to employment income, beneficiaries may also receive cash and/or other resources through legal proceedings such as divorce, probate, personal injury lawsuits, or civil rights lawsuits.  BPAO and PABSS staff may field questions from beneficiaries concerning the impact of these awards and/or settlements on their public benefits.  Answering these questions may be part of providing a complete benefits analysis. 
+
+The impact of these awards and/or settlements on public benefits should also be considered by PABSS staff when advocating on behalf of SSI and SSDI beneficiaries on return to work issues.  It is imperative that PABSS staff be able to discuss this impact with their client and refer the client to proper legal and non-legal resources that may assist in protecting a client’s public benefits, if that is what the client chooses.  When a PABSS advocate discusses a settlement or award option with a client, that discussion should include information on how the proposed settlement and/or award will impact their benefits.  In addition, the PABSS advocate should develop a referral system of legal and non-legal entities who can provide further financial planning for the client.
+
+This Policy and Practice Brief will describe how the various SSA income and resource rules intersect with awards and/or settlements from legal proceedings.  In addition, this Brief will provide a general overview of the common mechanisms utilized by trust and estates attorneys and other financial planners to protect an individual’s continuing eligibility for public benefits.
+
+
+Review of the Income and Resource Rules
+
+In order to begin to discuss structuring a settlement for an SSI or SSDI beneficiary, it is critically important to understand the income and resource rules associated with the program.  The SSI program is a “needs based” welfare program and, as such, income plays a large part in determining monthly payment amounts.  Resources, on the other hand, are used to establish basic eligibility for the program.  The SSDI program is an “insurance” program.  As such, the type of income, earned or unearned, as well as the amount of such income plays a large part in determining eligibility for a check.
+
+Treatment of Income under the SSI Program
+
+The SSI program considers income to be “anything you receive in cash or in kind that you can use to meet your needs for food, clothing, and shelter.”  Income can be actual cash (wages, etc.) or “in-kind income.”  In-kind income is not cash but is actually food, clothing or shelter, or something else the recipient could use to obtain these. Footnote Reference 1
+
+Footnote 1: 20 C.F.R. § 416.1102
+
+The Social Security regulations completely exclude some sorts of income from the definition discussed above.  Medical care and services provided to the recipient at no cost, assistance provided in cash, or in-kind, under a state, federal, or local program providing medical care or services (including VR services), income used to replace a resource (insurance proceeds), income tax refunds, proceeds of a loan, bills paid for the recipient directly to the vendor of the goods or services, and replacement of income that was lost, stolen or destroyed are examples of income that is excluded from consideration by the SSI program. Footnote Reference 2
+
+Footnote 2: 20 C.F.R. § 416.1103
+
+All other forms of income are counted by the SSI program and used to determine monthly payment amounts.  Countable income is divided into “earned” and “unearned” income.  Each type of income is treated differently by the program.  Earned income is preferred and receives significant deductions and exclusions.  On the other hand, unearned income receives only a minimal exclusion when determining monthly payment amounts.  Finally, countable income of the recipient and, potentially, that received by other members of the household will be considered when determining the monthly payment.
+
+Earned income is general received in the form of wages, self-employment income, and royalties but can also be received in-kind.  For instance, a farm worker who receives room and board, as well as salary, will be seen to receive in-kind earned income.
+
+The basic calculation formula for earned income is:
+
+Gross earned income: $500
+Less earned income exclusion of $65
+Equals $435
+Less general exclusion of $20
+Equals $415
+Divided by 2
+Equals Countable Income of $207.50
+
+As the preferred type of income, the generous exclusions and deductions from earned income result in only a fraction of actual earned income being used to reduce the recipient’s monthly SSI payment. 
+
+Unearned income can be received in the form of annuities, pensions, other public benefits, alimony (income to the parent), child support (income to the child), dividends, interest, gifts, prizes or awards. Footnote Reference 3  Unearned income is counted at the time of receipt by the SSI applicant or recipient.  As the unfavored form of income, unearned income will only be reduced by a $20 general exclusion.  The remainder of the income will be countable and will reduce the SSI award on a dollar-for-dollar basis.
+
+Footnote 3: 20 C.F.R. 416 § 1121.
+
+For example:
+
+Court Awards $1000
+Less general exclusion of $20
+Equals countable unearned income of $980
+
+It quickly becomes obvious that the prospect of the receipt of a sizeable award, or other unearned income, needs to be seriously considered in order that the receipt have the least impact on SSI cash and, in most states, its associated medical benefits.
+
+Treatment of Income under the SSDI Program
+
+Unlike the SSI Program, the SSDI Program does not explicitly review income in terms of “earned” and “unearned.”   Rather, treatment of income is determined as it relates to Substantial Gainful Activity (SGA). Footnote Reference 4   Therefore, the Regulations and POMS under the SSDI Program do not even mention the terms “earned” or “unearned.”  However, for all practical purposes, income that would be considered “earned” under the SSI Program would normally contribute to Substantial Gainful Activity under the SSDI Program.  And, income that is considered “unearned” for SSI purposes would normally be not be considered in an SSDI SGA determination.   
+
+Footnote 4: 20 C.F.R. § 494,.1571 et seq; POMS Section DI 10501.001.
+
+SGA means “the performance significant physical and/or mental activities in work for pay or profit, or in work of a type generally performed for pay or profit, regardless of the legality of the work.” Footnote Reference 5   In order to be “significant activity”, the activity should be the type that is normally associated with a job or a business. Footnote Reference 6 The activity is “gainful” if it is the type of activity usually engaged in for pay or profit. Footnote Reference 7  
+
+Footnote 5: Id.
+Footnote 6: Id.
+Footnote 7: Id.
+
+Under the SSDI Program, income is evaluated to determine WHAT the individual did, physically or mentally, to receive the income.  If the individual engaged in activities similar to those engaged in by individuals when they are working, that income will be considered in the calculation of SGA.  If the income was received passively and not in the course of some sort of employment or self-employment, it is likely that such income will not be counted toward the SGA calculation.
+
+For example, Jim, an SSDI beneficiary, owns an interest in a two-flat apartment with his brother.  Jim’s brother lives on the first floor and the second floor is rented to an elderly couple.  Jim and his brother split the rent received from the second floor apartment.  Jim’s brother takes care of the building and its finances.  Because Jim does NO activity to receive this income, it is not considered in an SGA determination and does not impact his eligibility for benefits.  In contrast, if Jim owned this building as part of a real estate management company, that rental payment would count toward an SGA determination.
+
+Given the above, court awards, alimony awards, lawsuit settlements, and/or inheritances will not be considered in the SGA calculation.  Such awards are not recovered because of activity associated with a business and lawsuits are normally not that type of activity engaged in for pay.  Therefore, the SSDI beneficiary will not see any impact on his eligibility for benefits due to receipt of this type of income/resource.  
+
+Treatment of Resources under the SSI Program
+
+Resources are a basic SSI eligibility factor.  For purposes of the SSI program resources held by the recipient must be limited to $2000 for an individual or $3000 for a married couple.  As is the case with income, resources are considered either countable or excluded from consideration when determining eligibility.  A resource is cash or any other liquid asset or real estate that could be converted to cash to meet the recipient’s basic needs for food, clothing and shelter. Footnote Reference 8
+
+Footnote 8: 20 C.F.R. § 416.1201.
+
+When SSA determines the amount of resources belonging to a recipient the following types of resources are examples of what will be excluded from eligibility consideration:  
+
+* The home the individual lives in,
+
+* Household goods and personal effects Footnote Reference 9,
+
+* The first car,
+
+* Life Insurance (cash surrender value up to $1500),
+
+* Burial funds (segregated as such, up to $1500)
+
+* Retroactive benefits for a period of 9 months, and
+
+* PASS protected income and resources.
+
+Footnote 9: See 70 Fed. Reg. 6340 (02/07/05) for recent expansions in excluded resources.
+
+One potential issue deserving of mention is SSA’s transfer of assets provision.   As of December 14, 1999 Footnote Reference 10, transferring ownership of a resource for less than fair market value can result in a period of ineligibility for SSI for up to 36 months. Footnote Reference 11  SSA must notify the state Medicaid agency of any such transfer reported to, or learned by, SSA.  The transfer of a resource into a properly prepared Special Needs Trust or Pooled Trust, described below, will not be considered a disqualifying transfer. 
+Footnote Reference 12  However, the transfer of any resource into any revocable trust or any other non-qualifying trust will carry a transfer penalty resulting in a period of ineligibility for SSI, and potentially, Medicaid.
+
+Footnote 10: SI 01150.001(A).
+Footnote 11: See SI 001150.001(C)(1), (2) & (3) for effects of transfers made before 12/14/99.
+Footnote 12: SI 01730.046 and SI 01730.048.
+
+Treatment of Resources under the SSDI Program
+
+There are no resources limits under the SSDI Program.
+
+
+Options for the SSI Beneficiary — Tools for Structuring Settlements and/or Court Awards for the SSI Beneficiary
+
+Given the restrictions on accumulation of assets for the SSI beneficiary, BPAO and PABSS staff need to be aware of the financial planning mechanisms available to allow beneficiaries to protect assets that may become available to them.  However, these mechanisms are extremely complex and generally require the assistance of an attorney who is well versed in trust and estates law.  BPAO and PABSS staff can inform individuals of these planning options and then refer the individual to legal resources in the community, such as the local bar association.  It is a good idea for BPAO and PABSS staff to identify the legal resources available in the community for assisting with this planning so that they make a proper referral.  Set out below is a general overview of these financial planning mechanisms and the laws governing them.
+
+The Foster Care Independence Act of 1999 (P.L. 106-169)
+
+The Foster Care Independence Act of 1999, dramatically altered the impact of trusts benefiting recipients of SSI and Medicaid.  The Act will affect all trusts established on or after January 1, 2000 Footnote 13.  The Act generally provides that trusts established with the assets or an individual, or the individual’s spouse, will be considered a resource for SSI eligibility purposes.  It provided information as to when earnings and additions to a trust will be considered income for the SSI program.  Lastly, it provides exceptions to the general rule of counting trusts as resources and income.  
+
+Footnote 13: SI 01120.201 contains detailed information and instructions concerning trusts created on or after 01/01/00. SI 01120.200 contains instructions pertaining to trusts established before 01/01/00.
+
+The Act will apply to trusts established by an individual (recipient or applicant or spouse thereof) using the individual’s (or spouse’s) income or resource.  The provisions of the Act will apply to a trust so established without regard to:
+
+* The purpose for which the trust was established,
+
+* Whether the trustees have or exercise discretion under the trust,
+
+* Any restrictions on when or whether distributions may be made from the trust, or
+
+* Any restrictions on the use of distributions from the trust. Footnote Reference 14
+
+Footnote 14: SI 01120.201(C)(2)(d).
+
+As a result of the strict language contained in the Act, the exceptions contained with the Act remain the only effective and safe means for excluding a trust from SSI eligibility criteria Footnote Reference 15.  “Special Needs Trusts” and “Pooled Trusts” are specifically excluded from the terms of the Foster Care Independence Act.  For purposes of the Act all excluded trusts are irrevocable.
+
+Footnote 15: SI 00120.203.
+
+The Special Needs Trust
+
+A “special needs trust” is a trust established under section 1917(d)(4)(A) of the Social Security Act Footnote Reference 16.  While the moniker “special needs trust” is one of common usage, the resource exemption provisions of the Act will apply to any trust:
+
+Footnote 16: 42 U.S.C. § 1396p(d)(4)(A).
+
+* That contains the assets of an individual under age 65 and who is disabled,
+
+* That was established for the benefit of such individual by a parent, grandparent, legal guardian or a court, and
+
+* That provides that the state will receive all amounts remaining in the trust upon the death of the individual up to an amount equal to the total medical assistance paid on behalf of the individual under a state Medicaid plan. Footnote Reference 17
+
+Footnote 17: SI 011120.203(B)(1)(a).
+
+If a special needs trust is revocable, SSA will develop the trust under POMS SI 01120.200 in order to determine if the trust is a countable resource.  The above conditions will not prohibit additions or augmentations to a trust benefiting an individual who is over the age of 65, provided that the trust was established before the individual’s 65 birthday.  The disability criteria require that the individual be disabled for SSI purposes.  Lastly, this exception will not apply to a trust that was established by the individual himself/herself.  
+
+If the Trust is being established by a person, that person must have legal authority to act with regard to the assets of the individual.  Normally, if the parent or grandparent does not have such authority, authority can be established through the state agency laws.  While this restriction applies to the person who takes action to create and establish the trust, the assets to be held by the trust can be those belonging to the individual. Footnote Reference 18
+
+Footnote 18: SI 01120.203(B)(1)(e).
+
+Courts may establish a Special Needs Trust in two situations.  The first situation involves the settlement or favorable verdict in a lawsuit.  In this situation, the Court would establish in the Judgment the creation of a Special Needs Trust to receive the award.  It is recommended that the attorney representing the individual in the lawsuit work closely with a trusts and estates attorney to properly draft the settlement and/or Judgment and the Special Needs Trust.  In the second situation, the individual requests that a Court establish a Special Needs Trust on his/her behalf through a state-specific, special court proceeding.  An individual might request court involvement if he/she did not want to involve or could not involve a parent, grandparent or guardian and after the individual has already received the court award, inheritance, or lump-sum.     
+
+The final qualifying criteria for a special needs trust to secure resource exemptions is that the trust contain specific language directing that all remainders held by the trust upon the death of the individual be paid to the state up to an amount equal to the medical costs paid by the state’s Medicaid program.  The state must be listed as the first payee and must have priority over the payment of other debts and administrative expenses Footnote Reference 19.  Simply labeling the trust as a “Medicaid Pay-Back Trust,” etc., will not be sufficient in the absence of specific language.
+
+Footnote 19: See SI 01120.203(B)(3)(a) for exceptions.
+
+The Pooled Trust
+
+A pooled trust is a trust established and administered by an organization under the authority of section 1917(d)(4)(C) of the Social Security Act.  The trust serves a number of individuals and therefore will hold the assets of all served within one trust.  Separate accounts will be established within the trust in order to keep track of each individual’s assets.  Both the “master trust” and the individual accounts established within the trust must meet the SSA guidelines in order to be exempt from SSI eligibility criteria.  The pooled trust account established by an individual must be irrevocable and must:
+
+* Be established and maintained by a non-profit association,
+
+* Contain separate accounts for each beneficiary however assets can be pooled for management purposes,
+
+* Contain a separate account for each disabled individual for the sole use of that person,
+
+* Be an account established by the individual, a parent, grandparent, legal guardian or a court on behalf of the individual, and
+
+* Indicate that any remainder, not to be left in the pooled trust, be paid to the State, up to an amount equal to the medical expenditure made by the state under a state Medicaid program. Footnote Reference 20
+
+Footnote 20: SI 01120.203(B)(2)(a).
+
+To qualify for the pooled trust exemption, the trust must contain very specific language concerning any remainder left with the trust upon the death of the individual.  If all of the remainder is left in the trust, the trust will qualify for the exemption.  If not, the trust must contain specific language indicating that the state will be listed as first remainder beneficiary to the extent of any Medicaid expenditures made on the individual’s behalf.  As with Special Needs Trusts, labeling the trust is not sufficient in lieu of specific language concerning the remainder interests. Footnote Reference 21
+
+Footnote 21: SI 01120.203(B)(2)(g).
+
+A pooled trust has certain expense limitations that must be adhered to in order to preserve the resource exemption for SSI purposes.  These limitations will apply only upon the death of the individual and concern the distribution of the remainder of the deceased individual’s account within the trust.  Administrative expenses that may be paid from the trust prior to any Medicaid reimbursement are taxes owed to the State or Federal government upon the death of the individual and reasonable fees for administrative services provided by the administering non-profit agency. Footnote Reference 22   Prohibited expenses include payments owed to third parties, funeral expenses and payments to other residual beneficiaries (those individuals entitled to a portion of the remainder).  These expenses may only be paid after the State has received its Medicaid reimbursement. Footnote Reference 23
+
+Footnote 22: SI 01120.203(B)(3)(a).
+Footnote 23: SI 01120.203(B)(3)(b).
+
+One Example:  
+
+The MARC Special Needs Pooled Trust meets the Pooled Medicaid Pooled Trust exception.  First established in 1995 and amended in 1998 and 2001, the Trust is administered by Planned Lifetime Assistance Network, Inc. “PLAN of Massachusetts”, a non-profit Massachusetts corporation.  Funded with assets that belong to individuals with disabilities, the MARC Special Needs Pooled Trust is an irrevocable trust.  The assets in Pooled Trust are not countable for Medicaid or for SSI eligibility.  Transferring assets into the Pooled Trust is not a disqualifying transfer for Medicaid eligibility.  A transfer of assets into the MARC Special Needs Pooled Trust account prior to the Beneficiary turning 65 years old is not a disqualifying transfer for SSI eligibility.  Upon the death of the Trust Beneficiary, administrative expenses are paid, PLAN of Massachusetts retains 15% of the remaining principal for support of its charitable work, and Medicaid receives reimbursement for benefits received by the Trust Beneficiary.  If any funds still remain, they are distributed to the remainder person(s) who the Trust Beneficiary designated when he or she joined the MARC Special Needs Pooled Trust account.  
+
+There are currently more than 70 individual Pooled Trust Beneficiaries in the MARC Special Needs Pooled Trust; the Pooled Trust assets total $4 Million.  The PLAN of Massachusetts staff includes an attorney and a social worker.  The staff works with each Beneficiary to develop a plan to utilize assets to improve his or her quality of life.  PLAN of Massachusetts staff monitor the requests for disbursements from each Sub-account to ensure that that federal and state benefits are not jeopardized.  Each Pooled Trust Beneficiary receives an annual accounting for his or her Sub-account.  
+
+For more information, contact PLAN of Massachusetts:
+phone: 617-244-5552
+email:  info@planofma.org
+web:  www.planofma.org
+
+For more information about other Pooled Trusts available in the United States see: www.nami.org/helpline/plan.htm.
+
+Waiver for Undue Hardship
+
+Should SSA determine that the resources contained within a trust benefiting an applicant or recipient of SSI be countable for eligibility purposes, a waiver of the provisions of section 1613(e) of the Act is available in limited circumstances and only to irrevocable trusts. Footnote Reference 24  The waiver is applied on a month by month basis and will be allowed if “undue hardship” exists.  
+
+Footnote 24: Since an individual is able to revoke a revocable trust and access the funds needed for basic needs the requirements of undue hardship cannot be met.
+
+Undue hardship is defined as hardship existing in a month if failure to receive SSI payments would deprive the individual of food or shelter and the individual’s available funds do not equal or exceed the federal benefit rate plus any state supplement payable. Footnote Reference 25  The inability to obtain medical care will not constitute undue hardship for SSI purposes although this may establish undue hardship under the state’s Medicaid program rules.
+
+Footnote 25: SI 01120.203(C)(1)(a).
+
+SSA will apply the undue hardship provisions only when counting the trust resources causes SSI ineligibility, the individual informs SSA that not receiving SSI will result in the deprivation of food or shelter and the trust specifically prohibits disbursements for basic support and maintenance.  Any income received by, as well as any liquid resources owned by, the individual seeking undue hardship exceptions will need to be considered by SSA in the determination process.  
+
+As indicated above, undue hardship determinations are made on a month-by-month basis.  The re-contact period will vary depending upon the individual’s circumstances but will be no less than every 6 months. Footnote Reference 26  
+
+Footnote 26: SI 01120.203(G)(2).
+
+State or Region Specific Rules for Trusts
+
+As trusts are a creation of state law there may exist a specific POMS section addressing your state or region.  Please be sure to check the POMS for such rules.  For example:
+
+* SI CHI01120.200 Revocability of Grantor Trusts – Chicago Region State Laws
+
+* SI BOS01120.200 D.3 Grantor Trusts
+
+* SI BOS0110.203 MARC Special Needs Pooled Trust
+
+* SI NY01120.200 Trusts - Background
+
+
+Bringing it all Together — Application of the Income and Resource Rules in Common Award or Settlement Situations of SSA Beneficiaries
+
+Set out below are several examples of how court awards and/or settlements will impact eligibility for benefits for the SSI or SSDI beneficiary.
+
+CASE EXAMPLE 1 — JULIE
+
+Facts:  Julie is a 14 year old child who receives SSI benefits.  In January 2004, she was involved in a minor accident in which she sustained injuries and was hospitalized.  A lawsuit ensued.  In February 2005, Julie’s claims were settled for $35,000.  She is expected to receive the proceeds in March 2005.
+
+Impact:  For SSI purposes, this settlement will be considered unearned income.  The $35,000 award will be subject to the $20 disregard and the rest, $34,980 will be considered countable income.  Therefore, Julie will not be eligible for an SSI payment in the month of March 2005.  In April, the $35,000 will become a countable resource and Julie will be resource ineligible for an SSI payment.  This ineligibility due to resources will continue until the resource is “spent down” to $2000, assuming she has no other cash resources.  
+
+Some Options to Consider:  Julie’s parents should consider placing this money into a properly created Special Needs Trust or a Pooled Trust, explained above.  Or, Julie and/or her family could use the money to purchase an excluded resource, such as a specially-equipped van.
+
+CASE EXAMPLE 2---MIKE
+
+Facts:  Mike is 24 years old and lives on his own.  He is his own guardian.  He receives both SSI and SSDI.  Every Christmas, Mike receives a state lottery ticket from his grandma.  Mike scratches his ticket and wins $100,000!   
+
+Impact:  For SSI purposes, Mike has received “unearned income” of $100,000 in the month of December 2004.  After exclusions, the countable income will be $99,980.  Clearly, he does not qualify for an SSI check for December 2004.  Beginning in January 2005, this award will be a countable resource that causes him to be SSI ineligible and will remain so until he reaches the $2000 limit.  For SSDI purposes, this award is not considered in a calculation of Substantial Gainful Activity.  Therefore, this award will not be considered as countable income.  And, of course, SSDI has no resource limit, so this award will not impact his SSDI check.
+
+Some Options to Consider:  Jim should consider placing this money into a properly created Special Needs Trust or Pooled Trust.  Or, Jim could use the money to purchase excluded resources.
+
+CASE EXAMPLE 3 — JANICE
+
+Facts:  Janice was terminated by her employer in March 2002.  Janice believed that she was terminated after she returned to her receptionist job from a lengthy recuperation associated with an auto accident.  Shortly after requesting a job accommodation, she was told that she was no longer needed.  Janice filed a complaint in state court.   While the case was pending, Janice was found eligible for SSI and SSDI.  In December 2004, Janice won her case and received an award of back wages for the period of March 2003 through December 2005.  The back pay award is $119,000.
+
+Impact:  For SSI purposes, the $119,000 will be considered unearned income (even though it is “back pay”) in December 2004.  Thereafter, it will be considered a resource.   For SSDI purposes, the back wages are not considered in the SGA calculation, even though they are wages. Footnote Reference 27   Because Janice engaged in no work activity, these wages will not be considered.  However, the wages will count toward Janice’s insured and cash benefit level status and may increase the amount of her SSDI award. Footnote Reference 28
+
+Footnote 27: In situations where an employer has paid back wages, this is reported to the IRS. If an individual does not apprise SSA of the situation, SSA will find out about this income through the IRS. However, the IRS will report the award as income. Without explanation, SSA may assume that this income was received through regular employment and count the income toward an SGA determination. This is another example of the importance of reporting and explaining changes in income to SSA.
+Footnote 28: RS 01401.140.
+
+Some Options to Consider:  Janice can place the assets into a Pooled Trust.  If she wants to establish a Special Needs Trust, she will need to ask a court to do this.  Or, she can purchase excluded resources with the award.
+
+CASE EXAMPLE #4 — BECKY
+
+Becky receives SSDI of $439 and SSI of $160.  As part of a divorce settlement, Becky will receive $200 per month in alimony from her ex-spouse.  Her attorney did not consider this award’s impact on her SSI benefits and the final decree clearly states that this $200 per month is payable as alimony.
+
+Impact:  For SSI purposes, this $200 per month in alimony is unearned income.  Therefore, after the $20 exclusion, her SSI check will be reduced to $0.  For SSDI purposes, this $200 per month will not count toward an SGA determination.
+
+Some Options to Consider:  Prior to entering this settlement decree, Becky’s attorney should have considered a settlement that directed her now ex-spouse to pay her in-kind support that was NOT food or shelter.  An example would be directing the husband to pay $200 of her car note directly to the financing company. Footnote Reference 29  
+
+Footnote 29: SI 00815.4000 (bills paid by third party to supplier is not income unless anything received as a result is food or shelter).
+
+
+Conclusion
+
+All types of income, earned and unearned, impact the cash benefits of the SSDI or SSI beneficiary.  While the focus of the BPAO and PABSS Projects must remain on how income from employment impacts benefits, it is also a part of being a well-rounded benefits specialist and PABSS project staff person to have a working knowledge of how all types of income impact benefits.  Like everybody else, a beneficiary’s circumstances may bring in a sudden and/or large income payments.  Understanding how that payment will impact continuing eligibility for benefits and what mechanisms are available for protecting the payment will be necessary for the individuals to continue to make informed decisions about employment. 
+
+* Special Thanks to Pat Feedman of the MARC Trust and John Coburn, Cornell WISC State Systems Development Specialist, for their helpful information and contributions to this Policy and Practice Brief.
+

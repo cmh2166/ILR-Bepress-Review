@@ -1,0 +1,625 @@
+Definition of Disability Under the ADA: 
+A Practical Overview and Update
+
+
+
+Introduction
+The first issue in almost all cases arising under Title I of 
+the Americans with Disabilities Act (ADA) is whether the 
+individual has a "disability."  The ADA defines disability 
+as an impairment that substantially limits a major life 
+activity; a record of such an impairment; or being 
+regarded as having such an impairment. Numerous court 
+cases have been dismissed based on a finding that the 
+individual did not have a disability as defined under the 
+ADA.  
+
+When an employer is presented with a request for 
+accommodation or other action required by the ADA, 
+whether the individual has an ADA disability is often an 
+important threshold question.  At times, the disability may 
+be obvious.  In other situations, ADA coverage may not 
+be very clear. Where it is a close call as to whether the 
+impairment is sufficiently severe or of sufficient duration to 
+qualify as an ADA disability, an employer with good 
+human resources management may skip ahead to the 
+issue of reasonable accommodation.  If the employer is 
+able to accommodate the individual's request and enable 
+him/her to apply for a job or keep him/her on the job 
+without undue cost or disruption, it may choose to do so 
+as a smart employment practice regardless of whether 
+there is an ADA obligation.
+
+What is an ADA Impairment?
+Generally, whether an individual has an ADA impairment 
+is reasonably clear and not likely to be litigated if the 
+impairment is obvious or there is a documented diagnosis 
+combined with a substantial limitation on a major life 
+activity.  An "impairment" may be physiological, mental, 
+or psychological.  The ADA broadly defines the term 
+"impairment" as any physiological disorder or condition, 
+cosmetic disfigurement, or anatomical loss affecting one 
+or more of the body's multiple systems, including the 
+special sense organs, neurological, musculoskeletal, 
+respiratory, cardiovascular, reproductive, digestive, 
+genito-urinary, hemic and lymphatic, skin and endocrine 
+systems.  The ADA further defines "impairment" as any 
+mental or psychological disorder, such as mental 
+retardation, organic brain syndrome, emotional or mental 
+illness, and specific learning disabilities.  Neither the 
+statute nor regulations interpreting and implementing the 
+ADA attempt to list all covered disorders or conditions.  
+A comprehensive listing would be almost impossible 
+given the number and variety of possible impairments.  
+
+The definition of impairment does not include physical 
+characteristics (e.g., left-handedness or normal height or 
+weight deviations), common personality traits (e.g., a 
+quick temper), pregnancy, and cultural or economic 
+disadvantages.  There are also certain statutory 
+exclusions from the definition of disability, including 
+individuals engaged in the current use of illegal drugs 
+when the employer acts on the basis of such use.
+
+What is a Major Life Activity?
+The U.S. Equal Employment Opportunity Commission 
+(EEOC) has stated in its ADA regulations  and other 
+guidance documents that major life activities include, but 
+are not limited to: caring for oneself, performing manual 
+tasks, walking, seeing, hearing, speaking, breathing, 
+learning, working, sitting, standing, lifting, reaching, 
+sleeping and mental/emotional processes such as thinking, 
+concentrating and interacting with others.  In litigation, the 
+EEOC has also argued that eating and elimination are 
+major life activities.   
+
+Overall, there has been a lot of litigation examining what 
+constitutes a major life activity.  Courts have generally, 
+but not always agreed with the EEOC's listed activities 
+and have also addressed other major life activities that the 
+EEOC has not previously articulated.  At the highest 
+level, in a case involving asymstomatic HIV infection, the 
+Supreme Court found that the individual had a disability, 
+holding that reproduction is a major life activity.   The 
+Court noted that an activity does not have to have a 
+public, economic, or daily dimension to be a major life 
+activity.  The Supreme Court has also noted in passing 
+that running is a major life activity. 
+
+What Does "Substantially Limits" Mean? 
+An impairment is only a "disability" under the ADA if it 
+substantially limits one or more major life activities. An 
+individual must be unable to perform, or be significantly 
+limited in the ability to perform, an activity as compared 
+with an average person in the general population.  The 
+nature and severity, duration, and impact of the 
+impairment would all be relevant factors to consider.  
+
+The EEOC has taken the position that some impairments, 
+for example, blindness or deafness, are inherently 
+substantially limiting.  Many other impairments, however, 
+may or may not be disabling depending on their impact 
+on the particular individual's functioning.
+
+There has been a lot of litigation on what "substantially 
+limits" means.  A survey of the case law indicates that 
+merely because an impairment affects a major life activity 
+generally does not necessarily mean that it will meet the 
+"substantially limits" standard.  The restriction must be 
+significant.  Moreover, courts have sometimes looked at 
+the activities the person can perform in determining 
+whether s/he is actually substantially limited.  For 
+example, in one case the court found that the plaintiff was 
+not substantially limited in walking, noting that the plaintiff 
+lived an active lifestyle, could hunt, fish and play eighteen 
+holes of golf as well as anyone, march double time and 
+run a mile and a half in 15 minutes.  
+
+In terms of duration, short-term impairments with no 
+long-term or permanent effects would not generally be 
+considered "substantially limiting."  The trick is in defining 
+short term. EEOC has stated that while this is always a 
+case-by-case determination, an impairment that lasts a 
+few days or weeks would generally be considered short 
+term. (One EEOC Compliance Manual example found a 
+six week impairment to be short term.) Various courts 
+have held that conditions lasting from two weeks to three 
+and a half months are short term and not considered to 
+be a disability.  Other courts have found that conditions 
+lasting seven months and ten months (six months of 
+severe restriction followed by four months of moderate 
+restriction) were not disabilities because they were 
+respectively, too short or only of temporary duration.  
+
+However, the EEOC and a number of courts have taken 
+the position that if the impairment lasts at least several 
+months, it may be substantially limiting.  The common 
+dictionary definition of "several" is more than two or three 
+but not many.   The EEOC's position is that an 
+impairment does not have to be permanent to qualify as a 
+disability. 
+
+Frequently, it may not be possible to predict the exact 
+duration of a medical condition.  The EEOC's position is 
+that if a condition is severe with an indefinite and 
+unknowable duration, it may qualify as a disability.  
+Chronic conditions that are substantially limiting when 
+active may also be disabilities.  This would include, for 
+example, episodic conditions such as bi-polar disorder.  
+A temporary impairment that may have permanent or 
+residual long-term effects, such as a concussion resulting 
+in permanent brain damage, may also rise to the level of 
+disability.
+
+In short, an impairment or its resultant effects must be 
+sufficiently severe and sufficiently long term (at least 
+several months) to rise to the level of disability, but need 
+not be permanent. 
+
+Example: An individual has a ten-pound lifting 
+restriction because of a back impairment.  She would 
+generally be viewed as being substantially limited in 
+the major life activity of lifting because most people 
+are able to lift amounts in this weight range. 
+
+Example: An individual has a thirty-five pound lifting 
+restriction because of a back injury.  He would 
+generally not be viewed as substantially limited in the 
+major life activity of lifting since this does not 
+constitute a significant restriction on the ability to lift, 
+work or engage in other major life activities when 
+compared to the average person's abilities.
+
+What About Mitigating Measures? 
+The position initially taken in the EEOC regulations, and 
+followed by many courts, was that mitigating measures 
+such as medication or prosthetic devices should not be 
+considered in determining whether an individual's 
+impairment rises to the level of disability.  The Supreme 
+Court, in a series of three decisions in 1999, took a 
+completely different position.
+
+In each of these cases, the primary issue before the 
+Supreme Court was whether the plaintiffs--sister pilots 
+whose uncorrected vision did not meet an airline's 
+standards,  a mechanic whose high blood pressure 
+precluded him from meeting Department of 
+Transportation (DOT) standards for commercial drivers' 
+licenses,  and a truck driver with monocular vision who 
+could not meet regular DOT licensing standards --
+qualified as persons with a disability.  The Court found 
+that none of them did when mitigating measures, such as 
+glasses, medication and compensating behaviors, were 
+taken into account. The Court held that a disability exists 
+only when an impairment substantially limits a major life 
+activity, not where it "might," " could," or "would" be 
+substantially limiting if mitigating measures were not taken. 
+
+What Does EEOC Now Look for in Determining 
+Disability?
+After the Court issued its decisions, the EEOC sent new 
+instructions to its field investigators regarding impairments 
+and mitigating measures and compensating behaviors.  
+EEOC instructed its investigators to focus on whether the 
+measure or behavior fully or only partially controls the 
+symptoms or limitations of the impairment.  
+
+
+The instructions noted that the following major life 
+activities may be significantly impacted by certain 
+mitigating measures:
+
+* Thinking, concentrating, and other cognitive 
+functions may be impacted by side effects of 
+certain medications;
+* Walking, standing and lifting may be substantially 
+limited even with the use of prosthetic legs, feet 
+or hands;
+* Eating - severe nausea may be caused by certain 
+medications, or a very rigid eating schedule may 
+be required;
+* Caring for oneself - e.g., the changes/disruptions 
+to daily activities that are required to control 
+diabetes;
+* Sleeping - certain medications may cause 
+drowsiness or sleep may be disrupted by certain 
+medications;
+* Performing manual tasks - fine motor skills may 
+be impacted by certain medications; 
+* Reproduction - certain drugs for controlling 
+seizures or psychiatric illnesses may cause birth 
+defects thus substantially limiting procreation; and
+* Working 
+
+EEOC noted that mitigating measures may not be as 
+effective in all circumstances (e.g., during times of stress 
+or in certain weather conditions) or may sometimes lose 
+effectiveness over time.  The EEOC field instructions also 
+direct investigators to focus on whether a mitigating 
+measure has any side effects, either alone or in 
+combination with another mitigating measure, that may 
+substantially limit a major life activity. 
+
+Note that mitigating measures must be considered under 
+all three prongs of the definition of disability.
+
+Example: An individual has insulin dependent diabetes 
+and uses insulin to attempt to control his condition. 
+Nonetheless, he must eat certain types and quantities 
+of food in order to minimize blood sugar fluctuations. 
+ In addition, when his blood sugar level drops, he 
+must stop whatever he is doing and find the kinds of 
+food that will bring his sugar levels back to normal.  If 
+he does not do this, he will experience disabling 
+episodes of dizziness, weakness, and loss of 
+concentration.  This individual could be viewed as 
+being substantially limited in the major life activity of 
+eating.  
+
+EEOC has stated that some conditions, such as severe 
+back problems and most forms of heart disease and 
+cancer, may require a substantial limitation of a major life 
+activity to prevent or lessen the likelihood or severity of 
+recurrence.  For example, some people with severe back 
+problemsr may be physically able to perform an activity, 
+but cannot do so because performing it could make their 
+condition more severe.  Most courts have also found that 
+cancer is a covered disability, either because the cancer 
+limits a major life activity or because there is a record of 
+such a limitation.  EEOC has also stated that pregnancy 
+would not be considered a disability, although 
+complications associated with pregnancy, such as high 
+blood pressure resulting in extended bed rest, may 
+substantially limit major life activities.
+
+Disabled in Working  
+Working is probably the most difficult major life activity 
+to analyze and the EEOC instructions state that its 
+investigators initially should determine whether an 
+impairment substantially limits a major life activity other 
+than working.  If no other major life activities are signifi-
+cantly limited , the last step of the analysis is to determine 
+whether the individual is substantially limited in the major 
+life activity of working.  
+
+A person is substantially limited in the major life activity of 
+working if s/he is significantly restricted in the ability to 
+perform a class of jobs or a broad range of jobs in 
+various classes as compared with the average person 
+having comparable training, skills and abilities.  The 
+geographical area to which the person has reasonable 
+access is considered, as is the number of jobs requiring 
+similar skills and abilities (class) and dissimilar skills and 
+abilities (broad range).  The inability to perform a single, 
+particular job does not constitute a substantial limitation in 
+the major life activity of working.
+
+EEOC has stated that a class of jobs could include a 
+category like heavy labor jobs (e.g., a laborer with a 
+back condition that precludes heavy lifting), jobs requiring 
+the use of a computer (e.g., a person with a visual 
+impairment that precludes them from reading off a 
+computer screen), or clerical jobs.  
+
+EEOC has also given examples of when a person is 
+restricted in performing a "broad range of jobs."  These 
+include someone precluded by allergy from working in all 
+high-rise buildings and someone precluded because of a 
+hearing impairment from working in all noisy 
+environments like carpentry, auto repair, demolitions and 
+airport grounds work. 
+
+There has been a lot of litigation on this issue.  For 
+example, one court analyzed whether an employee's 
+tendonitis, which precluded her from working in jobs 
+involving repetitive hand motions, substantially limited a 
+class or broad range of jobs.  The court found that the 
+restrictions precluded the employee from a wide group of 
+jobs in the metropolitan area, including virtually any 
+assembly line job that required repetitive movement.   In 
+another case, the court considered whether a "roof 
+bolter" with a shoulder injury was substantially limited in 
+working when he could not perform overhead work, 
+heavy lifting, or pulling and pushing out from his body.  
+The court stated that this injury could pose a substantial 
+limitation in working because it might apply to a broad 
+range of jobs, including any position in at the coal mine or 
+in related work such as construction.   
+
+Another court found that a person's non-insulin 
+dependent diabetes caused him to become so irritable 
+that he could not get along with co-workers and others 
+substantially limited him in working.  The court opined 
+that the ability to get along with coworkers and customers 
+is necessary for all but the most solitary of occupations. 
+
+Courts have found that the inability to work for a 
+particular supervisor  or in a particular building  does 
+not rise to the level of being unable to perform a class of 
+jobs or a broad range of jobs in various classes.  
+
+Another important point is that courts sometimes seem to 
+focus on what jobs the person can still do in determining 
+whether the person is disabled in working, which is not 
+part of the EEOC's analysis.  For example, in one case, 
+the Supreme Court held that the plaintiff was not 
+substantially limited in working, noting that there were 
+many other jobs the plaintiff could perform, including 
+mechanic jobs not requiring DOT certification. 
+
+Record of Disability
+The second prong of the definition of disability covers 
+persons who have a history of, or have been classified or 
+misclassified as having, a physical or mental impairment 
+that substantially limited one or more major life activities.  
+Note that an individual who has a record of disability 
+under other laws or regulations does not necessarily have 
+a record or disability under the ADA.  For example, a 
+finding of disability under workers' compensation laws 
+does not necessarily equate to an ADA disability.  
+
+EEOC has also noted that since mitigating measures must 
+now be considered, some people who do not have a 
+current disability will come under this second prong 
+based on their condition prior to taking medication or 
+beginning use of another mitigating measure.
+
+Example: Several years ago, an individual 
+experienced a severe form of depression that made it 
+impossible to function in day-to-day life.  Her 
+condition necessitated a month of hospitalization and 
+a year of outpatient treatment, including 
+psychotherapy and medication.  She has now made a 
+full recovery.  This person has a record of disability 
+under the ADA.
+
+Regarded as Disabled 
+An individual is covered under this prong if s/he can show 
+that the employer made an employment decision based 
+on myths, fears or stereotypes about disability.  The third 
+prong of the definition of disability can arise in any of 
+three ways.  
+
+A person many have an impairment that is not 
+substantially limiting, but is treated by the employer as 
+though it is substantially limiting.  For example, an 
+individual with controlled high blood pressure may have 
+no physical restrictions. If the employer refuses to assign 
+him/her physical work of any kind in light of his condition, 
+the employer is regarding him/her as being disabled.
+
+A person may have an impairment that is only physically 
+limiting because of the attitudes of others.  For example, 
+an employee has severe facial scars from an accident.  
+The employer refuses to put this person in a customer 
+service position, although s/he is able to do the job, 
+because it is concerned about the public's reaction.  This 
+impairment is only substantially limiting because of the 
+negative attitudes of others. 
+
+An employer incorrectly believes that a lifeguard has a 
+serious heart condition and removes him/her from the job. 
+ In fact, the lifeguard does not have a heart condition.  
+The employer is regarding him/her as having a 
+substantially limiting impairment.
+
+The EEOC has stated that an employer's knowledge of 
+an impairment (or perceived impairment) is critical in 
+"regarded as" cases.  Courts have also adopted this 
+position.  For example, one court rejected the 
+employee's "regarded as" claim because the employee 
+produced no evidence that supervisors and management 
+were aware that she had a mental impairment diagnosis.  
+ On the other hand, an employer's awareness of an 
+employee's impairment is not enough by itself to 
+demonstrate that the employer regarded the employee as 
+disabled or that the perception caused the adverse 
+employment action. 
+
+Regarded as Disabled in Working
+Many "regarded as" cases involve the major life activity 
+of working.  To be covered under this prong, an 
+individual would need to show that the employer 
+perceived him/her as having an impairment that prevented 
+or substantially limited work in a class of jobs or a broad 
+range of jobs in various classes (not just one job or a 
+narrow class of jobs).  The EEOC has taken the position 
+that it will analyze these cases by looking at the criterion 
+that the employer has used to disqualify the individual and 
+determine whether the criteria applies to one particular 
+job or to a class or broad range of jobs.  Such criteria 
+might include:
+
+* vision or hearing standards
+* ability to lift certain weights
+* working at certain heights 
+* working with certain tools, equipment or 
+substances
+* ability to work under high stress situations.
+
+Note that the criteria need not be a formal requirement 
+listed in a job description or elsewhere but rather is the 
+reason that the employer thinks the person cannot do the 
+job.  The EEOC has stated that an employer can be 
+liable under the "regarded as" section of the ADA only if 
+it believes that the impairment precludes or restricts the 
+person from meeting a qualification standard or criterion. 
+ This approach is also reflected in the case law. 
+
+For example, in one case the court determined that the 
+employer believed that the employee could not handle the 
+stress or hours of a supervisory position following surgery 
+for a brain tumor and demoted him.  The court concluded 
+that this employer regarded the employee as unable to 
+perform a class of supervisory jobs.   
+
+
+
+Genetic Discrimination
+The "regarded as" part of the definition of disability may 
+protect an individual against discrimination based on 
+genetic information relating to illness, disease or other 
+disorders.  For example, the EEOC has stated that if an 
+employer withdraws a job offer based upon a person's 
+medical history showing an increased susceptibility to 
+colon cancer, because of the employer's concerns about 
+matters such as productivity, insurance costs, and 
+attendance, the employer would be regarding the person 
+as having a substantially limiting impairment.
+
+Practical Tips on Determining Disability
+Medical documentation is a good starting point for 
+determining disability since it may include information on 
+limitations related to an impairment.  Generally, the 
+individual with a disability will be able to describe his/her 
+limitations.  Friends, family members, supervisors, 
+rehabilitation counselors and occupational or physical 
+therapists may also have direct knowledge of a person's 
+restrictions.  The employer's own observations may also 
+supply or confirm relevant information relating to 
+disability. 
+
+Resources: 
+ADA Regional Disability and Business Technical 
+Assistance Center Hotline
+(800) 949-4232 (voice/TDD)
+
+U.S. Equal Employment Opportunity Commission 
+1801 L Street, NW
+Washington, DC  20507
+To be connected to the nearest field office, call (800) 
+669-4000 (voice), (800) 669-6820 (TTD). To order 
+publications, call (800) 669-3362 (voice), (800) 800-
+3302 (TDD).  For on-line information, including EEOC 
+Compliance Manual Section 902, Definition of the Term 
+"Disability," go to: http://www.eeoc.gov
+
+This brochure is one of a series on human resources practices 
+and workplace accommodations for persons with disabilities 
+edited by Susanne M. Bruyère, Ph.D., CRC, SPHR, Director, 
+Program on Employment and Disability, School of Industrial 
+and Labor Relations - Extension Division, Cornell University.  
+It was written in September, 2001 by Sheila D. Duston, an 
+attorney-mediator practicing in the Washington, DC 
+metropolitan area.  
+
+Cornell University was funded in the early 1990's by the U.S. 
+Department of Education National Institute on Disability and 
+Rehabilitation Research as a National Materials Development 
+Project on the employment provisions (Title I) of the ADA 
+(Grant #H133D10155).  These updates, and the development of 
+new brochures, have been funded by Cornell's Program on 
+Employment and Disability, the Pacific Disability and Business 
+Technical Assistance Center, and other supporters.
+
+Cornell University currently serves as the  Northeast Disability 
+and Business Technical Assistance Center. Cornell is also 
+conducting employment policy and practices research, 
+examining private and federal sector employer responses to 
+disability civil rights legislation.  This research has been 
+funded by the U.S. Department of Education National Institute 
+on Disability and Rehabilitation Research  (Grant 
+#H133A70005) and the Presidential Task Force on 
+Employment of Adults with Disabilities.  
+
+The full text of this brochure, and others in this series, can be 
+found at: www.ilr.cornell.edu/ped/ada.  Research reports 
+relating to employment practices and policies on disability 
+civil rights legislation, are available at: 
+www.ilr.cornell.edu/ped/surveys
+
+For further information, contact the Program on Employment 
+and Disability, Cornell University, 102 ILR Extension, Ithaca, 
+New York 14853-3901; 607/255-2906 (Voice), 607/255-2891 
+(TTY), or 607/255-2763 (Fax).
+
+More information is also available from the ADA Technical 
+Assistance Program and Regional Disability and Business 
+Technical Assistance Centers, (800) 949-4232 (voice/TTY), 
+www.adata.org
+
+
+Disclaimer
+
+This material was produced by the Program on Employment and 
+Disability, School of Industrial and Labor Relations-Extension 
+Division, Cornell University, and funded by a grant from the 
+National Institute on Disability and Rehabilitation and 
+Rehabilitation Research (grant #H133D10155).  The U.S. Equal 
+Employment Opportunity Commission has reviewed it for 
+accuracy.  However, opinions about the Americans with 
+Disabilities Act (ADA) expressed in this material are those of the 
+author, and do not necessarily reflect the viewpoint of the Equal 
+Employment Opportunity Commission or the publisher.  The 
+Commission's interpretations of the ADA are reflected in its 
+ADA regulations (29 CFR Part 1630), Technical Assistance 
+Manual for Title I of the Act, and EEOC Enforcement Guidance.
+
+Cornell University is authorized by the National Institute on 
+Disability and Rehabilitation Research (NIDRR) to provide 
+information, materials, and technical assistance to individuals 
+and entities that are covered by the Americans with Disabilities 
+Act (ADA).  However, you should be aware that NIDRR is not 
+responsible for enforcement of the ADA.  The information, 
+materials, and/or technical assistance are intended solely as 
+informal guidance, and are neither a determination of your legal 
+rights or responsibilities under the Act, nor binding on any 
+agency with enforcement responsibility under the ADA.
+
+The Equal Employment Opportunity Commission has issued 
+enforcement guidance which provides additional clarification of 
+various elements of the Title I provisions under the ADA.  
+Copies of the guidance documents are available for viewing and 
+downloading from the EEOC web site at:  http://www.eeoc.gov 
+
+
+  29 C.F.R. Part 1630 (2001).
+
+  For an excellent survey of the case law and EEOC policy, see 
+Resolving ADA Workplace Questions, How Courts and Agencies are 
+Dealing with Employment Issues, David K. Fram (National 
+Employment Law Institute, 10th Edition, April 2001)(referred to as 
+Resolving ADA Workplace Questions).  Generalized references to 
+case law trends or court findings throughout this article are credited to 
+this comprehensive resource unless otherwise noted.  
+
+ Bragdon v. Abbot, 524 U.S. 624 (1998).
+
+ Sutton v. United Airlines, Inc., 527 U.S. 471 (1999).
+ Lamb v. Bell County Coal Corp, 1999 US APP LEXIS 22201 (6th 
+Cir. 1999)(unpublished).  
+
+  See Resolving ADA Workplace Questions, Ch. 1.
+
+ The American Heritage Dictionary (3rd Ed. 1996).
+
+  Sutton v. United Air Lines, Inc., 527 U.S. 471 (1999).
+  Murphy v. United Parcel Service, 527 U.S. 516 (1999).
+  Kirkingburg v. Albertson's, 527 U.S. 555 (1999).
+  See Resolving ADA Workplace Questions, Ch. I. But see Ellison v. 
+Software Spectrum, Inc., 85 F.3d 187 (5th Cir. 1996)(woman who 
+was treated for breast cancer with daily radiation did not have a 
+disability under the ADA, because she was not limited in the major 
+life activity of working, which was the only major life activity raised at 
+the lower court level).
+  See Resolving ADA Workplace Questions, Ch. I.
+ 
+  Depaoli v. Abbott Laboratories, 140 F.3d 668 (7th Cir. 1998).
+
+  Cochrum v. Old Ben Coal Co., 102 F.3d 908 (7th Cir. 1996).
+
+  Gilday v. Mecosta County, 124 F.3d 760 (6th Cir.), amended, 7 AD 
+Cases 1268 (6th Cir. 1997).
+  See, e.g., Weiler v. Household Finance Corp., 101 F.3d 519 (7th 
+Cir. 1996).  
+  See, e.g., Mobley v. Board of Regents of University System of 
+Georgia, 924 F. Supp. 1179 (S.D. Ga. 1996). 
+  Murphy v. United Parcel Service, 527 U.S. 516 (1999)
+  Webb v. Mercy Hospital, 102 F.3d 958 (8th Cir. 1996).
+  See, e.g., Reeves v. Johnson Controls World Services, Inc., 140 
+F.3d 144 (2d. Cir. 1998).
+  Cline v. Wal-Mart Stores, Inc., 144 F.3d 294 (4th Cir. 1998).
+Definition of Disability Under the ADA: A Practical Overview and Update
+
+
+September, 2000	Cornell University

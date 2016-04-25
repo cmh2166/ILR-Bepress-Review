@@ -1,0 +1,643 @@
+Self-employment and the Benefits Planning Process
+Part II -- The Case of Brenda Smith
+
+
+This is one of a series of articles written for benefits specialists employed by Benefits Planning, Assistance and Outreach (BPA&O) projects and attorneys and advocates employed by Protection and Advocacy for Beneficiaries of Social Security (PABSS) programs.  Materials in this policy brief have been reviewed for accuracy by the Social Security Administration (SSA), Office of Employment Support Programs.  However, the thoughts and opinions expressed in these materials are those of the authors and do not necessarily reflect the viewpoints or official policy positions of the SSA.  The information, materials and technical assistance are intended solely as information guidance and are neither a determination of legal rights or responsibilities, nor binding on any agency implementation and/or administrative responsibilities.
+
+The author is Mary Ridgely Training and Organizational Development Specialist for the Cornell Work Incentives Support Center serving the BPAO projects in Regions I, II and V.
+
+
+I. The Initial Meeting
+
+Brenda is an SSI recipient referred to you for a benefits analysis.  She recently applied to the state VR agency for services, and the benefits analysis is part of her plan for employment.  
+
+When you meet with Brenda in July 2004, you learn that she is in her late forties, is married, and is getting SSI benefits because of a spinal cord injury that she sustained in her early twenties.  Her state’s Medicaid waiver program provides the funding for chore services and personal assistant services for a total of 8 hours per day.  As an SSI recipient, she does not have a spenddown, or cost share, for these services.  You learn that her husband work’s part-time as a clerk in a gas station, where he earns $600 a month (gross). He is also a self-employed photographer, but he is not earning any profit from the small amount of work he currently gets.
+
+Brenda’s goal is to join her husband in self employment.  She wants to be the business manager for the photography business, do all of the marketing, customer relations, set up the photo shoots, and manages the books.  The state VR agency will help her with this goal by purchasing furniture, office equipment, software and training for her to develop the necessary skills to perform these duties. Before she gets too far along in the business plan development, however, she wants to discuss how her benefits will be affected if she accomplishes her goal.  She is particularly concerned about her Medicaid benefits, because that is how her support services are funded.
+
+After Brenda signs a release, you request a BPQY from the local SSA office.  (See Appendix A)
+
+Discussion Questions:
+
+1. What is your analysis of the BPQY?  
+2. What issues need to be further explored with Brenda in order to do the analysis?  
+3. What questions would you ask her in order to get more information?
+
+Answers:
+
+1. The BPQY shows work activity spanning a period of five years, from 1996 to 2002.  
+2. Is Brenda going to be a partner in the business, or is she going to be employed by her husband?  What other option might they consider?
+3. You would ask the following questions:
+* What is their housing situation?
+* Are there specific income requirements for the Medicaid waiver program?
+* An increase in her husband’s income could affect her benefits.  Will he continue to work at the gas station once the business is up and running?
+* When did SSA last review her SSI eligibility?
+
+
+II. Starting the Analysis
+
+A. Clarifying the Data
+
+You suspect that Brenda has reached insured status for Title II benefits because of the work earnings reported on the BPQY.  You ask her permission to call the SSA to discuss this issue.  She agrees and you put in a call to the Work Incentives Liaison in the local office.  The WIL looks at her record and tells you that Brenda is entitled to SSDI benefits on her own record.  He calculates her monthly benefit will be $299 per month, which is retroactive back to July 2002.
+
+You meet with Brenda to share what you’ve learned from SSA and to discuss her employment options.  You tell Brenda that, in order to do your analysis, you need to know how she expects to be involved in the business: as a partner in the business, an employee of her husband’s business, or being the business owner and employing her husband.  You recommend that she consult with a tax specialist or business consultant and inform you of her decision.  She agrees to do that, but her immediate concern is the SSDI.  She needs assurance that she will not lose her Medicaid when she has unearned income.
+
+Discussion Questions:
+
+1. What do you tell Brenda about the impact that the SSDI will have on her SSI and Medicaid?  
+2. What does Brenda need to do next about the SSDI?  
+3. What “red flag” goes up when you realize that Brenda’s entitlement to SSDI is retroactive and she will get a lump sum payment?  
+4. Based on the earnings reported on the BPQY, has Brenda used any Trial Work months?  The BPQY does not mention any, but you know that you cannot always trust the BPQY to be accurate.  What information do you need in order to answer this question?
+
+Answers:
+
+1. SSA will apply the General Income Exclusion when calculating Brenda’s SSI payment once she is receiving SSDI, so that all but $20 of the SSDI will offset Brenda’s SSI.  The SSDI is low enough that Brenda will continue to get a cash payment from SSI. Using the Federal Benefit Rate of $564 and assuming no State Supplement, Brenda’s new SSI payment will be $285 per month in 2004. ($299 SSDI minus $20 general income exclusion = $279 countable unearned income.  $564 - $279 = $285).  However, she is entitled to a back payment of SSDI benefits.  You tell Brenda that she will receive a lump sum payment for the back SSDI benefits, but that she will be considered “overpaid” in SSI benefits for the same period.  SSA will collect the overpayment by withholding the same amount from her retroactive SSDI benefits.  Since Brenda will still be getting an SSI payment, she will continue to be eligible for Medicaid. She will actually have $20 more each month in disposable income because of the $20 general income exclusion. Her Medicaid coverage will continue because she is receiving regular SSI payments.
+2. Brenda needs to contact the local Social Security office and file an application for SSDI benefits as soon as possible.  SSI recipients are required to file for any other source of income, so Brenda does not have a choice in the matter.  She can file by calling the local office and they will send her the forms, or by setting up an appointment to meet with the Claims Representative, who will take the claim and file the appropriate forms.
+3. Will the lump sum payment in SSDI put Brenda over the resource limit?  If so, she has 9 months to “spend down” before the excess is counted and she would lose SSI/Medicaid eligibility.  Because of the offsetting of the SSI overpayment, however, it is unlikely that Brenda will have excess resources.  Brenda has been underpaid in SSDI benefits a total of $7,176 for the period from July 2002 through June 2004.  However, she is OVERPAID in SSI benefits for the same period, because she received a full SSI payment even though she was entitled to SSDI benefits.  The 2002 FBR was $530; the FBR for 2003 was $545.  Assuming that the SSDI benefit is $299 for the entire period, the SSA calculates her SSI overpayment as follows:
+
+2002 $530 – 279 = $251 x 6 months = $1,506
+2003 $545 – 279 = $266 x 12 months = $3,192
+2004 $564 – 279 = $285 x 6 months = $1,710
+Total = $6,408
+
+The difference between the SSDI underpayment and the SSI overpayment equals: $7176 – 6408 = $768.  That is the amount that Brenda will receive.  You must remind her that if this payment puts her over the resource limit of $2000, she has nine (9) months to spend it before SSA will count it. (Section 431 of the Social Security Protection Act of 2004 increases (to 9 months) the time period for excluding from resources the amounts attributable to payments of past-due Social Security and SSI benefits and earned income and earned income and child tax credits.)
+
+4. You need to know the following in order to do your analysis: What was the Trial Work Period earnings limit for the years that Brenda was working?  Has the field office “developed” the Trial Work Period data?  Is there a “protected filing date” for the SSDI claim?  A protected filing date is one in which the SSI review was conducted, therefore establishing that Brenda was entitled to SSDI, even though she did not file at that time.  Typically, an SSI recipient is reviewed annually to ensure that the eligibility is ongoing.  However, in some cases this does not occur due to the CDR mailer that is used to predict the probability of medical recovery.  Individuals on a seven-year diary may not have a full review.
+
+You will need to verify this with the Work Incentive Liaison, but there is a possibility that none of the work Brenda did during those years counted as Trial Work Months.  That is because the Trial Work Period begins with the earliest of: the date of entitlement or the date of filing for benefits.  The section of the POMS that guides the field office in the decision is below.
+
+B. When the TWP Begins (DI 13010.055)
+
+“Use the following policies to determine when the TWP begins.
+* The TWP begins with the month in which a disabled individual becomes first entitled, or is re-entitled, to a title II disability benefit, provided this month is not prior to the month the application was filed. 
+* No TWP can begin earlier than the month in which the application was filed. 
+* When the initial disability benefit entitlement is based on a protective filing date, the protective filing date is the application date, so the TWP cannot begin before the protective filing date.”
+
+Because Brenda was on a seven-year medical review schedule, it is possible that the local office did not have contact with her regarding the SSI benefit.  If that was the case, there was no “protective filing date” and the earliest her TWP could begin is July 2004.  None of the work she did previously would count toward a TWP.  
+
+This is a very complicated decision and one that is made by the local office when the application is filed.  The benefits specialist needs to be aware of this issue in order to be a good advocate on behalf of the beneficiary.
+
+C. Making Decisions
+
+Brenda tells you she can’t make a decision to be a partner in the business or be an employee of the business with her husband as the owner (they have decided that having Brenda be the employer is not an option) without knowing how each option will affect her benefits.  She asks you to give her an analysis of each.  She wants to know which option would be to her best advantage. You learn that the prevailing wage in her community for a Business Manager for a photographic or similar business is $2,000 per month for a full-time employee.  She will have Impairment Related Work Expenses totaling $100 a month.
+
+You learn that Brenda and her husband own their home, which is a ranch style house.  Their plan is to remodel a large bedroom/den at one end of the house to serve as the studio.  Brenda will use a smaller room as her office.  Their adult son will help with the business by offering Brenda some support in the office.  He will run errands, e.g. go to the post office, buy supplies, take documents to the copy shop, etc.  He is a part-time student and lives in their home rent-free.  Brenda estimates that he will spend an average of 15 hours per week helping them.  The prevailing wage for this type of help is $6.00 per hour.
+
+They already own most of the photographic equipment necessary for the business, but some purchases will have to be made such as background material for the photo shoots, stools and other props, and they will have to make a substantial investment in regular inventory such as film, bulbs for studio lights, and other expendable supplies.  As part of Brenda’s Individualized Plan for Employment, the VR counselor will fund most of the start-up costs.
+
+Given the expenses they will incur and the financial assistance from DVR and a small business loan, Brenda and her husband estimate that the annual net income from the business, if they are partners, will be $7500 in the first year and $12000 in year two.  Year three they expect the income to jump to $27,000.  These figures are the difference between the gross receipts they expect minus the expenses such as space, supplies, advertising, etc.  If Brenda is an employee of the business, works half-time during the first two years and increases to full-time the third year of operation, they business will report a net loss of $5,400 for the first year, break-even in the second year, and show a small profit in year three.  These projections are based on the fact that the competition for customers will be tough.  There are several well-established independent photographers in their community, and their net income ranges from $30,000 to $50,000 per year.
+
+Discussion Questions:
+
+1. Based on what you know about the effect of regular employment versus self employment on SSI, SSDI and health care, what do you tell Brenda?
+2. How will Brenda’s husband’s income affect her benefits?
+3. If the son does not get paid to help with the business, how will that factor into the analysis?
+4. What issues might the VR agency supporting Brenda have with providing funding for the studio/photographic equipment and supplies?
+5. What work incentives might Brenda want to consider as she develops her plan?
+
+Answers:
+
+1.a. Brenda is an employee of the business, which is owned by her husband.
+
+In your analysis, you explain to Brenda the difference between being an employee of the business and being self-employed.  As an employee, Brenda would be paid at the prevailing wage and receive regular paychecks. Using that information, you determine her gross wages would be $2,000 if she works full time and $1,000 if she only works half-time.  Based on this information, you explain that she will use her Trial Work Months (if they weren’t already used during her past employment), and SSA will conduct a work CDR.  You would explore with Brenda the possibility of Impairment Related Work Expenses or Subsidy/Special Conditions.  If you consider the IRWE she has already mentioned, her countable earnings would be $1900 at full-time and $900 at half-time. The work that Brenda’s son does could be considered an IRWE if they consider that the room and board he receives is “in-kind” income.  Once her VR file is closed, she may have to purchase other types of adaptive software or equipment as hers can become obsolete quickly.  In addition, Brenda has Personal Assistant Services throughout the day, and some of these may be available to assist her while she’s working.  If paid by VR or Medicaid, this could be considered a special condition.  Because she is working for her husband in this scenario, discuss the possibility of employer subsidy: due to the severity of her disability, will she need more support to function on the job or work more slowly than a non-disabled employee? 
+
+If Brenda does not have sufficient IRWE or Subsidy to reduce her countable income below SGA, her benefits will be “ceased” and payments suspended for any month her earnings are over SGA.  Using a tracking worksheet (Appendix B) and a hypothetical start date for the employment, you show Brenda the beginning and end of the Trial Work Period, the Cessation Month and Grace Months, the Extended Period of Eligibility, the Extended Medicare Period, and the point at which her SSDI benefit status would be terminated.  You educate her about Expedited Reinstatement, and reinforce that, during the EPE, she will receive a benefit check for any month that she is unable to earn at or above the SGA level.  You remind her that the SGA level will change each year, so she will want to contact the SSA or a benefits specialist in January to ask what the level is for that year.
+
+You would also have to explain the impact the earnings will have on her SSI.  As a concurrent beneficiary, the point at which Brenda’s SSI is reduced to zero, the Break-even Point (BEP), is lower than for someone who gets only SSI.  Brenda is receiving a monthly SSDI payment of $299 in 2004, which means her BEP is $635.  ($299 - $20 = $279 countable unearned.  $564 – 279 = $285 SSI.  $285 + 285 + 65 = $635 BEP)  During the twelve month period in which Brenda is in her TWP, cessation and grace months, Brenda would have $279 of countable unearned income and $417.50 of countable earned income, for a total of $696.50 of countable income if she works half-time. That is too high for her to qualify for the SSI cash benefit, even if you account for the increase in the Federal Benefit Rate in January 2005. You explain to Brenda that the Medicaid coverage will continue under the 1619(b) provision.  When she increases to full-time and her SSDI payments are suspended because she is considered earning at the SGA level, her countable earned income would be $907.50.  This is too high to be eligible for an SSI payment, but Medicaid coverage would continue.  (The $100 IRWE is included in the calculation of countable earned income.) 
+
+Because of Brenda’s severe physical disability and the need for Medicaid-funded attendant care and other medical services, her Medicaid costs exceed that of the average SSI recipient.  You explain that her annual income threshold for 1619(b) would be higher than the states’s threshold, and you offer to estimate the individualized threshold by getting a report of Brenda’s actual Medicaid expenses for the previous 12 months.  You then use the individualized threshold computation worksheet (Appendix C) to estimate her threshold.  Having this information will help Brenda determine whether she can receive salary increases when/if the business is doing well.
+
+You explain to Brenda that when her SSDI benefits are suspended and/or terminated due to SGA level earnings, the BEP will be higher.  If a new calendar year has begun and the FBR is higher, you can compute the monthly BEP by multiplying the FBR by 2 and adding $85.  If her gross wages paid in a month are below the BEP, Brenda will get an SSI payment, and will return to regular Medicaid status.
+
+You also inform Brenda that her husband’s income may affect her eligibility for SSI benefits, but not the SSDI.  Currently, his earnings are not sufficient for deeming to occur, but if he pays himself a salary from the business, or his net profit is high enough, SSA will deem a portion of his income to her.  The combination of SSDI and both of their earned income may make her ineligible for SSI, but when the SSDI is suspended/terminated that would change.  The bottom line is that Brenda must be very careful to report her husband’s earnings as well as her own.
+
+1.b. Brenda and her husband own the business together.
+
+In this scenario, you would explain to Brenda that net income from self employment, or NESE, is the measure SSA uses to determine if she is engaging in SGA.  They also use NESE to calculate the SSI payment.  You would explain that a Trial Work month is used when the net income for the month is at or above the TWP earnings level ($580 in 2004), OR, when she spends 80 hours or more engaged in the business activity.  You explain that it is up to her to document the time she spends in the business and report that to the SSA.  The time she spends in starting up the business – doing the business plan, getting marketing material developed, getting the skills needed to do the job – is not considered Trial Work Period activity.  Only when she is “open for business” does the Trial Work Period begin.  If Brenda cannot spend at least 80 hours working for the business, or if her net income is not at or above the TWP limit, she will not exhaust her TWP.
+
+When the TWP months are complete, however, SSA will conduct the work CDR to determine if her self employment activity constitutes SGA.  You explain the three tests SSA may use to make this determination: 1) Significant Services and Substantial Income; 2) Comparability of work; and 3) Worth of work.  In her case, because she and her husband will own the business together, SSA must determine if she is providing significant service to the business.  If not, she is not doing SGA level work.  In the first test, both factors must be present.  One without the other is not evidence of SGA level work.  If SSA cannot make a determination using the first test, they may apply tests two and three.  However, they must examine businesses in Brenda’s community in order to make the comparison.  If other photography businesses in the community are doing the same amount of business and earning comparable income, even though the net profit is not above the SGA level, SSA could determine that Brenda is doing substantial work.
+
+You also help Brenda understand that the net earnings from self employment are determined by the following formula:
+
+Gross receipts from the business.
+Minus business expenses.
+Minus a .9235 exclusion for FICA after 12/31/89.
+(100% minus 7.65% = 92.35 or 0.9235) 12/31/89.)
+Minus applicable work incentive deductions.
+
+You explain to Brenda that the FICA deduction is allowed because self employed individuals are required to pay the entire 15% FICA tax, so this is allowed as a business deduction.  
+
+In your summary of the analysis, you strongly encourage Brenda to consult with an accountant that is expert in the self employment tax regulations.  Particularly because Brenda’s business is located in their home, they will need to have expert advice on what expenses the IRS will allow as business expenses.
+
+You explain that the applicable work incentives include: 
+
+* Unpaid Help, 
+* Impairment Related Work Expenses (IRWE), and
+* Unincurred Business Expense
+
+You also mention to Brenda that the SSA may average her earnings when doing the initial SGA determinations if there are fluctuations in the net earnings.  For example, the business Brenda and her husband believe they can be most successful at is doing high school senior photos.  They will probably do most of their business in the late summer and early fall when the seniors are required to get the photos into the yearbook committee.   
+
+For SSI purposes, you explain to Brenda that SSA will use the NESE reported to IRS to calculate the SSI payment.  Brenda can give them an estimate of the net earnings expected, and they will adjust the SSI payment up or down when taxes are filed.  SSA will divide the yearly net income by 12 months to get a monthly amount, even if the business does not have any income during certain months of the year when activity is very low.  Because Brenda has SSDI benefits, the net income only has to be $285 a month in order for the SSI payments to be reduced to zero.
+
+2. How will Brenda’s husband’s income affect her benefits?
+
+The income that Brenda’s husband draws from the business will have to be considered in your analysis.  If Brenda is an employee, the business will show a loss for the first year, break-even in the second year, and have a small profit in year three.  Her husband must decide if he will use the entire net income as his salary, or invest some of the money back into the business.  In year one and two, the only source of income is the money he earns at the gas station, so there would be no deeming. The third year, the small profit would not be enough to result in deeming.  If Brenda and her husband own the business and share the profits equally, he would have net income of $289/month in year one, $462/month in year two, and over $1,000 in year three. You would need to contact the Work Incentive Liaison to ask how much of that income would be deemed to Brenda.  
+
+Would she lose the Medicaid?  If some of her husband’s income is deemed to her, it is possible that the combination of deemed income and unearned income would be the reason that she is not eligible for an SSI payment.  If that is the case, she would risk losing Medicaid eligibility, unless her state has a Medicaid buy-in that she qualifies for, or she can pay a spend down or deductible.  As long as Brenda has earnings, however, she will be eligible for continued Medicaid coverage under the 1619(b) work incentive even if she does not get SSI because of deemed income. 
+
+If Brenda’s earnings are at or above SGA, her SSDI will be suspended.  At that point, if her wages are not at or above the break-even point for an SSI recipient, she would qualify for an SSI cash benefit and get Medicaid.  
+
+3. If the son isn’t paid to help with the business, how does that factor into the analysis?
+
+The work that Brenda’s son does for the business qualifies as “unpaid help”.  Brenda will have to provide SSA with the following information at the time it is approved: the name of the individual, their relationship to the beneficiary, the reason the unpaid help is needed, a description of the services provided as well as the time spent, and the length of time the arrangement has been in existence.  SSA will determine the value of the unpaid help based on the prevailing wage for that type of work, and will deduct that amount when they are calculating her countable income for the SGA determination.
+
+4. What issues might the VR agency supporting Brenda have with providing funding for the studio/photographic equipment and supplies?
+
+If Brenda is an employee of the business, the VR agency cannot provide funding for the equipment, etc.  This is because the VR resources are for the individual client, not the business or the employer.  
+
+5. What work incentives might Brenda want to consider as she develops her plan?
+
+In addition to using the Unpaid Help, IRWE and Unincurred Business Expense deductions, Brenda might want to consider a Plan for Achieving Self Support.  Because she has unearned income, she can set aside the SSDI to pay for expenses that the VR might not be able to fund.  For example, Brenda uses a lift-equipped van modified with special driving controls.  Her current van is seven years old with over 80,000 miles on it.  If there will be business use of the vehicle, she could justify saving money to purchase a new van, and the VR agency would likely help with funding the driving controls if the old ones can’t be transferred to the new vehicle.
+
+
+III. Using the Work Incentives
+
+Brenda decides to be a partner in the business.  She and her husband will share the profits equally.  Their son will not ask for wages because they are providing him with free housing while he is in school.  When he’s finished with his degree in three years he will be moving away.  Brenda plans to spend six hours each day working for the business, leaving some time each day for disability-related needs, e.g. therapies, doctor’s appointments, etc.
+
+Brenda indicates she will have IRWE totaling $100 per month.
+
+Do an analysis of Brenda’s income over the three year period and the impact on her SSI, SSDI, Medicaid and Medicare, using the net income projections outlined in Part II B.  Use the applicable work incentives in your analysis and assume that the TWP and SGA levels remain the same in 2005, 2006 and 2007.
+
+What other resources might you suggest to Brenda for help with starting her business?
+
+Answers:
+
+Impact on SSDI
+
+The first year of the business, Brenda’s net monthly earnings are $289.  This figure reflects one-half of the total annual net income minus the FICA exclusion.  ($7500 ÷ 2 = $3,750 X .9235 = $3,463 ÷ 12 months = $289)  That is below the Trial Work Period level, however since she is working 30 hours per week she will use all nine TWP months in the first year.  If the SSA does a work CDR immediately, they will determine that Brenda is not engaging in SGA.  Since this is a new business for Brenda, and other photographers in her community earn a good living, they will not use the comparability test.  Brenda’s TWP will begin January 2005 and end September 2005.  Her EPE will begin October 2005 and end September 2008.    During the second year of operation, Brenda’s net monthly income is $462.  That is still below the SGA level, so her SSDI benefits will continue.  There is no need to apply any of the deductions – IRWE, unpaid help, unincurred business expense or subsidy.
+
+In year three, the projected net income for the business is $27,000.  Brenda’s half results in net monthly income of $1,039.  This exceeds the SGA level for 2007 (2004 SGA level of $810 is used throughout the case study).  At this point, SSA considers the applicable work incentive deductions when they conduct the work CDR: IRWE and unpaid help.  Brenda continues to have IRWE of $100 per month, and the value of the work her son does for the company is $387 (15 hours per week X 4.3 weeks X $6.00 per hour = $387).  Given these, Brenda’s countable income is below SGA ($1,039 - $100 = $939 - $387 = $552).  Her SSDI benefits will continue, at least until her son finishes school and leaves. At that point, she will either have to do without the help or hire someone else.  That would be a business expense and will reduce their net income, but if the business income continues to increase and she does not have the unpaid help deduction, in the future her countable income may exceed the SGA level and her SSDI benefits will be terminated.  
+
+Impact on SSI
+
+Before working Brenda’s SSI payment is $285 a month.  You calculate her earned income break-even point is $635.  During the first year Brenda is engaged in the business, her net monthly earnings are $289.  You correctly analyze that Brenda would be eligible for an SSI payment if just her income is considered.  However, her husband’s income is factored into the SSI calculation and they are treated as an eligible couple.  Her countable unearned income is determined by subtracting the $20 general exclusion from the SSDI payment amount.  Then, her earned income is added to her husband’s earned income, and the IRWE deduction as well as the $65 and one-half the remaining earned income exclusion is applied to get the countable earned income.  The countable unearned and earned income is combined and the result is subtracted from the couple’s Federal Benefit Rate to determine Brenda’s adjusted SSI payment. 
+
+The following calculations illustrate the deeming process:
+
+Step One: Determine the countable unearned income
+
+$299.00 SSDI
+Minus $20.00 General Income Exclusion
+Equals $279.00 Countable Unearned Income
+
+Step Two: Determine the countable earned income
+
+$600.00 Husband’s PAS wages
+Plus $289.00 Husband’s business income
+Plus $289.00 Brenda’s business income
+Equals $1,178.00 Combined earned income
+Minus $65.00 Earned Income Exclusion
+Equals $1,113.00
+Minus $100.00 IRWE
+Equals $1,013.00
+Divided by one half equals the remainder $506.50
+
+Step Three: Determine the Total Countable Income
+
+$279.00 Countable Unearned Income
+Plus $506.50 Countable Earned Income
+Equals $785.50 Total Countable Income
+
+Step Four: Subtract the Total Countable Income from the Couple FBR for the adjusted SSI payment
+
+$846.00 Couple FBR
+Minus $785.50 Total Countable Income
+Equals $60.50 Adjusted SSI
+
+In the second year, Brenda’s net income increases to $462, still below the BEP.  However, when combined with her husband’s income, the total countable income is higher than the couple FBR so she is not eligible for an SSI payment. At this point Brenda’s SSI cash payment will end, but you remind her that her Medicaid coverage – which is critical to maintaining her PAS – will continue under 1619(b).  If the state in which Brenda lives has a Medicaid buy-in, you will discuss the advantages to enrolling in the buy-in.
+
+If, when Brenda’s son leaves and she cannot claim the unpaid help deduction, her income may exceed the SGA level and her SSDI benefit will be terminated.  Even so, her earned income combined with her husband’s results in total income too high to qualify for an SSI payment.
+
+You should explain the Expedited Reinstatement work incentive to Brenda, in the event that both cash benefits are terminated due to earnings.  
+
+Appendix D provides a Tracking Worksheet to illustrate all of the above.
+
+Other resources you might suggest to Brenda include:
+
+1. SCORE – Senior Core of Retired Executives:  experienced business executives volunteer their time to help people start their own businesses.
+2. U.S. Small Business Administration offers financing to assist small businesses; www.sba.gov/financing
+3. The Small Business and Self Employment Service is a service of the Office of Disability Employment Policy of the U.S. Department of Labor which provides information, counseling, and referrals about self-employment and small business ownership opportunities for people with disabilities. SBSES, located at the Job Accommodation Network, is available through JAN's toll-free number 1-800-526-7234 V/TTY.
+4. Plan to Achieve Self Support – Brenda could set her countable unearned (SSDI) and her countable earned income in a PASS to purchase needed items or services.  Refer Brenda to www.passonline.org for a tutorial on writing PASS plans.
+
+
+APPENDIX A
+
+Benefits Planning Query (BPQY)
+Confidential Social Security Data
+
+Name: Brenda Smith
+SSN: 000-00-0000
+
+
+Record: Social Security Disability Insurance (SSDI)
+Cash:
+
+Type:
+Statutory Blind:
+Date of Entitlement:
+Cash Benefits:
+Full Amount:
+Net Amount:
+Others Paid on This Record:
+Total Family Cash Benefit:
+Overpayment Balance:
+Monthly Amount Withheld:
+
+
+Record: Supplemental Security Income (SSI)
+Cash:
+
+Type: Disabled Worker
+Statutory Blind: No
+Date of Entitlement: 07/1978
+Cash Benefits: $564
+Full Amount: $564
+Net Amount: N/A
+Others Paid on This Record: None
+Total Family Cash Benefit: N/A
+Overpayment Balance: None
+Monthly Amount Withheld: None
+
+Record: Social Security Disability Insurance (SSDI)
+
+Health Insurance:
+
+Date of Coverage:
+Premium Amounts:
+State Premium Buy-in:
+
+Record: Supplemental Security Income (SSI)
+
+Health Insurance:
+Medicaid Information
+Eligible for Medicaid (SSI)
+
+Record: Social Security Disability Insurance (SSDI)
+
+Medical Reviews:
+Next Scheduled Medical Review:
+Medical Re-exam Cycle:
+
+Record: Supplemental Security Income (SSI)
+
+Medicaid Information
+
+Next Scheduled Medical Review: 09/05/04
+Medical Re-exam Cycle: 7+ years
+
+Date Produced: 07/15/04
+
+
+Name: Brenda Smith
+SSN: 000-00-0000
+
+
+Record:
+Social Security Disability Insurance (SSDI)
+  See Below
+
+Record: Supplemental Security Income (SSI)
+  See Below
+
+Record:
+Social Security Disability Insurance (SSDI)
+Representation:
+   Representative Payee: No
+   Authorized Representative: No
+
+Record:
+Supplemental Security Income (SSI)
+Representation:
+   Representative Payee: No
+   Authorized Representative: No
+
+SSDI Work Activity:
+   Trial Work Months:
+   Cessation Month:
+   Current SGA Level:  $810
+
+SSI Work Exclusions:
+   Blind Work Expenses:
+   Impairment Related Work Expenses:
+   Student Earned Income Exclusions:
+   PASS Exclusion:
+
+
+Recent Earnings On Record
+Year: 1996
+Earnings: $2000
+Month/Year: 10/96-12/96
+
+Earnings: $425(V)
+Month/Year:
+Earnings:
+
+Recent Earnings On Record
+Year: 1997
+Earnings: $5220
+Month/Year: 01/97-12/97
+Earnings: $435(V)
+Month/Year:
+Earnings:
+
+Recent Earnings On Record
+Year: 1998
+Earnings: $5400
+Month/Year: 01/98-12/98
+Earnings: $450(V)
+Month/Year:
+Earnings:
+
+Recent Earnings On Record
+Year: 1999
+Earnings: $5700
+Month/Year: 01/99-12/99
+Earnings: $475(V)
+Month/Year:
+Earnings:
+
+Recent Earnings On Record
+Year: 2000
+Earnings: $6000
+Month/Year: 01/00-12/00
+Earnings: $500(V)
+Month/Year:
+Earnings:
+
+Recent Earnings On Record
+Year: 2001
+Earnings: $6100
+Month/Year: 01/01-12/01
+Earnings: $508(V)
+Month/Year:
+Earnings:
+
+Recent Earnings On Record
+Year: 2002
+Earnings: $2300
+Month/Year: 01/02-04/02
+Earnings: $515(V)
+Month/Year: 05/02
+Earnings: $240
+
+
+APPENDIX B
+
+Tracking Worksheet
+
+Trial Work Period, Extended Period of Eligibility, Expedited Reinstatement of Benefits
+
+Name of Individual: Brenda Smith
+Name of Advocate: Mary Ridgely
+
+Year: 2005
+January - $1000 Comment Reference 1 TWP 1619(b)
+February - $1000 TWP 1619(b)
+March - $1000 TWP 1619(b)
+April - $1000 TWP 1619(b)
+May - $1000 TWP 1619(b)
+June - $1000 TWP 1619(b)
+July - $1000 TWP 1619(b)
+August - $1000 TWP 1619(b)
+September - $1000 TWP 1619(b)
+October - $900 CI Comment Reference 2 EPE Cessation
+November - $900 CI EPE grace
+December - $900 CI EPE grace
+
+Comment 1: During the TWP, IRWE is not considered, so countable income is $1,000 when working half-time.
+Comment 2: Benefits cessation month (even subtracting $100 IRWE, CI exceeds SGA). Will receive benefits for 10/05 and next two months.
+
+Year: 2006
+January – EPE SSDI susp Comment Reference 3 SSI cash Comment Reference 4
+February – EPE SSDI susp SSI cash
+March - EPE SSDI susp SSI cash
+April - EPE SSDI susp SSI cash
+May - EPE SSDI susp SSI cash
+June - EPE SSDI susp SSI cash
+July – EPE SSDI susp SSI cash
+August - EPE SSDI susp SSI cash
+September - EPE SSDI susp SSI cash
+October - EPE SSDI susp SSI cash
+November - EPE SSDI susp SSI cash
+December - EPE SSDI susp SSI cash
+
+Comment 3: Since monthly wages are now more than SGA amount of $810, Brenda’s SSDI checks will stop in January 2006.
+Comment 4: Since Brenda projects that the business will lose money in year 1, break-even in year 2, and barely make a profit in year 3, her husband will derive little or no income from the business.  There will be no deeming, so only Brenda’s income is included in the SSI calculations.
+
+Year: 2007
+January – $2000 EPE
+February – $2000 EPE
+March - $2000 EPE
+April - $2000 EPE
+May - $2000 EPE
+June - $2000 EPE
+July – $2000 EPE
+August - $2000 EPE
+September - $2000 EPE
+October - $2000 EPE
+November - $2000 EPE
+December - $2000 EPE
+
+Year: 2008
+January – No data EPE
+February – No data EPE
+March – No data EPE
+April – No data EPE
+May – No data EPE
+June – No data EPE
+July – No data EPE
+August – No data EPE
+September – No data EPE ends Comment Reference 5
+October – No data EXR period begins Comment 6
+November – No data
+December – No data
+
+Comment 5: Brenda has not projected her income beyond year 3, however, if she continues to work at the same level, her SSDI benefits terminate.
+Comment 6: You would explain Expedited Reinstatement to Brenda, in the event that her SSDI benefits terminate, the 5 year EXR period begins the following month.
+
+Year: 2009
+January – No data
+February – No data
+March – No data
+April – No data
+May – No data
+June – No data
+July – No data
+August – No data
+September – No data
+October – No data
+
+
+November – No data
+December – No data
+
+Legend:
+TWP- Trial Work Period
+EXR – Expedited Reinstatement of Benefits Month
+EPE – Extended Period of Eligibility Month
+SGA – Substantive Gainful Activity
+
+
+
+APPENDIX C
+
+SI 02302.300 Individualized Threshold Calculation Worksheet – Exhibit
+
+Name: Brenda Smith
+SSN: 000-00-0000
+
+Individualized Calculation for Period Beginning
+1.a. Enter appropriate BASE AMOUNT from the threshold chart (SI 02302.200. 3rd column)
+Month/Year: 01/2007
+$14,556
+b. Recalculate the base amount using State supplement rate for the individual’s actual living arrangement (i.e., FBR + OS X 2 + 85 X 12 months)
+Month/Year: 01/2007
+N/A
+c. Enter the higher of a or b
+Month/Year: 01/2007
+$14,556
+
+Individualized Calculation for Period Beginning
+2.a. Enter the appropriate TITLE XIX amount from the threshold chart (SI 02302.200. 4th column)
+Month/Year: 01/2007
+$27,645
+b. Enter the individual’s estimated Medicaid expenditures for the determination period per (SI 02302.050 D.2)
+Month/Year: 01/2007
+$24,000
+c. Enter the higher of a or b
+Month/Year: 01/2007
+$27,645
+
+Individualized Calculation for Period Beginning
+3. Enter the annual amount of IRWE the person has
+Month/Year: 01/2007
+$1,200
+
+Individualized Calculation for Period Beginning
+4. Enter the annual amount of BWE the person has
+Month/Year: 01/2007
+N/A
+
+Individualized Calculation for Period Beginning
+5. Enter the annual amount of income excluded under an approved PASS
+Month/Year: 01/2007
+$0.00
+
+Individualized Calculation for Period Beginning
+6. Enter the value of any publicly funded attendant care the person receives per SI 02303.050 D. 3
+Month/Year: 01/2007
+N/A
+
+Individualized Calculation for Period Beginning
+7. Total the amounts for lines 1 through 6 
+Month/Year: 01/2007
+$42,201
+
+Individualized Calculation for Period Beginning
+8. Enter the individual’s gross earned income for the computation period
+Month/Year: 01/2007
+$24,000
+
+Compare lines 7 and 8. If the amounts are equal of if line 7 is higher, the individual is eligible under the threshold test.  If 8 is higher, the individual is not eligible under the threshold test.
+
+APPENDIX D
+
+Tracking Worksheet
+
+Trial Work Period, Extended Period of Eligibility, Expedited Reinstatement of Benefits
+
+Name of Individual: Brenda Smith
+Name of Advocate: Mary Ridgely
+
+Year: 2005
+January – SEI $289 30/hrs/wk TWP Comment Reference 1 SSDI
+February – SEI $289 30 hrs/wk TWP SSDI
+March - SEI $289 30 hrs/wk TWP SSDI
+April - SEI $289 30 hrs/wk TWP SSDI
+May - SEI $289 30 hrs/wk TWP SSDI
+June - SEI $289 30 hrs/wk TWP SSDI
+July - SEI $289 30 hrs/wk TWP SSDI
+August - SEI $289 30 hrs/wk TWP SSDI
+September - SEI $289 30 hrs/wk TWP SSDI
+October - SEI $289 EPE begins SSDI
+November - SEI $289 EPE SSDI
+December - SEI $289 EPE SSDI
+
+Comment 1: Brenda’s net income is below SGA, but she reports to SSA that she spends 30 hrs. per week working in the business.
+
+Year: 2006
+January – SEI $462 EPE SSDI
+February – SEI $462 EPE SSDI
+March - SEI $462 EPE SSDI
+April - SEI $462 EPE SSDI
+May - SEI $462 EPE SSDI
+June - SEI $462 EPE SSDI
+July – SEI $462 EPE SSDI
+August - SEI $462 EPE SSDI
+September - SEI $462 EPE SSDI
+October - SEI $462 EPE SSDI
+November - SEI $462 EPE SSDI
+December - SEI $462 EPE SSDI
+
+Year: 2007
+January – SEI $552 Comment Reference 2 EPE SSDI
+February – SEI $552 EPE SSDI
+March - SEI $552 EPE SSDI
+April - SEI $552 EPE SSDI
+May - SEI $552 EPE SSDI
+June - SEI $552 EPE SSDI
+July – SEI $552 EPE SSDI
+August - SEI $552 EPE SSDI
+September - SEI $552 EPE SSDI
+October - SEI $552 EPE SSDI
+November - SEI $552 EPE SSDI
+December - SEI $552 EPE SSDI
+
+Comment 2: Net income increases to $1,039 per month, but deductions total $487 ($100 IRWE, $387 unpaid help at 15 x $6 X 4.3 wks).
+Year: 2008
+January – SEI $939 Comment Reference 3 EPE cessation SSDI
+February – SEI $939 EPE Grace month SSDI
+March – SEI $939 EPE Grace month SSDI
+April – SEI $939 EPE SSDI susp. Comment Reference 4
+May – SEI $939 EPE SSDI susp.
+June – SEI $939 EPE SSDI susp.
+July – SEI $939 EPE SSDI susp.
+August – SEI $939 EPE SSDI susp.
+September – SEI $939 EPE ended SSDI susp.
+October – SEI $939 SSDI term EXR period Begins
+November – SEI $939 No SSDI SSI cash EXR period
+December – SEI $939 No SSDI SSI cash EXR period
+
+Comment 3: Is son graduates and moves away, unpaid help can no longer be deducted.  SSDI benefits are “ceased.”
+Comment 4: SSDI benefits are suspended because NESE is over SGA.  SSI cash benefits would normally resume, however, Brenda’s husband’s income is deemed to her. 
+
+Year: 2009
+January – SEI $939 no SSDI EXR period
+February – SEI $939 no SSDI EXR period
+March – SEI $939 no SSDI EXR period
+April – SEI $939 no SSDI EXR period
+May – SEI $939 no SSDI EXR period
+June – SEI $939 no SSDI EXR period
+July – SEI $939 no SSDI EXR period
+August – SEI $939 no SSDI EXR period
+September – SEI $939 no SSDI EXR period
+October – SEI $939 no SSDI EXR period
+November - SEI $939 no SSDI EXR period
+December – SEI $939 no SSDI SSI cash EXR period
+
+Legend:
+TWP- Trial Work Period
+EXR – Expedited Reinstatement of Benefits Month
+EPE – Extended Period of Eligibility Month
+SGA – Substantive Gainful Activity
+

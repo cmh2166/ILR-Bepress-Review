@@ -1,0 +1,176 @@
+Working Effectively with People who are Blind or Visually Impaired
+
+
+What is Blindness or Visual Impairment? 
+
+When we think of "blind," we think of total darkness. However, a person may be "legally blind" with either... 
+- 20/200 vision in both eyes with best correction, OR
+- a field of vision restricted to 200 or less.
+
+A person whose best corrected vision is 20/70 to 20/200 is often referred to as "visually impaired" or having "low vision." 
+
+Some people are born with no vision or significantly reduced vision. Others lose vision due to accidents or the natural aging process, usually starting in the 40s. For some, vision loss is sudden, while for others it may be gradual. Some conditions, diabetes, for example, cause vision to fluctuate from day to day.  
+
+Many people who have lost significant levels of visual functioning take time out from their careers to learn alternative skills, which allow them to live and work independently.  
+
+If a person who is blind or visually impaired applies for a job in your company, the resume and application may indicate experience and skills.  
+What Types of Jobs Do people who are Blind Do? 
+With appropriate training and equipment, people who are blind or visually impaired have the same range of abilities as anyone else. There are no "jobs for blind people." To broaden your thinking, consider that blind people have been successful as:
+
+Artists			machinists
+auto mechanics		masseuses
+boat builders		mayors
+computer programmers	lawyers
+musicians			fashion models
+production workers	teachers
+story tellers		word processing specialists
+
+An employer's perception of inability is often the biggest limitation that visually-impaired and blind people face. 
+
+Accommodating the Person who is Blind or Visually Impaired During the Employee Selection Process 
+
+In the hiring process, an employer seeks to determine whether an applicant has the necessary skills, experience, education, or other background to successfully perform the essential functions of the job. This is the same information all employers need about any applicant to help them make an effective hiring decision.
+
+A visually-impaired or blind person who cannot see enough to read an application form may be discouraged from applying for a job, even if the job itself requires minimal vision.
+
+Ask the applicant how he or she would prefer to meet the requirements of the hiring process. For example, if you require applicants to complete an application form, ask the applicant which would be most convenient:
+- Mail the application to the candidate who requests it
+- Offer the walk-in applicant an opportunity to take the form, have someone help complete it, and return it by mail or in person 
+- Offer the services of someone in the office to assist in completing the form.
+
+When you invite a person who is blind or visually impaired to an interview: 
+- Ask if he or she needs directions if someone is driving
+- If the candidate is taking public transportation, indicate which stop is closest, then give directions from the stop.
+- Offer assistance from the reception area to your office by asking, "Would you like to take my arm?"  If the person needs to, he or she will lightly grasp your arm just above your elbow and will follow one step behind you. Don't insist on helping, and certainly, don't push the person ahead of you. If the person uses a dog guide, the dog will follow you.  Do not pet or distract the dog.
+- When you get to your office, ask if you may place the person's hand on the back of the chair you are offering. Do not push the person into a chair.
+
+When a blind or visually impaired person is in your office:
+Be yourself. Use normal language.  It's OK to say:
+- "Do you see what I mean?" 
+- "Would you like to take a look at the work area?" 
+- "I hope to see you again." 
+Enhancing Productivity on the Job 
+Velcro fasteners on protective clothing, hand trucks, and word processors allow us to do things that would otherwise be difficult. These tools enhance our productivity by reasonably accommodating our humanness.  
+
+The Americans with Disabilities Act (ADA) asks us to "reasonably accommodate" the limitations imposed by a person's physical or mental disability. Reasonable accommodation is defined as the modification or adjustment of a job, employment practice, or the work environment that makes it possible for a qualified person with a disability to be employed. The employer needs to consider reasonable accommodation from the first contact with the person with the disability, during the application process, on the job, in training, on the work site, and when considering promotions and layoffs. If job duties change, new accommodations may need to be made. The ADA requires an employer to accommodate the individual with a disability unless doing so would cause an undue hardship. If that cost is an undue burden, the employer may offer the person with the disability an opportunity to provide the accommodation or assist in finding resources to pay for it. If we think of accommodations as "productivity enhancements" similar to others in the workplace, they become part of the cost of doing business. 
+
+Types of Productivity Enhancers 
+
+The employer and employee should brainstorm and research equipment or job restructuring. The person who requests accommodation has lived, and perhaps worked, with the disability and may know what will enhance productivity most effectively.  An assistive technology device is any item, piece of equipment, or product system, whether acquired commercially off-the-shelf, modified, or customized, that is used to increase, maintain, or improve the functional capabilities of individuals with disabilities.  Assistive technology services are any services that directly assist an individual with a disability in the selection, acquisition, or use of an assistive technology device.
+
+Low Tech Assistive Technology
+
+Productivity enhancers do not have to be fancy or expensive. 
+- A dot of silicon on a knob, switch, or button permits a person to align controls on a machine.
+- Wide felt-tip marker may make file folder labels readable.  
+- Braille labels on the soft drink machine gives the Braille user equal access to flavor choice. 
+- Different size strips of masking tape identify parts bins for production employees. 
+
+Consult with your employee who is blind or has low vision for other simple solutions.
+
+High Tech Assistive Technology
+
+Adaptive programs or hardware can be used to provide enlarged screen display, speech output, or Braille output.  Prices may vary from state to state, and are subject to change.
+
+- Optical scanners, also known as "reading machines," scan printed material and "read it" into a computer or voice synthesizer.  Some scanners require only adding a card and an external monitor to an existing computer system.  Many of the newer scanners, connected to a computer, may require only a Universal Serial Bus (USB) connection.  Prices for the scanner may range from $250 to $700.  The specialized software, designed for use by a person who is blind, will cost about $995.  A stand alone OCR system without a monitor costs about $2,900.  Many offices already have this equipment.
+
+- Screen enlargement programs use software to enlarge print on a computer screen from 2X to 16X.  Using 17" to 21" monitors will also help employees who use these kinds of enlargement programs.  ZoomText, the leading screen enlargement manufacturer, costs about $595.
+
+- A speech access system allows a person with a vision impairment to have voice output as a synthesized voice can read text that is on a computer monitor.  Although some software that is mouse dependent or highly graphical can present problems, there are ways to address these problems. These programs give auditory feedback of menus, dialog boxes, text, and other messages commonly displayed in Windows.  These programs typically cost between $800 and $1500, and the current state-of-the-art speech software (JAWS for Work Speech) costs about $795. All speech output programs (screen readers and scanning & reading systems) use the computer sound card to produce the speech.  No additional hardware is needed for speech output.
+
+- Braille output uses a refreshable Braille device to display up to 80 characters of text.  This corresponds to text on a single line on the monitor.  The user can scroll from line to line and the Braille cells change to the new information.  Braille displays typically cost between $3,400 to $15,000.
+
+- Braille documents can be created using a Braille conversion program and a Braille embosser with special heavy Braille paper.  The conversion programs typically cost about $300 and the embossers average about $3000.
+
+- A scanning and reading system can be used to read printed material.  Such a system uses a standard scanner to scan a page of text into the computer.  There, the adaptive program converts the image into computer text and reads the information out loud.  The scanned text can be saved for later reading.  A computer-based scanning and reading system typically costs $1000 to $1500 for the program and $200 to $400 for the scanner.
+
+- Closed circuit television (CCTV) systems use a modified motion camera to magnify printed material and display it on a 14" to 21" monitor.  This device permits a person who has some usable vision to read memos and books and fill out forms.  CCTV systems are often  the best way for a person with some functional vision to read printed material visually.  Black and white systems cost an average of $2000. Color systems cost an average of $2500.  There are some systems that use a small, hand-held camera that can connect to a TV.  These systems cost between $500 and $1000 but have some limitations because the person must hold the camera to use it.  Also, if the person has a physical disability, s/he may not be able to use such a system.
+
+All of these adaptive programs work on  Windows 95/98 systems and most work on Windows NT & 2000 systems.  Most commercial programs (e.g., Office 2000, Quicken, etc.) work in conjunction with the adaptive programs without problems.  If a commercial program has audio output, there may be conflicts with the speech output programs.
+
+When considering costs of accommodations, review the cost of the company's entire computer system overall, the "overall financial resources of the facility..." and the "overall financial resources of the covered entity...." before deciding that the equipment needed to enhance a visually impaired worker's productivity is too expensive.  Appropriately setting up any employee's workstation helps guarantee maximum productivity.
+
+Tips for On-The-Job Training 
+
+Employees who are blind or visually impaired need the same introduction to a job and initial training as sighted colleagues.  Provide orientation to the company and the job. Ask the employee whether he or she learns best from verbal instruction or a combination of hands-on, written, and verbal learning.   
+
+Allow the person to organize the work area for greatest efficiency, even if it means organizing it differently than in the past. You may find that the new design would make other employees more productive as well.
+
+Make sure that the workstation is adequately equipped, and that the employee knows where to get replacement supplies. If an outside organization has provided equipment, determine who is responsible for ownership, upkeep, upgrading, or replacement of the equipment.
+
+Performance Management 
+
+A supervisor's responsibility is to establish an atmosphere of quality and productivity.  Appropriate on-going training is crucial. Assume that an employee who is blind or visually impaired has the same career aspirations as other employees and provide training, ensuring that materials are accessible to the person's visual limitations.
+
+Supervise as you would for any other employee. Be sure that all employees understand performance expectations. Provide praise and constructive feedback. If a performance problem arises, deal with it openly. Do not automatically assume that it is disability-related. Do not avoid giving feedback.  Employees who are blind or visually impaired, as all employees, want to know when they are performing well and when they need to do things differently. Occasionally, a supervisor will not provide feedback until a major problem arises, then dismiss the employee. No employee should be surprised with such actions!
+
+Conduct performance appraisals, using the same criteria as with other employees. If a supervisor has provided feedback throughout the year, an annual performance appraisal should contain no surprises. 
+
+Periodically review any adaptive equipment to ensure that it is still working well and meeting the employee's needs. As technology evolves, prices and compatibility frequently change. Determine if it needs upgrading to keep the employee competitive.  Consult with your local Vocational Rehabilitation Agency, Rehabilitation Center for the Blind, or rehabilitation service provider.  
+
+Training and Promotion 
+
+As an employee grows in the job, provide the same opportunities for learning and taking on new challenges as for other employees. If this means attending out-of-town training, speaking at professional conferences, or training new workers, encourage these activities. Check with the employee, to identify any needed accommodations.
+
+Assist the person to plan the next steps in a successful career.  Promote qualified people who are blind or visually impaired using the same criteria as promotion for others.
+
+Resources
+
+There are a number of resources that can assist employers and people who are blind or visually impaired with job adaptation.  Begin all discussions of accommodation with the employee. If additional information is needed, consult the following organizations:
+
+ADA Regional Disability and Business Technical Assistance Center Hotline - 
+(800)949-4232 (Voice/TTY).
+
+Equal Employment Opportunity Commission, 1801 L Street, NW, Washington, DC 20507, Technical Assistance - (800) 669-4000 (voice); (800) 800-3302 (TTY).  Publications - (800) 666-EEOC.  (Voice) 800-800-3302 (TTY).
+
+Services (or Commission) for the Blind (look in local telephone book under state agencies or vocational rehabilitation). Some of these agencies have technology centers where employers can view adaptive equipment. 
+
+Vocational Rehabilitation Division (in states that do not have a separate agency for  people who are blind).
+
+American Foundation for the Blind, National Technology Center, 11 Penn Plaza, Suite 300, New York, NY 10011, (212) 620-2080 (Mon-Fri, 8:30 AM - 4:30 PM). The Center has a database of 2,000 blind and visually impaired people who use adaptive equipment in various jobs. Employers are welcome to call for information. The Center also evaluates high-tech products.
+
+ Job Accommodation Network (JAN).  Call 1-800-526-7234.  Employers talk with Human Factors Consultants about an individual with a disability (not limited to blindness or low vision). The consultant will search JAN's database for information related to the functional requirements of the job, the functional limitations of the employee, environmental factors, etc. The search will provide information about similar situations, names and addresses of appropriate resources.  
+
+Internet Resources
+Listing of State Vocational Rehabilitation Agencies Serving the Blind
+http://www.blind.msstate.edu/irr/ncsab.html
+
+American Foundation for the Blind
+http://www.afb.org
+
+Job Accommodation Network
+http://janweb.icdi.wvu.edu
+
+Rehabilitation Research and Training Center on Blindness and Low Vision (Mississippi State)
+http://www.blind.msstate.edu
+
+Employment Related Links
+http://www.blind.msstate.edu/irr/employ.html
+
+National Federation of the Blind
+http://www.nfb.org
+
+American Council of the Blind
+http://www.acb.org
+
+This brochure is one of a series on human resources practices and workplace accommodations for persons with disabilities edited by Susanne M. Bruyère, Ph.D., CRC, SPHR, Director, Program on Employment and Disability, School of Industrial and Labor Relations - Extension Division, Cornell University. It was updated in May, 2000, by J. Elton Moore, and the staff of the Rehabilitation Research and Training Center on Blindness and Low Vision at Mississippi State University, from the original, which was developed in January, 1994,  by Mary B. Dickson, President, Creative Compliance Management. 
+
+Cornell University was funded in the early 1990's by the U.S. Department of Education National Institute on Disability and Rehabilitation Research as a National Materials Development Project on the employment provisions (Title I) of the ADA (Grant #H133D10155).  These updates, and the development of new brochures, have been funded by Cornell's Program on Employment and Disability.
+
+Cornell University currently serves as the Northeast Disability and Business Technical Assistance Center. Cornell is also conducting employment policy and practices research, examining private and federal sector employer responses to disability civil rights legislation.  This research has been funded by the U.S. Department of Education National Institute on Disability and Rehabilitation Research  (Grant #H133A70005) and the Presidential Task Force on Employment of Adults with Disabilities.  
+
+The full text of this brochure, and others in this series, can be found at: www.ilr.cornell.edu/ped/ada.  Research reports relating to employment practices and policies on disability civil rights legislation, are available at: www.ilr.cornell.edu/ped/surveys.
+
+For further information, contact the Program on Employment and Disability, Cornell University, 102 ILR Extension, Ithaca, New York 14853-3901; 607/255-2906 (Voice), 607/255-2891 (TDD), or 607/255-2763 (Fax).
+
+More information is also available from  the ADA Technical Assistance Program and Regional Disability and Business Technical Assistance Centers, (800) 949-4232 (voice/TTY), www.adata.org
+
+Disclaimer
+This material was produced by the program on Employment and Disability, School of Industrial and Labor Relations-Extension Division, Cornell University, and funded by a grant from the National Institute on Disability and Rehabilitation and Rehabilitation Research (grant #H133D10155).  The U.S. Equal Employment Opportunity Commission has reviewed it for accuracy.  However, opinions about the Americans with Disabilities Act (ADA) expressed in this material are those of the author, and do not necessarily reflect the viewpoint of the Equal Employment Opportunity Commission or the publisher.  The Commission's interpretations of the ADA are reflected in its ADA regulations (29 CFR Part 1630), Technical Assistance Manual for Title I of the Act, and EEOC Enforcement Guidance.
+
+Cornell University is authorized by the National Institute on Disability and Rehabilitation Research (NIDRR) to provide information, materials, and technical assistance to individuals and entities that are covered by the Americans with Disabilities Act (ADA).  However, you should be aware that NIDRR is not responsible for enforcement of the ADA.  The information, materials, and/or technical assistance are intended solely as informal guidance, and are neither a determination of your legal rights or responsibilities under the Act, nor binding on any agency with enforcement responsibility under the ADA.
+
+The Equal Employment Opportunity Commission has issued enforcement guidance which provides additional clarification of various elements of the Title I provisions under the ADA.  Copies of the guidance documents are available for viewing and downloading from the EEOC web site at:  http://www.eeoc.gov 
+
+Working Effectively with People who are Blind or Visually Impaired
+May, 2000	CORNELL UNIVERSITY

@@ -1,0 +1,278 @@
+Representative Payment
+
+
+This is one of a series of policy and practice briefs written for benefits specialists employed by Benefits Planning, Assistance and Outreach projects and attorneys and advocates employed by Protection and Advocacy for Beneficiaries of Social Security programs.  Materials in this policy brief have been reviewed for accuracy by the Social Security Administration (SSA), Office of Employment Support Programs.  However, the thoughts and opinions expressed in these materials are those of the authors and do not necessarily reflect the viewpoints or official policy positions of the SSA.  The information, materials and technical assistance are intended solely as information guidance and are neither a determination of legal rights or responsibilities, nor binding on any agency implementation and/or administrative responsibilities.
+
+The author is Ray Cebula, Disability Law Center, Boston, Massachusetts.
+
+
+I.	Introduction
+
+The Representative Payee Program provides for the payment of social security disability insurance (SSDI) Footnote Reference 1 and/or supplemental security income (SSI) Footnote Reference 2 to a person other than the beneficiary in certain circumstances. The regulations explain the procedures that the Social Security Administration will follow when determining:
+
+Footnote 1: 20 C.F.R. 404.2001.
+Footnote 2: 20 C.F.R. 416.601.
+
+1.	if a representative payee (payee) is needed, and
+2.	who will be selected as a payee.
+
+The regulations also explain the obligations and responsibilities of those appointed as payees and the responsibilities of the Social Security Administration in the initial and ongoing processes involved in the representative payee program.
+
+The Social Security Protection Act of 2004 (P.L. 108-203) made significant changes in payee accountability policies aimed at providing greater protection for the beneficiary.  The Commissioner issued final regulations on October 7, 2004, covering many of the provisions of the Act relating to Representative Payment.  Where promulgated, those regulations will be addressed in this brief. 
+
+The Representative Payee Program imposes significant restrictions upon recipients’ ability to control their lives. While the appointment of a representative payee by the Social Security Administration is intended to only assist the recipient to manage monthly cash benefits, at time the control of the representative payee is extended beyond money management functions. The Program, as discussed below, does not condone a representative payee’s control over decisions, morals, or behavior of a recipient. Instead the Program is intended to ensure that monthly cash benefits are used to meet the recipient’s basic need for food, clothing and shelter.
+
+When a representative payee exerts control, beyond the limits of the Program, impositions upon the recipient’s ability to buy certain clothes, to live in certain places, to associate with particular friends and family and to work may be inhibited. A well meaning representative payee may attempt to limit a recipient’s work activity in an effort to “preserve” cash and health care benefits. While this may be seen as a good intention, it is an intention beyond scope of the Program and one that often exercised in ignorance of the work incentive programs available to recipient’s who wish to begin a return to work force. Recipient’s who receive benefits via the Program are often the most vulnerable and unable to assert their decision making. Interference, through ignorance, with a return to work effort will require education of the representative payee and, at times, removal of a payee who is exerting unwarranted control over the recipient. The Ticket to Work Act provides that all recipients who wish to attempt to return to work may avail themselves of benefits planning services, rehabilitation programs, legal advocacy services and each and every work incentive program available to that recipient. A representative payee should not stand in the way.
+
+
+II.	Who is Required to Have a Payee? 
+
+The Social Security Act and SSA policy recognize that all beneficiaries have the right to manage their own payments.  There are two groups of exceptions to this policy:  beneficiaries who must receive their benefits through a payee; and beneficiaries who may be individually determined to need a payee.
+
+There are two categories of beneficiaries who must receive benefits through a payee.
+
+1.	Beneficiaries under the age of 18, Footnote Reference 3
+
+2.	Beneficiaries who have been determined to be “legally incompetent” by a court. Footnote Reference 4
+
+Footnote 3:20 C.F.R. 404.2010(b), 416.610(b), although SSA will occasionally pay benefits directly to an older child when a payee is not readily available.  POMS GN 00502.005 - .200.
+Footnote 4: 20 C.F.R. 404.2010(a)(1), 416.610(a)(1).
+
+PRACTICE TIP: Drug addiction or alcoholism is a “contributing material factor” to the disability determination when the individual cannot be found disabled independent of the substance abuse. Footnote 4 SSA may still recommend that independently, or “otherwise disabled,” individuals have a payee, e.g., listings level back impairment with alcoholism. However, this individual is not subject to the mandatory requirements of the new statutory provisions.
+
+Beneficiaries who fall into one of these two categories are required to have a payee in order to receive their benefits. SSA will withhold, or suspend, their benefits until a payee is appointed to receive the benefits.  In these cases, SSA will presume that “substantial harm” will occur if direct payment is made. This is, however, a rebuttable presumption. Footnote Reference 5
+
+Footnote 5: 20 C.F.R. 404.2011, 416.611.
+
+SSA may also determine, on an individual basis, that other beneficiaries need payees. A payee will be appointed to manage payments if SSA determines that a particular beneficiary is mentally or physically unable to manage, or direct the management of, benefit payments in his or her own best interest. Footnote Reference 6  The inability to manage payments does not mean that the beneficiary cannot manage other affairs. The determination is not a competency determination. Although the inability to manage other affairs may be evidence of the inability to manage benefits, the standard used by SSA in this determination is much lower than that used by the courts to determine legal competency. Beneficiaries individually determined to need payees may appeal those decisions and try to prove that they are capable of managing their own benefits. Footnote Reference 7  Also, these beneficiaries may be paid directly if a suitable representative payee cannot be located.  This is discussed in more depth in Section C below.
+
+Footnote 6: 20 C.F.R. 404.2001(b), 416.601(b).
+Footnote 7: 20 C.F.R. 404.902(o), 416.1402(d). 
+
+The inability to manage payments must be determined before a payee can be appointed. Footnote Reference 8  Information indicating that the beneficiary is legally incompetent or is mentally or physically incapable of managing payments will be considered by SSA when determining a beneficiary’s need for payee services. This information may be in the form of court determinations of legal incompetency, medical evidence indicating a physician's opinion as to the competency to manage benefits payments, or statements of relatives, friends, etc., who have observed the beneficiary's inabilities to manage benefits or other financial matters.
+
+Footnote 8: 20 C.F.R. 404.2001(b)(2), 416.601(b)(2).
+
+
+III.	SELECTION OF A PAYEE
+
+The selection of a payee must focus on the person, or entity, who will best serve the beneficiary's interests. Footnote Reference 9  SSA will consider: Beneficiary
+
+Footnote 9: 20 C.F.R. 404.2020, 416.620. 
+
+1.	the relationship of the nominated payee to the beneficiary, 
+2.	the amount of interest the nominated payee shows in the beneficiary, 
+3.	any legal authority the nominated payee has over the beneficiary (i.e., guardianship, conservatorship), 
+4.	whether the nominated payee has custody of the beneficiary, and, 
+5.	whether the nominated payee is in a position to know of and look after the beneficiary’s needs.
+
+Prior to being appointed, or certified, as a payee, the nominated payee must file an application to be payee with SSA and be investigated by SSA. Footnote Reference 10  Information must be provided to show SSA that the nominated payee is related to or is in a position to be responsible for the care of the beneficiary. The investigation must also consider any past criminal activity of the nominated payee as well as any financial misdealing involving the nominated payee or other beneficiaries, whether criminal in nature or not.
+
+Footnote 10: 20 C.F.R. 404.2025(a), 416.625(a).
+
+To this list of investigatory tasks were added the requirements that SSA obtain proof of identity from all nominated payees, conduct face-to-face interviews with nominated payees “to the extent practicable,” Footnote Reference 11 verify the social security number of the nominated payee, determine whether the nominated payee has been convicted of a “social security felony,” and determine whether the nominated payee has ever been determined to have misused another beneficiary’s funds. Footnote Reference 12
+
+Footnote 11: 20 C.F.R. 404.2024, 416.624.
+Footnote 12: 20 C.F.R. 404.2022, 416.622, POMS GN 00502.110 - .112.
+
+NOTE:  After January 1, 1991, SSA will not be permitted to appoint a nominated payee who has been convicted of a “social security felony” or has been determined to have misused benefits unless SSA determines that it is in the beneficiary’s “best interest” to have this nominated person serve as payee.  The Congressional Committee considering this exception has clearly stated that its intent is to see that this exception be only rarely applied.  Moreover, SSA must maintain a centralized file containing a list of the names and social security numbers of payees who have been found to have misused benefits in the past or have been convicted of a “social security felony.”  The list must be readily retrievable by each local social security office. Footnote Reference 13 Advocates should ensure that a proposed payee has been checked against this list and that payees found to have misused benefits are added to the list.  More recently, the Social Security Protection Act of 2004 will disqualify any individual convicted of offenses resulting in imprisonment for more than 1 year, or those fleeing prosecution, custody or confinement, from being appointed as a payee. Footnote Reference 14
+
+Footnote 13: POMS GN 00502.107 & .115 
+Footnote 14: 20 C.F.R. 404.2022, 416.622.
+
+Along with its investigation and appointment responsibilities, SSA has promulgated a regulatory order of preference as a guide in its payee selection. Footnote Reference 15 Although the primary concern is to select the payee that will best serve the beneficiary's interest, the order of preference is as follows:
+
+Footnote 15: 20 C.F.R. 404.2021(a), 416.621(a). 
+
+1.	spouse, legal guardian,
+2.	friend in custody or who has demonstrated strong concern for the beneficiary,
+3.	public or nonprofit agency in custody of beneficiary,
+4.	private for profit agency in custody of beneficiary,
+5.	members of community groups, volunteers.
+
+This list is concerned with payees to be appointed for beneficiaries who are age 18 or older.  
+
+Legal guardians serving as representative payees may pose particular issues for recipients. Legal guardians have control over much more than the monthly benefits paid by the Social Security Administration and may, in fact, have the ability to control and decide upon the “best course” for a recipient’s return to work. It is critically important that legal guardians be provided with all necessary return to work and work incentive information and counseling to allow for the recipient to reach maximum potential. Furthermore, while the legal guardian appears to the top of the “preference list” for appointment as a representative payee, this list should not be seen as a requirement. Should a legal guardian be imposing undue burdens upon a recipient, consideration should be given to having another representative payee appointed and/or to remove the guardian that may be limiting a recipient’s work ability.
+
+In most cases, beneficiaries who are under the age of 18, will have a payee appointed. Footnote Reference 16  The order of preference for a child's payee differs slightly from that listed above. Footnote Reference 17  That list is as follows:
+
+Footnote 16: The exceptions to this policy can be found at 20 CFR 416.610(b) or 20 CFR 404.2010(b). 
+Footnote 17: 20 CFR 416.621(b) or 20 CFR 404.2021(b). 
+
+1.	natural or adoptive parent who has custody of the beneficiary,
+2.	natural or adoptive parent who does not have custody but is contributing to support and is demonstrating a strong concern for the beneficiary's well being,
+3.	natural or adoptive parent who does not have custody and is not contributing to support but is demonstrating a strong concern for the beneficiary's well being,
+4.	relative or stepparent who has custody of the beneficiary,
+5.	relative who does not have custody but is contributing to support and is demonstrating a strong concern for the beneficiary’s well being,
+6.	relative or close friend who does not have custody but is demonstrating concern for the beneficiary’s well being,
+7.	authorized social agency or custodial institution.
+
+Social service agencies and custodial institutions can present quite a challenge to a recipient who is attempting to return to work. Often times, the agency/institution has an interest in continuing benefits eligibility at maximum levels as the agency/institution able to use up to 75% of the monthly benefit to recoup its costs associated with that individual recipient. Care should be taken to avoid having this type of representative payee interfere with any attempt to work.
+
+The following list was created for those individuals whose substance abuse impairment was determined to be a “contributing material factor” in accordance with the new substance abuse statutory provisions.
+
+1.	community-based, non-profit social service agency,
+2.	state or local agency whose mission is to carry out income maintenance, social service or health care related services,
+3.	state or local government agency with fiduciary responsibilities.
+
+An exception to the substance abuse preference list exists for the appointment of a family member should SSA determine that such an appointment is appropriate in a particular recipient’s circumstances. Finally, it is not likely that SSA will pro-actively disturb existing payee relationships for those in this category should those relationships be functioning appropriately.
+
+NOTE:  See the regulations at 20 C.F.R. 404.2040a, 416.640a for information concerning fees/compensation to organizations providing representative payment services.
+
+Most important to the selection process are the restrictions as to who cannot serve as a payee. Footnote Reference 18 In an effort to avoid potential financial conflicts of interest SSA will not be able to certify a beneficiary's creditor (i.e. landlord) unless:
+
+Footnote 18: 20 C.F.R. 404.2022, 416.622.
+
+1.	the nominated payee is a relative living in the beneficiary’s household, 
+2.	the legal guardian or representative of the beneficiary is a facility licensed or certified under state or local law, 
+3.	the legal guarding or representative is an employee, owner, or administrator of the facility in which the beneficiary resides, and 
+4.	SSA has made a good faith effort to find an alternative payee, or 
+5.	SSA has made a written determination that the nominated payee poses no risk to the beneficiary, that there is no substantial conflict of interest, and that no other more suitable payee exists. Footnote Reference 19 
+
+Footnote 19: POMS GN 00502.113.
+
+Before an appointment can be made SSA must notify the beneficiary of the intention to name a payee and the name of the nominated payee. Footnote Reference 20  If no objection is received from the beneficiary, SSA will act in accordance with its notice of planned action. If the beneficiary objects to the appointment of a payee or to the nominated payee, the beneficiary may review all evidence upon which the proposed SSA appointment was based and submit any additional evidence that should be considered by SSA prior to the appointment being made. Footnote Reference 21 
+
+Footnote 20: 20 C.F.R. 404.2030(a), 416.630(a). 
+Footnote 21: 20 C.F.R. 404.2030(b), 416.630(b).
+
+NOTE:  In practice, SSA will often send only one notice to the beneficiary explaining who the proposed payee is and that this person will be appointed to receive and manage the benefits.  These decisions are “initial determinations” for appeal purposes. Footnote Reference 22  It is important to remember that this one notice contains two, appeal-able legal issues:  
+
+Footnote 22: 20 C.F.R. 404.902.
+
+1.	the need for a payee, and 
+2.	the person to be appointed.
+
+Once a determination is made, the beneficiary may file a Request for Reconsideration if the beneficiary is dissatisfied with the determination. Footnote Reference 23  SSA must ensure that written notices be provided to the beneficiary in advance of any benefits being paid to the nominated payee. Such notice must be a clearly written, easily understood statement of the beneficiary’s rights to challenge SSA’s determination concerning the need or appointment of a payee. Footnote Reference 24
+
+Footnote 23: 20 C.F.R. 404.2030(c), 416.630(c)
+Footnote 24: 20. C.F.R. 404.2030, 416.630.
+
+It is important to realize that an appeal of the appointment of a payee or an appeal of the appointment of a particular payee may delay the recipient's receipt of payments. For instance, should a recipient agree that the appointment of a payee is warranted but does not agree with the person appointed, SSA may defer or suspend the recipient's benefits for a period of up to 30 days, unless SSA determines that direct payment would case “substantial harm” to the recipient. Footnote Reference 25  The suspension can last only 30 days, after which time, SSA must pay current benefits directly to the recipient. The recipient will be required to continue to attempt to locate a suitable payee while receiving direct payment.
+
+Footnote 25: 20 C.F.R. 404.2011, 416.611.
+
+NOTE:  If direct payment continues for any significant period and the recipient is able to effectively manage his or her benefits, it will be worth exploring the potential of having the payee requirement removed.  Use this history of money management to your client’s benefit.
+
+If, during the deferral or suspension period, the recipient is in need of living expenses, portions of the suspended benefits can be distributed by the local SSA office monitoring the recipient’s file. Note also, that the direct payment effects only current payments. Retroactive benefits can be withheld until such time as a payee is located and appointed.  
+
+The 30 day limit on the suspense period does not apply to those beneficiaries who must have a payee in order to receive benefits, i.e., SSI disability benefits recipients medically determined to be drug addicts or alcoholics, those determined legally incompetent by a court, and most children under the age of 18. For these beneficiaries, the suspense period will last until an appropriate payee is located and appointed. Once again, “substantial harm” will be presumed by SSA but this presumption can be rebutted by the recipient. Footnote Reference 26  As with other recipients, SSA should release portions of current payments needed for basic living expenses.
+
+Footnote 26: 20 C.F.R. 404.2011, 416.611.
+
+
+IV.	SSA and Payee Responsibilities
+
+SSA regulations provide that SSA liability for payment ends once a payment has been made to a “properly appointed” payee, in other words, a payee who has been certified in accordance with SSA policy and regulations.  However, in cases in which payees have not been properly appointed, SSA may still be liable for funds paid to payees that were misused or stolen by the payees. Footnote Reference 27  
+
+Footnote 27: 20 C.F.R. 404.2041, 416.641.
+
+NOTE: SSA’s common practice in appointing payees does not come close to the proper certification anticipated by its regulations.  Advocates should carefully examine all instances where a beneficiary complains about misuse of funds by a payee in order to determine if funds were misused and if SSA liability for the funds exists.
+
+The new Act differentiates between misuse by an individual payee and a group payee. In misuse cases involving an individual payee SSA will be required to issue a duplicate payment to the recipient equal to the amount of benefits misused by the payee if SSA also determines that SSA was negligent in the appointment and/or monitoring of the payee. Footnote Reference 28  In a case of misuse involving a group payee SSA is authorized to issue a duplicate payment to the recipient in the amount of the benefits misused solely upon the Commissioner’s finding of misuse.  No negligence on SSA’s part is necessary.  A group payee is one that manages SSA funds on behalf of 15 or more recipients. Footnote Reference 29
+
+Footnote 28: 20 C.F.R. 404.2041, 416.641.
+Footnote 29: 20 C.F.R. 404.2041, 416.641.
+
+If SSA has been negligent in the investigation of a nominated payee, or in their monitoring of a payee’s use of a beneficiary’s funds, SSA will be liable to the beneficiary for the amount of funds misused by the payee.  Further, SSA will be required to make a “good faith effort” to have the misused amounts returned by the payee.  
+
+Historically, a finding by SSA that a payee did not misuse benefits has not been considered an “initial determination” and was, thus, not appealable. As SSA can be liable for misused benefits resulting from SSA negligence the appeal-ability of the misuse determination has greater significance.  SSA continues to take the position that a misuse determination is not an “initial determination.”  Rather, SSA treats a report of misuse as an initial request for restitution.  If SSA denies a request for restitution, SSA will provide a notice of appeal rights on the restitution issue.  Inasmuch as misuse is a necessary factor for restitution on appeal, the question of whether there was misuse will be reviewed by the reconsideration reviewer, ALJ, Appeals Council, or a Court, as is appropriate. Footnote Reference 30  
+
+Footnote 30: See Emergency (GN) Instruction, IT No. 04-92, ORSI No. 92-021 (1/15/92).
+
+NOTE:  Even prior to 1991 changes, SSA POMS provided for restitution if SSA failed to act with “good acquaintance.” Footnote Reference 31  Whenever a report of misuse is made advocates should request that restitution be made pursuant to both POMS and the applicable regulations. Footnote Reference 32  If denied the determination can be appealed.
+
+Footnote 31: POMS GN 00604.010. 
+Footnote 32: 42 USC ((405(j) and/or 1383(a)(2)(E). 
+
+As indicated earlier in this outline the Social Security Protection Act of 2004 made significant changes in the areas of misuse and oversight of payees.  Section 101 of the Act defines misuse as occurring in any case in which the payee receives payment on behalf of the recipient and “converts” such payment, or any part thereof, for the “use and benefit” of someone other than the recipient.  
+
+NOTE:  “Use and benefit” is a specific term of art that awaits definition by the Commissioner.  Watch for future Notices of Public Rulemaking.  
+
+Upon a Commissioner’s finding of misuse, the Commissioner shall certify for payment to the recipient (or to the recipient’s new payee) an amount equal to that found to have been misused.  The “duplicate payment” will not be considered a resource for a period of 9 months. Footnote Reference 33  Section 101(c)(2).  “Duplicate payment” requires that the benefits have determined to have been misused and that SSA was negligent in the appointment and/or oversight of the payee.  Note that these provisions are effective for misuse determinations made on or after 01/01/05.
+
+Footnote 33: 20 C.F.R. 404.2041, 416.641.
+
+Section 105 of the Act discusses the payees liability for misused benefits.  Upon the determination of misuse by the Commissioner, or a court, that a payee (not a federal, state or local government agency however) has misused benefits, the amount of misused benefits will be treated as an overpayment to the payee.  Upon recovering all, or part, of the misused funds the Commissioner shall make payment in that amount to the recipient, or the recipient’s new payee.  These provisions are effective for misuse determinations made by the Commissioner, or a court, after August 29, 2004.  Also effective on this date is the provision that requires a payee, who takes a fee for services, to forfeit the fee for any month in which benefits were determined to have been misused.  The fees will be considered part of the total of benefits misused.
+
+Lastly, concerning misuse, Section 111 of the Act provides for civil monetary penalties for wrongful conversions of benefits by payees.  If a payee knew, or should have known, that the benefits were used for other than the (use and benefit( of the recipient, the payee shall be subject to a monetary penalty of $5000 for each conversion plus an assessment of not more than twice the amount converted in lieu of damages sustained by the U.S. government.
+
+The announcement of final rules issued on October 7, 2004, contained no new regulations concerning the assessment of overpayments for misused benefits to representative payees or civil monetary penalties.
+
+Once a payee is appointed to manage a beneficiary’s payments SSA is responsible for informing and instructing that payee as to the proper use of the benefits received and the proper way to maintain records that will be needed to fully comply with SSA periodic reviews. Footnote Reference 34 At this point in the appointment process the representative payee should avail herself of all available information concerning return to work programs should the recipient be beginning a return to work effort or have begun working. It is not the representative payee’s place to decide whether any individual recipient should work but rather to manage reporting and monthly payments in such a way as to facilitate the work effort. The 1991 changes placed a much higher burden upon SSA to actively and meaningfully monitor the performance of payees.  The Social Security Protection Act of 2004 likewise enhances SSA(s responsibility for payee oversight.  
+
+Footnote 34: 20 C.F.R. 404.2065, 416.665.
+
+Section 102 of the Act calls for certification of “group payees” as well as periodic onsite review.  Any community organization serving as a payee must meet the definition of a “certified community-based nonprofit social service agency.”  The agency will be required to comply with regulations promulgated by the Commissioner and must be certified annually to receive payments on behalf of recipients.  The agency must also be fully bonded and licensed (should licensing be required by the agency’s home state) for this purpose.  Each annual certification request must be accompanied by any independent audit performed since the previous certification.
+
+In addition to other reviews that the Commissioner may conduct, the Commissioner shall provide for periodic onsite reviews of any person or agency located in the U.S. that receives benefits as a payee when:
+
+1.	The payee is a person who serves 15 or more recipients,
+2.	The payee is a certified community-based nonprofit social service agency, or
+3.	The payee is a non-governmental agency that service more than 50 recipients.
+
+These provisions, along with SSA reporting provisions, are effective in 04/05.
+
+NOTE: The 1991 changes allowed certain community based, non-profit social service agencies which were in existence on October 1, 1988, which are bonded or licensed by their states, and have regularly provided payee services to five or more recipients to collect a monthly fee of 10% of the monthly benefit due or $25, whichever is less. Footnote Reference 35   For those individuals determined to be drug addicts or alcoholics, the payee can elect to take a monthly fee of $50 per month, or 10% of the monthly benefit, whichever is less.  This fee, unlike the fee described above, is indexed to the CPI, and, as a result, will increase each year.  For more information concerning the structure and organizational ability to collect fees see the regulations at 20 C.F.R. 404.2040a, 416.640a.
+
+Footnote 35: POMS GN 00506.001. 
+
+
+V.	The Use of Payments
+
+A properly appointed payee takes on many important responsibilities when accepting this role. These responsibilities are taken on with the understanding that no fees can be paid to a payee for services provided on behalf of a beneficiary.
+
+A payee has a responsibility to use the payments received only for the use and benefit of the beneficiary and in the beneficiary’s best interest. A payee has the responsibility to notify SSA of any events that may change the status or payment level of the beneficiary, including the general reporting responsibilities of the beneficiary. As a result, the payee must make reports to SSA involving events such as the beneficiary’s return to work or the beneficiary's receipt of income of any kind. A payee must submit written accountings and reports to SSA upon request and should maintain account records as part of routine payee business. A payee must notify SSA of any changes that may compromise the payee's ability to effectively serve on behalf of the beneficiary. For example, the payee becoming a creditor of the beneficiary or the payee's relocation to a different geographical area. Finally, a payee must accept potential financial liability for misused funds if SSA has properly certified, investigated and appointed the payee.
+
+The use of payments received by a payee is controlled by SSA regulation. Footnote Reference 36  Payments can be used for the beneficiary’s “current maintenance.”  Current maintenance includes shelter expense, food, clothing, utilities, medical care not paid for by medicare or medicaid, and personal comfort items.  
+
+Footnote 36: 20 C.F.R. 404.2040, 416.640. 
+
+Shelter expense becomes a bit more complex if a beneficiary is institutionalized. If the institution is not receiving medicaid funds on the beneficiary’s behalf, the payee may use the benefits payments to cover the “customary charges for care and services provided by the institution,” for personal needs to improve the conditions while institutionalized, and for expenses necessary to aid in recovery or release. Footnote Reference 37  Any benefits remaining can then be used to maintain the beneficiary’s residence unless a physician certifies that a return to the home is unlikely.
+
+Footnote 37: 20 C.F.R. 404.2040(b), 416.640(b). 
+
+When an institution receives medicaid funds on a beneficiary's behalf, a payee may not use payments to cover customary expenses and may only provide for the personal needs of the beneficiary. Footnote Reference 38   
+
+Footnote 38: 20 C.F.R. 416.640(c). 
+
+NOTE: This argument should be made in all cases where an institution (including a foster care setting) is receiving any form of public funding on a beneficiary’s behalf.
+
+SSDI (Title II) received by a payee may be used to support the legal dependents of the beneficiary after the needs of the beneficiary have been met.
+
+Claims of creditors arising before the first month during which the payee was certified to receive payments on a beneficiary's behalf need not be met by using benefits funds.  A payee may use these funds to meet this type of claim only if the current and reasonably foreseeable needs of the beneficiary have been met.
+
+Funds remaining after the needs of the beneficiary have been met must be conserved for future use by the payee. Preferred investments are U.S. Savings Bonds, and insured, interest bearing savings accounts. If the payee is not the beneficiary's guardian or conservator then the accounts or bonds must be held in accordance with the relevant regulations. Footnote Reference 39  All interest and dividend payments made on these accounts or bonds are the property of the beneficiary and will be seen as “unearned income” for all SSI beneficiaries.  
+
+Footnote 39: 20 CFR 416.645(b) or 20 CFR 404.2045(b).
+
+Any savings accounts or investments held by a payee for an SSI beneficiary must also comply with the SSI income and resource eligibility rules.
+
+
+VI.	Removal of a Payee and Termination of Representative Payment
+
+SSA regulations provide for the removal and/or replacement of a payee should certain circumstances arise. Footnote Reference 40  A new payee will be appointed if SSA is informed that the needs of the beneficiary are not being met or that the payee no longer wishes to serve as payee.  Upon payee resignation, as well as in all cases where a payee is needed, SSA has an affirmative obligation to assist in locating a suitable payee.
+
+Footnote 40: 20 C.F.R. 404.2050, 416.650.
+
+While hindering or inhibiting a return to work effort may not be “misuse” of benefits, such action by a representative payee may warrant removal in order to assist the recipient beginning a work effort.
+
+Upon resignation, or termination, of a payee any accumulated payments must be immediately transferred to the new payee or to SSA in accordance with SSA instructions.
+
+Representative payment will be stopped once a beneficiary is physically or mentally able to maintain his/her financial affairs.  Evidence indicative of this fact includes: 
+
+1.	a court order restoring rights to a formerly legally incompetent beneficiary, 
+2.	a physician's statement that a beneficiary is now able to manage his/her own payments, or 
+3.	other statements that indicate that the ability to maintain payments exists (i.e., statements of social workers, family members, etc., as to the recipient’s current ability to use and manage payments in his/her best interest).  
+
+Further, once SSA receives any indication that any social security funds are being, or have been, misused by a payee, SSA is required to investigate and cease payment to that payee.  The Social Security Protection Act of 2004 provides SSA with the authority to “redirect” payments when a payee fails to provide a required accounting to SSA.  After providing notice to both the recipient and the payee, SSA can require the payee to appear in person at the DO in order to receive payments. 
+
+The Act also requires SSA to conduct a survey considering the use of payments by payees and will consider the differences in use by individual, organization and government agency payees.  The report is due to Congress in September of 2005. 
+
+
+VII.	Need for Advocacy
+
+A beneficiary who is subject to representative payment loses many significant rights. A payee, knowingly or unknowingly, accepts many significant responsibilities. SSA practice in appointing payees and holding payees to their responsibilities has been problematic at best. As a result, all beneficiaries subject to representative payment are extremely vulnerable. It is hoped that the OBRA `90 changes will bolster the position of beneficiaries forced to receive payments through payees. Cases involving such beneficiaries must be handled with extreme care and with much attention to the details surrounding the appointment of a payee and the payee's use of any funds paid to the payee by SSA. 
+
+Inasmuch as Congress has determined that SSA is liable for benefits lost to unscrupulous payees, advocates should be diligent in ensuring that reports of misuse are treated seriously and investigated in a timely manner.  All available appeals should be taken where appropriate.
+

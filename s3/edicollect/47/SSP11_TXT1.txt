@@ -1,0 +1,309 @@
+MEDICAL CONTINUING DISABILITY REVIEWS AND RELATED CONCEPTS
+
+A Discussion of Medical CDRs and the Age 18 Redetermination
+
+
+This is one of a series of articles written for benefits specialists employed by Benefits Planning, Assistance and Outreach projects and attorneys and advocates employed by Protection and Advocacy for Beneficiaries of Social Security programs.  Materials contained within this policy brief have been reviewed for accuracy by the Social Security Administration (SSA), Office of Employment Support Programs. However, the thoughts and opinions expressed in these materials are those of the authors and do not necessarily reflect the viewpoints or official policy positions of the SSA.  The information, materials and technical assistance are intended solely as information guidance and are neither a determination of legal rights or responsibilities, nor binding on any agency with implementation and/or administrative responsibilities.
+
+The author is James R. Sheldon, Jr., an attorney with Neighborhood Legal Services (NLS) of Buffalo, New York.
+
+I. INTRODUCTION
+
+Beneficiaries of Social Security Disability Insurance (SSDI) and Supplemental Security Income (SSI), based on disability or blindness, receive benefits because the Social Security Administration (SSA) has found that they meet a definition of disability.  For adult beneficiaries, the definition of disability and the criteria for meeting that definition is the same for both SSDI and SSI. Footnote Reference 1  For children under 18 seeking SSI benefits, the disability definition is different and, generally, a more difficult test to meet. Footnote Reference 2  A child who receives Social Security benefits, before age 18, is generally getting them as the dependent of a parent or adoptive parent who is now disabled, retired, or deceased, and need not be disabled.
+
+Footnote 1: See 42 U.S.C. §§ 423(d)(1)(A), 1382c(a)(3)(A).
+Footnote 2: Id. § 1382c(a)(3)(C).
+
+All SSDI and SSI disability or blindness beneficiaries will be subject to a periodic medical continuing disability review (CDR). Footnote Reference 3  The purpose of the medical CDR is to review the individual's medical condition to determine if it continues to be disabling under the relevant disability criteria.  If the CDR results in a finding of continuing disability, SSDI or SSI benefits will continue if the individual also meets any non-disability requirements, such as the limitations on income and resources in the SSI program.  If following the medical CDR, the individual is found to be no longer disabled, benefits will ordinarily stop.  Benefits may continue under some circumstances if the beneficiary has either filed a timely appeal to challenge a finding of medical improvement, or if the beneficiary is involved in an approved vocational rehabilitation program that started before the disability ceased.
+
+Footnote 3: See SSA Program Operations Manual System (POMS) DI 28001 et seq.
+
+SSI children's beneficiaries, like their adult counterparts, face a loss of benefits if SSA, upon review, determines that the child is no longer disabled.  However, at age 18 an SSI beneficiary will no longer be subject to the children's SSI disability standard.  Rather, the 18 year old must now meet the adult disability test.  To implement the different adult disability standard, SSA's policy requires that SSI children's beneficiaries face a review, upon turning age 18, called an "Age 18 Redetermination."  The purpose of the age 18 redetermination is to review the young adult's medical condition against the SSI disability criteria for adults.  If following the redetermination, SSA finds that the individual does not meet the adult disability criteria, benefits will ordinarily be stopped.  A finding of not disabled can be appealed.  However, unlike the rules for adult medical CDRs, beneficiaries may not elect to continue benefits during the appeal.  On the other hand, if the beneficiary is involved in an approved vocational rehabilitation program that started before the disability ceased benefits may, if certain criteria is met, continue for the duration of the program.
+
+SSDI beneficiaries who work may also be subject to a work-related review, sometimes called a "Work CDR."  Work CDRs will not be covered  in this article, but will be the subject of a separate policy and practice brief to be published in the future.  The purpose of a work-related review is to determine whether the beneficiary has engaged in substantial gainful activity (SGA) following a nine-month trial work period by earning more than an amount designated by SSA for the year in question (i.e., $800 for the non-blind or $1,330 for the legally blind in 2003).  An individual whose countable monthly income from wages exceeds the SGA amount following the trial work period, faces a suspension of benefits.  The individual faces a termination of benefits if SGA occurs or continues after the 36-month extended period of eligibility.  When an individual faces a suspension or termination of benefits, based on SGA, benefits may be continued if the individual files a timely appeal and seeks benefits continuation.
+
+A review that is similar to the work CDR is one that we shall refer to as the Walton review.  This review is based on an SSA policy, approved by the U.S. Supreme Court in Barnhart v. Walton, Footnote Reference 4 that allows for a reopening and review of an approved SSDI or SSI claim, in some cases, when it appears that the individual has performed SGA within 12 months of the onset of disability and before a final favorable determination on the issue of disability.  If, upon review, SSA finds that countable wages exceeded the SGA amount for the year in question, it can reopen the case, rescind the finding of disability and, depending on the facts, either terminate benefits or consider a later month as the onset of disability.  Walton reviews will not be covered below, but will be extensively covered in the separate policy and practice brief that covers work CDRs.
+
+Footnote 4: 535 U.S. 212 (2002).
+
+This policy and practice brief will discuss each of the two reviews in the medical review family: the medical CDR, focusing on the review as applied to adults; and the age 18 redetermination for beneficiaries of SSI children's benefits.  We will discuss for each: what facts will trigger the review, the review procedures, what actions can result from the review, the appeals available to challenge any adverse determinations made by SSA, and the provisions available for continuation of benefits pending any appeal.
+
+This brief will also discuss some special protections offered to persons facing a medical CDR or age 18 redetermination, or facing the suspension or termination of benefits following the CDR or related review.  We will discuss the special moratorium on CDRs now allowed for persons who are actively engaged in rehabilitation plan activities pursuant to the Ticket to Work program.  We will also discuss the right to a limited period of continued benefits for individuals who medically improve after beginning an approved vocational rehabilitation program.  Since this article will not cover work CDRs, we will not discuss the right to have suspended SSDI benefits reinstated during the extended period of eligibility, or the right to have terminated SSDI or SSI benefits reinstated using the new expedited reinstatement provisions.
+
+This policy and practice brief is written for a primary audience of benefits specialists employed by the Benefits Planning, Assistance and Outreach (BPA&O) projects and attorneys and advocates employed by Protection and Advocacy for Beneficiaries of Social Security (PABSS) programs.  It is intended to be a practical guide to when medical CDRs and age 18 redeterminations take place, how the reviews proceed, who does the review, and what can happen to the individual's benefits as a result.  We will also provide some practical tips to the beneficiary, representative payee, or disability advocate on the steps a beneficiary can take to minimize the adverse consequences that could follow the medical CDR or age 18 redetermination.  This brief is not intended to provide guidance on how to successfully challenge any of SSA's findings that are adverse to the beneficiary that may result from a review.  While many of the most intricate details of the medical CDR and related processes are left out, comprehensive citations are provided for the reader who needs greater detail.
+
+
+II. THE MEDICAL CDR
+
+The medical CDR is a medical re-evaluation by SSA to determine whether a person is still disabled.  As explained below, medical CDRs will occur, from time to time, for all adult SSDI beneficiaries and for adult and children's SSI beneficiaries.  When the review occurs, SSA will obtain up-to-date medical evidence to determine if the individual's condition has medically improved and whether that improvement now renders him or her not disabled.
+
+The review itself is performed, under contract, by an agency called the Disability Determinations Services (DDS) office. Footnote Reference 5  This is generally an arm of state government, which using SSA's regulations and policy, will make the medical decisions necessary on applications, medical CDRs, and age 18 redeterminations.  Since the DDS's decisions become the decisions of SSA, the remainder of this article will refer to those decisions as SSA's.
+
+Footnote 5: POMS DI 28003.005.
+
+A. When to Expect a CDR
+
+SSA will review cases periodically based on the classification of the impairment for which benefits were granted:
+
+* If a case is classified as "medical improvement not expected" (MINE), SSA is authorized to review the case once every five to seven years.
+* If the case is classified as "medical improvement possible" (MIP), SSA is authorized to review once every three years.
+* If the case is classified as "medical improvement expected" (MIE), SSA is authorized to review 6 to 18 months following a finding of disability. Footnote Reference 6
+* For children under age 18, who are receiving childhood SSI benefits, SSA is authorized to perform a CDR on each child at least once every five years. Footnote Reference 7
+
+Footnote 6: 42 U.S.C. § 421(i); 20 C.F.R. §§ 404.1590(d), 416.990(d); POMS DI 28001.020 B.
+Footnote 7: 20 C.F.R. § 416.994a(a); POMS DI 28003.005 B.4.
+
+These authorized time frames are often referred to as CDR "Diaries," with the greatest majority of adult cases classified as medical improvement possible.  Notwithstanding the authorization to review adults with the above-stated levels of frequency, during recent years most CDRs have not occurred as frequently as the law authorizes.
+
+The regulations provide for the initiation of a CDR when one of several other separate circumstances occurs:
+
+a. SSA needs a current medical or other report to determine if disability continues, such as where an advance in medical treatment or technology might affect disability.
+
+b. In SSDI cases, the beneficiary returns to work and successfully completes a period of trial work.
+
+c. In SSDI cases, SGA-level earnings are reported to the recipient's wage record.
+
+d. The beneficiary informs SSA that he or she has recovered or returned to work.
+
+e. A vocational rehabilitation agency informs SSA that its services have been completed or that the beneficiary is working, or the beneficiary is capable of working.
+
+f. Someone with knowledge of the beneficiary's condition reports to SSA that the beneficiary is no longer disabled or has returned to work.
+
+g. Evidence received by SSA raises a question as to whether the disability continues. Footnote Reference 8
+
+Footnote 8: POMS DI 28001.015, .020.
+
+The work-triggered CDR authorized by b, c and d, above, was eliminated effective January 1, 2002 for persons who have been entitled to SSDI for at least 24 months.  Work activity may not be used as evidence that a person is no longer disabled and cessation of work may not give rise to a presumption that a person is unable to work.  Persons affected by this section are still subject to regularly scheduled CDRs that are not triggered by work and will be subject to termination of benefits if they perform SGA. Footnote Reference 9
+
+Footnote 9: Ticket to Work and Work Incentives Improvement Act of 1999, § 111, 42 U.S.C. § 421(m)(1); SSA Emergency Message, EM-0129.
+
+Even before the elimination of work-triggered reviews for certain SSDI beneficiaries, those reviews were much less common for SSI beneficiaries.  With no trial work period or SGA rule facing SSI beneficiaries, a medical CDR was not triggered by either the end of the trial work period or the performance of SGA.  SSA staff do have discretion to self-initiate a review of an SSI beneficiary's continuing disability when substantial earnings are reported to the individual's record.  In fact, SSA policy indicates that a CDR will occur within 12 months of an SSI beneficiary moving from regular cash benefits status to section 1619(a) status, i.e., upon posting earnings of more than the SGA amount.  When the beneficiary move directly from regular benefits status to section 1619(b) Medicaid status, SSA's policy authorizes a "medical review of the file" to determine whether or not a CDR is necessary. Footnote Reference 10  Despite this authority, which could lead to a full medical CDR by the DDS, the author understands that a medical CDR is rarely started solely because of an SSI beneficiary's work activity.
+
+Footnote 10: POMS DI 13005.018 C. & D.
+
+B. What Should Happen When A CDR Begins
+
+1. Notice to the Beneficiary and Dependent Beneficiaries
+
+When SSA seeks to initiate a medical CDR, it is required to send the SSDI or SSI beneficiary a notice informing the individual of the following:
+
+* Eligibility is being reviewed;
+* The specific reason for review;
+* The medical improvement standard applies;
+* The review might result in termination of benefits; and
+* The beneficiary may submit medical or other evidence for consideration. Footnote Reference 11
+
+Footnote 11: 20 C.F.R. §§ 404.1589, 416.989
+
+SSA must also notify eligible dependents of an SSDI beneficiary if they are living at a different address from the account holder. Footnote Reference 12  This is because the dependents, such as the spouse or dependent children, face a loss of benefits if the SSDI beneficiary is found to be no longer disabled.
+
+Footnote 12: Id. § 404.1596(a).
+
+2. Based on Statistical "Profiling," Only Some Beneficiaries Will Get a Full CDR When Their Diary Date Comes Due
+
+Prior to 1993, all beneficiaries diaried for a CDR in any given year were subject to a full CDR, i.e., a full medical review.  In an effort to increase efficiency, a new process was implemented in 1993 that includes use of a computerized statistical analysis and CDR mailer to predict the probability of medical recovery and need for a full medical review to be conducted.  On an annual basis, SSA's on-line data for all current beneficiaries are run through a computerized statistical analysis and assigned a score.  This process is referred to as "profiling" and all beneficiary records are subject to the analysis regardless of an individual's diary.  Records are kept of scores obtained each year for each individual and used as points of comparison n subsequent years in assessing medical improvement.
+
+Once the profiling process is complete, beneficiaries with a diary that will mature during the current fiscal year are essentially divided into two groups: 
+
+* those whose profile score indicates a "high level of medical recovery" will have a full CDR immediately initiated;
+* those whose profile score indicates a "low probability of medical recovery" will be sent a CDR Mailer, also known as the Disability Update Report.
+
+There is now great variability in the comprehensiveness of the CDR and whether it will involve the completion of paperwork only, the additional submission/gathering of medical evidence, or even the referral for a consultative medical exam by a physician or other health care provider chosen by SSA.  In fact, many of the early steps in the review process, such as use of the self-help mailer form to determine who will get a "full CDR," are not technically CDRs according to SSA. While an in depth discussion of these procedures is beyond the scope of this article, we can provide some general description.
+
+An SSDI, SSI, or concurrent SSDI/SSI case will be selected for a CDR under either the automated direct release (ADR) system or as the result of SSA's review of a completed self-help mailer form. Footnote Reference 13  Both the ADR and self-help mailer systems are briefly described below.  While the author was not able to obtain statistical data on what percentage or cases are handled through either system, rough estimates provided by SSA are that an equal number of reviews are initiated under each system.
+
+Footnote 13: POMS DI 28003.005.
+
+3. The Mailer Form
+
+In an effort to streamline the CDR process and limit the comprehensive "full CDR" to those beneficiaries who have a high probability of medical improvement, SSA has devised a self-help mailer form designed to solicit key information from disabled beneficiaries about their medical conditions and recent treatment. Footnote Reference 14  The mailer form is usually sent to beneficiaries who have a low probability of medical improvement were a full CDR done.  Probability is determined on the basis of statistical analyses (called profiling) of on-line beneficiary data.  Some of the data considered in developing the profile and assignment of a "score" includes age, impairment(s), length of time in disability status, basis for the original determination, data on prior CDRs, and recent earnings. Footnote Reference 15
+
+Footnote 14: POMS DI 28001.003.
+Footnote 15: Id. DI 28001.003 B.2.
+
+A beneficiary may be sent one of two versions of the self-help mailer, each asking a similar, but not identical series of questions.  Each of the two versions is no longer than two pages.  Only a small percentage, about 2.5 percent, of beneficiaries who return the completed mailer will be referred for a full CDR based on the information received.  In most cases, a "deferral action" is made to defer doing a full CDR.  When a case is deferred, a new "medical reexamination diary" is set for up to seven years based on the "medical diary reason (MDR)" at the time the case was selected for mailer form processing.  If there is no MDR listed for the case, the reexamination diary is reset for three years. Footnote Reference 16
+
+Footnote 16: Id. DI 28001.003 B.3.
+
+SSA is careful to point out in its policy manual that the action to defer a CDR following review of the completed mailer is not a CDR.  Nor is a new comparison point date established (see section II.C, below) to base any determination of medical improvement following any future CDR. Footnote Reference 17
+
+Footnote 17: Id. DI 28001.003 B.4.
+
+The completed self-help mailer forms are sent to one of two central locations, within SSA, depending on which of the two forms was completed.  Following review of the information in or accompanying the mailer, a case is identified either as "Deferred" or as a "Do CDR" referral.  In the roughly 2.5 percent of the cases in which the case is referred to the SSA field office as a "Do CDR Referral," the field office takes a number of steps that might result in the case either being screened out (and the CDR discontinued) or, if not screened out referred to the DDS for CDR processing. Footnote Reference 18  For example, if a case involves HIV infection and the initial decision was made after 1991, the case is screened out and the CDR is discontinued; if the initial decision was made before 1991, the CDR is to be completed. Footnote Reference 19  SSA's policy manual also provides for screening out a case if the beneficiary is working, has a medical improvement possible (three-year) or medical improvement not expected (five or seven-year) medical reexamination diary, and has not completed a trial work period.  By contrast, if the beneficiary is working and has a medical improvement expected medical reexamination diary, SSA is to continue to process the medical CDR, and, if necessary, combine it with a work CDR. Footnote Reference 20
+
+Footnote 18: Id. DI 28001.003 J.
+Footnote 19: Id. DI 13005.020 D.
+Footnote 20: Id. DI 13005.020 E.1.c.
+
+Even where a case cannot be screened out and a CDR stopped, SSA is authorized to review the claims folder to determine whether the case can move forward, as a CDR, under the less onerous MINE or MINE-equivalent review process.  If not, the case will move forward under the more onerous full-scale CDR process. Footnote Reference 21
+
+Footnote 21: Id. DI 13005.003 J.3. & 4.
+
+4. The Automated Direct Release System
+
+Those SSDI and SSI beneficiaries who have been profiled by SSA as having a higher likelihood of medical improvement will have their reviews started under the ADR process.  As explained under the "full CDR" discussion below, this process will start with a phone call from SSA field office staff, followed by the mailing of a multi-page questionnaire for the beneficiary to complete, sign, and return.
+
+5. The Full CDR - What to Expect?
+
+If either through the automated direct release system or the review of the completed self-help mailer, SSA determines to initiate a full CDR, its scope will vary depending on whether SSA uses its regular CDR process or the less onerous MINE or MINE-equivalent review process. In all cases, SSA must notify the beneficiary and representative payee, if any, that the CDR is being initiated.
+
+a. The Regular CDR Process
+
+Generally, the CDR begins in the field office with a face-to-face interview of the beneficiary or the representative payee, if one exists. Footnote Reference 22  At this time the beneficiary will receive an explanation of the CDR process and information concerning his or her responsibilities.  Relevant background will be recorded in the individual's claim folder and forwarded to the DDS.  Upon receipt of the claim folder, the DDS will review the information obtained during the interview and begin development of the medical evidence by contacting appropriate medical sources.  If the DDS finds that the information obtained by SSA during the interview is not adequate for decision making purposes, it is likely to contact the beneficiary or the representative payee to supplement the information.
+
+Footnote 22: Id. DI 28003.010 1.c, 280030.015 A.
+
+Based on information supplied to SSA through the field office interview and through any completed forms, SSA should have information on the beneficiary's current treating sources (i.e., doctors, therapists, and other health care providers).  SSA is then required to develop a complete medical history of the most recent 12 months.  The focus of the medical development should be to compare the beneficiary's current impairment to that at the time of the "comparison point decision." Footnote Reference 23
+
+Footnote 23: Id. DI 28030.020 A.
+
+b. The MINE or MINE-Equivalent Review Process
+
+Cases are classified as medical improvement not expected (MINE) because SSA's experience is that these conditions will either remain the same or become progressively worse over time.  These cases are to be reviewed no more often than every five years and no less often than every seven years.  SSA's approach to these cases is as follows:
+"A primary objective of the MINE review procedure is to minimize inconvenience to the individual by structuring the review in a manner that is sensitive to the individual's concerns and needs.  Since these impairments are considered irreversible, development is geared toward assuring that the original medical documentation was thorough and fully supports the MINE impairment classification.  Hence, the need for extensive current medical development is not anticipated." Footnote Reference 24
+
+Footnote 24: Id. DI 28040.001.
+
+Using this philosophy as its yardstick, SSA's policy provides that the majority of MINE or MINE-equivalent reviews will be completed by the DDS with minimal field office involvement.  Typically, the review will start with a phone call to the beneficiary from the DDS, alerting the beneficiary that he or she will shortly receive a formal notice of the review.  A second contact will be made by the DDS to update the file concerning the current condition of the impairment(s), daily activities, work activity, and current medical sources.  In many cases, the only contact between the DDS and the beneficiary will be the first phone call, if the individual prefers and is prepared to answer the basic questions outlined above.  The DDS will also verify the existence of the continued impairment with the beneficiary's doctor or another medical source. Footnote Reference 25
+
+Footnote 25: Id. DI 280040.105.
+
+C. The Medical Improvement Standard
+
+During a CDR, SSA must determine whether there is any decrease in the medical severity of the impairments which were present at the time of the most recent decision that the beneficiary was disabled or continued to be disabled.  Using the specifics related to the disability at this most recent "comparison point date," SSA must determine if there has been medical improvement that now allows the individual to perform substantial gainful activity. Footnote Reference 26  A decrease in medical severity must be shown by new medical evidence, i.e., changes in medical signs, symptoms and/or laboratory findings.
+
+Footnote 26: 20 C.F.R. §§ 404.1594, 416.994; POMS DI 28005.001.
+
+1. No Evidence of Medical Improvement
+
+Upon review, if there is no medical improvement, then the CDR ends and benefits are continued.  There are some noteworthy exceptions, allowing termination of benefits when there is no evidence of medical improvement Footnote Reference 27:
+
+Footnote 27: 42 U.S.C. §§ 423(f), 1382c(a)(4).
+
+* No real medical improvement exists, but the beneficiary is now able to engage in substantial gainful activity because he or she is a beneficiary of advances in medical or vocational therapy or technology;
+* New or improved diagnostic techniques or evaluations show that the impairment is not as disabling as it was considered to be when recipient's case was most recently reviewed;
+* Substantial evidence shows that a prior determination was in error.
+Unless a specific exception applies, SSA cannot terminate benefits unless it determines that medical improvement has occurred and that the beneficiary's condition has improved to the point where he or she can return to work (i.e., is now capable of performing SGA).
+
+Keep in mind that an SSDI beneficiary whose condition has not medically improved can still lose benefits by performing SGA after the nine-month trial work period.  During the 36-month extended period of eligibility that immediately follows the trial work period, SSDI benefits will still be available for every month that countable gross wages are at or below that year's SGA amount.  Even if SSDI is discontinued following the extended period of eligibility, due to performance of SGA, the benefits can be reinstated under the new expedited reinstatement provisions if the individual ceases to perform SGA.  By contrast, the SSI beneficiary, protected by section 1619(a), will continue eligibility for benefits, despite SGA-level work, so long as the medical condition has not improved.
+
+2. What Medical Improvement Will Justify a Termination of Benefits?
+
+In order for SSA to find that an adult is no longer disabled under the medical improvement standard, the agency must answer yes to three separate questions:
+
+* Has there been medical improvement since the most recent comparison point date?
+* Is the medical improvement related to the ability to work?
+* As a result of the medical improvement, is the individual now capable of performing SGA?
+
+The application of this three-part test is best understood by looking at three examples.
+
+No medical improvement.  Carl was determined to be disabled by SSA on August 1, 1997 based on a severe back injury.  Although his claim was initially denied, an Administrative Law Judge (ALJ) approved his claim following a hearing.  When his claim comes up for review in March 2002, the medical evidence shows that his back impairment is just as severe as it was on the comparison point date, August 1, 1997.  Since there has been no medical improvement, SSA must find that Carl's disability continues.
+
+Medical improvement relates to ability to work.  Let us change the facts in Carl's case.  When his case is reviewed in March 2002, there is evidence that his medical condition has improved compared to what it was in August 1997.  With treatment and therapy, Carl is now able to sit for longer periods of time before he has to get up and can now walk for short distances without the use of his cane.  However, his doctor has advised Carl to avoid lifting any objects as heavy as five pounds and avoid sitting for more than 20 minutes at a time.  With these new facts, we can probably expect SSA to find that Carl's improvement does not relate to his ability to work and that his disability continues.
+
+Medical improvement allows individual to now perform SGA.  If we assume that SSA determines that Carl has medically improved and that the improvement relates to the ability to work (he can stand and walk for greater periods than before), the agency will only find that his disability has ceased if the improvement now allows him to perform SGA.  Without going through the sequential process used in the medical CDR, we can state that it is unlikely that SSA would find that Carl is capable of performing SGA when his sitting is limited to 20 minutes at a time and his lifting is limited to objects weighing five pounds.
+
+D. If the CDR Results in a Decision to Terminate the Benefits, SSA Must Send a Written Notice of the Termination.
+
+Following the medical CDR, if SSA finds that a beneficiary's condition has improved and the individual can now perform SGA, the agency must send the beneficiary a notice before it can terminate benefits.  Several key statements must be included in SSA's notice:
+
+1. An explanation of the specific reason for termination;
+
+2. Notice of appeal rights;
+
+3. Notice of the right to elect continuing benefits pending a hearing before an administrative law judge.
+
+The notice must explain that an individual has 60 days, from the date of receiving the notice, to appeal by submitting a request for reconsideration.  When SSA finds that an individual's disability has ceased for medical reasons, and the individual appeals, he or she may elect to have SSDI or SSI benefits continue during the appeal process.  In both SSDI and SSI cases, the beneficiary may elect to have benefits continued through the reconsideration appeal and the administrative law judge hearing, if the case goes that far. Footnote Reference 28  Any request for continuing benefits must be submitted to SSA within 10 days of the date of receipt of the notice from SSA.
+
+Footnote 28: POMS DI 28001.070.
+
+If SSDI or SSI benefits are ceased based on medical improvement, the beneficiary will be entitled to benefits for the termination month and the next two months.  This three-month period is often referred to as the "grace period."
+
+E. Alternative Grounds for Ceasing Benefits: Failure to Cooperate or Whereabouts Unknown
+
+Beneficiaries who are going through a CDR are required to cooperate with SSA and/or the DDS.  The required cooperation may include: filling out required forms and returning them to SSA or the DDS; signing releases to allow SSA or the DDS to obtain updated medical information; attending any scheduled appointments at an SSA office or with a consultant doctor or other health professional.  A failure, without good cause, to meet one of these requirements, could be grounds for termination of benefits. Footnote Reference 29
+
+Footnote 29: See, e.g., id. DI 22510.019, regarding the limited circumstance under which the DDS would rule unfavorably based on a failure to appear at a scheduled or rescheduled consultative examination.
+
+SSDI and SSI beneficiaries are required to promptly notify SSA if their permanent address changes.  Similarly, the beneficiary must inform SSA if their telephone number changes.  Since many beneficiaries receive benefits through direct deposit into a savings or checking account, they may mistakenly believe that a change of address is irrelevant.  However, if CDR-related notices fail to reach the beneficiary and SSA is not able to determine a new address, a cessation of benefits would be justified. Footnote Reference 30
+
+Footnote 30: See id. DI 28075.005, outlining the circumstances under which benefits can be terminated based on either the failure to cooperate or when the beneficiary's whereabouts are unknown.
+
+F. Moratorium on CDRs for Persons Participating in the Ticket to Work Program
+
+During the period for which an SSDI or SSI beneficiary is using a "ticket" under the new Ticket to Work and Self-Sufficiency Program, SSA may not initiate a CDR or similar review to determine if the individual is no longer disabled. Footnote Reference 31  As described more fully in an earlier policy and practice brief, Footnote Reference 32 the Ticket to Work program allows an eligible beneficiary to receive vocational and other support services from any employment network willing to accept assignment of the beneficiary's ticket.
+
+Footnote 31: 42 U.S.C. §§ 421(I)(5), 1320b-19(i).
+Footnote 32: Ticket to Work and Self-Sufficiency Program, Cornell University's Program on Employment and Disability (2002). Available on-line at www.ilr.cornell.edu/ped/dep/pp_6.pdf.
+
+SSA will not conduct a medical CDR during the period when the beneficiary is using an assigned ticket and meeting SSA's timely progress requirements.  However, this protection does not apply to reviews that SSA may conduct to determine whether or not a beneficiary is engaging in SGA.  For a beneficiary who has assigned his or her ticket to an employment network (EN) or state vocational rehabilitation agency, SSA defines "using a ticket" as a specified period of time during which the beneficiary is actively following the approved plan to become self-supporting. The EN monitors the beneficiary's progress with the plan, but the Program Manager of the ticket program (MAXIMUS) actually decides if the beneficiary is "using" the ticket. SSA cannot initiate a medical CDR while the beneficiary is using the ticket. If a Ticket has been assigned after a medical CDR has been initiated, SSA will complete that CDR. If, during that CDR, SSA decides that the beneficiary has medically recovered, usually benefits will be terminated. Footnote Reference 33  However, in some circumstances, SSA may continue benefits despite the medical improvement if the ticket assignment was made prior to the medical CDR decision. Footnote Reference 34
+
+Footnote 33: See 20 C.F.R. §§ 411.160 - 411.225.
+Footnote 34: See section II.G, below.
+
+To continue the suspension of CDRs under the timely progress requirements, during the first 24 months following the ticket assignment, the beneficiary must be actively participating in his or her employment plan. Footnote Reference 35  After the first 24 months, timely progress will be tied to escalating levels of work activity during each subsequent 12-month progress review period (e.g., three months of work at the non-blind SGA level in months 25-36; six months of work at the non-blind SGA level during months 37-48). Footnote Reference 36
+
+Footnote 35: 20 C.F.R. § 411.180(c)(1).
+Footnote 36: A chart which lays out the timely progress requirements for each relevant period appears in the ticket regulations.  Id. § 411.191.
+
+G. Continuation of Benefits for Persons in Vocational Programs
+
+An important exception to the medical improvement rules adds a special protection for persons who medically improve after beginning participation in a vocational rehabilitation program approved by SSA. Footnote Reference 37  This is often referred to as "section 301" because it was enacted as section 301 of the Social Security Amendments of 1980. Footnote Reference 38  Participation may be in any vocational rehabilitation program, which SSA approves and not just those developed by a state vocational rehabilitation agency. Footnote Reference 39  Typically, this provision would apply to persons who medically improve while attending a college or other training program, and allows benefits to continue despite the medical improvement. The federal statute provides two requirements for continued SSDI or SSI eligibility: (1) participation must be in an approved vocational rehabilitation program, and (2) participation must increase the likelihood that the person will be permanently removed from the disability rolls.  SSA's regulations add the requirement that the person must have begun the program before his or her disability ceased. Footnote Reference 40
+
+Footnote 37: 42 U.S.C. §§ 425(b), 1383(a)(6).
+Footnote 38: Social Security Amendments of 1980, Pub. L. No. 96-265, § 301(b), 94 Stat. 441.
+Footnote 39: Pub. L. 101-508, § 5113, POMS DI 60050.001.
+Footnote 40: 20 C.F.R. §§ 404.316(c), 416.1338.
+
+Example.  Geraldine was diagnosed with severe depression in her early 20s and was approved for SSI disability benefits at age 24.  At age 32, she started attending a four-year college program, which is sponsored by her state vocational rehabilitation agency.  Eighteen months into the college program SSA completes a CDR and determines that Geraldine has medically improved and is now capable of SGA.  Ordinarily, this would result in a termination of her right to collect SSI benefits.  However, since the college program began before the finding of medical improvement (i.e., before the disability ceased) and it is a program approved by the state vocational rehabilitation agency, Geraldine's SSI benefits will continue until the program is completed so long as that program will increase the likelihood of her being permanently removed from the disability rolls.  What this means, in Geraldine's case, is that she can continue to rely on SSI benefits as a source of income while she completes the remaining two and one half years of her college education.
+
+An example involving the use of section 301 to continue SSI benefits, terminated following an age 18 redetermination, appears in the next section.
+
+III. THE AGE 18 REDETERMINATION FOR SSI CHILDHOOD BENEFICIARIES
+
+An age 18 redetermination is required for adults who were originally granted SSI benefits as children and who attained age 18 on August 22, 1996 or later. Footnote Reference 41
+
+Footnote 41: POMS DI 28005.016 A.; 28005.003 B.
+
+It is important to note that this is not a CDR in the traditional sense since the purpose of the redetermination is to review the current medical evidence to determine whether the young adult meets the criteria for disability under the adult criteria.  The medical improvement rules, discussed in the previous section, do not apply and benefits could be terminated even if there was no medical improvement since the individual was last found to be disabled.  As a practical matter, however, since the childhood SSI disability criteria is, as relevant to many cases, more strict than the adult criteria, if the impairments that resulted in a finding of childhood disability on the most recent comparison point date have not improved, SSA is very likely to find the individual still disabled under the adult criteria.  Even when the individual is found not disabled based on the redetermination, benefits can be continued under the section 301 provisions discussion in section II.G, above.
+
+Example.  Marcus suffered physical injuries and a traumatic brain injury in a car accident when he was 14 and was approved for SSI benefits shortly thereafter.  He also was enrolled in his school's special education program because he experienced learning problems associated with the brain injury.  When his case comes up for an age 18 redetermination, his physical disability has improved to the point where Marcus must only limit his work-related activity to work where he is able to sit frequently and where he is not expected to lift more than 20 pounds.  His traumatic brain injury is permanent, however, and he is still involved in a special education program that is expected to last three more years (i.e., through the year when he reaches age 21).  Marcus's special education program has a vocational component, started when Marcus was age 17, which involves a series of unpaid internships and an expectation for paid internships during his last two years in school.
+
+The result of the age 18 redetermination is that Marcus is found to be not disabled under the adult criteria for disability.  Ordinarily, this would mean that Marcus would lose his right to cash benefits and now be permitted to follow the same appeals process allowed for all SSI applicants whose applications are denied.  However, under section 301 his benefits should continue for the remainder of his special education program so long as: the program is approved by SSA (under these facts it probably will be); the program started before the finding that he does not meet the adult standard of disability (present in his case); and the completion of the program will increase the likelihood that Marcus would be permanently removed from the disability rolls.  This third test is probably met as well.  If Marcus is allowed continuing benefits under section 301, it could mean up to three years of continued SSI payments during his critical transition years as he prepares to enter the adult world.  During this time, if he starts receiving paychecks, he would also benefit from SSI's student earned income exclusion, which, in 2003, would allow the first $1,340 per month and up to a maximum of $5,340 per year to be excluded in determining the amount of his monthly SSI check. Footnote Reference 42
+
+Footnote 42: 20 C.F.R. § 416.1112(c)(3), Table 1.
+
+IV. PRACTICAL TIPS FOR BENEFICIARIES AND THEIR REPRESENTATIVE PAYEES - - MINIMIZING ADVERSE CONSEQUENCES FROM A CDR
+
+Benefits specialists who work for BPA&O projects frequently hear beneficiary concerns as they relate to CDRs.  Beneficiaries are concerned about losing benefits based on any improvement in their condition.  They are also concerned that any work activity in their record will both trigger a CDR and work against them when the CDR is conducted.
+
+The benefits specialist's response to this concern should be twofold.  First, the beneficiary should be made aware of the general content covered in this article.  While we cannot eliminate every fear and worry, accurate information about when a CDR might occur and what it will involve will allow the beneficiary to approach the CDR based on the known, rather than the unknown.  Importantly, the beneficiary should also be told about the special work incentives discussed above, such as the suspension of CDRs for ticket use, the elimination of work-triggered reviews, and the section 301 protections.
+
+The second response addresses the reality that a CDR could result in a termination of SSDI or SSI benefits when SSA makes one of several findings:
+
+* the beneficiary, in an SSDI case, has performed SGA following a nine-month trial work period;
+* the beneficiary's condition has medically improved and he or she is now capable of SGA;
+* there is an unjustified failure to follow prescribed medical treatment;
+* there is an unjustified failure to cooperate with either SSA's or the DDS's attempts to perform a CDR
+* the beneficiary's whereabouts are unknown.
+
+Beneficiaries, payees, and their advocates can take steps to minimize the likelihood of any inappropriate or premature cessation of benefits, as explained below.
+
+Substantial Gainful Activity.  Make sure that monthly wages are reported accurately, including any periodic changes in monthly earnings.  Make sure to report any impairment related work expenses, potential subsidies, and business related expenses if self-employed.  Make sure to also document any unsuccessful work attempts and the reasons why they were unsuccessful.  Every effort should be made to get this information to SSA as it becomes available rather than waiting until a medical CDR or work CDR is in progress.
+
+Medical Improvement.  Make sure that all doctors, therapists, and other health care providers appreciate the importance of submitting timely and comprehensive reports when asked to do so.  If frequency of medical symptoms or flare ups are related to the issue of continuing disability (e.g., the frequency of seizures, or asthma-related trips to the hospital emergency room), keep a record of those events.
+
+It is also important to make sure SSA's decision makers receive updated and accurate vocational information, if it exists.  Even if there is documented medical improvement that relates to the ability to work, that will only justify a cessation of benefits if the improved condition enables the individual to perform SGA.  Recent unsuccessful work attempts, recent firings related to the disability, and the inability to move beyond sheltered or intensive supported employment may all provide evidence of the continued inability to perform SGA.
+
+Following Prescribed Medical Treatment.  The beneficiary should follow any prescribed medical treatment unless there is justification for not doing so.  In some cases, a beneficiary may be justified in not following treatments that are risky (e.g., some surgeries may carry a significant risk of mortality or increased disability if unsuccessful).  In other cases, a beneficiary may choose to not pursue a treatment that would result in significant side effects (e.g., the medication to control pain may also cause an inability to concentrate).  If the individual is not pursuing prescribed treatment because of documented risks or side effects, those risks or side effects should be fully documented.
+
+Failure to Cooperate.  Beneficiaries, payees, and their advocates must understand that a failure to cooperate with the CDR-related requests of SSA or the DDS (i.e., not completing paperwork, not attending a consultative examination) can result in a cessation of benefits.  Even though the individual may have just supplied this information to a different agency, such as a school or vocational rehabilitation agency, the individual cannot simply ignore the request.  If the beneficiary or payee believes SSA already has the information, or if he or she needs extra time to fill out the form, this should be communicated to SSA or the DDS.  Similarly, if the appointment with a consultant conflicts with other matters, the beneficiary should contact SSA or the DDS to request a different appointment.
+
+Whereabouts of the Beneficiary Unknown.  It is both required and critical to the CDR process that beneficiaries timely inform SSA of any change of address or post office box number, change in phone number, or other contact information.  Some beneficiaries who fail to do so may continue to have ready access to their monthly check if it goes directly to a bank through the direct deposit program.  Other beneficiaries may have access to their checks at the address of a friend or relative long after they are no longer living there.  A good general rule is that beneficiaries should report to SSA any change of address, phone number, or other contact information within 10 calendar days of the change.  By failing to follow this general rule the beneficiary subjects himself or herself to a cessation of benefits if, during the CDR process, SSA or the DDS is unable to determine the whereabouts of the beneficiary.
+
+CONCLUSION
+
+All SSDI and SSI beneficiaries will be subject to periodic medical CDRs and many of them will approach the subject of CDRs with great fear.  In light of these predictable fears and concerns among so many beneficiaries, it is important that BPA&O and PABSS staff are prepared to provide beneficiaries accurate information about CDRs and the variety of work incentives that relate to the CDR process.
+
+This policy and practice brief is intended to serve as a reference for BPA&O and PABSS staff who must provide timely and accurate information about the CDR process.  In some cases, individuals employed by one of those programs may want to provide copies of this brief to beneficiaries, advocates, and attorneys who work on SSDI and SSI appeals.
+

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Effects of Class Size on Student Grades at a Public University</title>
+<publication-date>2005-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>eck4@cornell.edu</email>
+<institution>Cornell Higher Education Research Institute (CHERI); Department of Economics, Binghamton University</institution>
+<lname>Kokkelenberg</lname>
+<fname>Edward</fname>
+<mname>C.</mname>
+</author>
+<author>
+<institution>Institutional Research and Planning, Binghamton University</institution>
+<lname>Dillon</lname>
+<fname>Michael</fname>
+</author>
+<author>
+<institution>Department of Economics, Binghamton University</institution>
+<lname>Christy</lname>
+<fname>Sean</fname>
+<mname>M.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Economics Of Scale</keyword>
+<keyword>Educational Economics</keyword>
+<keyword>Student Performance</keyword>
+<keyword>Logit Analysis</keyword>
+<keyword>Fixed Effects Models</keyword>
+</keywords>
+<abstract>&lt;p&gt;We model how class size affects the grade higher education students earn and we test the model using an ordinal logit with and without fixed effects on over 760,000 undergraduate observations from a northeastern public university.  We find that class size negatively affects grades for a variety of specifications and subsets of the data, as well as for the whole data set from this school.  The specifications tested hold constant for academic department, peer effects (relative ability in class), student ability, level of student, gender, minority status, and other factors. Average grade point declines as class size increases, precipitously up to class sizes of twenty, and more gradually but monotonically through larger class sizes.   JEL Classification;  I21&lt;/p&gt;</abstract>
+<coverpage-url>http://digitalcommons.ilr.cornell.edu/intlvf/6</coverpage-url>
+<fulltext-url>http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1005&amp;amp;context=intlvf&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1005</articleid>
+<submission-date>2005-05-02T07:55:45-07:00</submission-date>
+<publication-title>Visiting Fellow Working Papers</publication-title>
+<context-key>70027</context-key>
+<submission-path>intlvf/6</submission-path>
+<fields>
+<field name="publication_date" type="date">
+<value>2005-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

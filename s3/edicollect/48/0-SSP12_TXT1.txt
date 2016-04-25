@@ -1,0 +1,1361 @@
+PASS: SSI'S PLAN FOR ACHIEVING SELF-SUPPORT
+
+This Self-Directed Vocational Rehabilitation Plan is an Alternative Funding Source to Support a Range of Work Goals.
+
+
+This is one of a series of policy and practice briefs written for benefits specialists employed by Benefits Planning, Assistance and Outreach projects and attorneys and advocates employed by Protection and Advocacy for Beneficiaries of Social Security programs.  Materials in this policy brief have been reviewed for accuracy by the Social Security Administration (SSA), Office of Employment Support Programs.  However, the thoughts and opinions expressed in these materials are those of the authors and do not necessarily reflect the viewpoints or official policy positions of the SSA.  The information, materials and technical assistance are intended solely as information guidance and are neither a determination of legal rights or responsibilities, nor binding on any agency implementation and/or administrative responsibilities.
+
+The authors are James R. Sheldon, Jr., an attorney with Neighborhood Legal Services (NLS) of Buffalo, New York and Edwin J. Lopez-Soto, a Lead Trainer with Cornell University's Program on Employment and Disability.  Both authors have extensive experience with the SSI and SSDI work incentives, including the SSI program's Plan for Achieving Self Support.  This article is based, in part, on a 1997 article written by these same co-authors and to the extent parts of that earlier article appear herein, this re-publication is done with the permission of NLS and Mr. Lopez-Soto's former employer, the Greater Upstate Law Project.
+
+
+TABLE OF CONTENTS
+
+I. Introduction
+
+II. Why the PASS is Important
+
+III. How the PASS Works
+
+A. SSI Is a Program for the Financially Needy.
+B. The PASS Is an Income and Resource Exclusion Device.
+C. The Beneficiary Must Have a Continuing Disability.
+
+IV. Criteria for PASS Approval
+
+A. The PASS Must Be in Writing.
+B. Items to Include in the Written Plan
+
+1. The Specific Work Goal
+a. Feasibility
+b. When Goal Will be Limited to an Entry-Level Position
+c. A PASS Must be Expected to Increase a Person's 
+
+Prospect for Self Support
+
+2. The Individual's Medical, Educational, and Vocational Background
+a. Medical Background
+b. Past Employment
+c. Educational Background
+
+3. List of Items or Activities Requiring Savings or Payments and Anticipated Amounts
+a. A PASS Will Generally Be Limited to Start-up Costs
+b. Self-Employment Business Plan
+c. A Proposed Expense Must Be the Least Costly Alternative
+
+4. Cash Resources to Put into the PASS
+
+5. Specific Savings And Planned Disbursement Goals
+
+6. Specific Beginning and Completion Dates for PASS "Milestones"
+
+C. The PASS Must Be Approved by SSA
+
+V. How May Excluded Income and Resources Be Used?
+
+A. Examples of Expenses That Can Be Approved
+B. General Rule: Approved PASS Expenses Must Be In Addition to Expenses Currently Incurred by the Person
+C. Use the PASS to Supplement What Other Sources Can Fund
+
+VI. Time Limits for the PASS
+
+VII. Modifications to the PASS
+
+A. Amended Plans Are Allowed
+B. A Second PASS Is Allowed
+C. Suspension or Termination of the PASS
+
+VIII. Progress Reviews
+
+IX. Most Likely Candidates for a PASS
+
+A. Persons with Significant Unearned Income
+B. Persons with Significant Earnings
+C. Persons with Significant Resources
+D. Persons with Deemed Income From a Spouse or Parent
+E. Persons Who Receive In-Kind Support and Maintenance
+
+X. The PASS Application Packet:  Items Generally Submitted with a PASS Proposal
+
+A. Before the PASS Submission:  A Letter of Intent From the Individual or Advocate
+B. Cover Letter from Advocate
+C. Letter from Applicant/Person with Disability
+D. Completed SSI Application
+E. Letter of Support from Vocational Counselor
+F. The Proposed PASS
+G. The PASS Budgeting Form
+
+XI. Other Considerations Related to the PASS
+
+A. Are the Proposed Expenditures Reasonable?
+B. Will the Person Have Enough Disposable Income to Meet Monthly Expenses After the PASS is Approved?
+C. How Will the PASS Affect Other Benefits?
+
+1. Medicaid
+a. Medicaid Eligibility From the PASS Itself
+b. Linkage to 1619(b) Medicaid Through the PASS
+
+2. Government Rental Subsidies
+
+3. Food Stamps
+
+4. Assistance From the State Vocational Rehabilitation Agency
+
+D. The Effect of SSDI's Trial Work Period and Extended Period of Eligibility Rules Upon the PASS
+
+1. The TWP and EPE Explained
+
+2. Planning for the Impact of the TWP and EPE; Contrasting SSI's Section 1619(a) Provisions
+
+E. Timing the PASS Application to Take Advantage of Section 1619(a)
+
+F. What if the Beneficiary Medically Improves After the PASS Is Approved?
+
+G. If the PASS Is Denied - the Right to Appeal
+
+H. The Need for Outreach and Training
+
+XII. Conclusion
+
+Pass Budgeting Form
+Sample Letter From Rehabilitation Counselor
+Sample Letter From Advocate
+Pass Example:  Ann Lembke
+
+
+I. Introduction
+
+Ann injured her spinal cord at age 13.  This left her paralyzed from the waist down, with limited use of her arms, hands and fingers.  She uses a power wheelchair, has difficulty writing, and depends on others to meet most personal needs, including bathing and dressing.  Now, age 19, Ann is about to graduate from high school and enter college.  Unlike her able-bodied peers, however, Ann must overcome many disability-related barriers in order to succeed in college and eventually become an elementary education teacher.  
+
+The physical barriers to Ann's success can be overcome with a combination of personal assistance services and assistive technology (e.g., a power wheelchair, adapted personal computer equipment, and a specially modified van).  However, the cost of these items and college tuition creates a major barrier to long-term vocational success.  With only $620 in monthly Social Security Disability Insurance (SSDI) benefits, Ann cannot finance her education, purchase a vehicle, wheelchair, personal computer, and meet monthly living expenses.
+
+There is a solution.  Using a Plan for Achieving Self Support (PASS), Footnote Reference 1 Ann can use her SSDI dollars to pay for items and services that would not be paid by other sources.  These items and services might include tuition, other educational expenses, a vehicle, and a computer.  With an approved PASS to cover these "vocationally related" expenses, she would qualify for SSI to cover monthly living expenses.  In many cases, SSI will replace the SSDI benefits dollar for dollar.
+
+Footnote 1: Pub. L. No. 92-603, Title III, § 301, 86 Stat. 1329 (1972); 42 U.S.C. §§ 1382a(b)(4)(A)(iii) and 1382a(b)(4)(B)(iv), 1382b(a)(4); 20 C.F.R. §§ 416.1180 et seq.; Program Operations Manual System (POMS) SI 00870.000 et seq. (July 2000).
+
+So why do so few of our clients or consumers take advantage of this wonderful work incentive?  In 1974, when SSI began, Congress included the PASS provisions, which allow for the exclusion of income and resources if used toward the achievement of a vocational goal.  Ten years after their creation, however, the PASS provisions lay dormant.
+
+In the mid 1980s, the Social Security Administration (SSA) sought to dust off the so-called work incentive provisions. Footnote Reference 2  Through outreach efforts, which have continued to the present, SSA increased public awareness of work incentives in general and the PASS in particular.
+
+Footnote 2: For a thorough discussion of this subject, see James R. Sheldon, Jr., Work Incentives For Persons With Disabilities Under the Social Security and SSI Programs (Aug. 2002), www.nls.org/work_incentives.htm; GREATER UPSTATE LAW PROJECT, BENEFITS MANAGEMENT FOR WORKING PEOPLE WITH DISABILITIES: AN ADVOCATE'S MANUAL (2002 ed. & 2003 supp.).
+
+Beginning in the late 1980s, many organizations stepped in to help individuals understand and use the PASS.  These efforts came primarily from the Centers for Independent Living, a handful of other agencies, which serve persons with disabilities, and numerous freelance advocates.  These efforts were quite successful; some would say too successful.  Because of perceived abuses in the program, the General Accounting Office (GAO) began an investigation.  In February 1996, the GAO issued a well-publicized and highly critical report.  Leveling much of its criticism on SSA itself for not consistently interpreting its PASS regulations and policy, the GAO concluded that the PASS was not meeting its promise of making disability beneficiaries self-sufficient. Footnote Reference 3
+
+Footnote 3: See U.S. GENERAL ACCOUNTING OFFICE, PASS PROGRAM, SSA WORK INCENTIVE FOR DISABLED BENEFICIARIES POORLY MANAGED, GAO/HEHS-96-51 (Feb. 1996)(hereinafter the "GAO Report"), available at www.gao.gov (using search by report number).
+
+Reacting to the GAO report, SSA immediately declared a moratorium on new PASS approvals while it changed its PASS-review procedures and substantially revised its Program Operations Manual System (POMS) policy on the PASS.  Under revised procedures originally established in 1996, PASS proposals are now reviewed by a "cadre" of PASS specialists, specially-trained SSA personnel whose primary job it is to review PASS proposals.  There are now PASS specialists assigned to every region in the country.
+
+Prior to the GAO's 1996 report, the number of approved PASSes had soared to more than 10,000, nationwide in 1995.  Following policy changes and the appointment of the PASS Cadre in 1996, the national statistics for approved PASSes dropped to 3,483 in September 1997 and then to 1,016 in June 1999.  During more recent years, the SSA has sought to promote the PASS as a work incentive.  The agency has done this through community outreach, often in partnership with community-based programs such as the SSA-funded Benefits Planning, Assistance and Outreach (BPA&O) projects.  With this promotion and outreach, the number of approved PASSes, nationally, has gradually increased, with 1,752 in existence as of June 2003.
+
+This policy and practice brief promotes the premise that all advocates for persons with disabilities should increasingly look to the PASS as a means to vocational success and financial independence for their clients or consumers.  
+
+II. Why the PASS is Important
+
+Disability advocates who work for Protection and Advocacy (P&A) programs and other not-for-profit agencies have long debated about how to use our limited resources.  Many of us prefer to do "impact" work rather than "service" work.  We are striving for a way to have some permanent, positive impact on the lives of the persons we serve.
+
+Our efforts to help individuals with disabilities use the PASS can prove to be enormously beneficial and life changing for these individuals.  By promoting the PASS as a way out of poverty, we can help to pave the way from dependence on benefits to financial independence.
+
+The PASS can be tailored to meet vocationally related needs that cannot be funded by other sources.  With comprehensive planning, the PASS can be used to supplement or augment what can be funded under a state's vocational rehabilitation program, or through third party insurance programs like Medicaid or Medicare.
+
+III. How the PASS Works
+
+The PASS allows a person to exclude income and/or resources that would otherwise be counted in determining SSI eligibility.  If used for approved goods or services, the money set aside in a PASS will not be counted by SSI, allowing the individual to become eligible for SSI, retain SSI eligibility, or become eligible for a higher SSI check.
+
+A. SSI Is a Program for the Financially Needy.
+
+SSI is an entitlement program for persons with limited income and resources. Footnote Reference 4  SSDI is, by contrast, available because a wage earner paid into the system through payroll deductions.  SSI can be one's only source of income or it can supplement another source of income such as SSDI benefits or wages.
+
+Footnote 4: See 20 C.F.R. §§ 416.1100, et seq. (income), §§ 416.1201, et seq. (resources).
+
+SSI is a nationwide program, administered by SSA.  Since states supplement the SSI federal benefit rate (FBR) at their option, payment levels will vary.  The examples used in this article are based on the 2003 FBR of $552 per month.
+
+To be eligible for SSI, an individual's countable monthly income cannot exceed the relevant SSI rate for his or her state.  For example, in a state that pays the 2003 FBR of $552 per month, an individual who receives a $620 SSDI check will be ineligible for SSI.  This is because the first $20 of monthly unearned income is excluded in determining the monthly SSI check.  Since the countable income of $600 will be more than the FBR of $552, this individual will not qualify for SSI.
+
+Additionally, an individual can have no more than $2,000 in non-exempt resources.  Thus, a savings account containing more than $2,000, for example, will make the person ineligible for SSI, even if monthly income is limited.
+
+In 39 states and the District of Columbia, a person who receives any amount of SSI qualifies for Medicaid automatically. Footnote Reference 5  In the other 11 states, known as section 209(b) states, Medicaid eligibility will be determined under separate criteria. Footnote Reference 6 The states which exercise the 209(b) option include: Connecticut, Hawaii, Illinois, Indiana, Minnesota, Missouri, New Hampshire, North Dakota, Ohio, Oklahoma and Virginia. Footnote Reference 7  
+
+Footnote 5: 42 U.S.C. § 1396a(a)(10)(A)(i).
+Footnote 6: Id. § 1396a(f).  
+Footnote 7: POMS SI 01715.020.
+
+B. The PASS Is an Income and Resource Exclusion Device.
+
+Using the hypothetical Ann, from the Introduction, if she takes $600 of her $620 SSDI check and uses it in an approved PASS to save toward a van purchase to meet her goal of becoming a teacher, the $600 will be excluded and no longer counted by the SSI program.  With the $20 unearned income exclusion and the $600 PASS exclusion, her monthly countable income, for SSI purposes is reduced to $0 ($620 - 20 = $600 - 600 = $0).  With no countable income, Ann is now eligible for an SSI check at the full FBR of $552.  She will also qualify for automatic Medicaid if she lives in one of the 39 states (or the District of Columbia) in which SSI beneficiaries are automatically eligible for Medicaid.  As she puts this $600 per month into a special bank account, the resources of this bank account will be exempt and not count toward Ann's $2,000 resource limit.  With the PASS, Ann will now have $572 a month for living expenses, plus $600 a month to go into her PASS savings account.
+
+C. The Beneficiary Must Have a Continuing Disability.
+
+To use a PASS, the SSI applicant or beneficiary must meet SSI's disability criteria.  If the disability ceases due to medical improvement, benefits will usually stop, even if a PASS was previously approved. Footnote Reference 8  SSI benefits will continue under some circumstances, despite evidence of medical improvement, if the individual is in a program approved by a state rehabilitation agency. Footnote Reference 9
+
+Footnote 8: See section XI.F, below.
+Footnote 9: 42 U.S.C. § 1383(a)(6); 20 C.F.R. § 416.1338.  SSDI benefits will continue under parallel provisions.  42 U.S.C. § 425(b); 20 C.F.R. § 404.316(c).
+
+IV. Criteria for PASS Approval
+
+A. The PASS Must Be in Writing. Footnote Reference 10
+
+Footnote 10: Id. § 416.1181; POMS SI 00870.006 E.3.
+
+The PASS is a written spending plan.  SSA has a 14-page PASS application form, SSA-545-BK.  A reformatted copy of that form, completed for Ann in the example above, is included as an appendix to this article.  The PASS form also appears as an attachment to the July 2000 POMS update. Footnote Reference 11  While SSA does not require that PASS proposals be submitted on this form, advocates should use the form with all PASS proposals.  If a proposal is submitted in another format, SSA personnel are required to complete form SSA-545 to the extent necessary.
+
+Footnote 11: Id. SI 00870.100, Exhibit 1.
+
+Anyone, including the SSI applicant or beneficiary, can write the PASS.  It is best, however, to find a trained advocate or benefits specialist to write the PASS.  Personnel at the local SSA office are required to write the PASS if asked to do so. Footnote Reference 12  However, some SSA personnel may not be as knowledgeable or creative as the well-trained advocate.
+
+Footnote 12: Id. SI 00870.004 A.
+
+B. Items to Include in the Written Plan
+
+The PASS must contain a number of items:
+
+1. The Specific Work Goal
+
+Each PASS must specify and clearly describe a single occupational goal, e.g., school teacher, dance instructor, plumber, etc.  If the stated objective is feasible and other criteria are met, the PASS should be approved.  
+
+a. Feasibility
+
+To be feasible, the individual need only have a reasonable chance of attaining the work goal.  SSA will review the history of prior work, education and training to determine if the work goal is reasonable. Footnote Reference 13
+
+Footnote 13: Id. SI 00870.006 A. 6.
+
+The feasibility of the work goal is presumed if the PASS preparer or the preparer agency has vocational rehabilitation credentials or expertise.  The POMS encourages SSA to scrutinize the preparer's credentials and not apply the presumption, however, if there is a history of problems with PASSes submitted by the preparer. Footnote Reference 14
+
+Footnote 14: Id. SI 00870.025 B.3.
+
+When feasibility is questionable, SSA may obtain corroboration from an authoritative source other than the one involved in writing or supporting the PASS. Footnote Reference 15  If the person had a prior PASS, the person must satisfy SSA that there is a good reason why he or she is not working in the job identified in the prior PASS and that the new PASS is needed. Footnote Reference 16
+
+Footnote 15: Id. SI 00870.025 B.3.e.
+Footnote 16: Id. SI 00870.025 B.1.
+
+b. When Goal Will be Limited to an Entry-Level Position
+
+The general rule is that a PASS is available to help a person attain an entry-level position in the person's chosen profession.  How this general rule will be applied and when the PASS can be used to support advanced degrees or positions beyond entry level will depend on individual circumstances.
+
+SSA's policy allows a person to use a PASS to pursue an advanced degree if the "profession of the individual's choice" (or, "chosen career path" as used in the POMS) requires this degree to enter the profession.  The policy also allows for approval of a PASS even if the person is already working or about to start work if the level of income to be generated would not currently meet the expenses in the proposed PASS.  A goal beyond entry level will be approved, for example, if earnings at the entry level are not enough to meet work expenses, medical expenses, and other financial obligations. Footnote Reference 17
+
+Footnote 17: Id. SI 00870.006 A.1.
+
+Let us go back to Ann in the hypothetical above.  Assume that her PASS proposes to save toward both a bachelor's degree and a master's in education.  Will SSA be inclined to approve the additional expenses associated with the advanced degree?  This will depend on the circumstances.
+
+If we assume that Ann can obtain an entry-level teaching job with a bachelor's degree and can meet all of her expenses at that point, without a continued PASS, SSA would probably not approve a continued PASS at that point.  If we assume that most schools or even state policy would require a master's degree to obtain the entry level teaching position, then the continued PASS would probably be approved.
+
+c. A PASS Must be Expected to Increase a Person's Prospect for Self Support.
+
+The PASS must be expected to increase prospects for self-support, measured by higher earnings potential upon completion of the PASS.  SSA will approve a PASS if the higher earnings are likely to reduce or eliminate benefits paid by SSA. Footnote Reference 18
+
+Footnote 18: Id. SI 00870.006 A.5.a. & b.
+
+If an individual is already eligible for SSI before the PASS begins, the occupational goal must be designed to reduce the individual's SSI benefit substantially.  If a person is eligible for SSDI only, and not concurrently eligible for SSI before the PASS begins, the occupational goal must be designed to result in the eventual loss of the SSDI check based on an expected wage level at the substantial gainful activity (SGA) level (i.e., $800 in 2003 for persons who are not legally blind). Footnote Reference 19
+
+Footnote 19: Id.
+
+This latter policy, which first appeared in the July 2000 revision to the POMS, is extremely important.  This is because a large percentage of PASSes have been approved, historically, for persons who become eligible for SSI by placing SSDI benefits into a PASS.  Under this policy, a PASS applicant who wishes to use SSDI benefits in an approved PASS in order to become eligible for SSI must state an earnings goal that is expected to be at the SGA level at the time the goal is achieved.
+
+2. The Individual's Medical, Educational, and Vocational Background
+
+a. Medical Background
+
+The PASS form asks about the disabling illness, injury, or condition.  The applicant must describe how he or she expects to do the duties of the anticipated work goal in light of the disability.  The applicant must address these issues in a straightforward manner.  For example, in Ann's case (see above) she will describe her limitations and how she will work as a teacher despite this disability:
+
+"I am paralyzed from the waist down, with limited use of my arms, hands, and fingers.  I use a wheelchair for mobility, have difficulty writing, and depend on others for bathing and dressing."
+
+"As long as I have occasional support from a teacher's aide or assistant, I will be able to carry out the duties of an elementary grade education teacher."
+
+b. Past Employment
+
+In this section of the PASS application, SSA appears to be seeking information to determine: whether the applicant already has the experience and skills to achieve self-support without the PASS; and whether the applicant has the kind of background that makes the present work goal a good career choice.  For example, an individual with Ann's disability, quadriplegia, who had worked as a nurse before her injury, might make a good candidate to work in another medically-related field.
+
+In general, the work history should go no further back than 15 years, with the most recent jobs more important to describe in the greatest detail in most cases.
+
+c. Educational Background
+
+Like the past employment section, this section seeks to identify background related to the present ability to achieve self-support and the appropriateness of the chosen career goal.  If the individual already has a degree that might appear to lead to an entry-level position, the applicant must explain why this does not make the individual self-supporting: e.g., the entry-level position requires a more advanced degree; the entry-level position will not generate enough income to allow the individual to meet all of his or her expenses (see section IV.B.1.b, above); or the position in question is not appropriate in light of the disability.  This may need to be explained in the comments section of the application, in a separate letter from the applicant, or in a supporting letter from a rehabilitation counselor.
+
+3. List of Items or Activities Requiring Savings or Payments and Anticipated Amounts Footnote Reference 20
+
+Footnote 20: Id. SI 00870.025 B.5.a.
+
+The proposed PASS must list each item and/or service and its cost.  Additionally, one must explain how the cost was determined and how the specific item or service will help to achieve the vocational goal.
+
+One plan will identify items to be purchased, like a computer or a vehicle.  Another will identify monthly or weekly expenses for items like gasoline, a driver, or school supplies.  A third plan may include all of these items.  The PASS applicant must work hard to come up with good estimates of how money will be spent, obtaining prices to be included with the application packet.
+
+a. A PASS Will Generally Be Limited to Start-up Costs
+
+The general rule is that a PASS will only be approved for items to allow a person to start a job or business. Footnote Reference 21  In applying this general rule, the POMS requires PASS specialists to take a "common sense approach," approving any expense that is reasonable and necessary to allow the person to reach a point in his or her chosen career path that would generate enough earnings to meet all their expenses. Footnote Reference 22
+
+Footnote 21: Id. SI 00870.006 B.4.
+Footnote 22: Id. SI 00870.006 A.1, .006 B.2. & 3, .025 A.2.
+
+This approach is also consistent with SSA's policy on business start-up costs, in which the general rule is to limit PASS expenses to those business-related costs occurring within the first 18 months of the business.  The POMS cautions the PASS specialist to ignore the general rule when circumstances dictate: 
+
+"You may approve expenses the person incurs after the start up period if the individual would not otherwise have sufficient remaining income and resources to cover living expenses, medical expenses, and work expenses as describe in SI 00870.006 A.1. Footnote Reference 23"
+
+Footnote 23: POMS SI 00870.025 B.5.b.
+
+b. Self-Employment Business Plan
+
+The PASS proposal must include a detailed business plan when self-employment is a goal. Footnote Reference 24  The POMS details the minimum information that must be included in the business plan: Footnote Reference 25
+
+Footnote 24: Id. SI 00870.006 A.10.
+Footnote 25: Id. SI 00870.026 C.2. - C.7.
+
+* Business name, address, owner
+* Business form (sole proprietorship, partnership or incorporation)
+* Principal activity of the business, including the product and/or service to be provided
+* How the business will start (new or franchise)
+* Why this business should succeed
+* Who or what is the market for the business and the size and geographic location of that market
+* The mechanism for pricing the product and/or service
+* The advertising plan to reach the market and sell the product and/or service
+* List of employees and managers and their functions in the business, including qualifications of these individuals, which may contribute towards the success of the business
+* The financial plan, including anticipated expenses and anticipated revenue especially those items not otherwise accounted for under the PASS
+
+c. A Proposed Expense Must Be the Least Costly Alternative
+
+Both the POMS and the PASS form drive home the requirement that expenditures proposed under a PASS must be the least costly alternative that will allow the individual to meet his or her work goal. Footnote Reference 26  Singled out for special scrutiny are vehicles and computer equipment. Footnote Reference 27  In completing the PASS form, the applicant must be prepared to spell out for SSA what less expensive alternatives were considered and why they were not chosen.
+
+Footnote 26: Id. SI 00870.006 B.1, 3. & 4, 00870.025 B.5.d.
+Footnote 27: Id. SI 00870.006 B.5, 6. & 7.
+
+4. Cash Resources to Put into the PASS
+
+An SSI recipient can have no more than $2,000 in the bank. Footnote Reference 28  A person with cash or other liquid resources above $2,000 may wish to put these excess resources into the PASS.  This will reduce resources below SSI limits and will allow the person to use the money on vocationally related items.
+
+Footnote 28: 20 C.F.R. § 416.1205.
+
+In one case, an individual may have saved money in anticipation of going to school.  In another case, he or she may have received an inheritance or a lump sum settlement from a lawsuit.  In these cases, the PASS can make the funds or bank account exempt and reduce resources below the $2,000 limit.
+
+5. Specific Savings And Planned Disbursement Goals
+
+The PASS applicant must document how much needs to be set aside each month and how and when he or she intends to spend the money.  This savings and spending plan should be as simple or complex as the individual facts dictate.
+
+Assume a person wants to buy a vehicle for $12,000 and has $620 per month in SSDI benefits.  With the first $20 disregarded under SSI rules, $600 per month can be put into the PASS and disregarded for 20 months.  Since the PASS can only be approved, initially, for up to 18 months, a two-month extension would have to be requested at a later date. Footnote Reference 29  At the end of 20 months, $12,000 will be disbursed to pay for the car or van.  In this case, since countable income is reduced to $0, the person will qualify for a full SSI check based on your state's SSI rate.
+
+Footnote 29: See section VI, below.
+
+6. Specific Beginning and Completion Dates for PASS "Milestones"
+
+The PASS must specify when it will begin and end.  If the PASS is to pay for college or another training program, the objective is ordinarily achieved when the degree or certificate is received.  In other cases, the duration of the PASS will be tied to the time it takes to save for a purchase, to pay off a loan or to take the necessary steps to set up a business. Footnote Reference 30 
+
+Footnote 30: See section VI, above.  POMS SI 00870.006 D.
+
+According to the POMS, a PASS must include milestones or interval steps that measure progress as a person moves toward a work goal. Footnote Reference 31  The approval of certain goods and/or services may be contingent on the successful completion of milestones on which the need for the goods and services is predicated.  Thus, for example, if an initial goal (milestone) is to obtain a commercial driver's license, SSA may not approve savings for a vehicle purchase until the first milestone is met (i.e., the license is obtained).
+
+Footnote 31: Id. SI 00870.006 A.4.
+
+The applicant must do his or her best to calculate the time needed to accomplish the steps identified in the PASS.  By meeting these milestone requirements, this should help the person to think about what is needed to accomplish their work goal.  Keep in mind, however, that the PASS can always be amended (see section VII.A, below) as circumstances change or as new items or time frames are clarified.
+
+C. The PASS Must Be Approved by SSA
+
+All PASS applications will be sent to SSA's Cadre of Experts for approval.  SSA has established no time limit within which they must act on a proposed PASS.  However, SSA must review a proposed plan "as soon as possible." Footnote Reference 32
+
+Footnote 32: POMS SI 00870.025 A.2.
+
+In urging its PASS specialists to expedite PASS decisions, SSA's policy points out: "Remember that a delay can result in a loss of a job or training opportunity for the individual." Footnote Reference 33  If there is some urgency to the PASS applicant's situation, such as needing approval to begin a school or training program that should be communicated to the PASS specialist when the proposal is submitted.  If the applicant or advocate believes that a PASS proposal has sat for too long without a decision, he or she should contact the PASS specialist responsible for the case.
+
+Footnote 33: Id.
+
+If possible, the person submitting the PASS should establish a rapport with the PASS specialist before the PASS proposal is submitted.  Let him or her know ahead of time if delays will hurt your client.  For example, if a proposed PASS is submitted in late June to fund college expenses in September, let SSA know they need to make a decision by early August so that SSI checks will begin on September first.  In some cases the advocate must be assertive and remind the PASS specialist if a decision on the PASS is not made promptly.
+
+V. How May Excluded Income and Resources Be Used?
+
+A. Examples of Expenses That Can Be Approved
+
+Legislative history indicates that the PASS provisions should be liberally construed if necessary to accomplish the self-support objective. Footnote Reference 34  This suggests that any expense, which is reasonably related to attaining one's vocational goal can be approved.
+
+Footnote 34: Pub. L. No. 92-603, supra, note 1, 1972 U.S. Code Cong. & Admin. News 4989, 5138; POMS SI 00870.001 A.
+
+The following is a representative, but by no means exhaustive list of items that can be funded through a PASS: Footnote Reference 35
+
+Footnote 35: Id. SI 00870.025 B.5.g.
+
+* Attendant care
+* Basic living skills training related to the work goal
+* Child care
+* Costs for room and board when attending educational, training, employment, trade, or business activities
+* Dues and subscriptions for publications for academic or professional purposes
+* Equipment, supplies, operating capital and inventory required to establish and carry on a trade or business
+* Equipment or tools either specific to the individual's condition or designed for general use
+* Meals consumed during work hours
+* Operational or access modifications to buildings, vehicles, etc., to accommodate disabilities
+* Tuition, books, supplies and all fees and costs imposed by or in connection with an educational or occupational training facility including tutoring, testing, counseling, etc.
+* Uniforms, specialized clothing, safety equipment and appropriate attire (e.g., suits and dresses) for job interviews or working in an office or professional setting
+* Maintenance costs for any of the above items
+* Transportation costs, including: lease, rental or purchase of vehicle, subject to the limitations on installment payments discussed in section IV.B.2.a, above; public transportation and common carriers; fuel costs, registration fees and initial cost of insurance premiums
+* Job coaching/counseling services
+* Job search or relocation services
+* Preparation fees for developing a PASS (but not for monitoring a PASS)
+* Taxes and government-imposed user fees (e.g., permits, licenses) connected with obtaining any of the above
+* Finance and service charges connected with obtaining any of the above
+
+B. General Rule: Approved PASS Expenses Must Be In Addition to Expenses Currently Incurred by the Person
+
+The POMS state that the approved expense cannot "have existed before the individual began activities to achieve the occupational goal (which can predate submission of the PASS and SSI eligibility)." Footnote Reference 36  The POMS invite at least three ways in which current expenses can be approved in a PASS that has not yet been submitted:
+
+Footnote 36: Id. SI 00870.006 B.1.
+
+* First, when submitting a PASS, the person may seek retroactive approval for up to 24 months back to the date the person began incurring this expense. Footnote Reference 37
+
+Footnote 37: Id. SI 00870.007 B.2.
+
+* Second, an existing or ongoing expense can be approved prospectively so long as its earlier existence was related to "activities to achieve the occupational goal." Footnote Reference 38
+
+Footnote 38: Id. SI 00870.006 B.1.
+
+* Third, the POMS specifically allow "the increased costs for a pre-existing expense that are caused by the PASS." Footnote Reference 39  For example, ongoing car maintenance costs may have increased dramatically because of commuting costs to work or school.
+
+Footnote 39: Id.
+
+Here again, the fall back position should be that any proposed expense should be analyzed using a "common sense approach," approving any expense that is reasonable and necessary to allow the person to reach a point in his or her chosen career path that would generate enough earnings to meet all their expenses. Footnote Reference 40
+
+Footnote 40: Id. SI 00870.006 A.1, .006 B.2. & 3, .025 A.2.
+
+C. Use the PASS to Supplement What Other Sources Can Fund
+
+Other funding sources may exist for many of the items listed above.  For example, the state vocational rehabilitation (VR) agency may pay for tuition and books.  A private insurance company or Medicaid may pay for durable medical equipment.  Scholarships and grants may pay for tuition, books and other costs related to college or training.
+
+The PASS should be used to supplement other funding sources, not as a substitute for them.  For example, your state's VR agency should, up to certain dollar limits, pay for tuition, supplies to start a business, and job coaching services.  Most state VR agencies will not purchase a vehicle, but will fund modifications to allow a person with a disability to drive it.  Accordingly, in most states the PASS can be used to purchase a vehicle and state VR agency money can then be used to pay for modifications.
+
+A PASS is preferred over a loan, which a person has to repay.  With many PASSes, however, a loan is secured to obtain the needed item and the PASS is used to pay off the loan subject, of course, to the rules governing installment payments.
+
+VI. Time Limits for the PASS
+
+The Social Security Act requires that the time limits for the PASS take into account the length of time that the individual needs to achieve a work goal. Footnote Reference 41  
+
+Footnote 41: Pub. L. No. 103-296, § 203, 42 U.S.C. § 1383b(d).
+
+Under the current POMS, in all cases, a PASS can be approved for up to 36 or 48 months. The PASS proposal must specify beginning and ending dates.  Although the existing regulations still mention approvals in increments of an initial 18 months, with extensions of 18 and 12 months, the POMS makes no such reference.  Instead, the current POMS contemplate approval and progress reviews (see section VIII, below) that are tied to the achievement of milestones that must be listed in the written PASS.
+
+A PASS may be extended beyond 36 or 48 months in intervals up to six months as necessary to allow the person to achieve his or her goal. Footnote Reference 42  There is no limit on the number of six-month extensions.  Until new regulations are in place, a PASS may only be extended in intervals of up to six months.
+
+Footnote 42: Id. SI 00870.006 D.3.
+
+VII. Modifications to the PASS
+
+A. Amended Plans Are Allowed.
+
+An approved PASS may need to be amended.  In one case, the cost of a computer may have increased and extra time is needed to save for it.  In another case, a student who is blind may have forgotten to include the cost of readers.
+
+Any number of amendments are allowed as long as SSA approves them. Footnote Reference 43  It is best, of course, to anticipate everything at the beginning so that amendments are kept to a minimum.  When amending a PASS, the SSA-545-BK form should be used unless the PASS specialist agrees to accept a short letter.  The person preparing the PASS should write "Amendment" on the top of the form and complete only those items, which are being amended.
+
+Footnote 43: Id. SI 00870.050.
+
+B. A Second PASS Is Allowed.
+
+A person is allowed one approved PASS for each occupational objective.  If the earlier goal did not work out, a second, or in rare cases a third PASS would be appropriate.  The individual who had a prior PASS must satisfy SSA that there is good reason why he or she is not working in the job identified in the prior PASS and that a new PASS is needed. Footnote Reference 44
+
+Footnote 44: Id. SI 00870.006 A.2.
+
+C. Suspension or Termination of the PASS.
+
+The PASS will be suspended when the plan is abandoned, the conditions of the plan are not followed, or the goal is achieved.  A PASS will be terminated if SSA approves a new PASS, eligibility for SSI is terminated, or 12 consecutive months elapse after a PASS is suspended without it being resumed. Footnote Reference 45
+
+Footnote 45: Id. SI 00870.070 A. & B.
+
+Income that was set aside under the PASS will start counting as of the suspension or termination month.  Any resources or accumulated savings still in the PASS will start counting, under SSI's resource rules, in the month following termination of the PASS. Footnote Reference 46
+
+Footnote 46: Id. SI 00870.070 C.1. & C.2.
+
+A person should always consider other alternatives before abandoning a PASS.  If the person must drop out of school for one semester because the disability worsened, an amendment should be considered to extend the time by six or 12 months.  If the college goal is now unrealistic, a new vocational goal can be established and a new PASS proposed.
+
+A suspended PASS may resume when the person resolves the reason for the suspension and the PASS specialist approves the request, including any amendment, to pursue the PASS. Footnote Reference 47  A new PASS may be preferable to an amended plan as the new plan allows the person a new 36 or 48-month time limit, with six-month extensions as needed.
+
+Footnote 47: Id. SI 00870.080.
+
+VIII. Progress Reviews
+
+The "Progress Check" is to be used by the PASS specialist to quickly see how things are going and to help the person quickly remedy any potential problem.  The POMS do not require any schedule for progress checks. Footnote Reference 48
+
+Footnote 48: Id. SI 00870.055 A.1.
+
+The "Progress Review" is to be conducted at least annually. Footnote Reference 49  The PASS specialist uses this to determine whether the PASS should continue as is, be amended, suspended or terminated.  SSA must take into account:
+
+Footnote 49: Id. SI 00870.055 A.2.
+
+* Changes in income or other circumstances that might affect the PASS;
+* Whether the person has met plan milestones on schedule and, if not, why not;
+* Whether funds excluded under the PASS have been set aside and/or spent as agreed and, if not, why not.
+
+The PASS specialist is to create and control a schedule of progress reviews based on relevant circumstances of each PASS, including:
+
+* Key milestones; and
+* Periods of six months or more during which funds are being set aside and not spent.
+
+When SSA learns during a progress review that a person is not following the plan, the PASS specialist is expected to make every effort to work with the person to amend the PASS, "particularly if failure to follow the PASS is due to circumstances beyond the person's control." Footnote Reference 50 The current POMS expect the PASS specialist to be proactive to ensure that the person has every opportunity to reach the work goal that is the foundation of their PASS.  For example, if the person is working in the work goal and PASS expenses are paid, the specialist is to suspend the PASS and consider the appropriateness of alternative exclusions, such as an impairment related work expense.  If the person is working but the expenses are not all paid, the specialist is expected to extend the PASS to pay for unpaid items and services if the person is unable to pay for the remaining PASS expenses as well as other personal expenses. Footnote Reference 51
+
+Footnote 50: Id. SI 00870.055 C.1.b.
+Footnote 51: Id. SI 00870.055 C.2.a.
+
+In anticipation of progress reviews, the beneficiary must have receipts, bills, bank accounts, and other documentation in an organized fashion and be ready to discuss the activities related to achieving the work goal.
+
+IX. Most Likely Candidates for a PASS.
+
+Since the PASS is a set of income and resource exclusion rules used by the SSI program, a person must have countable income and/or resources to make the PASS feasible.
+
+A. Persons with Significant Unearned Income
+
+Unearned income is income other than wages.  SSDI benefits, private pension benefits and Veterans Administration benefits are common sources of unearned income.
+
+In a state that pays the SSI's 2003 FBR of $552, with no state supplement, a person who lives alone and receives $572 in SSDI benefits will not be eligible for SSI.  After the first $20 of unearned income is excluded, this person will have $552 in countable income making him or her ineligible for SSI.  Using the PASS, every dollar this person sets aside in an approved PASS to support a vocational goal will result in a one dollar increase in the SSI check.  Here are two examples:
+
+Example 1:  Shirley is blind and receives $572 monthly in SSDI and lives alone.  She sets aside $200 monthly in a PASS to purchase a computer and braille printer for a home-based business.  Her countable income - reduced by $20 by the unearned income exclusion and $200 by the PASS exclusion - is now $352 monthly.  Her SSI check is now $200 per month ($552 - 352 = $200).
+
+Example 2:  Same facts.  However, she now sets aside $552 each month.  Her countable income is now reduced to $0 and she is eligible for a $552 SSI check.
+
+Shirley in example 2 has put all of her countable income into the PASS.  This is typically the way to proceed as it allows her to obtain the highest level of SSI and purchase her computer and braille printer at the earliest date possible.
+
+B. Persons with Significant Earnings.
+
+Under SSI rules, the first $65 or $85 of earned income and 50 percent of the remainder is disregarded. Footnote Reference 52  Thus, for Greg who lives alone in a state that pays the $552 FBR and has $1,189 in gross wages, his countable income of $552 will make him ineligible for SSI.  In a state, which does not supplement the FBR of $552 monthly, $1,189 in gross wages would make the person ineligible for SSI.  This amount of wages is often referred to as the "break even" point, since countable earned income is exactly equal to the maximum SSI rate.
+
+Footnote 52: 20 C.F.R. §§ 416.1112(c)(4), (c)(5) and (c)(7).  The $20 unearned income disregard, if not used to reduce unearned income, will be used to reduce earned income.
+
+Like Shirley, Greg will receive a one-dollar SSI increase for every dollar put into the PASS.  For example, here is what his SSI budget would look like if he set aside $200 monthly to pay for a driver to take him to college:
+
+Gross wage $1,189
+Minus earned income disregard equals $65
+Minus unearned income disregard not otherwise used of $20
+Equals $1,104
+Minus 50 % of remainder
+Equals countable earned income of $552
+
+Minus PASS exclusion of $200
+Equals countable income of $352
+
+Base SSI rate of $552
+Minus countable income equals $352
+
+Equals SSI check of $200
+
+Under these facts, if he set aside an additional $352 for college tuition, Greg's countable income would be reduced to $0 and he would qualify for the maximum $552 SSI check.
+
+C. Persons with Significant Resources.
+
+Under SSI rules, a person can have no more than $2,000 in non-exempt resources. Footnote Reference 53  Resources above $2,000 can be put into the PASS to ensure eligibility for SSI.  For example, a person who is awarded $25,000 in a personal injury settlement could place this money into an approved PASS to save toward the expense of college studies or the purchase of tools to become a mechanic, making this resource exempt for SSI purposes.
+
+Footnote 53: 20 C.F.R. § 416.1205.
+
+D. Persons with Deemed Income From a Spouse or Parent
+
+A spouse or child of a wage earner, who receives deemed income from a spouse or a parent, could be eligible for a PASS by excluding the deemed income. Footnote Reference 54  For example, Maria is disabled and uses a wheelchair.  She is 16 years old and lives with her mother and 12-year-old brother who does not have a disability.  She was getting a $552 SSI check until her mother went to work.  Her countable deemed income is now $602, or $50 more that the 2003 FBR of $552.  Under SSI's formula for deeming income from a parent or stepparent, the mother's gross monthly wages would be $1,605 in this situation ($19,260 per year).
+
+Footnote 54: POMS SI 01320.140, .710 A.
+
+A PASS is proposed to put $602 of the mother's monthly wage into an account to save for a van to allow Maria to attend college to become an engineer.  If the PASS is approved, the deemed income will no longer be counted by SSI and Maria will qualify once again for a $552 SSI check.  She will also remain qualified for Medicaid in most states.  If Maria saves this amount each month for two full years, or until deeming stops on her 18th birthday, she will be able to save nearly $14,000 in her PASS fund.
+
+E. Persons Who Receive In-Kind Support and Maintenance
+
+A little-known provision of the POMS specifically authorizes a person to take in-kind support and maintenance, which is valued and counted as unearned income under the presumed maximum value (PMV) rule, Footnote Reference 55 and use that money in the PASS for approved expenses. Footnote Reference 56  For example, an individual may get paid less than the full SSI FBR because he or she is not paying the full share of food or housing expenses.  If SSA has valued this in-kind income at $100 per month, the person's SSI check would be reduced from $552 to $452 per month (plus state supplement, in any).  This $100 of in-kind, unearned income could be used to pay for expenses in a PASS.  If the PASS were approved on that basis, the person's SSI check would increase by $100.
+
+Footnote 55: See id. SI 00835.300 for information about the PMV.
+Footnote 56: Id. SI 00870.008 A.3.
+
+Many adult children, who live with their parents, will receive a decreased SSI check amount under the PMV rule because their expected share of household expenses (e.g., rent or mortgage, taxes, utilities, and food) is so high the individual could not possibly pay the shared amount out of an SSI check.  In some cases, the in-kind income attributed to the adult child under this rule will be as high as one-third of the FBR or $181.67 in 2003.  In such a case, this $181.67 could be used in an approved PASS toward expenses to reach a vocational goal, with the SSI check increased by $181.67.
+
+X. The PASS Application Packet:  Items Generally Submitted with a PASS Proposal
+
+Although there is a specified form for a PASS, it is always best to assemble a packet of materials to show SSA the proposal is well conceived and should be approved.  What follows is a list of items the authors recommend submitting with the PASS proposal.
+
+A. Before the PASS Submission:  A Letter of Intent From the Individual or Advocate
+
+Although this may not always be needed, it can be a good idea.  Generally, this would come from the advocate and would be a brief letter to the PASS Cadre or, preferably, to the PASS specialist whom you know will be assigned to the case.  The letter should include the beneficiary's name, address, Social Security number, projected date of the PASS submission, and a brief summary of what the PASS will involve.  In some cases, a phone conversation with the PASS specialist may suffice.  
+
+If the PASS proposal will be complicated or controversial, this will open up the lines of communication.  A follow-up phone call can then be used to establish a rapport with the PASS specialist who will rule on this PASS proposal.
+If the individual is not already receiving SSI cash benefits or extended Medicaid through the 1619(b) program, the purpose of this communication is to secure a "protected filing date" to ensure that the PASS approval (and the accompanying SSI application approval) can be back-dated to the date that the letter of intent was received (see section X.E, below).
+
+B. Cover Letter from Advocate
+
+This can be anything from one paragraph to several pages.  It is the advocate's opportunity to anticipate issues and address them ahead of time.  If the PASS is complicated or unusual, this is the opportunity to explain things. Footnote Reference 57
+
+Footnote 57: See Sample Letter From Advocate, p. 46, below.
+
+C. Letter from Applicant/Person with Disability.
+
+The applicant should use this letter to supplement what appears in the completed PASS application form.  This is an opportunity to zero in on one or more issues that may raise questions with SSA.  The advocate should, of course, help in writing this letter.
+
+Depending on the circumstances, this could be viewed as an opportunity to breathe some real life into the PASS proposal.  The applicant can explain, in his or her own words, how the PASS is expected to fill in the missing link on the route to independence and self-support.  With these issues in mind, this letter may carry more weight if it is hand-written.
+
+D. Completed SSI Application
+
+If the person is already an SSI recipient, a new application is not needed.  If the person is not currently an SSI recipient (e.g., receives SSDI only), an SSI application must be completed.
+
+As noted in section X.A, above, if the individual must submit an SSI application with the PASS proposal, a letter of intent should be submitted to the PASS Cadre at the earliest possible date to preserve up to 60 days of retroactive eligibility.  The letter should explain that this is the reason the letter is being sent and that the PASS proposal and completed SSI application will follow within 60 days.
+
+E. Letter of Support from Vocational Counselor Footnote Reference 58
+
+Footnote 58: See Sample Letter From Rehabilitation Counselor, p. 45, below.
+
+If the individual is working with a vocational rehabilitation (VR) agency, a letter from his or her VR counselor is important.  The counselor can explain, as a VR expert, that the work goal is appropriate and confirm the need for items proposed in the PASS.  Since the PASS specialist who rules on the proposed PASS is not a VR expert, it is difficult for him or her to second-guess the expert's opinion.  You may wish to refer your client or consumer to the state VR agency if that has not already been done.  This may help your client obtain additional funding toward the vocational goal and provide the needed expert opinion.
+
+F. The Proposed PASS
+
+SSA's PASS application form covers all the issues SSA must address to approve the PASS.  With the form, it is not enough to state that $10,000 must be saved to purchase a van or $6,000 spent to establish a home office.  If a vehicle is to be purchased, you should obtain an invoice showing make, model, and its cost including sales tax.  If a home office is to be established, make a list of the various items needed and their cost.  When possible, obtain estimates for the items to be purchased.  If written estimates are not available, explain how the cost was determined.
+
+A detailed spending plan serves two purposes.  First, it shows SSA the person is organized and knows what is needed to achieve the goal.  Second, it forces the PASS applicant to plan for the future.
+
+G. The PASS Budgeting Form Footnote Reference 59
+
+Footnote 59: See PASS Budgeting Form at p. 44, below.
+
+The authors believe a PASS budgeting form, something that does not appear in the PASS application form, should be submitted with the PASS application.  The budget form shows how income, otherwise countable under SSI rules, is excluded when set aside for PASS expenses.  The SSI budget also allows your client or consumer to see how the PASS, if approved, will affect him or her financially.  As noted in section XI.B, below, after the PASS is approved the individual needs enough disposable income for living expenses or the PASS is not realistic.
+
+XI. Other Considerations Related to the PASS
+
+A. Are the Proposed Expenditures Reasonable?
+
+A good rule to follow is this: "Don't ask for a top-of-the-line brand name if a generic brand will do."  If the proposed PASS includes luxury-type items, such as air conditioning for a vehicle, explain their necessity in a cover letter or on the PASS form.  For example, some conditions, such as multiple sclerosis, may be exacerbated by extremes of heat.  In that case, it would be helpful to ask the person's physician to write a letter stating that air conditioning is a necessity.
+
+B. Will the Person Have Enough Disposable Income to Meet Monthly Expenses After the PASS is Approved?
+
+Since the income excluded must be used for the purposes defined by the PASS, the person must be prepared to live on the disposable income, which remains.  Unfortunately, there are some instances in which a PASS is not realistic because it will reduce disposable income to a level, which is too low.  The PASS form requires the applicant to demonstrate the ability to live on the income, which remains after the PASS exclusions are set aside or used for the purposes, set forth in the approved PASS. Footnote Reference 60
+
+Footnote 60: See form SSA-545-BK, section IV.E.
+
+Here are a few examples:
+
+Example #1: Joe receives $582 monthly in SSDI and puts $562 of it into a PASS, thereby receiving $552 in SSI.  Since the first $20 of SSDI is disregarded, Joe has $0 in countable income after putting $562 into the PASS.  Accordingly, he is entitled to the maximum $552 SSI check.  Joe had $582 in disposable income before and has $572 in disposable income after the PASS is approved.  His disposable income includes the $20 of SSDI that was disregarded and the $552 SSI check.
+
+Since Joe will only lose $10 in disposable income, the PASS should be realistic.
+
+Example #2: Mary receives $920 monthly in SSDI and puts $900 of it into a PASS, thereby receiving $552 in SSI.  Mary had $920 in disposable income before and has $572 in disposable income after the PASS is approved.
+
+Mary will lose $348 in disposable income.  Unless she is prepared to live on $572 monthly, the PASS will not be realistic for her.  NOTE: Other factors could enter the picture to make the PASS realistic despite the apparent loss in disposable income.  For example, if Mary was paying a $300 monthly spend down to obtain 
+
+Medicaid coverage and could obtain automatic, cost-free Medicaid through an approved PASS, this could make the PASS realistic.  Mary might also look into a loan to bridge the gap created by putting this much money into the PASS, keeping in mind that with the PASS the loan amount would be less than required if there was no PASS.
+
+Example #3: Same facts as #2.  Now, however, Mary is about to start work earning $865 per month and wants to put all of her countable income into her PASS.
+
+Here is how her PASS would work:
+
+* $20 is ordinarily excluded from unearned income, so $900 of the SSDI is put into the PASS.
+* $65 plus one half the remainder or $465 is ordinarily excluded from earned income, so $400 of her wages is put into the PASS.
+* Before going to work, and before the PASS Mary had $920 in disposable income.  She now has $20 + $465 + $552 = $1037 in disposable income after going to work and having the PASS approved.
+
+Under these facts Mary will gain $117 in disposable income, by timing the PASS with the start of her job, making the PASS highly desirable for her.
+
+Before you take the time to complete a PASS application, always consider this issue of disposable income.  Many advocates and beneficiaries have invested hours of their time only to find out the PASS was not realistic because the person would be left with insufficient disposable income.  Worse yet, some PASSes have been unsuccessful because the person used some of the money that had to go into the PASS, since they did not have enough money to meet living expenses.  For these reasons, the beneficiary and advocate must always thoroughly review the issue of disposable income.
+
+C. How Will the PASS Affect Other Benefits?
+
+1. Medicaid
+
+a. Medicaid Eligibility From the PASS Itself
+
+In 39 states and the District of Columbia, Medicaid eligibility is automatic for SSI beneficiaries. Footnote Reference 61  Thus, an approved PASS will ensure Medicaid coverage at no cost to the recipient.  In the other 11 states, known as section 209(b) states, Medicaid eligibility is determined under separate criteria. Footnote Reference 62  The states which exercise the section 209(b) option include: Connecticut, Hawaii, Illinois, Indiana, Minnesota, Missouri, New Hampshire, North Dakota, Ohio, Oklahoma, and Virginia. Footnote Reference 63
+
+Footnote 61: 42 U.S.C. § 1396a(a)(10)(A)(i).
+Footnote 62: Id. § 1396a(f).
+Footnote 63: POMS SI 01715.020.
+
+Will income and resources excluded by SSI under an approved PASS also be excluded by Medicaid in a section 209(b) state?  This may vary state-by-state.  The 209(b) option allows states to apply Medicaid criteria that is more restrictive than federal SSI criteria if the more restrictive criteria was in place in 1972. Footnote Reference 64  The U.S. Court of Appeals for the Seventh Circuit has held that the State of Indiana could, pursuant to the 209(b) option, disregard income and resources excluded under an approved SSI PASS only for blind Medicaid recipients and not for sighted recipients.  That decision, Vaughn v. Sullivan, held that Indiana's disparate treatment of PASS-generated income and resources does not violate the federal Medicaid Act, section 504 of the Rehabilitation Act, the Americans with Disabilities Act, or the U.S. Constitution's Equal Protection Clause. Footnote Reference 65
+
+Footnote 64: 42 U.S.C.  1396a(f).
+Footnote 65: Vaughn v. Sullivan, 83 F.3d 907 (7th Cir. 1996).
+
+b. Linkage to 1619(b) Medicaid Through the PASS
+
+The PASS may also guarantee linkage to what is known as section 1619(b) Medicaid. Footnote Reference 66  Under section 1619(b), a former SSI recipient who loses SSI cash benefits due to increased earnings may continue receiving Medicaid indefinitely if certain criteria are met.  Since a person cannot qualify for section 1619(b) unless he or she has received SSI in the past, the PASS, by creating eligibility for SSI, creates the potential for section 1619(b) Medicaid eligibility.
+
+Footnote 66: 42 U.S.C. § 1382h; POMS SI 02302.001 et seq.  For a detailed explanation of sections 1619(b), see Sheldon, above, note 3, at part V.B.
+
+Here is an example:
+
+Paul is physically disabled and depends on Medicaid-funded home health aides 30 hours per week.  He receives $762 per month in SSDI and pays a $100 spend down monthly to receive Medicaid coverage. Footnote Reference 67  Despite his disability, he is about to graduate from college and start a job making $20,000 per year.  He cannot get to and from work without a specially modified van.
+
+Footnote 67: See 42 U.S.C. § 1396a(a)(17); 42 C.F.R. § 435.831(d).  Under optional spend down rules, in operation in about three fourths of the states, a Medicaid recipient is responsible for medical costs equal to his or her excess countable income based on the state's threshold for Medicaid eligibility.  The example uses New York's 2003 monthly eligibility threshold of $642 for a household of one.
+
+Paul uses a PASS to set aside SSDI and wages, allowing him to purchase a modified van.  By doing this, he qualifies for SSI and also Medicaid without a spend-down.  Twelve months after starting work, Paul loses his SSDI under substantial gainful activity rules and continues to put wages into the PASS. Footnote Reference 68  Later when the PASS ends, he will qualify for continued Medicaid under section 1619(b) because he will be an SSI recipient who lost SSI due to excess earnings.  In nearly all states, Paul would meet the financial threshold test for section 1619(b) since with annual earned income of $20,000. Footnote Reference 69
+
+Footnote 68: See discussion of substantial gainful activity rules and trial work period in section XI.D, below.
+Footnote 69: POMS SI 02302.200 A. 
+
+Had Paul not used the PASS he could not have qualified for section 1619(b) Medicaid.  Without Medicaid, Paul could not afford to work since his home health care costs would probably exceed $10,000 per year. Footnote Reference 70
+
+Footnote 70: Both nursing services and home health aide services are required to be offered by states to individuals who qualify for home health services under 42 C.F.R. § 440.70.  States, at their option, may also provide home health services under several other service categories.  See, e.g., 42 C.F.R. §§ 440.80 (private duty nursing) and 440.170(f)(personal care services).
+
+For persons with high medical costs, the use of the PASS as a way to link up with section 1619(b) Medicaid can be a lifesaver.  Without section 1619(b), many individuals like Paul will choose not to work rather than risk losing Medicaid benefits.
+
+For persons who are unable to access section 1619(b) following the end of a PASS, the optional Medicaid Buy-In program could offer a continuing source of Medicaid coverage in many states.  As of July 2003, the Medicaid Buy-In was offered in 27 states. Footnote Reference 71
+
+Footnote 71: www.ssa.gov/work/ResourcesToolkit/Health/states.html 
+
+2. Government Rental Subsidies
+
+Under the traditional Section 8 housing program (i.e., tenant-based and project-based), income excluded under an approved PASS will not be counted as income in determining the Section 8 rent payment. Footnote Reference 72  Similar provisions apply in the new Housing Choice Voucher Program, a program that is replacing the tenant-based Section 8 program (sometimes called the Section 8 certificate program). Footnote Reference 73
+
+Footnote 72: 24 C.F.R. § 5.609(c)(8)(ii).
+Footnote 73: U.S. Department of Housing and Urban Development, Housing Choice Voucher Guidebook, Chap. 5, Exhibit 5-2.
+
+3. Food Stamps
+
+Under the federal Food Stamp law and regulations, income and resources put into a PASS will not be counted as income or resources by the Food Stamp Program. Footnote Reference 74
+
+Footnote 74: 7 U.S.C. §§ 2014(d)(15) & (g); 7 C.F.R. § 273.9(c)(16).
+
+4. Assistance From the State Vocational Rehabilitation Agency
+
+All states will have a state VR agency or agencies.  Your state VR agency may be able to pay for things like tuition, books, transportation, training, and job coach services.  An individual should first obtain whatever help is available from the state VR agency before looking to the PASS.  The PASS should only be used to supplement the various benefits available from these sources.  Student loans and other indebtedness should only be considered after exhausting resources available through the state VR agency, other grant programs, and the PASS.
+
+D. The Effect of SSDI's Trial Work Period and Extended Period of Eligibility Rules Upon the PASS
+
+1. The TWP and EPE Explained
+
+The trial work period (TWP) is a nine-month period during which the SSDI recipient may test his or her ability to work, without losing benefits. Footnote Reference 75  During the TWP the SSDI recipient will be allowed to keep both paycheck and disability check, no matter how high the paycheck is.  After nine months of trial work, if earnings are below the substantial gainful activity (SGA) level - - $800 gross monthly in 2003 (or $1330 for individuals who are legally blind) - - the SSDI will not be affected.  If earnings are above the SGA amount, SSDI will be continued for a three-month grace period and then terminated.
+
+Footnote 75: 42 U.S.C. § 422(c); 20 C.F.R. § 404.1592.  For a detailed explanation of the trial work period, see Sheldon, above, note 3, at section IV.D.
+
+Following the ninth trial work month, the SSDI beneficiary enters a 36-month extended period of eligibility (EPE).  During this 36-month period, the individual will get a benefit check for each month that gross earnings, after certain deductions, are less than the SGA amount.  Following the initial month of SGA during this period, the individual will be entitled to continued benefits during a three-month grace period.  Thereafter, and for the remainder of the 36-month EPE, the individual retains benefits when countable wages are below the SGA amount and loses benefits for months when countable wages are above the SGA amount.
+
+2. Planning for the Impact of the TWP and EPE; Contrasting SSI's Section 1619(a) Provisions
+
+The effect of the TWP and EPE rules on the SSDI beneficiary must be considered in planning for the PASS.  If this person will work and earn more than the monthly SGA amount, we must assume that SSDI benefits will be terminated after 12 months - i.e., after nine months plus a three-month grace period (even sooner if the person has previously used up TWP months).
+
+Under what are known as the section 1619(a) provisions, Footnote Reference 76 the SGA rule does not apply to SSI beneficiaries.  This means that a person who is receiving both SSDI and SSI will see SSI continue after the TWP ends. 
+
+Footnote 76: 42 U.S.C. ' 1382h; 20 C.F.R. '' 416.261 et seq.
+
+Here is an example of how this would work:
+
+Sharon is disabled, receives $620 in SSDI benefits, and has not previously used any TWP months.  In September 2003 a PASS is approved to pay for school and a vehicle with hand controls.  She puts $600 into the PASS and receives a $552 SSI check. 
+
+In June 2005 she graduates and in July 2005 starts a job making $1,065 monthly (assume that will be more than the 2005 SGA level).  She amends her PASS to set aside an additional $500 into the PASS, the amount of her countable earned income.  SSI benefits will continue at $552 monthly if the PASS is approved. 
+
+Assuming that July 2005 is her first TWP month, she will continue receiving SSDI benefits through June 2006 (nine months plus a three-month grace period).  The SSDI benefits will be terminated effective July 2006.  Now the only income she will set aside in the PASS is the $500 of countable earned income.
+
+Sharon's example is very common among college students who will lose SSDI benefits within 12 months of starting work following graduation.  The benefits planner must work with Sharon during college to monitor her TWP and project what money, in the form of SSDI benefits, will be available to put into the PASS if it is to continue following graduation.
+
+E. Timing the PASS Application to Take Advantage of Section 1619(a)
+
+As noted above, the SGA rule does not apply to SSI beneficiaries.  The SGA rule does, however, apply to SSI applicants.  This means that Sharon, in the last example, would have been denied SSI benefits had she applied for them after she started her job.  If an SSI applicant is performing SGA at the time of application, the application will be denied.
+
+Here is a strategy tip you must follow.  If a person receives SSDI only, the PASS proposal must be submitted before the individual starts working and earning above the SGA level.  Although there may be arguments that one or two months of income at the SGA level should not be enough to deny the SSI application, the safe course of action is to anticipate the job starting and submit the PASS application ahead of time.  If the PASS cannot be submitted before work starts, at least send a letter to SSA indicating your intent to submit a PASS at a later date, seeking retroactive approval. A PASS can have retroactive effect if the individual was involved in the elements of the plan (e.g., saving money, making expenditures) prior to reducing it to writing.  For retrospective monthly accounting purposes, since an exclusion of income will not increase the SSI check for one or two months, the first month of a PASS can be made retroactive for two months if there is no alternative source of funds to begin operation of the PASS. Footnote Reference 77
+
+Footnote 77: POMS. SI 00870.007 B.2. & 4.
+
+In the last example, Sharon guarantees her SSI eligibility by submitting her PASS application and setting aside her SSDI checks before she starts work.  When the PASS ends, she will probably qualify for continued Medicaid under the section 1619(b) program because at the end of the PASS her SSI will be discontinued due to countable wages. Footnote Reference 78  Thus, the PASS has provided her access to section 1619(b) Medicaid - a benefit she would not be eligible for without some prior receipt of SSI.
+
+Footnote 78: Id SI 02302.030 B.
+
+A note of caution: Under an SSA policy that was sustained by the U.S. Supreme Court in the Barnhart v. Walton case Footnote Reference 79 work performed within 12 months of the onset of a person's disability could result in the denial of an application for SSI benefits or the rescission of an approval already issued.  While a complete discussion of this policy is beyond the scope of this article, this issue should be considered when the PASS applicant is expected to work at the SGA level within 12 months of the SSI application date.  In most cases this should not be an issue, as the person should be able to show that the disability existed for at least 12 months before the SSI application date.  A good summary of this policy appears in the Winter 2002 issue of The Benefits Planner newsletter, written by these same co-authors. Footnote Reference 80
+
+Footnote 79: 535 U.S. 212 (2002)
+Footnote 80: This newsletter is available on the Neighborhood Legal Services website at www.nls.org/planner/winter02.htm.
+
+F. What if the Beneficiary Medically Improves After the PASS Is Approved?
+
+All of the discussion in this article assumes that the individual seeking the PASS has a continuing disability.  Generally, if the individual ceases to be disabled, he or she will no longer qualify for SSI and the rest of this article becomes academic.  There is one exception based on what are known as the section 301 provisions.
+
+All SSI and SSDI beneficiaries will have their cases reviewed periodically to determine whether they are still disabled.  This will probably occur no more frequently than every three years. Footnote Reference 81  When this review occurs, the fact that a PASS has been approved will not affect the decision on whether there is a continuing disability.  However, pursuant to section 301, both SSI and SSDI benefits could continue after the finding of medical improvement.
+
+Section 301, enacted as section 301 of the Social Security Amendments of 1980, Footnote Reference 82 allows continued benefits for an SSI or SSDI beneficiary who is found to have medically improved following a continuing disability review or to be not disabled following an age 18 redetermination (in the case of SSI), if the improvement occurred after the start of an approved VR program. Footnote Reference 83  Using the example of Sharon again, if she was found to have medically improved during her second year of a four-year college program, sponsored by her state VR program, this probably means that both her SSI and SSDI benefits would continue for the remainder of the college program, allowing her PASS to continue as well.
+
+Footnote 81: 42 U.S.C.§ 421(i); 20 C.F.R. § 404.1590(d).
+Footnote 82: Pub. L. No. 96-265, § 301, 94 Stat. 441.
+Footnote 83: 20 U.S.C. §§ 425(b), 1383(c)(6); 20 C.F.R. §§ 404.316(c), 416.1338; POMS DI 13515.001 et seq.
+
+G. If the PASS Is Denied - the Right to Appeal.
+
+If the PASS proposal is denied, the applicant has a right to appeal.  The first appeal will be a reconsideration. Footnote Reference 84  The POMS provides instructions for processing a reconsideration appeal on PASS issues. Footnote Reference 85  The individual seeking reconsideration may request either a case review (i.e., a paper review) or an informal conference, which may be either by telephone or in-person.  If either a case review or informal conference by telephone is held, the decision maker will come from the team of PASS specialists.  If the individual insists on a face-to-face conference, a member of the SSA field office staff will be assigned to conduct the conference and render a decision.  The face-to face conference may sometimes be preferred, as it will allow much more leeway for give and take communication.
+
+Footnote 84: 20 C.F.R. §§ 416.1407 et seq.
+Footnote 85: POMS DI 60070.300.
+
+If the PASS is denied on reconsideration, a hearing may then be requested. Footnote Reference 86  Subsequent appeals are to the Social Security Appeals Council and to the United States District Court. Footnote Reference 87
+
+Footnote 86: 20 C.F.R. §§ 416.1429 et seq.
+Footnote 87: Id. §§ 416.1467 et seq. and 416.1481.
+
+H. The Need for Outreach and Training 
+
+"This all sounds great, " you may say, "but I rarely see individuals who are seeking my help on a PASS. "  In most areas of the country, the beneficiaries will not come to you because they have not heard about the PASS.  You must help to get the word out!
+
+Community outreach and training is required if you expect to serve many individuals who could use the PASS.  To reach the maximum number of beneficiaries it is probably best to target the agencies that work with persons with disabilities, including vocational rehabilitation agencies and centers for independent living.  If possible, you should team up with members of the PASS Cadre or other SSA personnel to jointly develop an outreach and training plan.
+
+XII. Conclusion
+
+We hope this policy and practice brief will stimulate many advocates and attorneys to consider work related to the PASS as a priority.
+
+The authors have attempted to cover the subject as thoroughly as possible, providing practical examples to aid in understanding.  There are many issues, however, that could not be covered in the short space allotted to this brief.  For example, we did not discuss the possibility of two or more persons joining forces and using the PASS to start a partnership or larger business.  Imagine the start-up money, which could be generated if four individuals set aside $500 monthly in a PASS toward the formation of a business.
+
+Assisting a person with a disability in the formulation of a PASS proposal can be very rewarding, but it is a bit different from most of the benefits planning or other advocacy most of us have done.  If we assist in the preparation of a PASS, in some cases we must also be prepared to discuss the availability of other sources of government assistance (e.g., VR agency funding, educational loans and grants) and the effect that the PASS may have upon eligibility for various governmental benefits (e.g., public and subsidized housing, food stamps, etc.).  In short, one must be willing, to some degree, to serve the role of a benefits planner and benefits manager.
+
+
+
+PASS BUDGETING FORM
+
+SSI Budget:  Ann Lembke
+
+Total Income:
+$620 Unearned (SSDI benefits)
+$0 Earned
+
+Total Expenses for PASS:
+$600 Per month from SSDI benefits
+
+SSI Calculation:
+$620 Unearned income
+Subtract $20 Unearned income exclusion
+Equals $600
+Subtract $600 PASS exclusion
+Equals $0 Countable income
+$552 Base SSI rate (federal benefit rate, no state supplement)
+Subtract $0 Countable income
+Equals $552 Total SSI check
+
+Disposable Income Analysis:
+Before PASS
+$620
+After PASS
+$572 ($552 SSI check + $20 excluded from SSDI)
+
+Net Loss in Disposable Income
+$48 (Since monthly living expenses are $570, the PASS is feasible for Ms. Lembke.  Also, remember that she will qualify for Medicaid automatically in most states as an SSI recipient.)
+
+
+
+SAMPLE LETTER FROM REHABILITATION COUNSELOR
+
+Social Security Administration etc.
+
+Dear Ms. (or Mr.):
+
+I am writing on behalf of Ann Lembke, a 19 year old high school senior.  Please accept this letter as support for Ms. Lembke's Plan for Achieving Self Support (PASS).
+
+I am employed by the Any State Division of Vocational Rehabilitation (DVR) and have been Ms. Lembke's rehabilitation counselor since June 2002.  DVR has agreed to sponsor Ms. Lembke through an approved Individual Plan of Employment (IPE) with a goal of Elementary Education Teacher.  I am fully familiar with Ms. Lembke's academic record and with the extent of her disability and fully support her goal of becoming a teacher.
+
+Under DVR's IPE we will provide Ms. Lembke with funding for the following:
+
+* Four years of college tuition @ $1,700 per semester
+* Van modifications at a cost of $19,000
+* Transportation to and from the Lake Erie University campus by private carrier
+* A per semester allotment for books
+* A laptop computer to use in her studies
+
+DVR fully supports Ms. Lembke's need for her own vehicle.  Since many teaching openings occur in the outlying suburbs and small towns, where there is not public transportation available, having her own van makes it more likely that she will find work.
+
+We also support Ms. Lembke's need to purchase a new van.  Based on DVR's experience, we discourage our consumers from purchasing used vehicles if they are to be equipped with hydraulic lifts and other modifications for a wheelchair user.  We have found that there are fewer problems if these modifications are installed on a new vehicle.
+
+Please call me at 000-0000 if you have any questions.
+
+Sincerely,
+
+
+Randy Rehab Counselor
+
+
+
+SAMPLE LETTER FROM ADVOCATE
+
+
+Social Security Administration etc.
+
+Dear Ms. (or Mr.):
+
+This office represents Ann Lembke.
+
+Enclosed please find the following documents in support of her Plan for Achieving Self Support (PASS):
+
+* Completed PASS application (form SSA-545)
+* Letter of Ann Lembke, PASS applicant
+* SSI application of Ann Lembke
+* Invoice showing current price of Dodge Caravan
+* Provisional letter of acceptance form Lake Erie University
+* Letter from Randy Rehab Counselor, Division of Vocational Rehabilitation
+
+Ms. Lembke plans to use her PASS to save for the full purchase price of a Dodge Caravan which she will purchase in August 2008.  As Ms. Lembke explains in her letter, she would be unable to meet her monthly living expenses and make monthly payments for the van out of the $620 she receives in Social Security payments if she purchased the van sooner than August 2008 by making a downpayment and taking out an installment loan.
+
+I believe that the proposed PASS, as written, should be approved under current POMS criteria.  Please do not hesitate to call me at 000-0000 if you have any questions.
+
+Very truly yours,
+
+
+Anne Advocate
+
+
+
+PASS EXAMPLE:  ANN LEMBKE
+
+Case Scenario
+Ann is 19 years old and a high school senior.
+
+Disability:
+Spinal cord injured.  Paralyzed from waist down, with limited use of arms, hands and fingers.  Cannot use public transportation; cannot effectively use conventional automobile.
+
+Occupational Objective:
+Elementary education teacher
+
+Education Program:
+Ms. Lembke will begin a four-year college program in September 2004 to become an elementary education teacher.
+
+Anticipated Income:
+When college commences, she will have $620.00 in Social Security Disability Insurance (SSDI) benefits.
+
+Funding Needs:
+Ms. Lembke will graduate from high school in June 2004 and has no money saved for college.  She will attend Lake Erie University where the tuition is $3,500 per semester.  Any State's Division of Vocational Rehabilitation (DVR) will pay $1,700 per semester of her tuition and Ms. Lembke must pay the rest.
+
+Ms. Lembke would also like to purchase a van, modified for her use as a wheelchair user.  The van will cost $19,200 and the modifications will cost $14,000.  DVR has agreed to pay for the van modifications.  She will also need $2,000 for a laptop computer and $400 for a printer.
+
+Problem:
+Based on present expenses, Ms. Lembke cannot afford the extra $1,800 per semester for tuition and cannot afford to set money aside for a van.  How could she use a Plan For Achieving Self Support to set aside money for the van, the computer and printer, cover unmet college expenses and thus, qualify for SSI?
+Assume that school will continue through May 2008.
+
+
+
+Page 1 of Form SSA-545-BK (2/99) 
+
+Form OMB No. 0960-0559
+PLAN FOR ACHIEVING SELF-SUPPORT
+Date Received________________________ 
+
+In order to minimize recontacts or processing delays, please complete all questions and provide thorough explanations where requested. If you need additional space to answer any questions use the Remarks section or a separate sheet of paper. 
+
+Name: Anne Lembeke
+SSN: 000-00-0000
+
+PART I - YOUR WORK GOAL 
+A. What is your goal? (Show the specific job you expect to have at the end of the plan. If you do not yet have a specific work goal and will be working with a vocational professional to find a suitable job match, show "VR Evaluation," be sure to complete Part II, question F on page 4.
+Elementary Education Teacher
+
+If your goal involves supported employment, show the number of hours of job coaching you will receive when you begin working __________ per week/month (circle one). 
+
+Show the number of hours of job coaching you expect to receive after the plan is completed.
+__________ per week/month (circle one). 
+
+B. Describe the duties you expect to perform in this job. Be as specific as possible (standing, walking, sitting, lifting stooping, bending, contact with the public, writing reports/documents, etc.)
+I will be teaching elementary grade students in public school.
+
+C. How did you decide on this work goal and what makes this job attractive to you?
+I love working with children. I am paralyzed from the waist down, with limited use of arms, hands and fingers. With minimal help from a teacher's aide I will be able to perform this job, according to my DVR counselor.
+
+D. If your work goal does not involve self-employment, how much do you expect to earn each month (gross) after your plan is completed? $2,000/month 
+
+End of Page 1 Form SSA-545-BK (2/99) 
+
+E. If your work goal involves self-employment, explain why working for yourself will make you more self-supporting than working for someone else.
+N/A
+
+NOTE: If you plan to start your own business, attach a detailed business plan. At a minimum the business plan must include the type of business; products or services to be offered by your business; a description of the market for the business; the advertising plan; technical assistance needed; tools, supplies, and equipment needed; and a profit-loss projection for the duration of the PASS and at least one year beyond its completion. Also include a description of how you intend to make this business succeed. 
+
+F. Did someone help you prepare this plan? X YES ___ NO If "NO," skip to G.
+If "YES," show the name, address and telephone number of that individual or organization.
+James R. Sheldon, Jr., Esq.
+Neighborhood Legal Services, Inc. 
+295 Main Street, Rooms 495
+Buffalo, NY 14203
+Tel. (716) 847-0650
+
+May we contact them if we need additional information about your plan? YES
+
+Do you want us to send them a copy of our decision on your plan? YES
+
+Are they charging you a fee for this service? NO 
+If "YES," how much are they charging? ____________________________ 
+
+G. Have you ever submitted a Plan for Achieving Self Support (PASS) to Social Security? NO 
+If "NO," skip to Part II.
+If "YES," complete the following: 
+
+Was a PASS ever approved for you? ___ YES ___ NO If "NO," skip to Part II.
+If "YES," complete the following: 
+
+When was your most recent plan approved (month/year)?__________________________
+What was your work goal in that plan?__________________________________________ 
+
+Did you complete that PASS? ___ YES ___ NO 
+If "NO," why weren't you able to complete it? __________________________________
+________________________________________________________________________________
+________________________________________________________________________________ 
+
+If "YES," why weren't you able to become self-supporting?_______________________
+________________________________________________________________________________ 
+
+Why do you believe that this new plan you are requesting will help you go to work? 
+__________________________________________________________________________ 
+
+End Page 2 Form SSA-545-BK (2/99) 
+
+
+PART II - MEDICAL/VOCATIONAL BACKGROUND 
+
+A. What are your disabling illnesses, injuries, or conditions? Spinal cord injury - paralyzed from the waist down. 
+
+B. Describe any limitations you have because of your disability (e.g., limited amount of standing or lifting, stooping, bending, or walking; difficulty concentrating; unable to work with other people, difficulty handling stress, etc.) Be specific.
+Paralyzed from waist down, with limited use of arms, hands and fingers. I use a wheelchair or mobility, have difficulty writing and depend on other from bathing and dressing. 
+
+In light of the limitations you described, how will you carry out the duties of your work goal?
+As long as I have a teacher's aide or assistance, I will be able to carry out the duties of an elementary grade education teacher. 
+
+C. List the jobs you have had most often in the past few years. Also list any jobs, including volunteer work, which are similar to your work goal or which provided you with skills that may help you perform the work goal. List the dates you worked in these jobs. Identify periods of self-employment. If you were in the Army, list your Military Occupational Specialty (MOS) code; for the Air Force, list your Air Force Specialty (AFSC) code; and for the Navy, Marine Corps, and Coast Guard, list your RATE. 
+
+Job Title: Playground Superintendent
+Type of Business: 
+Dates Worked: From 7/03 To 9/03
+
+End of Page 3 Form SSA-545-BK (2/99) 
+
+D. Circle the highest grade of school completed. 11th grade
+
+1. Were you awarded a college or postgraduate degree? NO 
+When did you graduate?_________________________
+What type of degree did you receive? (B.A., B.S., M.B.A., etc.) _________
+In what field of study?__________________________________________________ 
+
+2. Did you attend special education classes? NO If "NO," skip to E.
+If "YES," complete the following: 
+
+Name of school __________________________________________________________
+Address___________________________________________________________________
+Dates attended: From _____________________ To ______________________
+Type of program__________________________________________________________ 
+
+E. Have you completed any type of special job training, trade or vocational school? NO 
+If "NO," skip to F.
+If "YES," complete the following: 
+
+Type of training _________________________________________________________
+Date completed ___________________________________________________________
+Did you receive a certificate or license? ___ YES ___ NO If "NO," skip to F.
+If "YES," what kind of certificate or license?
+__________________________________________________________________________
+__________________________________________________________________________
+
+F. Have you ever had or expect to have a vocational evaluation or an Individualized Written Rehabilitation Plan (IWRP) or an Individualized Employment Plan (IEP)? YES
+
+If "YES," attach a copy of the evaluation and skip to Part III (page 5). If you cannot attached a copy, complete the following: 
+
+When were you evaluated or when do you expect to be evaluated or when was the IWRP or IEP done or when do you expect it to be done? Evaluated last year.
+
+Show the name, address, and phone number of the person or organization who evaluated you or will evaluate you or who prepared the IRWP or IEP or will prepare the IWRP or IEP.
+Randy Smith
+Rehabilitation Counselor
+DVR, 125 Main Street
+Willowby, Any State 00000
+
+End of Page 4 Form SSA-545-BK (2/99) 
+
+Part III - Your Plan 
+
+I want my Plan to begin January 2004 (month/year)
+and my Plan to end September 2008 (month/year) 
+
+List the steps, in sequence that you will take to reach this goal. Be as specific as possible. If you will be attending school, show the courses you will study each quarter/semester. Include the final steps to find a job one you have obtained the tools, education, services, etc., that you need. 
+
+Step: 1. Start saving toward PASS expenses
+Beginning Date: January 2004
+Completion Date: May 2008
+
+Step: 2. Apply, get accepted and register for College
+Beginning Date: January 2004
+Completion Date: May 2004
+
+Step: 3. Obtain High School diploma
+Beginning Date: June 2004
+Completion Date:
+
+Step: 4. Begin College, completing first year with minimum 2.0 average
+Beginning Date: September 2004
+Completion Date: May 2005
+
+Step: 5. Complete second year of college with minimum 2.0 average
+Beginning Date: September 2005
+Completion Date: May 2006
+
+Step: 6. Begin third year of course emphasis on elementary grade teacher major
+Beginning Date: September 2006
+Completion Date: 
+
+Step: 7. Begin fourth year with course emphasis on elementary grade teacher major
+Beginning Date: September 2007
+Completion Date: 
+
+Step: 8. Complete 1 full semester of student teaching
+Beginning Date: January 2008
+Completion Date: May 2008
+
+Step: 9. Obtain bachelor's degree in elementary education
+Beginning Date: May 2008
+Completion Date: 
+
+Step: 10. Begin job search - prepare resume
+Beginning Date: January 2008
+Completion Date: 
+
+Step: 11. Attend driver training for wheelchair users
+Beginning Date: July 2008
+Completion Date:
+
+Step: 12. Obtain driver's license
+Beginning Date: August 2008
+Completion Date:
+
+Step: 13. Purchase van
+Beginning Date: August 2008
+Completion Date:
+
+Step: 14. Begin employment as elementary education teacher
+Beginning Date: September 2008
+Completion Date: 
+
+End Page 5 Form SSA-545-BK (2/99)
+
+
+PART IV - EXPENSES 
+
+A. If you propose to purchase, lease, or rent a vehicle, please provide the following additional information: 
+
+1. Explain why less expensive forms of transportation (e.g., public transportation, cabs) will not allow you to reach your work goal.
+I will be searching for work within a 30-mile radius of my home. Public transportation is not consistently available. I cannot take cabs. Additionally, friends and/or relatives are not available to transport me. 
+
+2. Do you currently have a valid driver's license? NO 
+If "YES," skip to 3.
+If "NO," complete the following: 
+
+Who will drive the vehicle? I will. 
+How will it be used to help you with your work goal?
+It will get me to and from my place of work. Without it I would be unable to get to and from work. 
+
+3. If you are proposing the purchase a vehicle, explain why renting or leasing are not sufficient.
+Rentals and leases of modified vans are not available. Purchase of a van that would be modified by DVR would guarantee reliable transportation for 8 years.
+
+4. Explain why you chose the particular vehicle. (Note: the purchase of the vehicle should be listed as one of the steps in Part III.)
+I've chosen a van instead of a regular automobile for obvious reasons. Because of my disability, I cannot drive a car. I also cannot depend on wheelchair accessible public transportation to get to the many potential job sites within a 30-mile radius of my home in Centerview. For this reason, I will need a specially modified van to get to and from job interviews and to and from a job when I find one. If I can purchase the van, DVR has agreed to pay for modifications to make it wheelchair accessible.
+
+End of Page 6 Form SSA-545-BK (2/99) 
+
+
+B. If you propose to purchase computer equipment or other expensive equipment, please explain why a less expensive alternative (e.g., rental or a computer or purchase of a less expensive model) will not allow you to reach your goal. Explain why you need the capabilities of the particular computer/equipment you identified. Also, if you attend (or will attend) a school with a computer lab for student use, explain why use of that facility is not sufficient to meet your needs. 
+N/A
+
+C. Other than the items identified in A or B above, list the items or services you are buying or renting or will need to buy or rent in order to reach your work goal. Be as specific as possible. If schooling is an item, list tuition, fees, books, etc. as separate items. List the cost for the entire length of time you will be in school. Where applicable, include brand and model number or the item. (Do not include expenses you were paying prior to the beginning of your plan; only additional expenses incurred because of your plan can be approved.) 
+
+NOTE: Be sure that Part III shows when you will purchase these items or services or training. 
+
+1. Item/service training: College Training
+Cost: $14,000
+Vendor provider: Lake Erie University
+How will this help you reach your work goal? 
+Without the appropriate college degree I will be unable to become a teacher.
+
+How did you determine the cost? 
+I will owe $1,800 per semester after obtaining maximum funding from DVR. DVR as agreed to pay $1,700 per semester toward $3,500 per semester tuition.
+
+Why wouldn't something less expensive meet your needs? 
+I want to go to a college that specializes in teacher's training.
+
+2. Item/service training: Dodge Caravan
+Cost $ 19,000
+Vendor provider: Suburban Truck and Van
+How will this help you reach your work goal? 
+Transportation to and from work, I will need a van so it can be modified for use by me as a wheelchair user.
+
+How did you determine the cost? 
+Obtained price quotes from 3 dealers.
+
+Why wouldn't something less expensive meet your needs? 
+I can't use a regular automobile. Given the amount of funding DVR is providing, I think a new van would be most appropriate.
+
+End of Page 7 Form SSA-545-BK (2/99) 
+
+3. Item/service training _________________________Cost $ ______________ 
+
+Vendor provider ___________________________________________________ 
+
+How will this help you reach your work goal? ______________________
+___________________________________________________________________ 
+
+How did you determine the cost? ___________________________________
+___________________________________________________________________ 
+
+Why wouldn't something less expensive meet your needs? ____________
+___________________________________________________________________
+___________________________________________________________________ 
+
+4. Item/service training _________________________Cost $ _____________ 
+
+Vendor provider ___________________________________________________ 
+
+How will this help you reach your work goal? ______________________
+___________________________________________________________________ 
+
+How did you determine the cost? ___________________________________
+___________________________________________________________________ 
+
+Why wouldn't something less expensive meet your needs? ____________
+___________________________________________________________________
+___________________________________________________________________ 
+
+5. Item/service training _________________________Cost $ _____________ 
+
+Vendor provider ___________________________________________________ 
+
+How will this help you reach your work goal? ______________________
+___________________________________________________________________ 
+
+How did you determine the cost? ___________________________________
+___________________________________________________________________ 
+
+Why wouldn't something less expensive meet your needs? ____________
+___________________________________________________________________
+___________________________________________________________________
+
+End Page 8 Form SSA-545-BK (2/99) 
+
+D. If you indicated in Part II (page 4) that you have a college degree or specialized training, and your plan includes additional education or training, explain why the education/training you already received is not sufficient to allow you to be self-supporting. N/A
+
+E. What are your current expenses each month (rent, food, utilities, phone, property taxes, homeowner's insurance automobile repair and maintenance, public transportation costs, clothes, laundry/dry cleaning, charity contributions, etc.)? $570/month 
+
+If the amount of income you will have available for living expenses after making payments or saving money for your plan expenses is less than your current living expenses, explain how you will pay for your living expenses.
+N/A. I will make do on the SSI check ($552) plus the $20 unearned income disregard from my SSDI check.
+
+
+End Page 9 Form SSA-545-BK (2/99) 
+
+
+PART V - FUNDING FOR WORK GOAL 
+
+A. Do you plan to use any items you already own (e.g., equipment or property) to reach our work goal? NO
+
+If "NO," skip to B.
+If "YES," complete the following: 
+
+Item______________________________________________________________________
+Value_____________________________________________________________________
+How will this help you reach your work goal?______________________________
+__________________________________________________________________________ 
+
+Item______________________________________________________________________
+Value_____________________________________________________________________
+How will this help you reach your work goal?______________________________
+__________________________________________________________________________ 
+
+B. Have you saved any money to pay for the expenses listed on pages 6-8 in Part IV? (Include cash on hand or money in a bank account.) ___ NO If "NO," skip to C. 
+
+C. Do you receive or expect to receive income other than SSI payments? YES
+
+If "NO," skip to F.
+If "YES," provide details as follows: 
+
+Type of Income: Social Security Disability Insurance
+Amount: $620
+Frequency (Weekly, Monthly, Yearly): Monthly
+
+D. How much of this income will you use each month to pay for the expenses listed in Part IV?
+$600 -- the SSDI amount ($620), minus the unearned income disregard ($20), which will be added to the SSI I receive ($552) to help meet expenses. The $600 will go into the PASS. The remaining $572 will be used for living expenses.
+
+End of Page 10 Form SSA-545-BK (2/99) 
+
+
+E. Do you plan to save any or all of this money for a future purchase, which is necessary to complete your goal? YES If "NO," skip to F.
+If "YES," how will you keep the money separate from other money you have? (If you will keep the savings in a separate bank account, give the name and address of the bank and the account number.)
+Centerview Savings and Loan
+26 Broadway Avenue
+Centerview, Any State 00000
+Account number 00000000000.
+
+F. Will any other person or organization (e.g., Vocational Rehabilitation, school grants, Job Partnership Training Assistance (JTPA) pay for or reimburse you for any part of the expenses listed in Part IV or provide any other items or services you will need? YES If "NO," skip to Part VI. 
+
+Who will pay: DVR
+Item/Service: College Tuition
+Amount: $1,700
+When will the item/service be purchased: Each semester
+
+Who will pay: DVR
+Item/Service: Van modification
+Amount: $14,000
+When will the item/service be purchased: August 2008
+
+Who will pay: DVR
+Item/Service: Laptop Computer
+Amount: $2,000
+When will the item/service be purchased: July 2004
+
+Who will pay: DVR
+Item/Service: Printer
+Amount: $400
+When will the item/service be purchased: July 2004
+
+
+PART VI - REMARKS
+
+See the following attachments:
+Letter to Ann Lembke, PASS applicant
+SSI application of Ann Lembke
+Invoice showing current price of Dodge Caravan
+Provisional letter of acceptance from Lake Erie University
+Letter from Attorney, James R. Sheldon, Jr., of Neighborhood Legal Services
+Letter from Randy Smith, Rehab counselor, Division of Vocational Rehabilitation
+
+
+PART VII -- AGREEMENT 
+
+If my plan is approved, I agree to:
+Comply with all of the terms and conditions of the plan as approved by the 
+Social Security Administration (SSA);
+Report any changes in my plan to SSA immediately 
+
+
+End of Page 11 Form SSA-545-BK (2/99) 
+
+Keep records and receipts of all expenditures I make under the plan until asked to provide them to SSA.
+Use the income or resources set aside under the plan only to buy the items or services shown in the plan as approved by SSA. 
+
+I realize that if I do not comply with the terms of the plan or if I use the income or resources set aside under my plan for any other purpose, SSA will count the income or resources that were excluded and I may have to repay the additional SSI I received. 
+
+I also realize that SSA may not approve any expenditure for which I do not submit receipts or other proof of payment. 
+
+I know that anyone who makes or causes to be made a false statement or representation of material fact in an application for use in determining a right to payment under the Social Security Act commits a crime punishable under Federal Law and/or State Law. I affirm that all the information I have given on this form is true. 
+
+Signature: s/Ann Lembke
+Date: December 21, 2003
+
+Address:
+128 Elm Street
+Centerview, Any State 00000
+
+Telephone:
+Home: (000) 000-0000
+Work: N/A
+
+End Page 12 Form SSA-545-BK (2/99) 
+
+
+PRIVACY ACT STATEMENT 
+
+The Social Security Administration is allowed to collect the information on this form under section 1631 (e) of the Social Security Act. We need this information to determine if we can approve your plan for achieving self-support. Giving us this information is voluntary. However, without it, we may not be able to approve your plan. Social Security will not use the information for any other purpose. 
+
+We would give out the facts on this form without your consent only in certain situations. For example, we give out this information if a Federal law requires us to or if your Congressional Representative or Senator needs the information to answer questions you ask them. 
+
+PAPERWORK REDUCTION ACT NOTICE AND TIME IT TAKES STATEMENT 
+
+The Paperwork Reduction Act of 1995 requires us to notify you that this information collection is in accordance with the clearance requirements of section 3507 of the Paperwork Reduction Act of 1995. We may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a valid OMB control number. We estimate that it will take you about 120 minutes to complete this form. This includes the time it will take to read the instruction, gather the necessary facts and fill out the form. 
+
+End of Page 13 Form SSA-545-BK (2/99) 
+
+
+OUR RESPONSIBILITIES TO YOU 
+
+We received the plan for achieving self-support (PASS) on _____________________. Your plan will be processed by Social Security employees who are trained to work with PASS. 
+
+The PASS expert handling your case will work directly with you. He or she will look over the plan as soon as possible to see if there is a good chance that you can meet your work goal. The PASS expert will also make sure that the things you want to pay for are needed to achieve your work goal and are reasonably priced. If changes are needed, the PASS expert will discuss them with you. 
+
+Your may contact the PASS expert toll-free at 1-______________________________. 
+
+YOUR REPORTING AND RECORDKEEPING RESPONSIBILITIES 
+
+If we approve your plan, you must tell Social Security about any changes to your plan. You must tell us if: 
+
+Your medical condition improves.
+You are unable to follow your plan.
+You decide not to pursue your goal or decide to pursue a different goal.
+You decide that your do not need to pay for any of the expenses you listed in your plan.
+Someone else pays for any of your plan expenses.
+You use the income or resources we exclude for a purpose other than the expense specified in your plan.
+There are any other changes to your plan. 
+
+You must tell us about any of these things within 10 days following the month in which it happens. If you do not report any of these things, we may stop your plan. 
+
+You should also tell us if you decide that you need to pay for other expenses not listed in your plan in order to reach your goal. We may be able to change your plan or change the amount of income we exclude so you can pay for the additional expenses. 
+
+YOU MUST KEEP RECEIPTS OR CANCELLED CHECKS TO SHOW THAT EXPENSES YOU PAID FOR AS PART OF THE PLAN. You need to keep these receipts or cancelled checks until we contact you to find out if you are still following your plan. When we contact you, we will ask to see the receipts or cancelled checks. If you are not following the plan, you may have to pay back the some or all of the SSI you received. 
+
+End of Page 14 End of Form SSA-545-BK (2/99) 
+End of Form OMB No. 0960-0559

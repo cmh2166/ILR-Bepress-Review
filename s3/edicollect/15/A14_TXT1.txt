@@ -1,0 +1,362 @@
+Working Effectively with Employees who Have Epilepsy
+
+What is Epilepsy?
+
+The word "epilepsy" derives from the Greek word "to be seized."  It is a generic 
+term that refers to a wide variety of seizure conditions.  There are very well 
+known individuals in history such as Julius Caesar, Socrates, Vincent van Gogh, 
+Dostoyevsky, and others who had active seizure conditions, as do a number of 
+present day celebrities, sports figures, and political figures (e.g., Margaux 
+Hemingway, Buddy Bell, Tony Coelho).  These individuals were or are quite 
+obviously very productive persons contributing significantly to society.
+
+A seizure involves a disruption of the normal activity of the brain through 
+neuronal instability.  Neurons become unstable and fire in an abnormally rapid 
+manner, similar to a misfiring engine, with the excess electric discharges 
+resulting in a seizure.  The seizure may be confined to one area of the brain 
+(partial seizure) or take place throughout the entire brain (generalized 
+seizure).  The most common generalized seizure, formerly known as a "grand mal" 
+seizure (now known as a tonic-clonic seizure), is often easier to control than a 
+partial seizure.  A majority of the individuals coming to specialized epilepsy 
+centers for treatment have partial seizures, which can be more difficult to 
+control, but  usually are functionally safer.  The causes of epilepsy are wide 
+ranging and include infectious diseases in a pregnant mother, parasitic 
+infections, vascular diseases, birth trauma, etc.  Only 1 - 2 % of conditions 
+can be traced to genetic causes.  It must be remembered that epilepsy involves 
+recurring or more than one seizure -- for various medical reasons, any number of 
+individuals may experience a single seizure.
+
+Establishing a seizure diagnosis involves the taking of a medical history and an 
+evaluation by a neurologist, and generally, an awake and/or sleep 
+electroencephalograph (EEG) assessment.  It is important to note that precise 
+seizure diagnosis can involve not only both types of EEGs, but also magnetic 
+resonance imaging (MRI), computerized tomography (CT) scanning, or even 24 hour 
+EEG video monitoring.  The MRI can now be the first step in diagnostic sequence, 
+preceding EEG.  
+
+Many individuals with the correct diagnosis and medication can have their 
+epilepsy easily managed.  The vast majority of individuals with epilepsy can 
+have complete freedom from seizures, or good seizure control.  Individuals with 
+recurring seizures should always be referred to a neurologist.  If a neurologist 
+cannot achieve seizure control with an individual over a nine-month period, 
+referral to a specialized epilepsy center should be made.  During the 1990s, a 
+number of new medications, including Gabepentin, Lamotrogine, and Topiramate, 
+have been developed.  Some of these newer medications can be used individually 
+or as "add on" drugs, usually without negative side effects.  A number of 
+individuals in our society with continuing seizures are often not adequately 
+treated. In addition to anticonvulsant medications, some individuals can benefit 
+dramatically from use of a vagal nerve stimulator (VNS), which is an implant 
+that can help people for whom medications have not been effective.  Some people 
+are also candidates for epilepsy surgery, which can provide seizure freedom or 
+improved control.
+
+First Aid for Seizures
+
+Since the majority of individuals with epilepsy have partial seizures which 
+typically involve a short period of disorientation (e.g., 30 seconds) or brief 
+cessation of activity; first aid concerns are minimal.  These individuals simply 
+need to be watched during the period of seizure, or gently guided (not 
+restrained) to a chair with reassuring statements.  For individuals who have a 
+generalized tonic-clonic or grand mal seizure involving loss of consciousness, a 
+period of rigidity, and convulsions, the most important first aid concern is 
+that the seizure be timed.  Emergency medical aid is not required unless the 
+seizure length approaches five minutes.  Most of these seizures last slightly 
+over a minute.  Most persons will require some time in order to orient and 
+compose themselves post-seizure.  When possible, they should be turned on their 
+sides for comfort and any harmful items moved out of the way.  It is often 
+dangerous to individuals with seizures to try to place something in their mouths 
+during a seizure (e.g., to prevent biting their mouths) and simply not 
+necessary.
+
+Is Epilepsy Really a Concern at the Work Place For Those With an Active 
+Condition?
+
+For those with active epilepsy, seizure conditions can vary widely and need to 
+be considered on an individual basis.  Many individuals experiencing seizures 
+will present absolutely no job-relevant concerns.  These are individuals who 
+have seizures only nocturnally, have a consistent warning aura and can seat 
+themselves or take other safety precautions, or have a partial seizure in which, 
+for example, they do not lose consciousness and have only a limb tremor.
+
+Many individuals with epilepsy will simply not discuss their condition because 
+of their freedom from seizures, a high level of seizure control, or the fact 
+that it doesn't impact performance of the essential functions of the job (e.g., 
+a person with nocturnal seizures only).  Some individuals with epilepsy will 
+prefer to discuss their disability at the end of the interview as a matter of 
+personal comfort or courtesy to the employer even if it is not required.  
+However, they may need to discuss their condition if drug testing is a standard 
+part of the employment screening process once a job offer is extended.  The 
+presence of anticonvulsant drugs can be misinterpreted during drug testing. 
+
+Implications of the Americans with Disabilities Act (ADA) for Individuals with 
+Epilepsy
+
+The ADA defines disability as a physical or mental impairment that substantially 
+limits a major life activity.  The ADA defines physical impairment as including 
+a physiological disorder or condition.  Epilepsy is an example of a 
+physiological disorder affecting the neurological system.  Persons with seizure 
+disorders therefore have a physical impairment.
+
+In determining whether an impairment rises to the level of a disability under 
+the ADA, mitigating measures, such as medications, must be considered.  Thus, if 
+an individual's epilepsy is completely or substantially controlled with 
+medication, s/he might not be considered to have an ADA disability because the 
+condition might not substantially limit a major life activity when successfully 
+controlled with medication.
+
+A General Perspective on Employer Concerns in the Work Place for Employees with 
+Epilepsy
+
+Employers sometimes have a number of unfounded concerns about the work 
+performance of individuals with epilepsy; some of the information below may be 
+helpful:
+
+* Attendance and performance - Most studies suggest attendance and performance 
+records for those with epilepsy are equal to or better than the general working 
+population (McLellan, 1987).
+* Accident rates - Risch (1968) demonstrated that actual time lost due to 
+seizures was approximately one hour for every thousand hours worked for 
+individuals with active seizure conditions.  Sands (1961) reviewed workers' 
+compensation cases over a 13-year period in the state of New York and 
+established that accidents caused by sneezing or coughing on the job were twice 
+as frequent than those related to seizure occurrences.  Quattrini et al. (1999) 
+indicate no change in job accident rate after the onset of epilepsy for 860 
+workers.
+* Working around machinery - In consideration of today's safety standards, it is 
+rare that machinery would require any special modification for individuals with 
+a seizure condition.  Plastic guards, cut-off mechanisms on machinery, and other 
+safety modifications, are becoming standard.
+* Insurance rates - Hiring individuals with epilepsy does not increase a 
+company's industrial insurance rates.  These rates are linked to the hazards of 
+specific occupational classifications. EPI-HAB, a sheltered work system for 
+those seizure disorders, reported receiving significant insurance premium 
+reductions due to outstanding safety records.  Health insurance providers 
+generally link rates to age and sex in larger companies, while among smaller 
+companies, the providers usually pool claim experiences and no one employer is 
+penalized. 
+* People with epilepsy generally refrain from drinking alcohol or engaging in 
+recreational drug activity, and otherwise lead a relatively healthy lifestyle in 
+order not to aggravate their condition.  Consequently, they are often safer on 
+the job than the average employee and are highly stable employees.
+Accommodation Issues for the Individual with Epilepsy
+
+During the application and interview process, reasonable accommodations are 
+generally not necessary for an individual with epilepsy.  In the interview, 
+however, some individuals may indicate that they need a specific type of 
+accommodation in order to perform the essential functions of a job or to perform 
+those functions more safely.  
+
+As an employer, you should identify the essential functions of a job that an 
+individual is required to do at your work place with or without reasonable 
+accommodation. 
+
+Although a number of companies routinely require a driver's license, this 
+requirement is often not linked to an essential function of a job.  A company 
+may need to examine whether the capacity for driving is actually an essential 
+job function and, if not, whether a job could be slightly modified or 
+restructured so that a minimal amount of driving is performed by another worker 
+or shared by other workers.  Many individuals with epilepsy, however, are very 
+capable of driving due to their level of seizure control, type of seizure 
+warning, and other considerations.  To drive, people with this disability are 
+generally required to have a seizure free period of three months to a year.  In 
+some states, this is at the discretion of the individual's physician and his or 
+her assessment of an individual's seizure condition.  In sum, driving can be an 
+essential job function for some positions, such as a traveling sales 
+representative or courier, but in any number of other cases driving is often a 
+marginal and non-essential job function.
+
+In addition to restructuring job tasks, other examples of accommodation for 
+individuals with epilepsy would include:
+
+* Installing a safety guard on a piece of machinery.
+* Installing some industrial rubber matting or carpeting in order to cover a 
+concrete floor in a work area.
+* Scheduling consistent day work shifts for individuals whose seizures are 
+exacerbated by inconsistent sleep patterns caused by rotating shifts and, in 
+some cases, night shifts.
+* Allowing individuals to have an extended break or some time off after they 
+have experienced a seizure while on the job.
+* Providing flame-retardant clothing for individuals working in an area in which 
+a burn could be incurred during a seizure event and period of disorientation.
+* Provision of some type of safety helmet while on the job.
+When they are needed, accommodations for individuals with epilepsy generally are 
+not costly. The Job Accommodation Network (JAN), a service of the U.S. 
+Department of Labor, Office of Disability Employment policy, and headquartered 
+at West Virginia University, indicates that 80% of the accommodations made 
+result in a cost of no more than $500 to an employer with about 20% involving no 
+cost whatsoever.(*1)  Accommodations for individuals with epilepsy frequently 
+involve a type of procedural consideration rather than physical changes to the 
+worksite or  purchase of equipment.  This generally does not require any 
+significant cost, nor is it likely to impose an undue hardship to the employer.  
+Employees with epilepsy, particularly with a reasonable accommodation in place, 
+will rarely pose a direct threat of harm in the workplace. 
+
+Selecting an Accommodation
+
+The selection of a reasonable accommodation can often be accomplished through 
+direct dialogue between the employee and the employer.  Accommodations can 
+involve procedural changes, which change how the job is done but do not involve 
+assistive equipment or physical modifications to the worksite.  They can also 
+involve physical modifications or safeguards to a workstation, or low tech or 
+high tech assistive equipment.  Again, most of the considerations for those with 
+epilepsy will involve a procedural change or perhaps some safeguarding of a 
+workstation.
+
+If the employer and employee cannot agree on an effective reasonable 
+accommodation, a state vocational rehabilitation agency, a local Epilepsy 
+Foundation affiliate, the national Epilepsy Foundation, or resources such as the 
+Job Accommodation Network (JAN) can be contacted for assistance.  State 
+vocational rehabilitation agencies will often send a vocational rehabilitation 
+counselor or assistive technologist to the job site in order to help with 
+reasonable accommodation needs.  Again, it must be underscored that 
+accommodation concerns for employees with epilepsy, when necessary, are 
+generally very low cost.  Individual companies may also be eligible to receive 
+tax credits or deductions for physical modification or equipment purchase 
+efforts at the work site if this cost is not borne by a local or state 
+vocational rehabilitation agency.
+
+References
+
+Devinsky, Orrin.  A Guide to Understanding and Living With Epilepsy.  
+Philadelphia:  FA Davis, 1994.
+
+Epilepsy Foundation of America.  Americans with Disabilities Act:  A Guide to 
+Provisions Affecting Persons with Seizure Disorders.  Washington, DC:  author, 
+1992.
+
+Fraser, RT, Glaser, E., Simcoe, B.  Epilepsy.  In Brodwin, M, Tellez, F, and 
+Brodwin, SK (editors), Medical, Psychosocial, and Vocational Aspects of 
+Epilepsy.  Athens, GA:  Elliott & Fitzpatrick, 2001.
+
+McLellan, DL.  Epilepsy and employment.  Journal of Social and Occupational 
+Medicine, 1987, 3:94-99.
+
+Pfafflin, M, Specht, U, Thorbecke, R, Fraser, RT, Wolf, P., editors.  
+Comprehensive Care for People With Epilepsy.  London:  J. Libbey, 2001.
+
+Quattrini, A, et al.  Working activities and entailing risks in a large 
+population of epileptic subjects.  Epilepsia, 1999, 40 (Sp 2):199.
+
+Risch, F.  We lost every game...but.  Rehabilitation Record, 1968, 9:16-18.
+
+Sands, H.  Report of a study undertaken for the committee on neurological 
+disorders in industry.  Epilepsy News, 1961 7(Abstract), 1.
+
+Resources
+
+The Epilepsy Foundation of America
+4351 Garden City Dr
+Landover, MD  20785
+1-800-EFA-1000
+http://www.epilepsyfoundation.org
+The Epilepsy Foundation provides a wealth of information on employment concerns 
+for those with epilepsy.  The 800 number or web site offers an ADA informational 
+monograph and brochure, tips for employment interviewing and disclosure issues, 
+information about local area employment programs or local epilepsy affiliates 
+with employment programs, legal advocacy and job discrimination issues.
+
+Your Local Epilepsy Foundation Affiliate
+In order to identify an Epilepsy Foundation affiliate nearest to you, contact 
+the national office at 1 800 EFA-1000 or through the web site.  Information can 
+also be provided regarding any available employment program at the local 
+affiliate office.
+
+Job Accommodation Network (JAN)
+West Virginia University
+PO Box 6080
+Morgantown, WV  26506-6080
+1 800 526-7234
+http://www.jan.wvu.edu
+This is a one stop shopping resource on accommodation issues for those with 
+disabilities.  The database provides specific examples of employees with 
+specific disabilities for whom job station accommodations were made.  Contact 
+information for company personnel involved in the accommodation and manufacturer 
+information for the specific equipment used is available.  It is an excellent 
+resource for both employees and employers on effective reasonable accommodation 
+approaches.
+
+ADA Regional Disability and Business Technical Assistance Center Hotline
+1 800 949-4232
+
+State Vocational Rehabilitation office
+Every state has a vocational rehabilitation agency that provides vocational 
+assessment, counseling, job training and placement, advocacy, and often a 
+variety of support or medical services critical to a person's employability.  
+Look for the Office of Vocational Rehabilitation Services under state listings 
+in your telephone directory.
+
+
+This brochure is one of a series on human resources practices and workplace 
+accommodations for persons with disabilities edited by Susanne M. Bruyère, 
+Ph.D., CRC, SPHR, Director, Program on Employment and Disability, School of 
+Industrial and Labor Relations - Extension Division, Cornell University.  It was 
+written in January, 2001 by Robert F. Fraser, Ph.D., C.R.C., Professor/Director, 
+University of Washington Department of Neurology Vocational Services.
+
+Cornell University was funded in the early 1990's by the U.S. Department of 
+Education National Institute on Disability and Rehabilitation Research as a 
+National Materials Development Project on the employment provisions (Title I) of 
+the ADA (Grant #H133D10155).  These updates, and the development of new 
+brochures, have been funded by Cornell's Program on Employment and Disability, 
+and the Pacific Disability and Business Technical Assistance Center.
+
+Cornell University currently serves as Northeast Disability and Business 
+Technical Assistance Center. Cornell is also conducting employment policy and 
+practices research, examining private and federal sector employer responses to 
+disability civil rights legislation.  This research has been funded by the U.S. 
+Department of Education National Institute on Disability and Rehabilitation 
+Research  (Grant #H133A70005) and the Presidential Task Force on Employment of 
+Adults with Disabilities.  
+
+The full text of this brochure, and others in this series, can be found at: 
+www.ilr.cornell.edu/ped/ada.  Research reports relating to employment practices 
+and policies on disability civil rights legislation, are available at: 
+www.ilr.cornell.edu/ped/
+
+For further information, contact the Program on Employment and Disability, 
+Cornell University, 102 ILR Extension, Ithaca, New York 14853-3901; 607/255-2906 
+(Voice), 607/255-2891 (TDD), or 607/255-2763 (Fax).
+
+More information is also available from  the ADA Technical Assistance Program 
+and Regional Disability and Business Technical Assistance Centers, (800) 949-
+4232 (voice/TTY), www.adata.org
+
+Disclaimer
+
+This material was produced by the program on Employment and Disability, School 
+of Industrial and Labor Relations-Extension Division, Cornell University, and 
+funded by a grant from the National Institute on Disability and Rehabilitation 
+and Rehabilitation Research (grant #H133D10155).  The U.S. Equal Employment 
+Opportunity Commission has reviewed it for accuracy.  However, opinions about 
+the Americans with Disabilities Act (ADA) expressed in this material are those 
+of the author, and do not necessarily reflect the viewpoint of the Equal 
+Employment Opportunity Commission or the publisher.  The Commission's 
+interpretations of the ADA are reflected in its ADA regulations (29 CFR Part 
+1630), Technical Assistance Manual for Title I of the Act, and EEOC Enforcement 
+Guidance.
+
+Cornell University is authorized by the National Institute on Disability and 
+Rehabilitation Research (NIDRR) to provide information, materials, and technical 
+assistance to individuals and entities that are covered by the Americans with 
+Disabilities Act (ADA).  However, you should be aware that NIDRR is not 
+responsible for enforcement of the ADA.  The information, materials, and/or 
+technical assistance are intended solely as informal guidance, and are neither a 
+determination of your legal rights or responsibilities under the Act, nor 
+binding on any agency with enforcement responsibility under the ADA.
+
+The Equal Employment Opportunity Commission has issued enforcement guidance 
+which provides additional clarification of various elements of the Title I 
+provisions under the ADA.  Copies of the guidance documents are available for 
+viewing and downloading from the EEOC web site at:  http://www.eeoc.gov 
+
+
+
+
+1 Job Accommodation Network. Accommodation Benefit/Cost Data: Tabulated through 
+July 1999. http://www.jan.wvu.edu/media/Stats/BenCosts0799.html.  Retrieved 
+4/25/01.
+
+
+Working Effectively with Employees who Have Epilepsy
+Cornell University	January 2001
+

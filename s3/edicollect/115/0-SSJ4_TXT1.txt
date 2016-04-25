@@ -1,0 +1,145 @@
+Just the Facts
+
+July 2004
+
+Administrative Wage Garnishment
+
+A new tool in SSA’s debt collection toolbox 20 CFR 422.401, et seq.
+
+by Ray Cebula
+
+So, what does it mean?
+
+How this regulation applies to you.
+
+SSA issued final regulations allowing for the administrative garnishment of wages in order to collect overpayments. The regulations are effective January 22, 2004.
+
+In the summary contained in the notice of final rules, SSA describes administrative wage garnishment (AWG) as “a process whereby we order the debtor’s employer to withhold and pay to us up to 15 percent of the debtor’s disposable pay every payday until the debt (overpayment) is repaid.” Of course, each phrase of this summary statement is subject to definition and regulation.
+BPAO and PABSS staff are likely to be “first contacts” for individuals facing AWG processes.  BPAO staff must have an understanding of the rules and remedies and be prepared to refer individuals to their PABSS projects for the necessary legal representation.
+
+The regulations can be found at Subpart E of the regulations implementing the Social Security Act.
+
+The Fine Points:
+
+422.402(c) – “Disposable pay” is defined as that part of weekly earned income (including, but not limited to, salary, wages, bonuses, commissions, and vacation pay) from an employer after the deduction of health insurance premiums and amounts withheld as required by law (state, federal, local taxes but not amounts withheld under a court order, e.g., child support).
+
+422.403(a) – SSA, subject to certain exceptions discussed below, can use AWG to collect any overpayment that is “past due.”  SSA can use AWG while it is also taking other action regarding the overpayment, such as, tax refund interception.
+
+(b) SSA will not use AWG to collect an overpayment 
+
+1. from salary paid by the U.S. Government,
+
+2. from individuals who have been involuntarily separated from employment until the individual has been reemployed continuously for 12 months. NOTE: The individual has the burden of informing (and proving to) SSA that an involuntary separation has occurred,
+
+3. from an individual whose disability insurance benefits have stopped and is still within the extended period of eligibility (EPE), or reentitlement period, because of SGA,
+
+4. from those individuals participating in the Ticket to Work program and whose ticket is “in use” in accordance with the 20 CFR 411.170 § 411.225.
+(c) Collection of Title II (SSDI) overpayments using AWG. AWG will be used so long as:
+
+5. the individual is no longer receiving benefits,
+
+6. the SSA billing system sequence has been completed (initial notice of overpayment, a reminder notice, and a past due notice) or SSA has suspended or terminated collection activity in accordance with the Federal Claims Collection Standards (31 CFR 903.2 or 903.3),
+
+7. there exists no installment payment agreement or the individual has failed to comply with an installment payment agreement for two consecutive months, and
+
+8. there is no waiver or reconsideration request pending. NOTE: Given the necessary timing of these events, any Request for Reconsideration filed after the completion of the SSA billing sequence may require a statement of “good cause” for late filing.
+
+SSA can only use AWG to collect an overpayment from the person who actually received the benefits. No auxiliary collection is allowed under these regulations.
+
+(d) Collection of Title XVI (SSI) overpayments using AWG. AWG will be used so long as:
+
+9. the individual is not receiving benefits,
+
+10. SSA is not collecting the overpayment via withholding of current benefits,
+
+11. SSA has completed its billing system sequence (see above) or SSA has suspended or terminated collection in accordance with the Federal Claims Collection Standards,
+
+12. there exists no installment payment agreement or the individual has not made payments under an installment agreement for two consecutive months, and
+
+13. there is no waiver or reconsideration request pending (see NOTE above).
+
+As with Title II overpayments, SSA can only use AWG to collect an overpayment from the person who actually received the benefits.
+
+422.405(a) Notice before AWG. Before SSA orders an employer to collect an overpayment by wage garnishment, SSA must provide written notice of its intentions.
+
+(b) The notice must contain the following information:
+
+14. a statement indicating that SSA has determined that the overpayment is past due and owing,
+
+15. the nature and amount of the overpayment,
+
+16. the amount that can be withheld from “disposable pay” each payday,
+
+17. information allowing a 60 day period during which the individual will be able to file a request for waiver and/or reconsideration, enter into an installment payment arrangement, or pay the debt in full, before SSA will order the employer to garnish wages,
+
+18. notice allowing inspect and copy of SSA records concerning the overpayment,
+
+19. notice informing the individual of the right to request review of the garnishment amount (payment schedule),
+
+Notice will be sent to the most current address in SSA’s files and SSA will keep an electronic copy of the notice that shows the date it was mailed.
+
+422.410 SSA Actions After Notice is Sent. After the 60 day period ends, and should none of the exceptions discussed above apply, SSA may order the employer to garnish wages.
+
+(a)(3) If the overpaid individual requests review (waiver, reconsideration or review of the payment schedule) after the 60 day period has passed the review will be conducted by wage garnishment will continue. In instances where SSA has begun collection and does not make a decision within 60 days of receiving the individual’s request for review, SSA will order the employer to stop garnishing wages; Garnishment will not begin again until a decision is rendered.
+
+(a)(4) If the overpaid individual requests an installment payment arrangement after receiving notice of AWG, SSA can send a garnishment order to the employer immediately upon the individual’s failure to comply with the installment agreement for two consecutive months.
+
+(b) Good Cause for late filing of a request for review. If SSA determines that the individual had “good cause” for filing the request for review late (beyond the 60 days provided in the notice of garnishment) the request will be treated as if filed timely. When making a “good cause” determination SSA will consider:
+
+20. any circumstances that kept the individual from making the request on time,
+
+21. whether SSA action misled the individual,
+
+22. whether any physical, mental, educational, or linguistic limitation prevented the individual from filing timely.
+
+(b)(2) Examples of Good Cause include a serious illness that prevented contact with SSA, or contact with SSA through another individual, death or serious illness in the individual’s family, fire or accident destroyed records, the individual did not receive the notice, and, the individual sent the request for review to the wrong agency. This is not an inclusive list of examples.
+
+422.415 Reduction of Garnishment Amount. The amount being garnished on a weekly basis can be reduced upon request by the individual and SSA’s finding of financial hardship. However, the amount will never be reduced below $10 per pay period. Written notice will issue of the decision to reduce the withholding to both the individual and the employer. A request for reduction in the payment schedule can be made at any time and if made within the 60 days provided by the garnishment notice, no withholding will occur until after SSA has rendered a decision on the request.
+
+(b) Financial hardship will be found when the individual shows SSA that the intended, or actual, withholding will deprive the individual of income needed to meet ordinary and necessary living expenses.
+(c) Ordinary and necessary living expenses include “fixed expenses,” such as food, clothing, housing, utilities, maintenance, insurance and taxes. Other expenses that will be considered are medical, hospital, support orders, and other “reasonable expenses” which are part of the individual’s standard of living.
+
+(d) SSA will not reduce any payment schedule if the overpayment was caused by the individual’s intentional false statement or as a result of will concealment or failure to furnish material information.
+
+422.425 Review of the Debt. After receipt of the 60 day garnishment notice the individual can request review of the overpayment amount. The individual must provide evidence indicating that the amount is incorrect or that SSA has no right to collect it. If the request is made before the 60 day period passes, SSA will take no action until the review is completed and a decision is rendered.
+
+422.430 SSA Refund of Garnished Amounts. If SSA determines that the agency had no right to collect the overpayment or that is was not owned by the individual, SSA will “promptly” refund any amount withheld.
+
+422.435 SSA’s Notice of Garnishment to the Employer. The AWG order sent to the individual’s employer will contain the following information:
+
+23. name, address and SSN of the individual,
+
+24. the amount of the overpayment,
+
+25. the amount to be withheld,
+
+26. where to send withheld funds,
+
+SSA will keep an electronic copy of this order that shows the date it was mailed.
+
+(c) The employer will also receive a certificate form to complete concerning the individual’s current employment status and the amount of “disposable pay” available for withholding. This form must be returned with 20 days of receipt.
+
+(d) Amounts to be Withheld. After receiving the AWG order the employer must begin withholding the lesser of:
+
+27. the amount indicated on the order (up to 15% of “disposable pay”),
+
+28. the amount by which “disposable pay” exceeds 30 times the minimum wage (as indicated in 15 USC 1673(a)(2)).
+
+(e) Multiple Garnishment Orders. If the individual’s “disposable pay” is subject to more than one garnishment order, SSA’s order:
+
+29. has priority over other orders served later in time,
+
+30. will never take priority over a family support order,
+
+31. limit the payment schedule to 25% of “disposable pay” after reducing earnings by the amount of other orders taking priority over the SSA order or maintain the 15% figure, whichever is less,
+32. will maintain more than one order if the individual owes more than one overpayment to SSA but will limit the amount to 15% or 25% or “disposable pay,” whichever is appropriate in the circumstances.
+
+(f) The individual may request that the employer withhold more than SSA’s order indicates.
+
+422.440 Employer’s Responsibilities. The employer must begin withholding with the first pay period after receiving the AWG order unless that pay day is within 10 days of receiving the order. Withholding must continue until SSA notifies the employer of a cessation of garnishment. The employer cannot honor any assignment or allotment of wages that would interfere with the AWG order unless it involves a family support order.
+
+Federal law prohibits an employer from using a garnishment order as the basis for a discharge, a refusal of employment, or disciplinary action. The individual may bring action against the employer before a court of competent jurisdiction.
+
+422.445 SSA Civil Action Against the Employer. Should the employer refuse to implement the AWG order, SSA can bring a civil action against the employer.
+
+The regulations allowing AWG are, fortunately, limited to those individual’s who have basically ignored all prior notices of overpayment or have otherwise fallen into a state of nonpayment. If we use the tax refund intercept experience as revealing in this instance, we need to be prepared for the AWG process to have a rocky beginning. When potential clients present with an AWG issue be sure that all notices have been received.

@@ -1,0 +1,269 @@
+STATE PROTECTION AND ADVOCACY (P&A) PROGRAMS
+
+Advocacy Services available from state P&A Programs can help Social Security and SSI recipients being served by Benefits Planning, Assistance and Outreach Projects.
+
+This article was authored by James R. Sheldon, Jr., an attorney employed by Neighborhood Legal Services, Inc. (NLS) of Buffalo, New York.  Mr. Sheldon supervises a specialty unit within NLS that includes most of the P&A programs described below.  He also supervises a regional Benefits Planning, Assistance and Outreach project in Western New York.
+
+
+I. INTRODUCTION
+
+The Ticket to Work and Work Incentives Improvement Act of 1999 (TWWIIA) established several new initiatives within the Social Security Administration (SSA).  These initiatives include: several new work incentive provisions; renewed demonstration authority for the Social Security Disability Insurance (SSDI) program; the Ticket to Work and Self Sufficiency program; the Benefits Planning, Assistance and Outreach (BPA&O) projects; and improvements in the optional Medicaid Buy-In program.  The legislation also created a new Protection and Advocacy (P&A) program to serve SSDI and Supplemental Security Income (SSI) beneficiaries who want to work despite their continuing severe disabilities.
+
+Pursuant to TWWIIA, the SSA has funded BPA&O projects in every state to ensure that all beneficiaries, nationwide, receive their services.  These projects are intended to provide two types of service: 1) benefits planning and assistance, and 2) outreach.  Within those service categories, SSA has provided leeway to the BPA&Os on how to design their projects to provide optimal services to beneficiaries.  BPA&Os are also required to provide beneficiaries with information concerning the availability of P&As to provide a range of advocacy services to them.
+
+In an effort to help BPA&Os meet their mandate, this article will describe the services available to SSI and SSDI beneficiaries from P&A agencies throughout the country.  In doing so, we will describe the longstanding P&A programs, who they are mandated to serve, and how they may assist beneficiaries who are working or planning to work.  We will then describe the newest P&A programs, including the Protection and Advocacy for Beneficiaries of Social Security (PABSS), Protection and Advocacy for Persons with Traumatic Brain Injury (PATBI), and Protection and Advocacy for Voting Access (PAVA) programs.
+
+Our original, 2001 version of this article explained the potential range of services available through what was then a very new PABSS program and when it would be appropriate for BPA&O staff to refer a beneficiary to either PABSS or another P&A program.  Since the original was written, two developments have occurred to expand the services available through PABSS programs, including:  a change in grant conditions to allow PABSS attorneys and advocates to handle work-related SSI and SSDI administrative appeals, including overpayments; and amendments, as part of the Social Security Protection Act of 2004, which allow PABSS attorneys and advocates to represent former cash beneficiaries who are getting continued health insurance coverage through either the 1619(b) Medicaid program or the extended Medicare beneficiaries program.  These very important changes will be discussed in Part III, below.
+
+This new article will also discuss the two newest P&A programs, PATBI and PAVA, providing examples of how those programs might be available to meet the needs for beneficiaries served by the BPA&O network.  We will conclude this article with a short section that describes a range of other no-cost advocacy services that will exist in communities, nationwide, including Legal Services and Legal Aid programs, Centers for Independent Living, and private attorney pro bono programs.
+
+
+II. THE P&A SYSTEM: A BRIEF SUMMARY Footnote Reference 1 
+
+The P&A system is the one longstanding and institutionalized system of disability-related advocacy services that is available, free of charge, in every state.  The P&As have the capacity to provide a wide range of advocacy services to persons with disabilities through several specific P&A grants.  Each P&A grant establishes a program with its own unique mandate.
+
+Footnote 1: For a more detailed description of the individual P&A programs, their mandates, eligibility criteria, and representative services, contact the National Association of Protection and Advocacy Systems (NAPAS) in Washington, D.C. at 202-408-9514 or visit their web site at www.napas.org.  The web site contains links to web sites of the state P&A programs.  We wish to thank both Gary Gross and Cheryl Bates-Harris of NAPAS for editorial assistance provided in preparation of the original version of this article.
+
+Each state has a designated state P&A agency.  Typically, this is an independent, not-for-profit agency, such as Advocacy, Inc. in Texas, or Protection and Advocacy, Inc. in California.  In some states, the designated P&A agency will be part of the state government, such as the Indiana Protection and Advocacy Services program or the State Commission on Quality of Care in New York.  Most P&As deliver services through employees of the state-designated P&A.  However, some state P&A agencies will provide grants or subcontracts to other agencies to provide all or part of the services mandated under a particular P&A program.  For example, in New York, the Commission on Quality of Care has provided grants to a range of Legal Services programs, law schools, Centers for Independent Living, and other agencies to deliver advocacy services under various P&A programs.
+
+All state P&A agencies employ, directly or through subcontractors, attorneys and other advocates to deliver services to eligible individuals with disabilities.  The non-attorney advocates typically carry the title of advocate; some carry the title of paralegal.  The ratio of attorneys to advocates varies greatly from state to state, as the P&A funding sources provide individual discretion regarding how to design a state P&A system to serve eligible individuals.
+
+In the sections below, we will describe the P&A programs that exist in each state.  These include:
+
+*Protection and Advocacy for the Developmentally Disabled (PADD)
+*Protection and Advocacy for Individuals with Mental Illness (PAIMI)
+*Protection and Advocacy for Individual Rights (PAIR)
+*Protection and Advocacy for Assistive Technology (PAAT)
+*Protection and Advocacy for Beneficiaries of Social Security (PABSS)
+*Protection and Advocacy for Individuals with Traumatic Brain Injury (PATBI)
+*Protection and Advocacy for Voting Access (PAVA)
+*the Client Assistance Program (CAP)
+
+Although CAP does not carry the P&A name, most consider CAP a part of the P&A family of programs.  Like the P&A programs, it is a federally funded advocacy program that exists in every state to serve persons with disabilities.  In many states, CAP is found in the same agency that delivers services under the other P&A grants (i.e., within the state-designated P&A or within one of its subcontractors).
+
+The services of the seven P&A programs and the CAP program will, in all states, typically fall under one of the following categories:
+
+*information and referral services
+*individual representation, including pursuit of client objectives through negotiation, mediation, administrative appeals, and court actions
+*investigation of allegations of abuse and neglect (primarily a function of the PADD and PAIMI programs)
+*outreach and community education (e.g., speaking, dissemination of print and web-based materials)
+
+In addition, many P&As dedicate some staff time to activities such as sitting on boards and committees where decisions are made concerning disability service delivery and policy within a state, or region of a state.
+
+In the descriptions below, we outline some of the more typical P&A services available to persons with disabilities, with an emphasis on the type of services that would most likely help an SSI or SSDI beneficiary overcome a barrier to employment.  Although we discuss typical services or advocacy cases by individual P&A program, there is great overlap among the P&A programs regarding the types of services offered to eligible individuals. (For example, each of the four traditional P&A programs, as well as the newer PABSS and PATBI programs, may become involved with Americans with Disabilities Act issues.)  However, not every state's P&A program provides the full range of services we describe, as each state P&A develops its own set of priorities on how best to use its limited resources.  In addition, many P&As provide valuable services other than those we have described, including services provided through additional, non-P&A sources of funding.
+
+
+III. DESCRIPTION OF THE INDIVIDUAL P&A PROGRAMS
+
+I. Protection and Advocacy for the Developmentally Disabled (PADD)
+
+A. The Mandate and Legal Authority
+The PADD program was established in the mid-1970s by the Developmental Disabilities Assistance and Bill of Rights (DD) Act. Footnote Reference 2  It is administered by the Administration on Developmental Disabilities of the Administration for Children and Families, U.S. Department of Health and Human Services.  In its broadest sense, PADD was established to "protect and advocate" for persons who, because of their disabilities, are incapable of protecting their own interests.  PADD was established, in part, as a response to horrific conditions uncovered in places like New York's Willowbrook institution.
+
+Footnote 2: 42 U.S.C. §§ 6001 et seq.  See id. §§ 6041-6043, creating the PADD program.  Implementing regulations are published at 45 C.F.R. Part 1386.  The original DD Act was repealed in 2000 and replaced by the DD Act of 2000, P.L. 106-402, codified as 42 U.S.C. §§ 15001 et seq.
+
+B. Eligibility for PADD Services
+A PADD program can serve any individual who has a federally defined developmental disability (DD).  To be considered DD, the disability must occur or manifest itself before age 22 and must result in substantial functional limitations in three or more major life activities. Footnote Reference 3 Disabilities typically meeting this DD definition include mental retardation, cerebral palsy, autism and severe learning disabilities.  There is no exclusive list of disabilities meeting the DD criteria; however, as the DD definition rests on functional limitations rather than diagnosis.  A PADD program can serve both children and adults whose disabilities meet the DD definition.
+
+Footnote 3: See 42 U.S.C. § 15002(8) for the comprehensive DD definition.
+
+C. PADD Advocacy Services that May be Available to SSI and SSDI Beneficiaries
+PADD programs, in most states, will devote some resources to investigating allegations of abuse and neglect in both state-operated and privately operated residential programs serving the DD population.  Pursuant to mandates of the Americans with Disabilities Act (ADA), in many cases, PADD attorneys and advocates can be instrumental in ensuring that individuals with disabilities are moved from institutions to appropriate community settings.  This advocacy may also help to stimulate the move into an integrated employment setting.
+
+The most common category of advocacy case, within PADD programs, involves special education.  PADD attorneys and advocates most frequently use negotiation or mediation strategies to resolve disputes between parents and school districts regarding the types of placements and services that meet the needs of students with disabilities.  When necessary, most of the PADD programs are available to represent special education students at administrative hearings or court appeals.  Since the future employability of young adults with disabilities will depend, in part, on the quality of their educational experiences, PADD advocacy services, in the special education context, have an important bearing on future employment outcomes.  When students with disabilities are in their "transition" years (ages 14 to 21), PADD advocates can be helpful to ensure that students receive appropriate vocational services and assistive technology (such as adaptive computer equipment) to increase the benefit from those services.
+
+II. 	Protection and Advocacy for Individuals with Mental Illness (PAIMI)
+
+A. The Mandate and Legal Authority
+The PAIMI program was established by the Protection and Advocacy for Individuals with Mental Illness Act of 1986. Footnote Reference 4  It is administered by the Center for Mental Health Services, U.S. Department of Health and Human Services.  PAIMI, like PADD, was established to "protect and advocate" for persons who, because of their disabilities, are incapable of protecting their own interests.   This P&A program was a response to the many substantiated reports of abuse and neglect in state psychiatric hospitals.
+
+Footnote 4: 42 U.S.C. §§ 10801 et seq.  Implementing regulations are published at 42 C.F.R. Part 51.
+
+B. Eligibility for PAIMI Services
+Eligibility for services is limited to individuals with a diagnosis of a significant mental illness or emotional impairment.  In addition, from the program's inception through 2000, eligibility for PAIMI services was limited to individuals who were residing in some kind of residential facility (typically a hospital or group home) or who had a problem, which occurred within 90 days of release from the residential facility.  This strict residential facility criteria was eliminated through amendments to the PAIMI Act in 2000.  Now, eligibility for services also extends to persons with a significant mental illness or emotional impairment who reside in the community, including their own homes, as long as the federal appropriation in any fiscal year under the PAIMI Act is $30 million or more (a threshold that was reached in 2001 and in subsequent years through the date this article was written).  Notwithstanding the amendments, PAIMI programs are required to give priority to representing persons with mental illness who live in residential treatment facilities.
+
+C. PAIMI Advocacy Services that May be Available to SSI and SSDI Beneficiaries
+
+PAIMI, like PADD, devotes some resources to investigating allegations of abuse and neglect in both state-operated and privately operated residential programs serving persons with mental illness.  In fact, institutional issues are probably a larger part of the PAIMI caseload in many states than they are a part of the PADD caseload.  Here again, pursuant to mandates of the ADA, PAIMI attorneys and advocates can be instrumental in ensuring that individuals with disabilities are moved from institutions to appropriate community settings.  PAIMI attorneys and advocates may also be involved in some special education advocacy, especially now that a person need not be in an institution to be eligible for PAIMI services.
+
+A major barrier to successful employment for persons with mental illness can be the lack of suitable and affordable housing.  The federal Fair Housing Act, provisions in the federally subsidized housing regulations, and individual state laws provide protection to individuals with disabilities who face discrimination.  In many states, the P&A program has made housing discrimination issues a priority for their PAIMI programs. Footnote Reference 5  Many state PAIMI programs have successfully challenged the actions of landlords who have refused to rent or who have evicted tenants based on a history of institutionalization or other factors related to their mental illness.
+
+Footnote 5: Like all the other representative issues described in this paper, enforcement of housing discrimination laws may also be the type of issue handled by one or more other P&A programs, like PADD or PAIR.
+
+III. Protection and Advocacy for Individual Rights (PAIR)
+
+A. The Mandate and Legal Authority
+The PAIR program was established by 1978 amendments to the Rehabilitation Act, Footnote Reference 6 but was not fully funded by Congress until 1994.  It is administered by the Rehabilitation Services Administration within the U.S. Department of Education.
+
+Footnote 6: 29 U.S.C. § 794e.  Regulations are published at 34 C.F.R. Part 381.
+
+B. Eligibility for PAIR Services
+A PAIR program can serve any individual who has a disability and:
+I. needs services that are beyond the scope of the CAP program; and
+II. is ineligible for PADD because they do not have a DD; and 
+III. is ineligible for PAIMI because they do not have a significant mental illness or emotional impairment.
+
+The PAIR program is not required to serve individuals who could be served under the PAAT, PABSS, or PATBI programs, but is permitted to serve them.  Currently, since the law and regulations governing the PAIR program are silent on the issue of eligibility under these newer programs, it appears that PAIR is potentially available to address the employment-related issues faced by SSI and SSDI beneficiaries, even if the individual would be eligible for advocacy services under the newer P&A programs.  This would allow a P&A agency, for example, to structure its program so that all ADA accessibility issues are handled within the PAIR program, even those involving beneficiaries or those involving individuals with traumatic brain injury.
+
+Given the age 22 onset of disability limitation in PADD, P&A advocates often describe PAIR as the program for persons with "adult onset disabilities."  For example, persons with a wide range of adult onset injuries, including traumatic brain injuries and spinal cord injuries, will be eligible for PAIR services.  Persons with other adult onset conditions, such as multiple sclerosis, Lou Gehrig's disease, HIV infection and AIDS, cancer, and heart ailments would also be eligible for PAIR services.
+
+C. PAIR Advocacy Services that May be Available to SSI and SSDI Beneficiaries
+PAIR, like the other P&A programs, can assist eligible persons with disabilities on a wide range of issues.  A particular focus of PAIR, in many states, has been the enforcement of rights under the ADA and section 504 of the Rehabilitation Act.  This makes PAIR particularly important to SSI and SSDI beneficiaries, to the extent that the ADA and section 504 enforcement relates to: employment rights; the accessibility of colleges and college programs; and the ability to access the community and its institutions, including public transportation systems.  One note of caution to readers - - because funding for the PAIR program is much more limited than it is for PADD and PAIMI, individual PAIR programs face a challenge in prioritizing the types of issues they will address and the range of remedies they will use to address them.
+
+In the employment context, PAIR attorneys and advocates have successfully challenged allegations of discrimination for persons with a wide range of disabilities.  In some cases, this may involve the outright refusal to hire based on disability.  In other cases, it may involve the refusal to provide job-related accommodations to allow a person to retain employment.  Here again, PAIR programs that work on these issues may use the full complement of strategies to resolve cases, including negotiation, mediation, administrative remedies, and court action.
+
+Many PAIR programs (and P&As generally) have made priority decisions to address accessibility issues through the ADA and section 504, to make the community and its institutions more accessible to individuals with disabilities.  For example, PAIR programs have successfully negotiated with colleges and universities to alter individual course or degree requirements to accommodate students with learning disabilities.  PAIR programs have also negotiated or filed lawsuits to remove barriers at colleges and universities that prevented persons in wheelchairs from having access to a campus.
+
+IV. Protection and Advocacy for Assistive Technology (PAAT)
+
+A. The Mandate and Legal Authority
+The PAAT program was created by 1994 amendments to the Technology-Related Assistance to Individuals with Disabilities Act. Footnote Reference 7  Historically, it was administered by the National Institute on Disability and Rehabilitation Research at the United States Department of Education (DOE).  Since early 2004, it has been administered by the Rehabilitation Services Administration with the DOE. The PAAT program was established to allow P&As to assist individuals with disabilities who seek assistive technology (AT) devices and services. Footnote Reference 8
+
+Footnote 7: 29 U.S.C. §§ 2201 et seq.  It was re-authorized in 1998 as the Assistive Technology (AT) Act, id. §§ 3001 et seq.  On October 25, 2004, President Bush signed the AT Act of 2004 which continues funding for the PAAT programs.
+Footnote 8: See id. §§ 3001(a)(3) and (a)(4) for the definitions of AT device and AT service.  For example, an adapted computer would be an AT device; the training to use it would be an AT service.
+
+B. Eligibility for PAAT Services
+PAAT programs can serve any individual with a disability who seeks funding for an AT device or service.  This program is not limited to serving individuals with any one type of disability; nor does it limit the types of AT devices or services that would be involved in the PAAT's case work.
+
+C. Examples of Advocacy Services Under PAAT
+The PAAT program continues to be one of the most poorly funded of all the P&A programs.  Currently, half of the state P&As (i.e., “minimal allotment” state with the smallest populations) receive only $50,000 per year to cover their entire state and most of the remaining states receive under $100,000 per year.  With limited funding, most state P&As must carefully prioritize the work they do through their PAATs.  In some states, it has meant that AT-related advocacy has become a priority of the PADD and PAIR programs so that more AT-related advocacy can occur.  In other states, the PAATs have reacted to these funding limits by greatly limiting the new cases they work on and dedicating services to outreach and training.  As explained below, one potential focus area for the newer PABSS and PATBI programs may be AT-related advocacy, to the extent that the AT in question would help remove some barrier to employment (PABSS) or be needed by an individual with a traumatic brain injury (PATBI).
+
+PAATs have successfully represented individuals in obtaining AT devices and services from numerous funding sources.  These include Medicaid, Medicare, private insurance companies, special education programs, and state vocational rehabilitation agencies.  Medicaid is by far the most common area of focus for PAATs, with increased attention given to Medicare in recent years.
+
+PAATs regularly advocate for a wide range of AT devices (often called durable medical equipment by programs like Medicaid and Medicare), including items such as custom and power wheelchairs, augmentative communication devices, adaptive computer equipment and software, low vision aids, and access ramps and lifts for the home.  Much of the successful advocacy, in the Medicaid and Medicare context, has occurred through representation at administrative hearings.  Additionally, a number of successful court actions, filed by PAAT attorneys, have resulted in state Medicaid agencies being required to fund items such as augmentative communication devices.
+
+V. The Client Assistance Program (CAP)
+
+A. The Mandate and Legal Authority
+The CAP program was established by 1984 amendments to the Rehabilitation Act. Footnote Reference 9  It is administered by the Rehabilitation Services Administration of the United States Department of Education.  Some CAP programs are housed within P&A agencies; some are housed within freestanding non-profit agencies; and some are housed within an agency of state government.
+
+Footnote 9: 29 U.S.C. § 732.
+
+B. Eligibility for CAP Services
+A CAP program can serve any individual with a disability who is seeking or receiving vocational (VR) services under the federal Rehabilitation Act.
+
+C. Examples of Advocacy Services Under CAP
+Although CAP is authorized to assist individuals in obtaining vocational services from a range of public and private agency providers, CAP advocates typically are involved in resolving disputes between individuals and state VR agencies (or, in some states, separate VR agencies serving persons who are legally blind).  A dispute could involve a question of VR agency sponsorship for a particular education or training program; funding for a wide range of goods or services related to an employment goal; or post-employment services needed to retain a job.  Most of these disputes are resolved by CAP programs through negotiation or mediation, with a smaller number involving administrative hearings, and an even smaller number involving court action.  Because CAP programs are solely involved in supporting an individual's employment goals, we can expect that BPA&Os will regularly refer beneficiaries to CAP programs.
+
+VI. Protection and Advocacy for Beneficiaries of Social Security (PABSS)
+
+A. The Mandate and Legal Authority
+The PABSS program was established pursuant to the Ticket to Work and Work Incentives Improvement Act of 1999. Footnote Reference 10  It is administered by the SSA through direct grants to each state-designated P&A agency.  As stated by SSA in its PABSS grant conditions, these grants are made for two specific purposes: 1) to provide information and advice about obtaining VR and employment services; and 2) to provide advocacy or other services that a beneficiary needs to secure or regain gainful employment.
+
+Footnote 10: See TWWIIA § 1150, 42 U.S.C. § 1320b-21.
+
+B. Eligibility for PABSS Services
+Under the original TWWIIA legislation, PABSS programs were authorized to serve any individual who was entitled to SSI or SSDI cash benefits based on disability or blindness.  Now, under 2004 amendments to this legislation, PABSS attorneys and advocates can also serve former cash beneficiaries if: they were receiving SSI benefits, lost those benefits due to earnings, and now are eligible for continuing Medicaid benefits through the 1619(b) program; or were receiving SSDI benefits, lost those benefits due to performance of substantial gainful activity, and are now eligible for extended Medicare benefits. Footnote Reference 11
+
+Footnote 11:  See 42 U.S.C. §§ 426(b) (regarding extended Medicare benefits) and 138h(b) (regarding 1619(b) benefits).
+
+C. Examples of Advocacy Services that May be Available Under PABSS
+This section will explain the priorities PABSS programs must follow for delivering services, as well as the types of case work and other services PABSS programs may provide within those priority categories.
+
+1. Priorities of PABSS
+
+PABSS programs are to provide the following services in the order of priorities listed below:
+
+i. Investigate and review any complaint of improper or inadequate services provided to a beneficiary with a service provider, employer or other entity involved in the beneficiary's return to work effort.
+
+ii. Provide information and referral to SSI and SSDI beneficiaries about work incentives and employment, including information on the types of services and assistance available to them in securing or regaining gainful employment, particularly services and assistance through employment networks under the Ticket to Work and Self Sufficiency Program.  Provide information and technical assistance on work incentives to individuals, attorneys, governmental agencies, employment networks and other service providers, and advocacy organizations.
+
+iii. Provide consultation to -- and legal representation on behalf of -- beneficiaries when such services become necessary to protect the rights of such beneficiaries.  To the extent possible, alternative dispute resolution procedures should be used.
+
+iv. Advocate to identify and correct deficiencies in entities providing VR services, employment services, and other support services to beneficiaries with disabilities, including reporting to the program manager on identified deficiencies related to employment networks and other concerns related to the Ticket to Work and Self Sufficiency program.
+
+2. Services that May be Provided Within the PABSS Priorities
+
+Within these priorities, it appears that PABSS programs can provide any advocacy services that fall within a P&A's traditional categories of service.  In the 2001 version of this article, we explained that under grant conditions existing at that time, PABSS programs could not use this grant money to pursue appeals or litigation against SSA, its commissioner, or any SSA official because of decisions on program issues (including decisions related to interpretation of work incentive provisions or overpayment of benefits).  Under more recent amendments to the grant conditions, PABSS programs may now pursue administrative appeals (but not litigation) involving SSI or SSDI so long as the issues involved are work-related.  Allowable appeals, under these new grant conditions, may involve enforcement of the range of work incentives and include overpayment of benefits issues.  Allowable casework can include administrative law judge hearings and Appeals Council review, but not litigation. Footnote Reference 12  PABSS programs may pursue appeals and litigation against other federal agencies for issues directly related to securing or regaining employment.
+
+Footnote 12: The extent of SSA-related advocacy and appeals done through the other P&A programs will vary from state to state.  A number of state P&A agencies have established priorities, within their PADD and PAIMI programs, to pursue SSI and SSDI issues on behalf of persons with disabilities.
+
+Within priority category one, SSA clearly envisions that PABSS programs will represent beneficiaries in disputes with the new employment networks under the Ticket to Work and Self Sufficiency program.  This will involve the Ticket's dispute resolution system. Footnote Reference 13  The Ticket program has now been implemented, nationwide, with new Tickets issued only as additional beneficiaries become eligible.  PABSS programs could also handle beneficiary disputes with state and private VR programs under this priority, but many of those cases are expected to be referred to CAP programs.
+
+Footnote 13: See 20 C.F.R. §§ 411.600—411.730.
+
+Priority two creates a mandate similar to what is expected of the newly created BPA&O projects; that is, to provide information and technical assistance to beneficiaries, advocates, and a range of provider agencies regarding the SSI and SSDI work incentives and related provisions.  What PABSS programs do under this mandate may depend, in part, on previous expertise in doing similar work under existing grants, work currently done by only a few P&As.  It may also depend on collaborative agreements they negotiate with the BPA&Os in their states.  In many states, PABSS programs are collaborating with BPA&Os to maximize their combined resources and jointly embark on efforts to provide training, disseminate materials, and provide technical assistance to beneficiaries and the providers that serve them.
+
+Priority three provides authority for PABSS programs to provide consultation and legal representation to beneficiaries, when necessary to protect their rights.  As long as the issues involved have a connection to employment, we can expect PABSS attorneys and advocates to be potentially available to provide consultation or representation on the following types of cases: special education; vocational rehabilitation; enforcement of the ADA or section 504 as related to employment, training, college programs, transportation, or anything else that stands as a barrier to employment; and denials of funding for goods and services (including AT) through Medicaid, Medicare or private insurance companies.  In all their advocacy work, PABSS programs are required to first pursue administrative remedies, where available, before initiating litigation in a state or federal court, unless doing so would compromise the rights of the beneficiary.
+
+The biggest expansion of services, under priority three, now involves administrative appeals, involving SSI or SSDI issues that are work-related.  Again, as noted above, this expansion of casework has been allowed through revised grant conditions governing PABSS funding to P&A agencies.  These appeals could involve challenges to reductions in SSI benefits or the outright termination of SSDI benefits, for one or more months, where the issue on appeal involves the enforcement of one or more work incentive provisions.  For example, the appeal could involve the beneficiary’s eligibility for impairment related work expenses (IRWEs) or subsidy provisions. Footnote Reference 14  The case could involve an alleged overpayment of benefits — either an appeal challenging the fact of the overpayment, or a request for a waiver of SSA’s right to collect the overpayment.
+
+Footnote 14:  See 20 C.F.R. §§ 404.1576, regarding IRWEs; 404.1574(a)(2), 416.974(a)(2), regarding subsidies.
+
+Priority four is best described as performing a watchdog function over the existing and new VR and employment systems, which are available to serve individuals with disabilities.  Under this priority, we can expect PABSS programs to: monitor the existing state and private VR systems; monitor the new one-stop agencies established pursuant to the Workforce Investment Act; and monitor the employment networks serving beneficiaries under the Ticket program, reporting concerns to the program manager who oversees that program.  Here again, many PABSS programs are collaborating with BPA&Os to identify how best to accomplish this priority.  In many states, the PABSS programs are addressing this priority by attending public meetings or seeking appointments to boards that oversee the functions of the systems described above.  In addition, individual complaints from beneficiaries about these systems can be regularly referred by the BPA&Os to the PABSS staff.
+
+VII. Protection and Advocacy for Individuals with Traumatic Brain Injury (PATBI)
+
+A. The Mandate and Legal Authority
+The PATBI program was created in 2002 to provide P&A services to individuals with traumatic brain injury (TBI) and their families. Footnote Reference 15  It is administered by the Health Resources and Services Administration (HRSA) through its Maternal and Child Health Bureau.  Originally, the PATBI grants were awarded to P&A agencies in 28 states, four U.S. territories, and one tribal agency.  More recently, PATBI grants have been awarded to each state P&A agency, nationwide.  As this is written, the PATBI program is the most modestly funded of all the P&A programs with nearly all states receiving under $100,000 annually and many receiving the minimal allotment of $50,000 per year.
+
+Footnote 15: 42 U.S.C. § 300d-53.
+
+B. Eligibility for PATBI Services
+The only criteria for PATBI eligibility is that the individual served have a traumatic brain injury.  The law setting up this program then envisions a very broad mandate for P&A services, including:  information, referrals, and advice; individual and family advocacy; legal representation; and specific assistance in self-advocacy. Footnote Reference 16  Although individuals with a TBI have, historically, been eligible for P&A services through one or more grants, this dedicated source of advocacy services ensures that P&A services will be targeted to this often underserved population.
+
+Footnote 16: 42 U.S.C. § 300-53(b).
+
+C. Examples of Advocacy Services Under PATBI
+Many of the P&As have devoted significant resources during the start-up phase of this program to establishing relationships with the agencies and groups that focus on meeting the needs of individuals with TBI.  This includes relationships with state TBI associations, family support groups, and those working in the service delivery system.  P&As have used these new relationships to set up speaking engagements and other outreach strategies to make individuals with TBI and their families ware of this new P&A service.
+
+Since PATBI programs are not limited to any particular case issue, any of the issues described in the other sections of this article could be appropriate for PATBI services.  However, the focus of P&A services under this program will often be on issues involving the unique needs of individuals with TBI and the historical failure of service delivery systems to meet those needs.  For example, in the special education context for children or the vocational rehabilitation context for adults, service systems are often geared to serve the more traditional populations of individual with mental retardation or learning disabilities.  P&As may become involved to advocate for educational or vocational services more specifically tailored to meet the needs of the individual with TBI.
+
+P&As can be involved under PATBI with enforcement of rights under the ADA including the rights to reasonable accommodations in the higher education and employment contexts.  Many individuals with TBI can succeed in college studies or in employment if the right accommodations are made.  In some cases the P&A may act as a referral source so that an expert familiar with TBI-related interventions can work with a college or employer to set up reasonable accommodations to ensure greater success.  In other cases, the P&A may use negotiations or litigation to enforce the individual’s rights under the ADA.
+
+One area that many P&As are viewing as a potential focus for PATBI advocacy is the problem of improper institutionalization of individuals with TBI.  To address these needs, P&As may be available to ensure that states are meeting their community integration mandates, under the ADA, as spelled out in the U.S. Supreme Court’s Olmstead decision.  P&As may also be available, through the PATBI program, to enforce rights under the federal Fair Housing Act.
+
+VIII. Protection and Advocacy for Voting Access (PAVA)
+
+A. The Mandate and Legal Authority
+The PAVA program was established by the Help America Vote Act of 2002 (HAVA). Footnote Reference 17  The purpose of the PAVA program is “to ensure full participation in the electoral process for individuals with disabilities, including registering to vote, casting a vote and accessing polling places. Footnote Reference 18  Unlike the other six P&A programs and the CAP program, discussed in this article, the legislation authorizing PAVA specifically provides that “none of the funds [under PAVA] shall be used to initiate or otherwise participate in litigation related to election-related disability access.” Footnote Reference 19
+
+Footnote 17: 42 U.S.C. § 15461.
+Footnote 18: 42 U.S.C. § 15461(a).
+Footnote 19: 42 U.S.C. § 15462(a).
+
+B. Eligibility for PAVA Services
+The services of a PAVA program are available to any individual with a disability who seeks assistance with registering to vote, casting a vote, and/or accessing a polling place.  Although other parts of the HAVA legislation would appear to put a particular emphasis on ensuring the voting rights of individuals who are blind or visually impaired, the PAVA provisions do not limit the program’s services to a particular type of disability.
+
+C. Examples of P&A Work Under PAVA
+A survey of the early work of several P&As under this new grant program confirms that P&A agencies are implementing PAVA as they might an outreach and consumer education project as a component of one of their other P&A projects.  The P&As are typically coupling the outreach and education activity with something like a voting access hotline or technical assistance line where they can provide information to callers about how to register to vote and the steps one must take to ensure they will be able to vote if the individual will require disability-related accommodations to access a polling place.
+
+Based on a review of materials from several P&A, including materials available on their website, here are some of the common approaches that P&As are using to deliver services under PAVA:
+
+*Setting up extensive links on a P&A website (e.g., to county election offices, to organizations like the League of Women’s Voters)
+*Providing toll-free, statewide telephone hotlines to provide information about voting rights
+*Developing user-friendly materials that explain how to register to vote, including written and video materials in a variety of accessible formats
+*Providing training seminars to highlight voter registration and polling place access rights and issues
+*Providing information on how to learn about candidate positions on issues
+*Facilitating a dialogue between disability organization and the state/local voting officials to ensure that any decisions made by government concerning issues that voters with disabilities face adequately address their rights and concerns as part of the community
+*Assist the state and local governments in the design and implementation of sensitivity and technical training events for clerks and poll workers
+*Monitoring polling places and voting equipment to ensure accessibility
+
+Of the advocacy programs discussed in this article, including seven P&A programs and the CAP program, PAVA is the only program that offers no direct assistance to SSI or SSDI beneficiaries in overcoming barriers to work.  However, PAVA services are available to beneficiaries to ensure that they are able to exercise their right to vote.  Moreover, when polling places are made accessible to persons with disabilities, several side benefits often occur including the accessibility of other services within public and private buildings that house polling places.
+
+As we point out above, the P&A staff who work under the PAVA grants cannot engage in litigation to enforce any rights that individuals with disabilities may have to an accessible polling place.  However, P&As can still pursue litigation and other remedies, using other P&A program grants (such as PAIR, PADD, or PAAT) to enforce rights of individuals to register to vote and vote at an accessible polling place.
+
+IX. OTHER ADVOCACY PROGRAMS PROVIDING SERVICES TO INDIVIDUALS WITH DISABILITIES
+
+Every region of the country will have a range of other no-cost advocacy services that may be available to assist persons with disabilities.  These include the Legal Services or Legal Aid programs, Centers for Independent Living, and private attorney pro bono programs.  In some locations, law schools may have clinical programs providing free legal services to individuals with disabilities.
+
+The federal Legal Services Corporation (LSC) provides funding for Legal Services or Legal Aid organizations in every state throughout the country to ensure that free civil legal services are available to persons with low income in every region of each state. Footnote Reference 20  The services available through LSC-funded programs will vary, as each program is required to go through its own priority-setting process.  Typically, an LSC-funded program's priorities include such categories as: public benefits, including welfare, Medicaid and SSI/SSDI issues; landlord-tenant, including evictions, housing conditions and housing discrimination issues; and family law, including divorce, domestic violence, support and child custody issues.  SSI and SSDI beneficiaries being served by BPA&Os may face any one of those issues and benefit from a referral to a Legal Services or Legal Aid program.  Additionally, many LSC-funded programs will handle a range of disability-specific issues, such as enforcement of the ADA, enforcement of the Fair Housing Act, or any of the many other issues handled by the P&As.  In fact, in many areas of the country, the P&A and Legal Services programs regularly collaborate on disability-related cases.
+
+Footnote 20: See Legal Services Corporation Act, 42 U.S.C. §§ 2996 et seq.
+
+What about pro bono programs?  A pro bono project acts as a go-between, hooking up volunteer attorneys with clients who need assistance.  Often, pro bono projects are run through state and local bar associations or through well-known organizations, such as the American Civil Liberties Union.  More recently, stimulated through mandates in the LSC Act, all federally funded Legal Services programs are involved in some pro bono activities.  A BPA&O program should contact its local or regional LSC-funded program to find out what free, pro bono services may be available to beneficiaries.  In many regions of the country, pro bono attorneys may be a valuable referral source in selected cases.
+
+Centers for Independent Living (CILs) exist in every state.  Unlike P&A and LSC-funded programs, advocacy is just one component of the array of services offered to persons with disabilities.  Although some CILs have attorneys on staff, most will not.  Advocacy services provided through a CIL may include the following: information and referral; negotiation and mediation; and systems advocacy, which could include attempts to negotiate solutions that will help many individuals with disabilities.  Some CILs will also represent individuals in administrative appeals, such as appeals involving SSI or SSDI benefits.  Historically, much of the assistance provided to beneficiaries to help them work with SSI and SSDI work incentives has been done by CILs, and many CILs are now serving beneficiaries as BPA&O projects.
+
+Additional sources of free advocacy services may be unique to your state or locality.  The BPA&O must make every effort to identify any source of free advocacy services that may be available to meet the needs of beneficiaries.
+
+
+X. CONCLUSION
+
+This article has provided a summary of some of the more important P&A program services available to SSI and SSDI beneficiaries.  Keep in mind that this is only a summary and is focused on those services that would most likely have a bearing on the beneficiary's long-term success at employment.  P&As provide many other valuable services that have little or no bearing on employment outcomes, such as advocacy services on cases involving very young children and those involving adults who currently have no employment goals.
+
+Readers must also keep in mind that the newest P&A programs, PABSS, PATBI, and PAVA are still in their infancy.  For example, the specific focus of PABSS programs, within the contours of the four priorities described above is an evolving process.  In fact, BPA&O staff may wish to offer to meet with P&A staff to share their insights on how the PABSS might best serve the beneficiaries which each program will be mandated to serve.
+
+All of the advocacy programs described in this article will vary greatly as you move from state to state, and even from region to region within a state.  For that reason, it is incumbent on BPA&O staff and any other readers of this article to check with the individual P&A or other advocacy programs in your region to determine how they are available to serve beneficiaries.
+
+Dated: October 2004

@@ -1,0 +1,178 @@
+Cornell University    
+Rehabilitation Research and Training Center for Economic Research on Employment Policy for Persons with Disabilities
+
+State Estimates of Median Household Size-Adjusted Income forPersons with Disabilities: Report Summary
+
+By Andrew Houtenville, Ph.D.
+
+August 2001
+
+(A full copy of this report, entitled Economics of Disability Research Report #3: Estimates of Median Household Size-Adjusted Income for Persons with Disabilities in the United States by State, 1980 through 1998 prepared by Andrew Houtenville, Ph.D., is available from the Cornell University web site at: http://www.ilr.cornell.edu/ped/download.html?pub_id=655)
+
+Since 1980, the growth in the median household size-adjusted income of Americans with a disability has fallen below that of the rest of the working population overall and in the vast majority of states.  Knowledge of statespecific trends in the relative household income rate of people with disabilities compared to the rest of the working population can be of assistance to state and federal policy makes and disability advocates.  Such information can help track comparisons over time to assess the impact of policy and economic interventions to address such disparities.
+
+A recent report from the Cornell University Rehabilitation Research and Training Center (RRTC) for Economic Research on Employment Policy for Persons with Disabilities  uses data from the March Current Population Survey (CPS) to estimate median household size-adjusted income for persons with and without a disability in the non-institutionalized working-age (aged 25 through 61) civilian population in the United States, and for each state and the District of Columbia for the years 1980 through 1998.  The median household size-adjusted income of persons with a disability relative to those of persons without a disability are found to vary greatly across states. (The relative median household size-adjusted income is the median household size-adjused income of those with disabilities as a percentage of the median household size-adjused income of those without disabilities.  The larger this number is, the closer are the median household size-adjusted incomes of those with and without disabilities).
+
+The CPS is a monthly survey of the non-institutionalized population of the United States, conducted by the Bureau of the Census on behalf of the Bureau of Labor Statistics.  Information is collected from approximately 50,000 households (about 150,000 individuals) on labor force characteristics (e.g., employment, earnings, hours of work).  One person in the household answers questions for all household members. Disability is defined using a single question in the March CPS.  Persons with a disability are defined as those who report having (or are reported by the household's respondent as having) "a health problem or disability which prevents them from working or which limits the kind or amount of work they can do."  This definition puts disability in the social context of work.  This simple definition of disability is not directly linked to program participation.
+
+The Cornell University RRTC report provides median household size-adjusted income averages for persons with and without a disability over the period 1980 through 1998 for the United States and for each state and the District of Columbia.  States are ranked according to the relative average annual median household size-adjusted income of persons with a disability. As portrayed in Map 1, Utah had the highest relative average annual median household size-adjusted income of men with a disability (70.7 percent).  The District of Columbia had the lowest (37.5 percent).  As for women, North Dakota had the highest relative average annual median household size-adjusted income of women with a disability (76.1 percent).  The District of Columbia again had the lowest (39.3 percent).
+
+Figure 1:  Relative median household size-adjusted income of non-institutionalized civilian men with disabilities aged 25 through 61 for each stae and the District of Columbia over the period of income years 1980 through 1998.  
+
+AL 46.4
+AK 59.5
+AZ 65.2
+AR 52.8
+CA 51.4
+CO 54.7
+CT 64.8
+DE 56.5
+DC 37.5
+FL 56.5
+GA 46.9
+HI 56.1
+ID 67.7
+IL 52.2
+IN 55.8
+IA 60.3
+KS 59.2
+KY 45.1
+LA 44.4
+ME 56.1
+MD 54.2
+MA 52.2
+MI 49.4
+MN 63.9
+MS 52.5
+MO 47.9
+MT 63.3
+NE 58.4
+NV 69.4
+NH 63.6
+NJ 55.8
+NM 48.7
+NY 46.6
+NC 53.3
+ND 68.8
+OH 49.1
+OK 49.0
+OR 58.5
+PA 50.9
+RI 51.1
+SC 45.5
+SD 65.8
+TN 45.3
+TX 49.6
+UT 70.7
+VA 56.4
+VT 46.6
+WA 61.6
+WV 49.0
+WI 56.8
+WY 61.7
+US 50.1
+
+This report also compares changes in relative median household size-adjusted income of persons with and without a disability for the periods 1980-1989 and 1990-1998.  States are ranked according to the percentage change in the relative average median household size-adjusted income of those with a disability between the periods 1980-1989 and 1990-1998.  A positive percentage change in relative income signifies a closing of the income gap between those with and without a disability.  Conversely, a negative percentage change in relative income signifies a widening of the income gap between men with and without a disability.  As can be seen in Figure 2 (page 3), there was wide variation in outcomes, ranging from a rise of 14.8 percent in Montana to a fall of 33.5 percent in Kentucky. The percentage change in relative average annual median household size-adjusted income of women with a disability ranged from a rise of 21.1 percent in Mississippi to a fall of 37.7 percent in Rhode Island. For more details see the full report (Houtenville, 2001).
+
+Figure 2:  Percentage change in relative median household size-adjusted income from 1980-1989 to 1990-1998 of non-institutionalized civilian men with disabilities aged 25 through 61 for each state and the District of Columbia.
+
+AL 11.1
+AK 6.4
+AZ 12.8
+AR -7.9
+CA 0.3
+CO 1.6
+CT -30.0
+DE -0.4
+DC -11.6
+FL -8.8
+GA -6.0
+HI 9.8
+ID -6.6
+IL -16.1
+IN -0.7
+IA -1.1
+KS -21.6
+KY -33.5
+LA 6.6
+ME -3.1
+MD 12.3
+MA -17.2
+MI -26.6
+MN -0.6
+MS 11.2
+MO -1.2
+MT 14.8
+NE -6.2
+NV -12.0
+NH 7.8
+NJ 8.8
+NM 0.2
+NY 4.9
+NC 0.3
+ND -4.3
+OH -12.7
+OK 3.4
+OR 7.4
+PA 2.2
+RI -13.8
+SC -5.6
+SD -13.0
+TN -3.5
+TX 3.1
+UT 11.2
+VA -8.4
+VT -6.6
+WA 7.2
+WV -19.9
+WI 11.5
+WY -6.1
+US -3.7
+
+There are two other reports by Cornell University providing state specific data that might be of interest to state providers of rehabilitation employment services and disability advocacy organizations.  These reports provide estimates of the prevalence of disability, and employment rates for persons with disabilities in the United States by state from 1980 through 1998.  Copies of report summaries on this information or the full reports are available on-line from Cornell University under "publications" at http://www.ilr.cornell.edu/rrtc.  Questions about the reports or the analysis should be directed to Andrew Houtenville, Ph.D. RRTC Senior Research Associate, Cornell University: e-mail ajh29@cornell.edu or phone 607-255-5702.
+
+References
+
+Houtenville, Andrew.  (2001).  Economics of Disability Research Report #3: Estimates of Median Household Size-Adjusted Income for Persons with Disabilities in the United States by State, 1980 through 1998.  Ithaca, NY:  Cornell University, Rehabilitation Research and Training Center for Economic Research on Employment Policy for Persons with Disabilities.  
+
+Acknowledgement
+
+We would like to thank Andrew T. Chen, National Institute on Disability and Rehabilitation Research Scholar and Cornell University student, for assistance in the preparation of this report summary.
+
+For further information about the Cornell RRTC contact:
+tel (607) 255-7727
+fax (607) 255-2763
+TDD (607) 255-2891
+e-mail smb23@cornell.edu
+web www.ilr.cornell.edu/rrtc
+Susanne Bruyère, Ph.D.
+Project Director
+Cornell University
+106 ILR Extension Building
+Ithaca, NY 14853-3901
+
+This paper is being distributed by the Rehabilitation Research and Training Center
+for Economic Research on Employment Policy for Persons with Disabilities at Cornell
+University.
+
+This center is funded to Cornell University, in collaboration with The Lewin Group
+(Falls Church, VA), and the Urban Institute (Washington, D.C.) by the U.S. Department
+of Education, National Institute on Disability and Rehabilitation Research
+(Grant No. H133B980038).
+
+This research and training effort is an across college effort at Cornell University
+between the Program on Employment and Disability in the Extension Division of
+the School of Industrial and Labor Relations and the Department of Policy Analysis
+and Management in the College of Human Ecology. The Lewin Group is an internationally recognized research and consulting firm specializing in health and human
+services policy and management. The Urban Institute is a non-profit policy research
+organization which focuses on efforts to solve society's problems, improve government
+decisions and their implementation, and increase citizens' awareness about
+important public choices.
+
+The Co-Principal Investigators are:
+Susanne M. Bruyère-Director, Program on Employment and Disability,
+School of Industrial and Labor Relations, Extension Division, Cornell University
+Richard V. Burkhauser-Sarah Gibson Blanding Professor and Chair, Department of
+Policy Analysis and Management, College of Human Ecology, Cornell University
+David C. Stapleton-Director, Cornell Center for Policy Research, Cornell University
+

@@ -1,0 +1,164 @@
+The Benefits Planner
+Keys to Effective Benefits Planning, Assistance and Outreach
+
+Fall 2001
+Vol. 1, Issue 3
+
+This publication is sponsored in part by the NYS Developmental Disabilities Planning Council and the Social Security Administration through the NYS Department of Labor (NY Works Project), and is a collaborative publication of Cornell University's Program on Employment and Disability and Neighborhood Legal Services, Inc. (NLS) of Buffalo, NY.  The editors and primary authors are James R. Sheldon, Jr. of NLS and Edwin J. Lopez-Soto of the Greater Upstate Law Project, Rochester, NY.
+
+INSIDE THIS ISSUE:
+MEDICAID ELIGIBILITY FOR PERSONS WITH DISABILITIES
+How Does an Individual Become Eligible?
+When Can an Individual Keep Medicaid While Working?
+? INTRODUCTION
+? WHAT IS MEDICAID?	
+? SERVICES COVERED BY MEDICAID	
+? BASIC ELIGIBILITY CONCEPTS
+? OBTAINING OR 	RETAINING SSI TO KEEP MEDICAID	
+? FOUR SPECIAL RULES ALLOW FORMER SSI  BENEFICIARIES TO  CONTINUE GETTING MEDICAID	
+? THE MEDICALLY NEEDY	OR SPEND DOWN  PROGRAM	
+? CONCLUSION
+SPECIAL FEATURES:
+? SSI AND SSDI CHANGES FOR 2002	
+? NEW YORK'S MEDICAID BUY-IN STILL PENDING IN LEGISLATURE	
+? SSA'S POLICY MANUAL AVAILABLE ON LINE	
+
+
+*******
+
+MEDICAID ELIGIBILITY FOR PERSONS WITH DISABILITIES
+How Does an Individual Become Eligible?
+When Can an Individual Keep Medicaid While Working?
+
+
+INTRODUCTION
+
+
+	Individuals with disabilities who work face many challenges.  One challenge is the need to secure health insurance.  Without some form of insurance to pay for expensive items like home health care, some Supplemental Security Income (SSI) or Social Security Disability Insurance (SSDI) beneficiaries cannot even think of working.
+	SSI and SSDI beneficiaries typically rely on Medicaid as their primary form of health insurance.  Medicaid is, for many, so important that any fear of losing it may be enough to keep them from working.
+	When a beneficiary works, his or her wages will often be enough to replace cash benefits that may be lost.  However, a paycheck may not be enough to cover medical expenses if Medicaid is lost.  For individuals who face hundreds and, in some cases, thousands of dollars in monthly medical expenses, work is only realistic if they can retain Medicaid.  Employer-funded health insurance may not be the answer, either because it is not available or because it does not cover the needed services.
+	This article will explain what Medicaid is and what it covers.  It will explain that New York residents who receive SSI automatically qualify for Medicaid.  It will discuss four ways former beneficiaries can retain Medicaid after losing SSI, including an explanation of the 1619(b) program for former SSI beneficiaries who can keep Medicaid while working.  We will also explain how individuals with disabilities who are not eligible for SSI can obtain Medicaid through the state's medically needy program.  We will explain the spend down program for individuals with income that is higher than Medicaid's eligibility threshold and the deductions that are allowed to reduce countable income, thereby reducing the spend down.  In particular, we will discuss deductions that amount to special work incentives.
+	Since Medicaid is very complex, there are many Medicaid issues we cannot cover in this article.  These include the eligibility of legal aliens, managed care issues, many of the budgeting rules that vary depending on who is in the household, Medicaid waivers, and the fair hearing process that is available to appeal Medicaid decisions.
+WHAT IS MEDICAID?
+	Medicaid, also known as Medical Assistance, is a publicly funded health insurance program. The federal, state and local governments share Medicaid costs. It is administered at the federal level by the U.S. Department of Health and Human Services and at the state level by the State Department of Health. At the local level, the county Departments of Social Services (DSS) administer Medicaid, except in New York City where it is run by the Human Resources Administration (HRA).
+	Medicaid should be distinguished from Medicare.  Medicare is a federal health insurance program and is most frequently associated with receipt of Social Security benefits.  An SSDI beneficiary qualifies for Medicare after 24 months of SSDI eligibility.  Medicare Part A, hospital insurance, will be automatic and cost free.  Part B will be optional and subject to a premium (i.e., $50 in 2001, $54 in 2002).  Medicaid can pay the Part B premiums for many individuals who receive both Medicaid and Medicare.  Since Medicare has very limited coverage of community-based care, it is not as important as Medicaid to persons with disabilities.
+SERVICES COVERED BY MEDICAID
+	Under federal law, a state Medicaid program must provide 14 categories of "required services" and may provide up to 29 categories of "optional services."  New York's program offers all required and optional services.
+	The more important Medicaid services tend to be those that are most expensive and often not covered by employer-funded insurance plans.  These include:
+? Inpatient and outpatient hospital care
+? Physician's services
+? Mental health counseling
+? Skilled nursing facility and intermediate care facility services
+? Home health care, including personal care services and private duty nursing
+? Physical therapy, occupational therapy, speech and language therapy
+? Prescription drugs
+? Durable medical equipment
+? Transportation to medical providers
+    
+	In addition to the services available to all Medicaid beneficiaries in the state, New York provides additional services to special populations under Medicaid Waiver programs.  For example, one waiver program for persons with developmental disabilities will fund certain vocational services, including job coaching.
+BASIC ELIGIBILITY CONCEPTS
+SSI and Welfare Recipients Qualify for Medicaid Automatically
+	In New York, recipients of SSI and welfare benefits, including Temporary Assistance to Needy Families (TANF) and Safety Net benefits qualify for Medicaid automatically.  TANF or Safety Net applicants must indicate on their applications that they are applying for both cash benefits and Medicaid.  As explained below, some former SSI recipients will also qualify for automatic Medicaid. 
+All Others Must Submit an Application
+	Persons who do not receive SSI or welfare benefits, including SSDI beneficiaries, must apply for Medicaid through the local DSS or HRA. Persons with disabilities must satisfy both the categorical (i.e., disability) and financial eligibility requirements.
+OBTAINING OR RETAINING SSI TO KEEP MEDICAID
+	Since New Yorkers are eligible for Medicaid if they receive as little as $1 of monthly SSI benefits, the ability to obtain or retain SSI is critical.
+Working With SSI's Income Rules
+	If a child is under 18, the SSI program will consider and count (i.e., deem) the parent(s)' available income and resources if the parent(s) reside in the child's household.  At age 18, the parents' income and resources are no longer deemed.  Thus, an 18 year old with a severe disability will be financially eligible for SSI unless that child has income that would make him or her ineligible.  Given the importance of cash income and Medicaid to the young adult who may be moving on to college or vocational training programs, the ability to access SSI and Medicaid at age 18 is very important.
+	Prior to age 18, a few dollars less in parental income can mean thousands of dollars in health care coverage for the child through SSI-based Medicaid.  For example, based on 2001 eligibility criteria, a single parent with two children, one of whom has a disability, can retain SSI (and automatic Medicaid) for the disabled child so long as the parent's monthly gross wages are less than $2,257.  To keep wages below that figure, a parent could negotiate with an employer for extra health benefits in lieu of wages.  The individual could also enroll in a flexible spending account or cafeteria plan (if offered by the employer) and set aside pre-tax dollars to cover approved items such as child care, parking, health/dental premiums,  or medical expenses not covered by health insurance.  The income deducted to cover those costs would then not count toward their earned income for state and federal tax purposes or for SSI purposes.
+
+Ensuring Medicaid Eligibility Through
+Payment at the Highest SSI Living Arrangement Rate
+	Most SSI payments, in New York,  are based on three rates.  For 2001, those rates are living alone, $618; living with others, $554; and living in the household of another, $377.  The monthly check is determined by subtracting countable income from the SSI rate.  Those facing the lowest rate can avoid it by either paying their fare share of household expenses, or by working out a business relationship to pay rent under a roomer/lodger agreement.  This could mean the difference between getting SSI (and Medicaid) or no SSI at all.
+Working With SSI's Resource Rules
+	An SSI beneficiary is allowed no more than $2,000 in non-exempt assets.  If a beneficiary obtains or saves money in excess of $2,000, he or she will lose SSI and the right to automatic Medicaid.  
+	Individuals can use extra assets to purchase "exempt resources."  Some examples of exempt resources include: a residential home regardless of value; an automobile up to $4,500 of its current market value, or its total value if it is necessary for employment of someone in the household, for travel to medical appointments, or is specially modified for a person with a disability.  NOTE: For NY Works participants, in New York City and Erie County (see The Benefits Planner, Spring 2001), the Social Security Administration (SSA) has approved SSI waivers establishing an exempt "Independence Account."  A NY Works participant may save up to $8,000 per year out of earned income in an exempt account and later withdraw money, without penalty, for any purpose.
+Working With SSI's PASS
+	This work incentive operates to exclude income or resources that would otherwise count in eligibility determinations.  So long as the applicant or recipient will use the excluded money toward a vocational goal, and the proposed PASS is approved by SSA, the excluded money will no longer count as income or a resource.  A future issue of The Benefits Planner will discuss the PASS in great detail.
+	A PASS may be used by a current recipient to retain SSI or to obtain a higher payment.  An individual who does not currently receive SSI can use a PASS to become eligible for SSI.  For example, an individual who receives SSDI only can use the PASS to set aside the SSDI money for vocational purposes and thereby become eligible for SSI.
+	Consider Mary, who is mentally ill and receives a $745 SSDI check.  Mary earns too much to qualify for SSI and she must pay (or incur) a $100 spend down to obtain Medicaid to pay for counseling services and medication.  Mary proposes a PASS to set aside $725 of her SSDI to save for a good used car that will allow her to travel to a community college (and later to work) from her rural community.  If SSA approves the PASS, the $725 will be excluded by the SSI program along with a $20 exclusion that always applies.  This means she will now be eligible for a full SSI check ($618 per month if she lives alone in 2001) and automatic Medicaid with no spend down.  In 10 months, Mary could save $7,250 toward the car.  In the mean time, she will have $638 to meet her monthly expenses, or about $7 less than when she was paying the Medicaid spend down.
+
+FOUR SPECIAL RULES ALLOW FORMER
+SSI BENEFICIARIES TO CONTINUE GETTING MEDICAID
+
+Social Security Widow's/Widower's Beneficiaries
+	A person who loses SSI when they become entitled to Social Security widow's or widower's disability benefits will retain automatic Medicaid if SSI eligibility would continue in the absence of the Social Security benefits. Eligibility continues only for so long as the person remains ineligible for Medicare -- a period of 24 months following eligibility for Social Security.  42 U.S.C. § 1383c(d).
+Social Security Disabled Adult Child's Beneficiaries 
+	Benficiaries of Social Security Child's Insurance Benefits, often referred to as Disabled Adult Child's (DAC) benefits, can continue automatic Medicaid eligibility if they lost SSI due to entitlement to or an increase in DAC benefits.   If the person would still be eligible for SSI if the DAC benefits or increase were ignored, he or she is eligible for continued Medicaid.  42 U.S.C. § 1383c(c); 95 Administrative Directive (ADM) 11; 92 Local Commissioner's Memorandum (LCM) 41; 95 LCM 28. 
+	Consider James, an adult with mental retardation, who receives $554 in monthly SSI.  His father dies and James becomes eligible for $745 in Social Security DAC benefits.  James will lose SSI because his DAC income is too high.  Since he loses SSI, ordinarily he would now have to apply separately for Medicaid and pay a $100 per month spend down to retain Medicaid. Under these facts, however, James is eligible for continued Medicaid without a spend down. 
+	This provision was the subject of a statewide, class action lawsuit. McMahon v. Dowling, filed in 1991, challenged the failure of the State Department of Social Services (the agency which administered Medicaid in 1991) and SSA to properly implement this provision. The McMahon settlement gave thousands of New Yorkers the right to be put back on Medicaid and, in many cases, receive reimbursement for out-of-pocket expenses (including spend downs paid to retain Medicaid).
+
+The Pickle Amendment
+	This protects persons who lost SSI because of cost of living increases in Social Security benefits since April 1977.  Automatic Medicaid eligibility continues if the person would be eligible for SSI under present eligibility standards if Social Security cost of living expenses since April 1977 are disregarded.  42 U.S.C. § 1396a(note); 42 C.F.R. § 435.135.  Here is how this could work.  Jerry is approved for SSI and SSDI in 1988.  He receives SSI until 2001, when the SSDI cost of living increase results in Jerry losing SSI.  If Jerry would still be eligible for SSI if all SSDI increases since 1988 are ignored, he will remain eligible for automatic Medicaid.
+Section 1619(b) Medicaid
+	If an SSI beneficiary works, the first $65 of wages each month is not counted (or $85 if there is no unearned income). The SSI check is then reduced by $1 for every additional $2 of gross monthly wages. For a person who lives alone, SSI eligibility will cease if they earn $1,321 or more per month in 2001.  This is because countable income, at this rate of pay, would be equal to the SSI living alone rate of $618 per month.
+	Section 1619(b) allows automatic Medicaid to continue if a person loses SSI due to wages. If the person is still disabled and would be eligible for SSI if the wages were not counted, Medicaid should continue. In New York, the 2001 income limit is $32,261 in wages per year. (Stay tuned to this newsletter for the 2002 income limits.)  The income limit can be higher if medical expenses are high enough.
+	Two examples show how section 1619(b) could work.  Cynthia suffered a back injury on the job.  She resides with her two young children and receives $520 in SSDI benefits and $54 in SSI benefits.  What if she goes to work part time and earns $365 per month in gross wages?  She will lose SSI benefits.  This is because $500 of her SSDI and $150 of her wages will be counted against the living with others SSI rate of $554.  Under these facts, Cynthia should be able to continue Medicaid through 1619(b).  This is because she lost her SSI due to wages.
+	What if Cynthia's earnings increase to $885 per month?  She would probably lose her SSDI if she has already exhausted her trial work period (see the Summer 2001 issue of The Benefits Planner).  If she loses her SSDI, the 1619(b) rules will allow her to once again qualify for SSI benefits of $154 per month, based on SSI's formula for counting earned income ($885 - 20 - 65 = 800 ÷ 2 = $400; $554 - 400 = $154 SSI payment).  Until she loses her SSDI benefits, she will continue to be ineligible for SSI, but will be eligible for 1619(b) Medicaid.
+	William, an SSI beneficiary who is spinal cord injured, goes to work and earns $36,000 per year.  He loses SSI benefits and his annual wages are more than the 1619(b) income threshold of $32,261.  He can keep Medicaid under 1619(b) if his Medicaid costs are high enough.  If we assume Medicaid would pay $25,000 per year for medical expenses (most of this would be for home health care), that amount would be added to a "base amount" of $15,852 and William's "individualized" 1619(b) threshold for 2001 would be $40,852.  Since his $36,000 salary is below that figure, William remains eligible for Medicaid.
+	To remain 1619(b) eligible, the individual's resources must stay within SSI limits.  This means an individual's non-exempt assets cannot exceed $2,000.  This would limit the person's ability to save for a house, for a car, for a child's education, or for retirement.
+	Unearned income must also be within SSI limits to retain 1619(b) eligibility.  If either Cheryl or William, in the examples above, were to get married, they could cease to be eligible for 1619(b) Medicaid if the spouse's income is high enough.  This is because the income of a spouse, which is deemed available to the other spouse, is considered the unearned income of that other spouse.  For example, based on 2001 SSI rates, Cheryl or William would cease to be eligible for 1619(b) Medicaid if the spouse's gross earned income is $1,769 per month or higher.
+THE MEDICALLY NEEDY OR SPEND DOWN PROGRAM
+	If a person is not eligible for SSI or welfare benefits (or eligible for continued Medicaid as a former SSI recipient under one of the special rules discussed above), he or she must apply separately for Medicaid. A single individual with a disability will be eligible, under 2001 rules, if countable income is no more than $625 per month and resources no more than $3,750. If income is more than $625 they will qualify only with a spend down. If countable resources are above $3,750 they will not qualify for Medicaid. 
+Income Disregards for Persons Who are Working 
+	Medicaid's rules for disregarding income are nearly identical to SSI's rules. The first $20 of unearned income is disregarded. The following amounts are disregarded from earned income: the first $65 (or $85 if there is no unearned income); impairment related work expenses; one half of remaining earned income; blind work expenses, for persons who are legally blind; up to $1,200 per calendar quarter, but not more than $1,620 per year for a full-time student under age 22 (since these rules should parallel SSI's rules, the higher SSI exclusions for student earned income, for 2001 and 2002 should apply; see article immediately following this one); and any income set aside in a Plan for Achieving Self Support (PASS). [For a listing of all income disregards, see 18 N.Y.C.R.R. § 360-4.6(a).]
+	Consider June, who is deaf and receives $695 in SSDI benefits.  She earns too much to qualify for SSI.  After a $20 deduction, it is also $50 more than the $625 income limit for Medicaid, meaning June will have a $50 per month Medicaid spend down.  June goes to work and earns $465 gross per month.  The Medicaid program will disregard the first $65 which June earns and disregard an additional 50 percent, leaving her with $200 in countable wages ($465 - 65 = 400 ÷ 2 = $200).  Her countable income is now $875 per month ($675 unearned + $200 earned), making her spend down $250 per month.  Thus, as her income went up by $465, her spend down increased by $200.  June's countable income could be reduced further if she were to put all or part of this $250 into an approved PASS (see immediately below).
+Medicaid's Plan for Achieving Self Support 
+	The PASS is best known as an SSI work incentive. It allows a person to take income or resources that would be counted by SSI and exclude the money by using it to help the person achieve a vocational goal. SSI's PASS has, for example, been used to take SSDI benefits or wages and use the money for items like tuition, computer equipment, or a vehicle. When the PASS is approved, the person qualifies for SSI without counting the excluded income. [See J. Sheldon & E. Lopez-Soto, PASS: SSI's Plan for Achieving Self Support, 30 Clearinghouse Rev. 1101 (March-April 1997), available on the Neighborhood Legal Services website at www.nls.org/pass-art.htm.]
+	A PASS can also be used to exclude income or resources that would be counted by Medicaid.  18 N.Y.C.R.R. § 360-4.6 (a) (2) (xxiii).  For example, consider Mary who is spinal cord injured. She receives $995 in SSDI benefits each month. After the first $20 of her SSDI is excluded, Mary's monthly income is $350 above the one-person Medicaid limit of $625. 
+	Mary proposes to set aside $250 per month ($3,000 per year) in a PASS to save toward the purchase of a modified van and a laptop computer to pursue a career in accounting. If approved by Medicaid, Mary's countable income is reduced from $975 to $725 and her spend down is reduced from $350 to $100 per month. If Mary sets aside $350 in an approved PASS her spend down will be eliminated. Mary can also reduce her countable resources below the $3,750 limit by designating part of her savings toward PASS expenses. 
+	A PASS can fund a wide range of items, including child care, equipment or supplies to start a business (including a business operated from the home), and modifications to vehicles or buildings to allow use by a the person with a disability. So long as the cost is connected to the long-term vocational goal, it should be allowed under Medicaid's PASS. 
+Medical Expenses Paid or Incurred by State or Local Government Programs 
+	Medical expenses incurred or paid by a program of the state, county or city must be counted as medical expenses under the spend down provisions. 42 U.S.C. § 1396a(a)(17)(D); 18 N.Y.C.R.R. § 360-4.8(c)(1); 91 ADM 11.  Examples of such programs are: the Physically Handicapped Children's Program, programs administered by the Offices of Mental Health or Mental Retardation and Developmental Disabilities, the Aids Drug Assistance Program, and the Child Health Insurance Program. Medical expenses paid by public schools, counties or municipalities on behalf of children with disabilities are specifically mentioned in 91 ADM 11 as qualifying under this provision.
+	How might this provision work?  Consider the case of Kevin, age 18, who has cerebral palsy and receives $845 in Social Security DAC benefits.  He is not eligible for SSI and is eligible for Medicaid with an $200 per month spend down. Kevin receives physical therapy and occupational therapy at his public school as special education services, at a cost of $175 per month to the school.  These $175 in school-based medical expenses will reduce the spend down to $25 per month.  This means that for $25 per month, Kevin's parents can obtain Medicaid coverage for him.  This will now provide a payment source for a power wheelchair, prescription drugs, doctor visits, home health care, and a range of other services.
+CONCLUSION
+	For SSI and SSDI beneficiaries, work may only be realistic if they can find a way to keep Medicaid.  Many can keep Medicaid through the 1619(b) program, while others may need to use some of the special spend down rules under New York's medically needy program.  Still others may find work unrealistic until New York has a Medicaid buy-in program available.
+	If you have questions about the topics covered in this newsletter, or if you have any questions about the impact of work on SSI, SSDI, Medicaid or Medicare, call our toll-free technical assistance line at 1-888-224-3272.
+*******
+SSI AND SSDI CHANGES FOR 2002
+	SSI's 2002 federal benefit rates will increase by 2.6 percent over 2001 rates (e.g., from $531 to $545 for an individual).  SSDI benefits will go up by 2.6 percent as well.  Since New York's SSI supplements (e.g., $87 for living alone) have not increased, the increases shown below, for New York's SSI rates, will be slightly less than 2.6 percent.
+	Living Alone	Living with Others	Living in Household of Another	Couple
+2001	    $618	$554			$377				$900
+2002	    $632	$568			$386.34			    	$921
+	SSI's student earned income exclusion, $1,290 per month and $5,200 per year in 2001, will go up to $1,320 per month and $5,340 per year in 2002.  This exclusion applies only to certain high school and college students under age 22.
+	The substantial gainful activity (SGA) amount, now tied to increases in the National Wage Index (NWI), will increase from the 2001 rate of $740 per month to $780 for 2002.  It will increase from $1,240 to $1,300 per month for persons who are legally blind.  The amount required for a trial work month, also tied to the NWI, will increase from $530 to $560.
+See www.ssa.gov/pressoffice/colafacts2001.htm for these and other changes.
+
+*******
+
+NEW YORK'S MEDICAID BUY-IN STILLPENDING IN LEGISLATURE
+
+	Many persons with disabilities will not qualify for 1619(b) Medicaid when they earn significant wages.  This is usually because they never received SSI.  If such an individual goes to work, performs substantial gainful activity and loses SSDI, he or she may also lose the right to a spend down because they no longer meet the federal definition of disability.  Medicaid eligibility will no longer be a possibility which means, for many with high-cost medical needs, that work will not be a possibility.
+	The Medicaid Buy-In is an optional program, available through the Ticket to Work and Work Incentives Improvement Act of 1999.  More than 10 states, but not New York, have enacted a buy-in and many other states have buy-in proposals pending.  New York's buy-in proposal, the Work and Wellness Act, has bipartisan support with the ongoing debate centered around how it would be structured.  The general principle behind this initiative is to provide cost-free Medicaid up to a certain income level to working individuals with disabilities who would ordinarily lose Medicaid when they earned more than a certain amount.
+
+*******
+
+SSA'S POLICY MANUAL AVAILABLE ON LINE
+
+	The Program Operations Manual Systems (POMS) is available on SSA's website.  To access it, go to: www.ssa.gov/representation.  Select "POMS" from the menu and proceed from there.  For example,  to locate the policy for section 1619(b) Medicaid, click on "Table of Contents," go to "SI," then go to "023 - Post Eligibility Events."  From there, select "02302" which references section 1619 and brings up a menu of the topics covered.
+	An alternative method for finding this policy would be through a word search.  For example, after you select "POMS" and "Table of Contents," you have the option to select "Search."  When you do so and type in "1619," the search site will list the documents found.  The fourth on the list will take you to a relevant section of the POMS (i.e., SI 02302.015) and you can then easily navigate within SI 02302 by using the "next document" or "previous document" functions.
+
+*******
+
+In Our Upcoming Issues ...
+?	SSI and SSDI Overpayments
+?	The Ticket to Work and Self-Sufficiency Program
+
+*******
+
+The NY State Work Incentives Support Center will provide statewide services, including: training through traditional means and through use of the latest technology for distance learning; a toll-free technical assistance line, 1-888-224-3272; and a quarterly newsletter, The Benefits Planner.  To subscribe to the Center's listserv, send your name and email address to tpg3@cornell.edu.  To request a print copy of this newsletter, contact the toll-free number above.
+
+*******
+
+If you have special needs and would like The Benefits Planner sent in a special format, would like our Spanish version or would like the newsletter delivered by email, please call our toll-free technical assistance line, 1-888-224-3272.
+
+*******
+
+Welcome to The Benefits Planner, a Quarterly Newsletter of  The NY State Work Incentives Support Center
+This newsletter will provide valuable information on how work for persons with disabilities affects government benefits, with an emphasis on the Supplemental Security Income (SSI) and Social Security Disability Insurance (SSDI) work incentives.  Each newsletter will contribute to an ongoing dialogue on topics related to benefits and work.  Back issues will appear on the Cornell University website, www.ilr.cornell.edu/ped and on the Social Security section of the Neighborhood Legal Services website, www.nls.org.
+
+NEIGHBORHOOD LEGAL SERVICES, INC.
+295 Main Street, Room 495
+Buffalo, NY 14203
+
+

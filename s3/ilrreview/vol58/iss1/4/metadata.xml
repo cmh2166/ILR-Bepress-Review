@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Do Formal Salary Systems Really Matter?</title>
+<publication-date>2004-10-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<institution>University of Chicago</institution>
+<lname>Gibbs</lname>
+<fname>Michael</fname>
+</author>
+<author>
+<institution>University of Illinois, Champaign-Urbana</institution>
+<lname>Hendricks</lname>
+<fname>Wallace</fname>
+</author>
+</authors>
+<keywords>
+<keyword>salary systems</keyword>
+<keyword>formal salary systems</keyword>
+<keyword>internal labor markets</keyword>
+<keyword>salary levels</keyword>
+<keyword>salary ranges</keyword>
+<keyword>raises</keyword>
+<keyword>bonuses</keyword>
+<keyword>performance ratings</keyword>
+<keyword>turnover</keyword>
+</keywords>
+<abstract>&lt;p&gt;Drawing on a single large U.S. corporation’s personnel records for the years 1989-93, the authors analyze an example of the kind of formal salary system used by most large firms. They find that this firm’s practices were consistent with most of the important conclusions of prior empirical research on internal labor markets. The system was highly centralized, covering salary levels, salary ranges, raises, and bonuses. Supervisors had little discretion over pay other than through subjective performance ratings. The firm held fairly strictly to the salary rules, leading to observable constraints on pay for employees near the top of the salary range. These constraints, however, apparently did not impose important costs on the firm in the form of increased turnover. Although the system operated without any apparent connection to external factors, the authors conclude that it transmitted external labor market forces with little distortion.&lt;/p&gt;</abstract>
+<coverpage-url>http://digitalcommons.ilr.cornell.edu/ilrreview/vol58/iss1/4</coverpage-url>
+<fulltext-url>http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1118&amp;amp;context=ilrreview&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1118</articleid>
+<submission-date>2005-07-13T09:37:40-07:00</submission-date>
+<publication-title>ILR Review</publication-title>
+<context-key>83190</context-key>
+<submission-path>ilrreview/vol58/iss1/4</submission-path>
+<fields>
+<field name="acknowledgements" type="string">
+<value>The authors thank the company that provided the data for this study, and its HR employees (who must remain nameless).  Mary Taber provided excellent research assistance.  For comments on various drafts, the authors also thank Raj Aggerwal, Daniel Bernhardt, Charles Brown, Thomas Dohmen, Tor Eriksson, Kevin Hallock, Ming-Jen Lin, Bentley MacLeod, Lalith Munasinghe, Walter Oi, Craig Olson, Paul Oyer, Canice Prendergast, Bruce Rayton, and Aloysius Siow; participants at meetings of the Wharton/Sloan HR Network, the Econometric Society, and the Society of Labor Economists; and workshop participants at Binghamton, Illinois, Michigan, RAND, and USC.  Funding was provided by the University of Chicago Graduate School of Business, and the Institute of Labor &amp; Industrial Relations at the University of Illinois.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-10-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

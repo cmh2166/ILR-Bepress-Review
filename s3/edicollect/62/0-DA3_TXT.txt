@@ -1,0 +1,2034 @@
+Disability Employment Policies and Practices in U. S. Federal Government Agencies
+
+November, 1999 
+
+Sponsored by 
+The Presidential Task Force on 
+Employment of Adults with Disabilities 
+Washington, D. C. 
+
+Research conducted by 
+Cornell University 
+Program on Employment and Disability 
+School of Industrial and Labor Relations 
+Extension Division 
+Ithaca, New York 
+
+
+©1999 Cornell University 
+
+Citations of this publication should be made as follows: Bruyère, S., & Horne, R. (1999). Disability Employment Policies and Practices in U. S. Federal Government Agencies. Report by the Presidential Task Force on Employment of Adults with Disabilities. Ithaca, NY: Cornell University, School of Industrial and Labor Relations’ Extension Division, Program on Employment and Disability. 
+
+Research was funded by the Presidential Task Force on Employment of Adults with Disabilities and conducted by Cornell University, Program on Employment and Disability, School of Industrial and Labor Relations’ Extension Division, Ithaca, NY. 
+
+The authors would like to acknowledge the significant contribution to this publication of Sara VanLooy, research assistant in the Program on Employment and Disability at Cornell University.
+
+Graphic Design: Julie Manners 2 
+
+
+Disability Employment Policies and Practices in  U. S. Federal Government Agencies 3 
+
+Table of Contents:
+
+Acknowledgment 
+Background 
+Organization of the Report 
+Methodology 
+Survey Respondents 
+Findings at a Glance 
+Survey Results 
+Agencies Report on Accommodation Policies and Practices for Employees 
+Processing, Tracking, and Reporting Systems for Accommodations 
+Agencies Report on Accommodations for Applicants 
+Familiarity with Civil Rights Considerations 
+Barriers to Employment for People with Disabilities and Ways to Overcome Them 
+Agency Experience of Disability Discrimination Claims 
+Labor Unions Often Involved in the Accommodation Process 
+Interaction with Other Employment Laws 
+Training Provided on Civil Rights-Related Topics 
+Resources Used to Resolve Disability  Discrimination and Accommodation Issues 
+Print and Media Resources Used to Address 
+Disability Discrimination and Accommodation Issues 
+Disability Management Programs and Disability Nondiscrimination and Accommodation 
+Comparison with Non-Federal Sector 
+Summary and Implications 
+Next Steps for the Presidential Task Force 
+Appendix A: Executive Order 
+Appendix B: Survey 
+Appendix C: Respondent Demographics 
+Appendix D: List of Participating Agencies 
+Appendix E: Additional Resources 
+
+Acknowledgment 
+The survey results contained in this report were made possible by funding and the leadership of the Presidential Task Force on Employment of Adults with Disabilities. The following agencies cooperated in this study and demonstrated outstanding support by providing us with a 97 percent response rate: 
+
+Administrative Office of the U. S. Courts, Agency for International Development, Agriculture, Air Force, Arms Control and Disarmament Agency, Army, Central Intelligence Agency, Commerce, Commission on Civil Rights, Commodity Futures Trading Commission, Congressional Budget Office, Consumer Product Safety Commission, Corporation for National Service, Defense, Defense Contract Audit Agency, Defense Information Systems Agency, Defense Intelligence Agency, Defense Logistics Agency, Defense Nuclear Facilities Board, Defense Security Service, Defense Threat Reduction Agency, Education, Energy, Environmental Protection Agency, Equal Employment Opportunity Commission, Executive Office of the President, Export-Import Bank of the United States, Farm Credit Administration, Federal Communications Commission, Federal Deposit Insurance Corporation, Federal Election Commission, Federal Emergency Management Agency, Federal Energy Regulatory Commission, Federal Housing Finance Board, Federal Labor Relations Authority, Federal Mediation and Conciliation Service, Federal Reserve System, Federal Retirement Thrift Investment Board, Federal Trade Commission, Federal Maritime Commission, General Services Administration, Health and Human Services, Housing and Urban Development, Interior, International Trade Commission, Justice, Labor, Library of Congress, Merit Systems Protection Board, National Aeronautics and Space Administration, National Archives and Records Administration, National Endowment for the Arts, National Endowment for the Humanities, National Gallery of Art, National Guard Bureau, National Imagery and Mapping Agency, National Labor Relations Board, National Mediation Board, National Science Foundation, National Transportation Safety Board, Navy, Nuclear Regulatory Commission, Occupational Safety and Health Review Commission, Office of Government Ethics, Office of Personnel Management, Office of Special Counsel, Overseas Private Investment Corporation, Peace Corps, Pension Benefit Guaranty Corporation, Postal Rate Commission, Railroad Retirement Board, Securities and Exchange Commission, Selective Service System, Small Business Ad-ministration, Smithsonian Institution, Social Security Administration, Soldiers and Airmen's Home, State, Tax Court of the United States, Tennessee Valley Authority, The Architect of the Capitol, Transportation, Treasury, U. S. General Accounting Office, U. S. Information Agency, Veterans Affairs, and Voice of America. 
+
+Background 
+
+The Presidential Task Force on Employment of Adults with Disabilities was created by Executive Order 13078 on March 13, 1998 to create a coordinated and aggressive national policy to increase the employment rate of persons with disabilities. A copy of the Executive Order is provided in Appendix A. 
+
+This research is a part of the efforts of the Presidential Task Force to meet the Section 2( g) mandate of the Executive Order. This mandate states that "[ a] ll executive agencies that are not members of the Task Force shall: (a) coordinate and cooperate with the Task Force; and (b) review their programs and policies to ensure that they are being conducted and delivered in a manner that facilitates and promotes the employment of adults with disabilities." One step in this endeavor is an analysis of the efforts of Federal agencies in recruiting and retaining persons with disabilities in Federal employment. A survey of U. S. Federal agencies, titled Survey of the Federal Government on Human Resources/ EEO Policies and Practices in Employment of People with Disabilities was initiated by the Presidential Task Force in June, 1999. This research identifies how Federal agencies are responding to the employment disability nondiscrimination requirements of the Americans with Disabilities Act of 1990 (ADA) and the Rehabilitation Act of 1973, as amended. 
+
+This report identifies areas in which progress has been made. It also identifies areas which warrant further investigation and follow-up in order to increase opportunities and eliminate barriers to the employment, retention, and career advancement of people with disabilities in the Federal workforce. The information contained in this report will be broadly disseminated to Task Force members and Committees, as well as Federal departments and agencies for further action. Of particular importance, this report will be used by the Task Force's Committee on the Federal Government as a Model Employer in its ongoing work. In addition, the U. S. Office of Personnel Management will consider the implications of this report in implementing its recently released Accessing Opportunity: The Plan for Employment of People with Disabilities in the Federal Government. (Endnote 1) This plan serves as a framework for Federal departments and agencies to use as they create strategies and initiatives to recruit, hire, develop, and retain more people with disabilities. 
+
+This U. S. Federal agency survey research effort was under the direction of the Presidential Task Force, conducted by the Program on Employment and Disability with the assistance of the Computer Assisted Survey Team (CAST), both located in the School of Industrial and Labor Relations at Cornell University. Cornell University, founded in 1868, is one of the Ivy League institutions in the Northeastern United States, and is based upon a unique integration of publicly and privately funded colleges. The Cornell University School of Industrial and Labor Relations is the foremost school of its kind in the world, boasting over fifty years of leadership and service. It hosts the largest collection of scholars in human resources and issues related to the workplace, and includes the areas of human resources, organizational behavior, labor relations, collective bargaining, labor economics, and social statistics. The Program on Employment and Disability in the Extension Division of the School of Industrial and Labor Relations at Cornell University has provided continuing education and technical assistance, nationally and regionally, on issues surrounding the workplace and disability since 1968. The Program contributes to development of inclusive workplace systems and communities for people with disabilities through research, the development of training materials, dissemination of this information in training efforts regionally, nationally, and internationally, provision of technical assistance on related topics, and production of scholarly materials. The Computer-Assisted Survey Team (CAST) is a full-service survey facility housed in the School of Industrial and Labor Relations offering state-of-the-art technology to researchers at Cornell University and elsewhere; this unit provided data collection and statistical analysis support. 
+
+
+Organization of the Report 
+
+The results of the survey are presented as descriptive information without analysis in this report; the implications of this research are discussed in the final section of this document, "Summary and Implications." 
+
+
+Methodology 
+
+A ten page survey was designed to capture information on the human resources and equal employment opportunity policies and practices of U. S. Federal agencies in response to the employment nondiscrimination requirements of Federal civil rights legislation. The survey items draw extensively from a similar survey used by Cornell University to conduct comparable research on private sector employers in 1998 (Endnote 2) . The ten-page survey covers issues dealing with: the reasonable accommodation process; recruitment, pre-employment screening, testing, and new employee orientation; health and other benefits of employment; opportunities for promotion and training; disciplinary process/ grievance, dismissal or termination; interaction with labor/ industrial/ collective bargaining issues and other employment legislation/ considerations; Federal agency employee training on the employment disability nondiscrimination and the accommodation process; resources used and found most helpful in handling disability nondiscrimination and accommodation disputes; and the role of disability management (return to work) programs in contributing to the accommodation process and the acceptance of employees with disabilities. A copy of the survey is provided in Appendix B. 
+
+A list was obtained from the U. S. Office of Personnel Management's Interagency Advisory Group across 96 Federal agencies. A preliminary letter was sent out prior to the survey's initiation from the Executive Director of the Presidential Task Force, Rebecca Ogle, to all agency heads, alerting them about the survey and clarifying its purpose. A letter was sent to each potential interviewee approximately two weeks prior to the initiation of the survey. The survey was con-ducted by telephone from Cornell University by the Computer Assisted Survey Team (CAST), using a Computer Assisted Telephone Interview (CATI) system. 
+
+
+Survey Respondents 
+
+A total of 403 surveys were completed, out of 415 agency representatives who were contacted (a 97 percent response rate). The majority of the respondents had job titles of directors/ chiefs of human resources and EEO (41percent) or personnel managers (18 percent), whose positions were in the functional areas of human resources (41percent) or equal opportunity (35 percent). They responded primarily for the entire agency (49 percent) or a regional office (40 percent), of agencies that employ more than 500 employees (71 percent). Further information about respondent demographics is also available in Appendix C. All information is provided in aggregate to protect the confidentiality of individual respondents and their agencies. 
+
+
+Findings at a Glance 
+
+*A survey of U. S. Federal agencies was initiated by the Presidential Task Force on Employment of Adults with Disabilities, and 403 representatives of U. S. Federal agencies were surveyed to determine their response to the employment nondiscrimination, affirmative action, and accommodation requirements of the Americans with Disabilities Act of 1990 and the Rehabilitation Act of 1973, as amended. 
+
+*The majority of the respondents had job titles of directors/ chiefs of human resources and EEO (41 percent) or personnel managers (18 percent), whose positions were in the functional areas of human re-sources (41 percent) or equal opportunity (35 percent). They responded primarily for the entire agency (49 percent) or their regional office (40 percent), of agencies that employ more than 500 employees (71 percent). 
+
+* Most agencies report having made accommodations for their employees with disabilities. At least nine out of ten respondents reported their agency has made existing facilities accessible to employees with disable-ties, been flexible in the application of HR policies, or modified the work environment (93 percent for each). Agencies were less likely to acquire or modify training materials (49 percent), or provide a job coach (41 percent). 
+
+* Seventy-one percent reported that their agency has a formal process for handling accommodation requests. Twenty-seven percent report that the immediate supervisor of the employee making the request is responsible for making the final decision regarding the provision of an accommodation. 
+
+* Fifty-six percent reported that they had received ten or fewer accommodation requests in fiscal year 1999 to date, with 20 percent reporting that they had received no such requests. 
+
+*Twenty-six percent of respondents frequently use Schedule A or B provisions for hiring persons with disabilities; 49 percent of respondents reported occasionally using these provisions. Twenty-eight percent reported frequently using the special hiring program for disabled veterans; 52 percent reported occasionally using this program. 
+
+* The majority of agencies have made changes in their existing recruitment, pre-employment screening, testing, and orientation procedures in order to comply with civil rights laws. 
+
+
+*The pre-employment area where change was reported as difficult was making information accessible for a person who is deaf or hard of hearing, or a person with a visual or learning disability. 
+
+* Respondents indicated that their interview staff are least familiar with interview considerations relating to people with visual disabilities, or people who are deaf or hard of hearing. Such consideration includes using a text telephone (TTY) or relay service to set up interviews with deaf or hard of hearing applicants; using a reader to assist a person with a visual impairment or learning disability; or adapting print materials used in inter-views to large print, diskette, or Braille. 
+
+* More than three-quarters of respondents indicated that staff who perform interviews at their agency are familiar or very familiar with restrictions on eliciting information about medical issues affecting applicant's health and safety on the job, framing questions about the ability to perform job tasks, knowing when to ask an applicant about how specific job tasks would be performed, and accessing sign language interpreters. 
+
+* The remaining barriers to employment for persons with disabilities identified were attitudes and stereo-types about people with disabilities (43 percent), supervisors' lack of knowledge about accommodations (33 percent), lack of related experience (53 percent) and lack of requisite skills and training (45 percent) in the person with a disability. 
+
+* Ninety percent of respondents thought that the most effective means of barrier reduction is visible top management commitment. 
+
+* Sixteen percent of respondents indicated that their agency had experienced filed disability claims in five or more of 11 specified categories of discrimination claims; 50 percent said they had not had a claim filed in any of the listed areas. 
+
+* The disability discrimination claims most commonly reported by agencies were 1) failure to provide a reasonable accommodation; and 2) failure to promote. 
+
+* Seventy-three percent are covered by a collective bargaining agreement, and of those, 66 percent reported that unions are involved in the accommodation process. 
+
+* Sixty-nine percent indicated that they would like more information on accommodation for psychiatric disabilities and 66 percent wanted more information on Rehabilitation Act requirements. 
+
+* Two-thirds of respondents reported that their agency has a formal or informal disability management program; respondents who have such a program indicated that these programs contribute to implementation of civil rights laws. 
+
+
+Survey Results 
+
+Agencies Report on Accommodation Policies and Practices for Employees 
+
+A agency representatives were asked a series of questions relating to their policies and practices in making accommodations for applicants and employees with disabilities. To get an index of annual volume of accommodation requests to surveyed Federal agencies, an initial question asked how many accommodation requests had been received in the Fiscal Year 1999 to date. Fifty-six percent reported that they had received ten or fewer accommodation requests, with slightly less than half of these (20 percent) reporting that they had received no such requests. Eleven percent reported more than ten but less than 100 requests for accommodations in fiscal year 1999 to date, while 28 percent were not certain of how many requests had been made. Four percent reported more than 100 requests. 
+
+To meet the needs of employees with disabilities, most agencies report having made accommodations (see Table 1). Ninety-three percent reported their agency had made existing facilities accessible to employees with disabilities, been flexible in the application of HR policies, or modified the work environment (93 percent for each). Agencies were less likely to acquire or modify training materials (49 percent), or provide a job coach (41 percent). Agencies that have not made these accommodations report they have not done so because they have never needed to. 
+
+
+Table 1
+Accommodations Made for Employees With Disabilities
+
+In this table, the following column headings have been abbreviated: 
+ No, not able to (No); Never needed to make this accommodation (Never); Don't know & refused (Don't know). 
+
+Made existing facilities accessible to employees with disabilities (restrooms, door entrances, hallways, etc) 
+Yes: 93% 
+No: Less than 1 percent 
+Never: 5% 
+Don't know: 1% 
+
+Been flexible in its application of HR policies 
+Yes: 93% 
+No: Less than 1 percent 
+Never: 3% 
+Don't know: 4% 
+
+Modified work environment 
+Yes: 93% 
+No: Less than 1 percent 
+Never: 7% 
+Don't know: Less than 1 percent 
+
+Acquired or modified examination or training materials 
+Yes: 90% 
+No: Less than 1 percent 
+Never: 7% 
+Don't know: 2% 
+
+Restructured jobs or modified work hours 
+Yes: 87% 
+No: Less than 1 percent 
+Never: 11% 
+Don't know: 1% 
+
+Made parking or transportation accommodations 
+Yes: 86% 
+No: 1% 
+Never: 11% 
+Don't know: 1% 
+
+Provided qualified readers or interpreters (including personal assistants) 
+Yes: 79% 
+No: 0% 
+Never: 20% 
+Don't know: 1% 
+
+Provided written job instructions 
+Yes: 69% 
+No: 0% 
+Never: 22% 
+Don't know: 1% 
+
+Made reassignment to vacant positions 
+Yes: 58% 
+No: 2% 
+Never: 33% 
+Don't know: 7% 
+
+Changed supervisory methods 
+Yes: 55% 
+No: Less than 1 percent 
+Never: 31% 
+Don't know: 13% 
+
+Acquired or modified training materials 
+Yes: 49% 
+No: 1% 
+Never: 42% 
+Don't know: 9% 
+
+Provided a job coach 
+Yes: 41% 
+No: 1% 
+Never: 44% 
+Don't know: 13% 
+
+Note: Percent of all respondents; n=403. Percentages may not total 100% due to rounding. 
+
+Source: Disability Employment Policies and Practices in U.S. Federal Government Agencies. Presidential
+Task Force on Employment of Adults with Disabilities/Cornell University, 1999. 
+(End of Table 1)
+
+
+Processing, Tracking, and Reporting Systems for Accommodations 
+
+Seventy-one percent of respondents reported that their agency has a formal process for handling accommodation requests. In most cases, the immediate supervisor of the employee making the request is responsible for making the final decision regarding the provision of an accommodation (27 percent). Twenty-two percent of respondents said that some other party was responsible and 17 percent named another manager or director as the decision-maker. In 16 percent of responding agencies, there is no single party responsible for making the final decision. The agency's Equal Employment Opportunity (EEO) staff were identified as the final decision-makers in accommodation requests by eight percent of agency respondents. 
+
+
+Most agencies keep data on accommodations. Only 14 percent of respondents report that their agency does not keep data on the accommodations it makes for employees with disabilities. Agencies reported that data on accommodations is usually kept to comply with regulatory requirements (62 percent), for dispute resolution (50 percent), and for future accommodations in similar situations (49 percent). 
+
+
+Agencies Report on Accommodations for Applicants 
+
+Several survey questions dealt with special provisions for recruitment of applicants with disabilities, such as the Schedule A and B provisions and special hiring programs for veterans with disabilities, agency affirmative action plans, and agency accommodations for applicants with disabilities. 
+
+Use of Schedule A or B Provisions and Special Hiring Program for Veterans with Disabilities 
+
+Interviewees were asked how often their agency makes use of the provisions contained in Schedule A or B through which people with disabilities can be exempted from the competitive appointment process. One in four respondents (26 percent) reported frequently using such provisions. Approximately half (49 percent) of the respondents reported occasionally using these provisions for hiring persons with disabilities. The remainder of agency representatives responding reported never having used such provisions (12 percent), did not know whether they had been used (10 percent), or were not aware of the provisions (two percent). 
+
+Interviewees were asked how often the special hiring program for veterans with disabilities was used by their agency. Approximately one in four respondents (28 percent) reported frequently using this program. Fifty-two percent of respondents reported occasionally using this program for hiring veterans with disabilities. The remainder of agency representatives reported never having used such provisions, and eight percent were unsure. 
+
+
+Familiarity with and Use of Affirmative Action Plans and Goals 
+
+Interviewees were asked about their familiarity with the goals of their agency's affirmative employment plans mandated under the Rehabilitation Act, and the extent to which the agency sets affirmative action goals and tries to achieve them. Eighty-five percent report being familiar or very familiar with this plan. A similar response rate was obtained in regards to the degree of effort in implementing this plan. Eighty-four percent of respondents report that a great deal (48 percent) or somewhat (36 percent) of an effort has been made toward the affirmative action goals for persons with disabilities for their respective agency. 
+
+Agencies Report Pre-Employment Accommodations Are Easy to Make 
+
+Survey results show that the majority of agencies have needed to make changes in their existing recruitment, pre-employment screening, testing, and orientation procedures in order to comply with the ADA and Rehabilitation Act (see Table 2). More than eight in ten respondents reported that their agency has been asked to make information accessible for a deaf or hard of hearing person (87 percent), made new employee orientation accessible to people with disabilities (85 percent), made restrooms accessible (82 percent), or made information accessible for a person with a visual or learning disability (81 percent). 
+
+Most respondents reported that making the needed changes was easy. Most listed changes were rated as very easy or easy by more than three-quarters of respondents. For example, 89 percent of respondents felt that making new employee orientation accessible was easy, while similar percentages found making interview locations accessible (85 percent) and changing the wording of job applications (84 percent) easy. The area respondents reported as most difficult to change was making information accessible for a person with a visual or learning impairment, which was found to be difficult or very difficult by 15 percent of respondents, and was only rated as easy by 64 percent. 
+
+
+Table 2
+
+Table 2
+
+Changes Made for Recruitment and Pre-Employment Screening
+Processes
+
+In this table, the following column headings have been abbreviated: Didn't need to make this change (Didn't make);
+Not able to make this change (Not able); Don't know or refused (Don't know); Made this change (Made); Easy or
+very easy (Easy); Neither easy nor difficult (Neither); Difficult or very difficult (Difficult). 
+
+Making information accessible for a hearing impaired person (e.g. sign language interpreter; text telephone;
+captioning on video; etc.) 
+Didn't need: 10% 
+Not able: Less than 1 percent 
+Don't know: 3% 
+Made: 87% 
+Of the employers who made the change... 
+Easy: 77% 
+Neither: 15% 
+Difficult: 8% 
+
+Making new employee orientation accessible to people with disabilities 
+Didn't need: 12% 
+Not able: 0% 
+Don't know: 3% 
+Made: 85% 
+Of the employers who made the change... 
+Easy: 89% 
+Neither: 9% 
+Difficult: 2% 
+
+Making restrooms accessible to people with disabilities 
+Didn't need: 15% 
+Not able: Less than 1 percent 
+Don't know: 3% 
+Made: 82% 
+Of the employers who made the change... 
+Easy: 76% 
+Neither: 14% 
+Difficult: 10% 
+
+Making information accessible for a person with a visual or learning impairment (e.g. a reader, Braille, large print or
+audio version of application) 
+Didn't need: 15% 
+Not able: Less than 1 percent 
+Don't know: 3% 
+Made: 81% 
+Of the employers who made the change... 
+Easy: 64% 
+Neither: 21% 
+Difficult: 15% 
+
+Making interview locations accessible to people with disabilities: 
+Didn't need: 16% 
+Not able: Less than 1 percent 
+Don't know: 3% 
+Made: 80% 
+Of the employers who made the change... 
+Easy: 85% 
+Neither: 12% 
+Difficult: 3% 
+
+Making recruiting locations accessible to people with disabilities 
+Didn't need: 21% 
+Not able: Less than 1 percent 
+Don't know: 3% 
+Made: 76% 
+Of the employers who made the change... 
+Easy: 76% 
+Neither: 21% 
+Difficult: 3% 
+
+Changing wording of job applications 
+Didn't need: 22% 
+Not able: Less than 1 percent 
+Don't know: 8% 
+Made: 70% 
+Of the employers who made the change... 
+Easy: 84% 
+Neither: 14% 
+Difficult: 3% 
+
+Changing questions asked in interviews 
+Didn't need: 22% 
+Not able: 1% 
+Don't know: 10% 
+Made: 67% 
+Of the employers who made the change... 
+Easy: 78% 
+Neither: 17% 
+Difficult: 5% 
+
+Arrange for medical tests post-offer 
+Didn't need: 52% 
+Not able: Less than 1 percent 
+Don't know: 10% 
+Made: 38% 
+Of the employers who made the change... 
+Easy: 75% 
+Neither: 19% 
+Difficult: 6% 
+
+Modifying pre-employment testing (e.g. time flexibility) 
+Didn't need: 61% 
+Not able: Less than 1 percent% 
+Don't know: 8% 
+Made: 32% 
+Of the employers who made the change... 
+Easy: 69% 
+Neither: 21% 
+Difficult: 9% 
+
+Note: Percent of all respondents; n=403. Percentages may not total 100% due to rounding. 
+
+Source: Disability Employment Policies and Practices in U.S. Federal Government Agencies. Presidential
+Task Force on Employment of Adults with Disabilities/Cornell University, 1999. 
+(End of Table 2)
+
+
+Familiarity with Civil Rights Considerations 
+
+Respondents were given a list of ADA compliance considerations in the applicant interview process, and asked how familiar their agency's interview staff are with each (see Table 3). More than three-quarters of respondents indicated that staff who perform inter-views at their agency are familiar or very familiar with restrictions on eliciting information about medical issues (81 percent), framing questions about the ability to perform job tasks (79 percent), knowing when to ask an applicant about how specific job tasks would be performed (79 percent), and accessing sign language interpreters (76 percent). 
+
+Respondents indicated that their interview staff are least familiar with interview considerations relating to people with visual disabilities or people who are deaf or hard of hearing. Twenty-six percent reported that their staff was unfamiliar or very unfamiliar with using a text telephone device (TTY) or relay service to set up interviews with deaf or hard of hearing applicants. Similarly, respondents reported their agency's staff was less familiar with using a reader to assist a person with a visual impairment or learning disability (21 percent) or with adapting print materials used in interviews to large print, diskette, or Braille (18 percent). 
+
+Table 3
+
+Familiarity with ADA Interview Considerations
+
+In this table, the following column headings have been abbreviated: ADA Interview Considerations (Consideraton);
+Familiar or very familiar (Familiar); Neither familiar nor unfamiliar (Neither); Unfamiliar or very unfamiliar
+(Unfamiliar); Don't know & refused (Don't know). 
+
+Restrictions on eliciting information about medical issues affecting applicants' health and safety on the job 
+Familiar: 81% 
+Neither: 8% 
+Unfamiliar: 5% 
+Don't Know: 5% 
+
+Framing questions to applicants about the ability to perform specific job tasks rather than about disability 
+Familiar: 79% 
+Neither: 10% 
+Unfamiliar: 5% 
+Don't Know: 6% 
+
+Knowing when to ask an applicant about how s/he would perform specific job tasks 
+Familiar: 79% 
+Neither: 9% 
+Unfamiliar: 5% 
+Don't Know: 7% 
+
+Accessing sign language interpreters 
+Familiar: 76% 
+Neither: 7% 
+Unfamiliar: 12% 
+Don't Know: 5% 
+
+Restrictions on obtaining medical examinations and medical history information 
+Familiar: 70% 
+Neither: 11% 
+Unfamiliar: 9% 
+Don't Know: 9% 
+
+Knowing when to test for illegal drugs 
+Familiar: 67% 
+Neither: 8% 
+Unfamiliar: 11% 
+Don't Know: 14% 
+
+Using a reader to assist a person with a learning disability or visual impairment 
+Familiar: 59% 
+Neither: 12% 
+Unfamiliar: 21% 
+Don't Know: 8% 
+
+Adapting print materials used in the interview to large print, diskette, or Braille 
+Familiar: 55% 
+Neither: 17% 
+Unfamiliar: 18% 
+Don't Know: 10% 
+
+Using a text telelphone device (TTY) or relay service to set up interviews 
+Familiar: 54% 
+Neither: 14% 
+Unfamiliar: 26% 
+Don't Know: 6% 
+
+Note: Percent of all respondents; n=403. Percentages may not total 100% due to rounding. 
+
+Source: Disability Employment Policies and Practices in U.S. Federal Government Agencies. Presidential
+Task Force on Employment of Adults with Disabilities/Cornell University, 1999. 
+(End of Table 3)
+
+
+
+
+Barriers to Employment for People with Disabilities and Ways to Overcome Them 
+
+Respondents were presented with seven possible barriers to the employment or advancement of people with disabilities. No respondent indicated that there were no barriers for people with disabilities; all felt that one or more of the listed barriers were, in fact, a problem (see Chart 1). The major barriers were felt to be in the work environment or in the person with a disability. 
+
+Respondents felt that there were significant barriers for people with disabilities in the work environment, such as attitudes and stereotypes about people with disabilities (43 percent) and supervisors' lack of knowledge about accommodations (33 percent). Respondents also identified barriers in the individual. These potential barriers to employment for persons with disabilities were lack of related experience (53 percent) and lack of requisite skills and training (45 percent) in the person with a disability. Interestingly, cost of accommodations (19 percent), cost of training (11 percent) and the additional cost of supervision (10 percent) were least often seen as remaining barriers to employment for people with disabilities. 
+
+Respondents were then asked to rate the effectiveness of six listed means of reducing barriers to employment and advancement of people with disabilities. Visible top management commitment was cited by the most respondents as an effective or very effective means of barrier reduction (91 percent). Over two-thirds of respondents also felt that staff training (71 percent), on-site consultation or technical assistance (71 percent) or special budget allocations (69 percent) could effectively reduce barriers at their agency. Fewer than half of respondents felt that short-term outside assistance would be effective (43 percent). 
+
+To help overcome barriers to the employment and advancement of people with disabilities, the majority of agencies made changes to organizational policies and practices (see Table 4). Agencies reported changing co-worker or supervisor attitudes towards employees with disabilities (91 percent), creating flexibility within the performance management system (83 percent), and ensuring equal pay and benefits for employees with disabilities (81 percent). More than two-thirds have changed leave policies (78 percent), modified return-to-work policies (77 percent), or adjusted policies regarding medical questions and medical examinations (68 percent). 
+
+Many of the respondents whose agencies have made these changes report that these changes were easy. Eighty-six percent of respondents felt that ensuring equal pay and benefits for their employees with disabilities was easy or very easy, while 72 percent found the same when making changes in leave policies. The change reported as most difficult was also the change most often made, and that was changing co-worker or supervisor attitudes towards employees with disabilities. Thirty-three percent of respondents rated this change as difficult or very difficult to make. 
+
+Chart 1
+
+ Barriers to Employment or Advancement of Persons with Disabilities
+
+Additional cost of supervision: 10%. 
+
+Cost of training: 11%. 
+
+Cost of accomodations: 19%. 
+
+Other: 27% 
+
+Supervisor knowledge of accomodation: 33%. 
+
+Attitudes/stereotypes: 43%. 
+
+Lack of requisite skills and training: 45%. 
+
+Lack of related experience: 53%. 
+
+Source: Disability Employment Policies and Practices in U.S. Federal Government Agencies. Presidential
+Task Force on Employment of Adults with Disabilities/Cornell University, 1999. 
+(End of Chart 1)
+
+
+
+Table 4
+
+  Changes Made to Reduce Employment and Advancement Barriers
+
+In this table, the following column headings have been abbreviated: Didn't need to make this change (Didn't need);
+Did not make this change (Did not); Don't know or refused (Don't know); Have needed to make this change
+(Needed); Easy or very easy (Easy); Neither easy nor difficult (Neither); Difficult or very difficult (Difficult). 
+
+Changing co-worker or supervisor attitudes towards employees with disabilities 
+Didn't need: 6% 
+Did not: Less than 1 percent 
+Don't know: 3% 
+Needed: 91% 
+Of the employers who made the change... 
+Easy: 29% 
+Neither: 38% 
+Difficult: 33% 
+
+Creating flexibility within the performance management system 
+Didn't need: 12% 
+Did not: 1% 
+Don't know: 4% 
+Needed: 83% 
+Of the employers who made the change... 
+Easy: 65% 
+Neither: 20% 
+Difficult: 15% 
+
+Ensuring equal pay and benefits for employees with disabilities 
+Didn't need: 16% 
+Did not: Less than 1 percent 
+Don't know: 2% 
+Needed: 81% 
+Of the employers who made the change... 
+Easy: 86% 
+Neither: 10% 
+Difficult: 4% 
+
+Change in leave policy 
+Didn't need: 18% 
+Did not: Less than 1 percent 
+Don't know: 3% 
+Needed: 78% 
+Of the employers who made the change... 
+Easy: 72% 
+Neither: 20% 
+Difficult: 8% 
+
+Modifying the return to work or transitional employment policy 
+Didn't need: 14% 
+Did not: 1% 
+Don't know: 8% 
+Needed: 77% 
+Of the employers who made the change... 
+Easy: 64% 
+Neither: 25% 
+Difficult: 11% 
+
+Adjusting policies regarding medical questions and medical examinations of employees 
+Didn't need: 24% 
+Did not: 2% 
+Don't know: 6% 
+Needed: 68% 
+Of the employers who made the change... 
+Easy: 68% 
+Neither: 23% 
+Difficult: 9% 
+
+Note: Percent of all respondents; n=403. Percentages may not total 100% due to rounding. 
+
+Source: Disability Employment Policies and Practices in U.S. Federal Government Agencies. Presidential
+Task Force on Employment of Adults with Disabilities/Cornell University, 1999. 
+(End Table 4)
+
+
+
+Agency Experience of Disability Discrimination Claims 
+
+Respondents were presented with a list of eleven possible disability claims and asked which claims had been filed against their agency. Fifty percent reported that their agency had not had a claim filed in any of the categories. An additional 34 percent said they had experienced one to four of the listed claims, while 16 percent had claims filed against them in five or more of the possible areas. 
+
+More than three-quarters of respondents' agencies had not experienced claims of wage dispute (84 percent), denied or reduced benefits (83 percent), layoff (80 percent), or failure to rehire (78 percent) (see Table 5). The claim most commonly reported as having been experienced was the failure to provide a reasonable accommodation, which had been filed against 36 percent of respondents' agencies. Twenty-six percent of respondents said their agency had experienced the claim of failure to promote. 
+
+A high percentage of respondents reported having a grievance or dispute resolution process in place to deal with disability and accommodation issues (93 per-cent). This may help explain why in most categories, fewer than one in five respondents' agencies had experienced discrimination claims. 
+
+Table 5
+
+Disability Discrimination Claims Filed Against Agency
+
+In this table, the following column heading has been abbreviated: Don't know or refused (Don't know). 
+
+Wage dispute: 
+No: 84% 
+Yes: 4% 
+Don't know: 12% 
+
+Denied or reduced benefits 
+No: 83% 
+Yes: 5% 
+Don't know: 12% 
+
+Layoff 
+No: 80% 
+Yes: 8% 
+Don't know: 12% 
+
+Failure to rehire 
+No: 78% 
+Yes: 8% 
+Don't know: 14% 
+
+Failure to hire 
+No: 70% 
+Yes: 17% 
+Don't know: 12% 
+
+Suspension 
+No: 69% 
+Yes: 16% 
+Don't know: 14% 
+
+Harassment 
+No: 68% 
+Yes: 19% 
+Don't know: 13% 
+
+Unfair discipline 
+No: 66% 
+Yes: 20% 
+Don't know: 14% 
+
+Wrongful discharge 
+No: 61% 
+Yes: 22% 
+Don't know: 17% 
+
+Failure to promote 
+No: 60% 
+Yes: 26% 
+Don't know: 14% 
+
+Failure to provide reasonable accommodation 
+No: 51% 
+Yes: 36% 
+Don't know: 13% 
+
+Note: Percent of all respondents; n=403. Percentages may not total 100% due to rounding. 
+
+Source: Disability Employment Policies and Practices in U.S. Federal Government Agencies. Presidential
+Task Force on Employment of Adults with Disabilities/Cornell University, 1999. 
+(End Table 5)
+
+
+
+
+Labor Unions Often Involved in the Accommodation Process 
+
+Seventy-three percent of respondents' agencies employ workers who are covered by a collective bargaining agreement, while 26 percent do not. Of respondents from agencies which have collective bargaining agreements with some employees, 66 percent reported that unions are involved in the accommodation process, 27 percent said the union is not involved, and seven percent were unsure. 
+
+Agency respondents who report union involvement in the accommodation process indicate that unions are most often involved by providing representation in reasonable accommodation discussions (75 percent). Unions also consulted with agencies on revising employment policies (68 percent), provided advice or information on accommodations (67 percent), pro-vided representation in grievance discussions (60 percent), and provided information on the rights of employees under the law (56 percent). 
+
+
+Interaction With Other Employment Laws 
+
+Interviewees were asked about their degree of certainty about the relationship between employment disability nondiscrimination requirements in the Americans with Disabilities Act, the Rehabilitation Act of 1973, and other legislation (see Table 6). Respondents most often reported being frequently or occasionally uncertain about coordination of leave under the ADA and other legislation that mandates leaves, such as the Family and Medical Leave Act (FMLA), Worker's Compensation, short term and long term disability, and sick leave/ salary continuation (41 percent). There was also a significant amount of uncertainty about the question of whether an injured worker who cannot return to full duties can be terminated (39 percent). 
+
+Respondents experienced the greatest certainty in the interaction between the ADA and the Drug Free Workplace Act. 
+
+There was also some uncertainty about the requirements of Section 501 and Section 508 of the Rehabilitation Act. Thirty percent of respondents were uncertain about Section 501's requirements for designing and implementing affirmative action requirements. A similar percentage was unsure about the requirements of Section 508, which mandates the purchase of accessible technology and equipment by Federal agencies. 
+
+Table 6
+
+Interaction Between ADA and Other Employment-Related
+Legislation
+
+In this table, the following column headings have been abbreviated: Frequently or occasionally uncertain
+(Uncertain); Never uncertain (Never); Don't know or refused (Don't know); Agency not subject to statute (Not
+subject). 
+
+  Family and Medical Leave Act
+
+Coordination of leave under the ADA and FMLA, Workers' Compensation, STD/LTD, sick leave/salary
+continuation 
+Uncertain: 41% 
+Never: 45% 
+Don't know: 10% 
+Not subject: 3% 
+
+Whether an employee who requests FMLA leave is also covered by the ADA 
+Uncertain: 37% 
+Never: 47% 
+Don't know: 12% 
+Not subject: 4% 
+
+  Workers' Compensation
+
+Whether an injured worker who cannot return to full duties can be terminated 
+Uncertain: 39% 
+Never: 46% 
+Don't know: 11% 
+Not subject: 4% 
+
+Whether transitional, light duty work can be considered a permanent reassignment for reasonable accomodation
+purposes 
+Uncertain: 38% 
+Never: 48% 
+Don't know: 10% 
+Not subject: 4% 
+
+How long the organization and injured worker must search for modified or alternate work before beginning
+vocational rehabilitation 
+Uncertain: 37% 
+Never: 37% 
+Don't know: 19% 
+Not subject: 7% 
+
+When an injured worker is also covered by the ADA 
+Uncertain: 35% 
+Never: 44% 
+Don't know: 16% 
+Not subject: 5% 
+
+Safety issues involved in returning an injured worker to the job 
+Uncertain: 33% 
+Never: 54% 
+Don't know: 9% 
+Not subject: 4% 
+
+When an injured worker returning to work following a work-related injury is entitled to reasonable accomodation 
+Uncertain: 26% 
+Never: 63% 
+Don't know: 7% 
+Not subject: 4% 
+
+Occupational Safety and Health Act:
+
+Whether health and safety regulations supersede the confidentiality requirements of the ADA 
+Uncertain: 39% 
+Never: 43% 
+Don't know: 13% 
+Not subject: 5% 
+
+Whether it is permissable to discipline an employee who is a risk to self or others 
+Uncertain: 33% 
+Never: 50% 
+Don't know: 12% 
+Not subject: 5% 
+
+Whether worksite modifications or ergonomic changes constitute reasonable accomodations 
+Uncertain: 28% 
+Never: 64% 
+Don't know: 6% 
+Not subject: 2% 
+
+ Drug Free Workplace Act
+
+Whether an employee who is currently using alcohol is covered by the ADA 
+Uncertain: 35% 
+Never: 53% 
+Don't know: 8% 
+Not subject: 3% 
+
+Whether a past drug user is covered by the ADA 
+Uncertain: 33% 
+Never: 53% 
+Don't know: 10% 
+Not subject: 3% 
+
+Whether it is permissible to suspend or fire an employee whose alcohol or drug use impairs job performance 
+Uncertain: 28% 
+Never: 62% 
+Don't know: 8% 
+Not subject: 2% 
+
+Whether an employee who is currently using illegal drugs is covered by the ADA 
+Uncertain: 27% 
+Never: 61% 
+Don't know: 9% 
+Not subject: 3% 
+
+Note: Percent of all respondents; n=403. Percentages may not total 100% due to rounding. 
+
+Source: Disability Employment Policies and Practices in U.S. Federal Government Agencies. Presidential
+Task Force on Employment of Adults with Disabilities/Cornell University, 1999. 
+(End Table 6)
+
+
+Training Provided on Civil Rights-Related Topics 
+
+The survey asked respondents if their agency's employees had received training in fourteen ADA, Rehabilitation Act, and Federal hiring-related areas (see Table 7). Fifty percent indicated that their employees had been trained in 10 or more areas. Not surprisingly, more than nine out of ten respondents reported that agency employees had been trained in non-discriminatory recruitment and hiring practices (91 percent). Similar percentages had also been trained in the accommodation process (87 percent) and non-discrimination in the disciplinary or termination process (87 percent). Respondents also reported high levels of training in the confidentiality of medical information (85 percent), disability awareness or sensitivity training (84 percent), and Federal Hiring Schedules (82 percent). 
+
+If employees had received training in an area, respondents were also asked which employees at the agency had been trained. In all fourteen areas, more than eight of ten agencies which had trained any staff had trained their human resources (HR) staff. The survey shows that much more training has been focused on HR and EEO staff, who are the persons responsible for employee hiring, dealing with employee issues and grievance handling. Far less training is offered to managerial and other staff. 
+
+Respondents were also asked whether they would like more information in each training area. Approximately two-thirds indicated that they would like more information on accommodation for psychiatric disabilities (69 percent), and Rehabilitation Act requirements (66 percent). A similar percentage reported interest in receiving more information on available print or organizational resources, interaction with other employment legislation, and limitations and exclusions health plans are allowed to impose (64 percent for each). 
+
+
+Table 7
+
+ Training on ADA and Rehabilitation Act-Related Topics
+
+Non-discriminatory recruitment and hiring practices 
+Have any of your employees been trained in this area? 
+Yes: 91% 
+  No: 7% 
+Don't know: 2% 
+If yes, which employees have received this training? 
+HR staff: 91% 
+Managerial staff: 77% 
+EEO staff: 85% 
+Other staff: 39% 
+More Info? 
+Yes: 55% 
+
+The accommodation process 
+Have any of your employees been trained in this area? 
+Yes: 87% 
+  No: 9% 
+Don't know: 3% 
+If yes, which employees have received this training? 
+HR staff: 88% 
+Managerial staff: 75% 
+EEO staff: 83% 
+Other staff: 37% 
+More Info? 
+Yes: 60% 
+
+Non-discrimination in the disciplinary process or termination 
+Have any of your employees been trained in this area? 
+Yes: 87% 
+  No: 8% 
+Don't know: 4% 
+If yes, which employees have received this training? 
+HR staff: 83% 
+Managerial staff: 78% 
+EEO staff: 78% 
+Other staff: 38% 
+More Info? 
+Yes: 55% 
+
+Confidentiality requirements of medical information 
+Have any of your employees been trained in this area? 
+Yes: 85% 
+  No: 10% 
+Don't know: 5% 
+If yes, which employees have received this training? 
+HR staff: 96% 
+Managerial staff: 70% 
+EEO staff: 76% 
+Other staff: 40% 
+More Info? 
+Yes: 55% 
+
+Disability awareness or sensitivity training 
+Have any of your employees been trained in this area? 
+Yes: 84% 
+  No: 12% 
+Don't know: 4% 
+If yes, which employees have received this training? 
+HR staff: 93% 
+Managerial staff: 88% 
+EEO staff: 91% 
+Other staff: 59% 
+More Info? 
+Yes: 56% 
+
+Federal Hiring schedules 
+Have any of your employees been trained in this area? 
+Yes: 82% 
+  No: 10% 
+Don't know: 7% 
+If yes, which employees have received this training? 
+HR staff: 95% 
+Managerial staff: 64% 
+EEO staff: 70% 
+Other staff: 27% 
+More Info? 
+Yes: 54% 
+
+Equal access to promotional opportunities and training 
+Have any of your employees been trained in this area? 
+Yes: 79% 
+  No: 16% 
+Don't know: 5% 
+If yes, which employees have received this training? 
+HR staff: 91% 
+Managerial staff: 75% 
+EEO staff: 83% 
+Other staff: 37% 
+More Info? 
+Yes: 60% 
+
+Defining essential job functions 
+Have any of your employees been trained in this area? 
+Yes: 78% 
+  No: 16% 
+Don't know: 6% 
+If yes, which employees have received this training? 
+HR staff: 94% 
+Managerial staff: 61% 
+EEO staff: 65% 
+Other staff: 26% 
+More Info? 
+Yes: 58% 
+
+Conflict resolution in the accommodation process 
+Have any of your employees been trained in this area? 
+Yes: 77% 
+  No: 19% 
+Don't know: 4% 
+If yes, which employees have received this training? 
+HR staff: 85% 
+Managerial staff: 62% 
+EEO staff: 87% 
+Other staff: 42% 
+More Info? 
+Yes: 58% 
+
+Rehabilitation Act requirements 
+Have any of your employees been trained in this area? 
+Yes: 74% 
+  No: 18% 
+Don't know: 7% 
+If yes, which employees have received this training? 
+HR staff: 87% 
+Managerial staff: 75% 
+EEO staff: 89% 
+Other staff: 53% 
+More Info? 
+Yes: 66% 
+
+Accommodation for mental disabilities 
+Have any of your employees been trained in this area? 
+Yes: 61% 
+  No: 32% 
+Don't know: 7% 
+If yes, which employees have received this training? 
+HR staff: 81% 
+Managerial staff: 56% 
+EEO staff: 85% 
+Other staff: 30% 
+More Info? 
+Yes: 69% 
+
+Available print or organizational resources to assist in the accommodation process 
+Have any of your employees been trained in this area? 
+Yes: 58% 
+  No: 32% 
+Don't know: 11% 
+If yes, which employees have received this training? 
+HR staff: 84% 
+Managerial staff: 52% 
+EEO staff: 81% 
+Other staff: 34% 
+More Info? 
+Yes: 64% 
+
+The interaction with other state and federal employment legislation 
+Have any of your employees been trained in this area? 
+Yes: 50% 
+  No: 33% 
+Don't know: 16% 
+If yes, which employees have received this training? 
+HR staff: 87% 
+Managerial staff: 43% 
+EEO staff: 72% 
+Other staff: 27% 
+More Info? 
+Yes: 64% 
+
+Limitations and exclusions the ADA and other Federal laws allow health plans to impose 
+Have any of your employees been trained in this area? 
+Yes: 38% 
+  No: 45% 
+Don't know: 16% 
+If yes, which employees have received this training? 
+HR staff: 84% 
+Managerial staff: 34% 
+EEO staff: 60% 
+Other staff: 24% 
+More Info? 
+Yes: 64% 
+
+Note: Percent of all respondents; n=403. Percentages may not total 100% due to rounding. 
+
+Source: Disability Employment Policies and Practices in U.S. Federal Government Agencies. Presidential
+Task Force on Employment of Adults with Disabilities/Cornell University, 1999. 
+(End Table 7)
+
+Resources Used to Resolve Disability Discrimination and Accommodation Issues 
+
+Ninety percent of respondents reported that they use their agency's EEO office as a resource to resolve disability discrimination or accommodation issues (see Table 8). Eighty-five percent consult an internal legal counsel. Two-thirds or more turn to their agency's safety/ ergonomics staff (72 percent), state vocational rehabilitation agencies (70 percent), or the Equal Employment Opportunity Commission (EEOC) (66 percent) for assistance in resolving disability nondiscrimination or accommodation issues. Forty-three percent use the President's Committee on Employment of People With Disabilities Job Accommodation Network (JAN). Respondents were least likely to use external legal counsels (13 percent), their regional ADA Disability and Business Technical Assistance Center (20 percent), or local independent living centers or other disability organizations (39 percent). 
+
+Respondents were asked to rate the level of helpfulness each resource provided (see Table 8). Internal legal counsel and disability management/ benefits staff were considered the most helpful resources (84 percent found each "helpful" or "very helpful"). The agency's EEO office received a similar rating (83 percent), as did safety/ ergonomics staff (81 percent), and the Job Accommodation Network (JAN) (73 percent). Respondents reported that union representatives (49 percent) and local independent living centers or other organizations (39 percent) were less helpful. 
+
+
+Table 8
+
+Resources Used to Help Resolve Discrimination & Accommodation
+  Issues
+
+In this table, the following column headings have been abbreviated: Helpful or very helpful (Helpful); Not helpful or not helpful at all (Not helpful). (Do you utilize?) Yes; (Of those who utilize, how helpful is it?) 
+
+Your agency's EEO office 
+Do you utilize? 
+Yes: 90% 
+Of those who utilize, how helpful is it? 
+Helpful: 83% 
+Undecided: 10% 
+Not helpful: 6% 
+
+Internal legal counsel 
+Do you utilize? 
+Yes: 85% 
+Of those who utilize, how helpful is it? 
+Helpful: 84% 
+Undecided: 10% 
+Not helpful: 6% 
+
+Your safety/ergonomics staff 
+Do you utilize? 
+Yes: 72% 
+Of those who utilize, how helpful is it? 
+Helpful: 81% 
+Undecided: 13% 
+Not helpful: 5% 
+
+State vocational rehabilitation agencies 
+Do you utilize? 
+Yes: 70% 
+Of those who utilize, how helpful is it? 
+Helpful: 65% 
+Undecided: 25% 
+Not helpful: 7% 
+
+U.S. EEOC 
+Do you utilize? 
+Yes: 66% 
+Of those who utilize, how helpful is it? 
+Helpful: 58% 
+Undecided: 26% 
+Not helpful: 12% 
+
+Disability management/benefits staff 
+Do you utilize? 
+Yes: 62% 
+Of those who utilize, how helpful is it? 
+Helpful: 84% 
+Undecided: 10% 
+Not helpful: 4% 
+
+Other Federal agencies or professional society or business organization (e.g. SHRM, Chamber of Commerce) 
+Do you utilize? 
+Yes: 60% 
+Of those who utilize, how helpful is it? 
+Helpful: 69% 
+Undecided: 27% 
+Not helpful: 3% 
+
+Dispute resolution center/mediator 
+Do you utilize? 
+Yes: 52% 
+Of those who utilize, how helpful is it? 
+Helpful: 78% 
+Undecided: 16% 
+Not helpful: 3% 
+
+Union representative 
+Do you utilize? 
+Yes: 49% 
+Of those who utilize, how helpful is it? 
+Helpful: 42% 
+Undecided: 40% 
+Not helpful: 15% 
+
+Job Accommodation Network (toll-free number) 
+Do you utilize? 
+Yes: 43% 
+Of those who utilize, how helpful is it? 
+Helpful: 73% 
+Undecided: 21% 
+Not helpful: 5% 
+
+Local independent living centers or other disability organizations 
+Do you utilize? 
+Yes: 39% 
+Of those who utilize, how helpful is it? 
+Helpful: 54% 
+Undecided: 35% 
+Not helpful: 10% 
+
+The regional ADA Technical Assistance Center 
+Do you utilize? 
+Yes: 20% 
+Of those who utilize, how helpful is it? 
+Helpful: 69% 
+Undecided: 21% 
+Not helpful: 8% 
+
+External legal counsel 
+Do you utilize? 
+Yes: 13% 
+Of those who utilize, how helpful is it? 
+Helpful: 63% 
+Undecided: 20% 
+Not helpful: 17% 
+
+Note: Percent of all respondents; n=403. Percentages may not total 100% due to rounding. 
+(End Table 8)
+
+Print and Media Resources Used to Address Disability Discrimination and Accommodation Issues 
+
+The survey asked respondents about the resources they use to address disability discrimination and accommodation issues within their agencies, and asked to rate the helpfulness of each. The most-used resource, consulted by more than eight out of ten respondents, was print and video materials (81 percent). Many respondents indicated using web sites, listserves, and the EEOC home-page (78 percent) and on-site consultation or training (74 percent). 
+
+Respondents reported the highest degree of helpful-ness from on-site consultation and training (78 percent), followed by the internet resources (72 percent). The most-used resource, print and video materials, was rated as the third most helpful, with 69 percent of respondents finding it helpful or very helpful. 
+
+
+Disability Management Programs and Disability Nondiscrimination and Accommodation 
+
+Disability management is a workplace prevention and remediation strategy that seeks to prevent disability from occurring or, lacking that, to intervene early following the onset of a disability, using coordinated, cost-conscious, quality rehabilitation service that reflects an organizational commitment to continued employment of those experiencing functional work limitations. The remediation goal of disability management is successful job maintenance, or optimum timing for return to work, for people with disabilities. (Endnote 3)
+
+Sixty-six percent of respondents reported that their agency has a formal or informal disability management or return to work program; 42 percent reported having a formal program. Twenty-two percent said there was not a return-to-work program at their agency, and 12 percent were unsure. Respondents whose agencies have either formal or informal disability management programs indicated that these programs contribute to implementation of civil rights laws, by either somewhat or greatly raising awareness of the importance of medical confidentiality (89 percent), raising supervisor awareness of the accommodation process (88 percent), raising acceptance of employees with disabilities (88 percent), and providing an organizational structure for accommodations (79 percent). 
+
+
+Comparison with Non-Federal Sector 
+
+This section describes a comparison of the results from this Federal sector employer survey research with the results of similar research conducted by Cornell University on private sector employers during 1998. The U. S. Department of Education's National Institute on Disability and Rehabilitation Research (NIDRR) funded a separate Research and Demonstration grant to Cornell University to examine employer practices in response to the employment provisions (Title I) of the Americans with Disabilities Act of 1990 (ADA) with private sector employers (grant No. H133A70005). This research was a collaborative effort of Cornell University, the Society for Human Resource Management (SHRM), the Washington Business Group on Health (WBGH), and the Lewin Group. 
+
+A similar survey was conducted on a random sample of the membership of SHRM and the entire member-ship of WBGH. SHRM members were randomly selected based on the size of the organization they worked for. Interviews were conducted over the telephone at Cornell University, using a computer-assisted telephone inter-viewing (CATI) system. 813 interviews were completed, giving a 73 percent response rate. The WBGH study was conducted on the 164 WBGH member companies. Surveys were mailed to and telephone calls were made to non-respondents. Respondents were offered the options of returning a mail questionnaire, a fax questionnaire, or completing the survey by telephone. A 32 percent response rate was obtained. 
+
+The comparative results presented here are based on the feedback of approximately 800 private sector and over 400 Federal sector employer representatives, mostly HR representatives, since an HR membership organization (SHRM) was surveyed and HR and EEO representatives were the informants selected for the Federal sector research. 
+
+Both private and Federal sector employers are responding to disability nondiscrimination legislation by making accommodations needed by applicants and employees with disabilities. Across eleven possible areas where accommodation could be made, survey respondents most commonly reported making changes by making existing facilities accessible, being flexible in the application of HR policies, and restructuring jobs and work hours. Other often-made changes by both groups were modifying the work environment and making transportation accommodations. Least often made accommodations were in the areas of modifying training materials and making changes in supervisory methods. There was a statistically significant difference in the groups' responses to making these changes in all of the 11 categories, with Federal agencies more likely to have made each change. Non-Federal sector organizations were also more likely to indicate that they had never been asked to make the changes. 
+
+When asked whether data was kept on accommodations, there again was a difference between the two groups. Thirteen percent of all non-Federal respondents and 14 percent of Federal respondents do not keep data on accommodations. Of those who do keep data, the most often cited reasons are for reporting requirements and future accommodations in similar situations. More Federal respondents reported keeping data to fulfill reporting requirements (48 percent for non-Federal, 62 percent for Federal), but the numbers in each group keeping data for future accommodations was quite similar (52 percent and 49 percent respectively). 
+
+When asked, "who holds responsibility for making the final decision regarding the provision of an accommodation," the responses varied between the groups. The most common response from the non-Federal sector was that HR staff alone (27 percent) or together with another person (10 percent) made the decision. On the other hand, a similar percentage of Federal employees indicated that the decision was made by the immediate supervisor of the employee requesting the accommodation (27 percent), while in only a small percentage of Federal agencies was that decision made by HR (six percent). 22 
+
+Areas in the pre-employment process that respondents in both groups indicated were more difficult to implement were making information accessible for people with visual, learning, or hearing impairments. There was a significant difference between the groups in their response in seven of the ten categories for accommodation. For example, non-Federal respondents reported more difficulty with making information accessible for persons with visual impairments (36 percent compared to 14 percent for Federal respondents), and non-Federal employers reported more difficulty with providing information in an accessible way for people with hearing impairments (23 percent and eight percent, respectively). Federal agency representatives ex-pressed less difficulty in every listed change except for one: providing medical tests post offer, which four percent of non-Federal respondents found difficult, compared to six percent of Federal respondents.
+
+Across both groups, respondents were much less familiar with considerations in the applicant interview process for accommodations for people with visual or hearing impairments: adapting print materials for people with visual impairments, use of a reader for a person with a visual impairment, and the use of TTY/ text telephones to set up interviews. Federal sector respondents indicated a much greater familiarity with accessing sign language interpreters, however (33 percent of non-Federal vs. 76 percent of Federal respondents reported their staff was "familiar" or "very familiar" with this accommodation). Federal respondents, while least familiar with accommodations for visual or hearing impairments, were far more familiar with them than their non-Federal sector counterparts. 
+
+In general, the profile of perceived barriers to employment and advancement of people with disabilities between the two groups, in terms of overall percent-age, is similar. However, there was a significant difference in the perception of possible barriers between the two groups in two of the areas: attitudes and stereotypes as a barrier, and the lack of requisite skills and training. Significantly more Federal than non-Federal employers believed those areas were barriers to employment. Interestingly, in both groups, cost of training, supervision, and of accommodations for applicants or employees with disabilities were least likely to be rated as significant continuing barriers, compared to other areas. Continuing barriers to employment and advancement for persons with disabilities reported by both types of employers were identified as being both within the workplace itself and within the individual with a disability. In terms of workplace barriers, attitudes or stereotypes among co-workers and supervisors towards persons with disabilities was seen as a significant barrier among both Federal respondents (43 percent) and non-Federal respondents (22 percent). Approximately one-third in each group see supervisor lack of knowledge of how to make accommodations as a continuing barrier (31 percent of the non-Federal employers and 34 percent in Federal agencies). In terms of barriers in the individual with a disability, lack of requisite skills and training were cited as a continuing barrier by 39 percent of non-Federal employers and 45 percent of Federal, as was lack of related experience (49 percent of non-Federal and 53 percent of Federal employers). 
+
+There was little difference in the top choice of method of reducing employment barriers identified by both groups, which was visible top management commitment (81 percent for the non-Federal, 90 percent for Federal respondents). The next three most popular means to reduce barriers were ranked very closely within both groups, though there was a significant difference between groups. These means were: staff training, with 62 percent of non-Federal and 71 percent of Federal agencies reporting this as an effective or very effective way of reducing barriers; mentoring (59 percent and 71 percent for non-Federal and Federal, respectively); and on-site consultation or technical assistance (58 percent and 71 percent respectively). Two parallel items on the surveys asked about strategies that would lower the cost of accommodations for employers. A notable difference between the two groups is a positive persuasion towards the effectiveness of special budget allocations among Federal sector respondents (69 percent). Whereas, only 26 percent of non-Federal respondents felt that employer tax incentives were an effective or very effective means to reduce barriers to employment for persons with disabilities. 
+
+In both groups, those surveyed were asked whether they had made certain changes in the workplace in order to meet the needs of employees with disabilities, and asked to rate the degree of difficulty in making those changes. In both groups, the change most often made but also seen as the most difficult to change was co-worker or supervisor attitudes toward the employee with a disability (32 percent of non-Federal and 33 percent of Federal representatives indicated this change was difficult or very difficult). When asked about the types of access provided to enhance opportunities for promotion and training, Federal agencies reported significantly more provision of communication access for persons who are hearing impaired (91 percent in the Federal sector compared to 43 percent in the non-Federal), and persons who are visually impaired (77 percent in the Federal sector compared to 37 percent in the non-Federal sector). 
+
+Non-Federal employers reported significantly fewer claims filed against them than did Federal respondents. Failure to provide reasonable accommodation was reported by Federal agencies as the most often experienced claim, at 36 percent. Second most often experienced by Federal agencies was failure to promote, at 26 percent. The most commonly filed claim for non-Federal employers was wrongful discharge (19 percent). Next most often experienced was the claim of failure to provide reasonable accommodation, experienced by 14 percent of non-Federal organizations. The claim least often experienced by both groups was that of wage disputes (two percent for non-Federal, four percent for Federal), followed by the claim of denied or reduced benefits (two percent of non-Federal and five percent of Federal agencies). A majority of people in both sectors reported having a dispute or grievance resolution process for accommodations (93 percent of Federal, and 72 percent of non-Federal reported such a process). 
+
+Federal workplaces were more significantly unionized (73 percent) compared to the non-Federal sector (23 percent). In both groups, among those who have collective bargaining agreements and have union involvement in the accommodation process, unions were most often used to provide representation in discussions about the accommodation process (69 percent non-Federal, 75 percent Federal). 
+
+The training profiles for both groups were, on the whole, very similar. The areas in which training was most often conducted were the accommodation process and non-discriminatory recruiting and hiring. Areas where the least training was conducted were allowable limitations on health plans, interaction with other legislation, and accommodations for people with psychiatric disabilities. Both sector respondents identified further information on accommodations for persons with psychiatric disabilities as a significant ongoing need (69 percent of Federal respondents and 65 percent of non-Federal respondents). 
+
+Across both groups, legal counsel ranked highly as a resource often used to resolve disputes (82 percent and 88 percent for the non-Federal and Federal groups respectively). This was the most-often used resource for the non-Federal group, and a close second in the Federal group, topped only by the agency EEO office (90 percent). Next most often used in the non-Federal sector were professional societies such as the Society for Human Resource Management (SHRM), and safety and disability staff within the organization. For Federal agencies, after EEO and legal advisors the next most often used resources to resolve disputes were safety staff and state rehabilitation agencies. 
+
+The majority of people in both groups reported having formal or informal disability management or return-to-work programs, although non-Federal employers had a significantly higher number. In both groups, of those who have disability management or return to work programs, they report that these programs contributed to implementation of civil rights laws in a number of ways, including (in order of priority): importance of confidentiality (85 percent and 89 percent for the non-Federal and Federal respectively); raising acceptance for persons with disabilities in the workplace  (73 percent and 88 percent respectively); increasing supervisor awareness of the accommodation process (75 percent and 87 percent respectively); and creating an organizational structure for accommodations (71 percent and 79 percent respectively). 25 
+
+
+
+Summary and Implications 
+
+
+This report identifies how Federal departments and agencies are responding to the employment disability nondiscrimination requirements of the Americans with Disabilities Act and the Rehabilitation Act. The results from this research indicates that while much progress has been made, there remain many barriers to the recruitment,  hiring, retention, and career advancement of adults with disabilities in the Federal workforce that warrant consideration. 
+
+
+Agency Accommodation Structure 
+
+Most agencies report having made accommodations for their employees with disabilities. However, one in five agencies reported having received no accommodation requests in the prior fiscal year. There would seem to be a ready mechanism for getting further information on this from most agencies, as most reported having a formal process in place for handling accommodation requests. Since the immediate supervisor is most often cited as the final decision-maker in accommodation decisions, however, there may not be a ready reporting mechanism at the central level, and further information gathering may need to occur deeper within the agency structure. 
+
+Increase Use of Hiring Authorities 
+
+Another area for concern is the extent to which Federal agencies use special hiring authorities. Only one in four agencies reported frequently using the Schedule A or B provisions for hiring persons with disabilities or using the special hiring program for veterans with disabilities. These provisions appear to be an under-utilized tool by Federal agencies, lessening the effectiveness of Federal agencies to increase the employment of people with disabilities. These are areas for further exploration where changes might be indicated. 
+
+Supports Needed for Specific Populations 
+
+The majority of agencies report having made changes in their existing recruitment, pre-employment screening, testing, and orientation procedures in order to comply with civil rights laws. However, making information accessible for a person with a visual or learning disability, or a person who is deaf or hard of hearing, was an area reported more difficult than others, in terms of accommodations in the pre-employment area. Respondents indicated that their interview staff are least familiar with interview considerations relating to people with visual or auditory impairments, such as using a text telephone or relay service to set up interviews with deaf or hard of hearing applicants, using a reader to assist a person with a visual impairment or learning disability, or with adapting print materials used in interviews to large print, diskette, or Braille. This finding is significant in light of the recent addition of Section 508 to the Rehabilitation Act. Section 508 mandates that all Federal technology purchases be fully accessible to employees with disabilities. Significant technical assistance and training at the agency level will be required if Section 508 is to be successfully implemented. 
+
+Another area for further exploration is the workplace supports needed for persons with psychiatric disabilities. Respondents in both the Federal and non-Federal sectors indicated a need for further information on accommodations for persons with psychiatric disabilities. Exploration of how to use the proposed new hiring authorities for this group, as well as how to provide supports, once individuals have been employed, need to be examined. This, again, may be a place where Federal and private sector employers can join to find effective solutions to enhance the hiring and retention of this group. 
+
+
+Employ Diversity Strategies 
+
+Some remaining barriers to employment for persons with disabilities identified by Federal agencies were in the workplace itself. Attitudes toward people with disabilities continues as a workplace integration issue, even though this was an area where most agencies reported having made changes. Perhaps this is an area that can be merged with diversity programming or addressed independently with continued training across all agencies. It would be a valuable discussion with Federal agencies as to whether the presence of diversity programs has been of any assistance in addressing issues of disability discrimination and negative attitudes or stereotypes toward persons with disabilities. Since diversity programs are increasing in popularity in the private sector, joint exploration with non-Federal employers of application of this use might be most beneficial. The Task Force should closely examine Federal agency training programs and curriculums to determine the extent to which disability issues are included. 
+
+Engage Unions and Advisory Councils 
+
+Since the Federal workplace is heavily unionized and unions are often involved in the accommodation process, focus groups with unions might be a good place to continue information gathering in this process to learn more about barriers to employment for people with disabilities. Another possible source of information close to the workplace about employment and disability issues are the disability advisory councils. Both might be groups for further follow up with focus groups in the future for continued research. 
+
+Increase Supervisors' Knowledge of Accommodations 
+
+Supervisors' lack of knowledge about accommodations was also reported as an ongoing barrier in the work environment for persons with disabilities. Since the majority of training in the Federal agencies has been focused on human resource personnel in the past, this is not surprising, and a place where training and technical assistance should be focused in the future. Since supervisors reportedly make the final decision on accommodations in most Federal workplaces, it is imperative that they have the training needed to be able to make appropriate decisions and access needed resources for particular accommodation requests. 
+
+
+Areas for Further Training and Technical Assistance 
+
+When asked about areas for further information and technical assistance, respondents indicated needing assistance and further resources in the area of accommodations for people with psychiatric disabilities. This is also an area of great concern for non-Federal employers, and also perhaps an area where jointly developed products around best practices and available resources might be helpful in both sectors. Another area where further training was identified in the Federal sector respondents in this study was for more information and training on the Rehabilitation Act requirements. 
+
+
+Alternative Dispute Resolution 
+
+Almost all of the agencies reported having a grievance or dispute resolution process in place for accommodations, yet a U. S. General Accounting Office (GAO) report indicates that many employment discrimination disputes, including those relating to disability discrimination, are making their way to the EEOC (Endnote 4) . The length of time for processing these disputes continues to increase. It would appear that significant further work must be done to encourage and inform dispute resolution particularly on accommodation issues, earlier on and closer to the workplace. Alternative dispute resolution is an area that is gaining in popularity in the private sector, and again may be an area that the Federal sector might want to further explore. An example might be setting up model teams within agencies that represent the various interested parties in the accommodation process such as the person with a disability, HR representative, supervisor, health and safety representative, union, and EEO representative. 
+
+
+Use of Disability Management Programs 
+
+Two-thirds of respondents reported that their agency has a formal or informal disability management program; respondents who have such a program indicated that these programs contribute to implementation of civil rights laws. This is an area that perhaps could be further explored as a programmatic structure for support for workplace disability nondiscrimination policies and practices. 
+
+
+Disability Employment and Training Policy 
+
+One of the areas across both Federal and non-Federal organizations seen as a remaining barrier to the employment of people with disabilities is the lack of requisite training, skills, and related work experience in persons with disabilities. These identified barriers have implications for employment and disability social policy changes that advance the interests of people with disabilities in the employment and training arena. It is imperative that initiatives such as those in existence under the Work-force Investment Act include people with disabilities in their mandate and implementation. This means not only having the direction for such inclusion written into the legislation and resulting regulations, but also making certain that implementation at the local level takes into account the unique service delivery needs of such system users. Success at this level calls for skilled professionals who will understand and be able to identify the service needs of persons with disabilities to assist them in making meaningful choices for training and subsequent employment. This also necessitates physical and communication accessibility of such service systems. 
+
+Also of interest for further study is the perspective of nonfederal employers about the effectiveness of tax incentives as a means to remove barriers for persons with disabilities in the hiring and retention employment processes. Tax incentives was seen as the least effective means to reduce such barriers, by non-Federal sector employers; indeed only 26% reported these as effective or very effective in reducing barriers. A parallel item on special budget allocations as a way to reduce accommodation costs to employers was asked on the Federal survey. Sixty-nine percent of those interviewed saw this as effective or very effective in reducing barriers. 
+
+As evidenced by this research, Federal and non-Federal organizations are making significant strides in responding to employment disability nondiscrimination legislation such as the ADA and the Rehabilitation Act to change internal business organization environments and policies to respond to the law. Such efforts must be complemented by supporting national employment and training policies that provide persons with disabilities with training and experience resulting in skills that are marketable in a labor market that needs skilled workers. 
+
+
+Further Research Needed 
+
+The results discussed in this report indicate a need for further research. One direction for further research is to gain the perspective of nondiscriminatory practices from Federal employees with disabilities, supervisors, and co-workers. Additional areas for future research include Federal training programs and technology applications. Finally, this report highlights many areas where the Federal government can and should provide additional promotion, outreach, and technical assistance to Federal agencies. This includes use of special hiring authorities; accommodations for people with visual, learning, and hearing disabilities, and people with psychiatric disabilities; alternative dispute resolution; and laws governing employment of people with disabilities. 
+
+
+
+Next Steps for the Presidential Task Force 
+
+This report to the Presidential Task Force identifies significant areas which warrant further investigation and follow-up in order to increase opportunities and eliminate barriers to the employment, retention, and career advancement of people with disabilities in the Federal workforce. The information contained in this report will be broadly disseminated to Task Force members and Committees, as well as Federal departments and agencies for further action, including the following: 
+
+
+*The Committee on the Federal Government as a Model Employer will examine the results from this survey. The Committee's three Subcommittees on Federal Policy Development, Recruitment, Retention, and Career Advancement, and Reasonable Accommodations will use the results in their ongoing work. 
+
+*The Office of Personnel Management will use the information to implement Accessing Opportunity: The Plan for Employment of People with Disabilities in the Federal Government. The Plan, released in October, 1999, serves as a framework for Federal departments and agencies to use as they create strategies and initiatives to recruit, hire, develop, and retain more people with disabilities. 
+
+*The Committee on Civil Rights will use the report to continue its examination of coordinated enforcement of various Federal nondiscrimination employment policies. 
+
+* Federal departments and agencies will be sent copies of the report for consideration in their efforts to increase opportunities and remove barriers for adults with disabilities. 
+
+*The report will be used by the Task Force to continue its examination of Federal employment practices and to consider actions on the additional data collection efforts recommended. 
+
+Endnotes
+
+1 Office of Personnel Management (October, 1999). Accessing 
+opportunity: The plan for employment of people with disabilities in 
+the Federal government. Washington, DC: Author. [Available on 
+from OPM's website, www. opm. gov, and in alternative formats 
+through OPM by calling (202) 606-1059 or (202) 606-0023 (TTY).]
+
+2 Further information about this study can be obtained from Cornell University by
+contacting Susanne M. Bruyère, Principal Investigator, 
+607-255-7727, e-mail smb23@ cornell. edu, or Cornell 
+University web site http:// www. ilr. cornell. edu/ ped/ projects/ 
+ADA_ Projects/ IEP/
+
+3 Akabas, S., Gates, L. & Galvin, D. (1992). Disability management: 
+A complete system to reduce costs, increase productivity, meet 
+employee needs, and ensure legal compliance. New York: AMACOM, 
+p. 2. 21 
+
+4 U. S. General Accounting Office (1999). Equal Employment 
+Opportunity: Complaint caseloads rising, with effects of new 
+regulations on future trends unclear. (GAO/ GGD-99-128) Report to 
+Congressional Requestors. Washington, DC: Author. 26 
+
+
+
+
+Appendices
+
+
+Appendix A: Executive Order 
+
+Executive Order 13078 
+
+Increasing Employment of Adults with Disabilities 
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to increase the employment of adults with disabilities to a rate that is as close as possible to the employment rate of the general adult population and to support the goals articulated in the findings and purpose section of the Americans with Disabilities Act of 1990, it is hereby ordered as follows: 
+
+Section 1. Establishment of National Task Force on Employment of Adults with Disabilities. 
+
+(a) There is established the "National Task Force on Employment of Adults with Disabilities" ("Task Force"). The Task Force shall comprise the Secretary of Labor, Secretary of Education, Secretary of Veterans Affairs, Secretary of Health and Human Services, Commissioner of Social Security, Secretary of the Treasury, Secretary of Commerce, Secretary of Transportation, Director of the Office of Personnel Management, Administrator of the Small Business Administration, the Chair of the Equal Employment Opportunity Commission, the Chairperson of the National Council on Disability, the Chair of the President's Committee on Employment of People with Disabilities, and such other senior executive branch officials as may be determined by the Chair of the Task Force. 
+
+(b) The Secretary of Labor shall be the Chair of the Task Force; the Chair of the President's Committee on Employment of People with Disabilities shall be the Vice Chair of the Task Force. 
+
+(c) The purpose of the Task Force is to create a coordinated and aggressive national policy to bring adults with disabilities into gainful employment at a rate that is as close as possible to that of the general adult population. The Task Force shall develop and recommend to the President, through the Chair of the Task Force, a coordinated Federal policy to reduce employment barriers for persons with disabilities. Policy recommendations may cover such areas as discrimination, reasonable accommodations, inadequate access to health care, lack of consumer-driven, long-term supports and services, transportation, accessible and integrated housing, tele-communications, assistive technology, community services, child care, education, vocational rehabilitation, training services, job retention, on-the-job supports, and economic incentives to work. Specifically, the Task Force shall: 
+
+(1) analyze the existing programs and policies of Task Force member agencies to determine what changes, modifications, and innovations may be necessary to remove barriers to work faced by people with disabilities; 
+
+(2) develop and recommend options to address health insurance coverage as a barrier to employment for people with disabilities; 
+
+(3) subject to the availability of appropriations, analyze State and private disability systems (e.g., workers' compensation, unemployment insurance, private insurance, and State mental health and mental retardation systems)and their effect on Federal programs and employment of adults with disabilities; 
+
+
+(4) consider statistical and data analysis, cost data, research, and policy studies on public subsidies, employment, employment discrimination, and rates of return - to-work for individuals with disabilities; 
+
+(5) evaluate and, where appropriate, coordinate and collaborate on, research and demonstration priorities of Task Force member agencies related to employment of adults with disabilities; 
+
+(6) evaluate whether Federal studies related to employment and training can, and should, include a statistically significant sample of adults with disabilities; 
+
+(7) subject to the availability of appropriations, analyze youth programs related to employment (e.g., Employment and Training Administration programs, special education, vocational rehabilitation, school-to-work transition, vocational education, and Social Security Administration work incentives and other programs, as may be determined by the Chair and Vice Chair of the Task Force) and the outcomes of those programs for young people with disabilities; 
+
+(8) evaluate whether a single governmental entity or program should be established to provide computer and electronic accommodations for Federal employees with disabilities; 
+
+(9) consult with the President's Committee on Mental Retardation on policies to increase the employment of people with mental retardation and cognitive disabilities; and 
+
+(10)recommend to the President any additional steps that can be taken to advance the employment of adults with disabilities, including legislative proposals, regulatory changes, and program and budget initiatives. 
+
+(d) (1) The members of the Task Force shall make the activities and initiatives set forth in this order a high priority within their respective agencies within the levels provided in the President's budget. 
+
+(2) The Task Force shall issue its first report to the President by November 15, 1998. The Task Force shall issue a report to the President on November 15, 1999, November 15, 2000, and a final report on July 26, 2002, the 10thanniversary of the initial implementation of the employment provisions of the Americans with Disabilities Act of1990. The reports shall describe the actions taken by, and progress of, each member of the Task Force in carrying out this order. The Task Force shall terminate 30 days after submitting its final report. 
+
+(e) As used herein, an adult with a disability is a person with a physical or mental impairment that substantially limits at least one major life activity. 
+
+
+Sec. 2. Specific activities by Task Force members and other agencies. 
+
+(a) To ensure that the Federal Government is a model employer of adults with disabilities, by November 15, 1998,the Office of Personnel Management, the Department of Labor, and the Equal Employment Opportunity Commission shall submit to the Task Force a review of Federal Government personnel laws, regulations, and policies and, as appropriate, shall recommend or implement changes necessary to improve Federal employment policy for adults with disabilities. This review shall include personnel practices and actions such as: hiring, promotion, benefits, retirement, workers' compensation, retention, accessible facilities, job accommodations, layoffs, and reductions in force. 
+
+(b) The Departments of Justice, Labor, Education, and Health and Human Services shall report to the Task Force by November 15, 1998, on their work with the States and others to ensure that the Personal Responsibility and Work Opportunity Reconciliation Act is carried out in accordance with section 504 of the Rehabilitation Act of1973, as amended, and the Americans with Disabilities Act of 1990, so that individuals with disabilities and their families can realize the full promise of welfare reform by having an equal opportunity for employment. 
+
+(c) The Departments of Education, Labor, Commerce, and Health and Human Services, the Small Business Administration, and the President's Committee on Employment of People with Disabilities shall work together and report to the Task Force by November 15, 1998, on their work to develop small business and entrepreneurial opportunities for adults with disabilities and strategies for assisting low-income adults, including those with disabilities to create small businesses and micro - enterprises. These same agencies, in consultation with the Committee for Purchase from People Who Are Blind or Severely Disabled, shall assess the impact of the Randolph-Sheppard Act vending program and the Javits-Wagner-O'Day Act on employment and small business opportunities for people with disabilities. 
+
+(d) The Departments of Transportation and Housing and Urban Development shall report to the Task Force by November 15, 1998, on their examination of their programs to see if they can be used to create new work incentives and to remove barriers to work for adults with disabilities. 
+
+(e) The Departments of Justice, Education, and Labor, the Equal Employment Opportunity Commission, and the Social Security Administration shall work together and report to the Task Force by November 15, 1998, on their work to propose remedies to the prevention of people with disabilities from successfully exercising their employment rights under the Americans with Disabilities Act of 1990 because of the receipt of monetary benefits based on their disability and lack of gainful employment. 
+
+(f) The Bureau of Labor Statistics of the Department of Labor and the Census Bureau of the Department of Commerce, in cooperation with the Departments of Education and Health and Human Services, the National Council on Disability, and the President's Committee on Employment of People with Disabilities shall design and implement a statistically reliable and accurate method to measure the employment rate of adults with disabilities as soon as possible, but no later than the date of termination of the Task Force. Data derived from this methodology shall be published on as frequent a basis as possible. 
+
+(g) All executive agencies that are not members of the Task Force shall: 
+
+(1) coordinate and cooperate with the Task Force; and 
+
+(2) review their programs and policies to ensure that they are being conducted and delivered in a manner that facilitates and promotes the employment of adults with disabilities. Each agency shall file a report with the Task Force on the results of its review on November 15, 1998. 
+
+Sec. 3. Cooperation. 
+
+All efforts taken by executive departments and agencies under sections 1 and 2 of this order shall, as appropriate, further partnerships and cooperation with public and private sector employers, organizations that represent people with disabilities, organized labor, veteran service organizations, and State and local governments whenever such partnerships and cooperation are possible and would promote the employment and gainful economic activities of individuals with disabilities. 
+
+Sec. 4. Judicial Review. 
+
+This order does not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person. 
+
+William J. Clinton 
+The White House, March 13, 1998.
+
+
+
+Appendix B: Survey 
+
+
+Survey of the Federal Government on Human Resources/ EEO Policies and Practices in Employment of People with Disabilities 
+
+Sponsored by: 
+The Presidential Task Force on Employment of Adults with Disabilities 
+
+Conducted by: 
+Cornell University, School of Industrial and Labor Relations’ Extension Division 
+
+The research which sponsored the original survey design was funded by the U. S. Department of Education 
+National Institute on Disability and Rehabilitation Research for a Research and Demonstration Project to the Program on Employment and Disability in the School of Industrial and Labor Relations’ Extension Division at Cornell University (Grant #HI33A70005), Susanne M. Bruyère, Principal Investigator. 
+
+
+I. Demographic Information 
+
+Definitions 
+
+The employment provisions of the Americans with Disabilities Act (ADA) and the Rehabilitation Act require reasonable accommodation. A reasonable accommodation is a modification or adjustment to a job, the work environment, or the way things are usually done that enables a qualified individual to enjoy an equal opportunity. Accommodations must be provided unless the employer can show that the accommodation would impose an undue hardship on the business. 
+
+A "person with a disability" is someone who: a) has a physical or mental impairment that substantially limits a major life activity, b) has a record of such an impairment or, c) is regarded as having such an impairment. 
+
+Instructions 
+
+Please answer each question as it pertains to your agency. When questions refer to your agency, please answer for the unit of your agency for which you are responsible (for example, your branch rather than your entire agency nationwide). 
+
+1. Agency size at your location: 
+(Please circle one response) 
+
+1 0-14 employees 
+2 15-25 employees 
+3 26-50 employees 
+4 51-249 employees 
+5 250-499 employees 
+6 500-1499 employees
+7 1500-2499 employees
+8 2500-3499 employees
+9 3500-4999 employees
+10 5000+ employees
+
+
+2. #2 has been deleted for purposes of this survey. 
+
+3. Your title: (Please circle one response) 
+1 Director/ Chief 
+2 Deputy Assistant Secretary 
+3 Deputy Director 
+4 Personnel Manager 
+5 Officer 
+6 Specialist 
+7 Program Coordinator 
+8 Other (please specify) 34 
+
+
+4. Your function: (Please circle one response) 
+1 Administrative 
+2 Equal Employment Opportunity (EEO)/ Affirmative Action 
+3 Benefits 
+4 Compensation 
+5 Disability 
+6 Diversity 
+7 Employee Relations 
+8 Employment/ Recruitment 
+9 Health/ Safety/ Security 
+10 Human Resources (HR) 
+11 Labor/ Industrial Relations 
+12 Legal 
+13 Organizational Development 
+14 Training & Development 
+15 Other (Please specify) 
+
+
+5. Number of years with your agency:  (Fill in blank) years 
+
+6. Are you reporting for: (Please circle one response) 
+1 Entire agency (including regions) 
+2 Headquarters 
+3 Regional office only 
+
+II. Issue Areas 
+
+A. The Reasonable Accommodation Process 
+
+PTF1. In the fiscal year 1999, how many accommodation requests has your agency received? 
+Number of Requests (fill in blank)
+
+PTF2. Does your agency have a formal process for handling accommodation requests? 
+1 Yes 2 No 8 Don't know 
+
+1. To meet the needs of your employees with disabilities, has your agency: 
+(Please circle one response for each item) 
+(Responses are: yes; no, not able to; no, never needed to make accommodations; and don’t know)
+
+a. made existing facilities accessible to employees with 1 2 3 8 disabilities (restrooms, door entrances, hallways, etc.) 
+b. restructured jobs or modified work hours 
+c. made reassignment to vacant positions 
+d. acquired or modified equipment or devices 
+e. acquired or modified examination or training materials 
+f. provided qualified readers or interpreters (includes personal assistants) 
+g. been flexible in its application of HR policies 
+h. changed supervisory methods 
+i. made parking or transportation accommodations 
+j. provided written job instructions 
+k. modified work environment  (orthopedic chair, lower desk, etc.) 
+l. provided a job coach 
+m. Other (Please specify) 
+
+
+2. If an accommodation request is made, who makes the final decision regarding the provision of the accommodation? (Please circle one response) 
+
+1 Immediate supervisor of the employee requesting 
+2 Occupational health/ medical clinic staff 
+3 Safety/ ergonomic staff 
+4 HR staff 
+5 Legal counsel 10 No single final responsible party 
+(internal or external) 
+6 Your agency's EEO office 11 Don't know 
+7 Other manager/ director
+8 Disability management/ benefits staff
+9 Other (Please specify)
+
+
+3. Does your agency keep data on the accommodations it makes for employees with disabilities for any of the following purposes? (Please circle all that apply) 
+
+1 Future accommodations in similar situations 
+2 Tracking accommodation costs 
+3 Dispute resolution/ settlement 
+4 Regulatory reporting requirements 
+5 Disability claim coordination 
+6 Other (Please specify) 
+7 Do not keep data on accommodations 
+
+
+B. Recruitment, Pre-Employment Screening, Testing, and Orientation 
+
+PTF1. In order to recruit people with disabilities, how often does your agency make use of the provisions contained in schedule A and schedule B through which people with disabilities can be exempted from the competitive appointment process? 
+
+1 Frequently 
+2 Occasionally 
+3 Never
+8 Don't know 
+9 Not aware of these provisions 
+
+
+PTF2. How frequently does your agency make use of special hiring programs for disabled veterans? 
+
+1 Frequently
+ 2 Occasionally 
+3 Never 
+8 Don't know 
+9 Not aware of these programs 
+
+
+1. In order to comply with the ADA and/ or the Rehabilitation Act, how easy or difficult was it for your agency to make the following changes or adaptations? 
+
+(for each change, choices are: Very easy, Easy, Neither easy nor difficult, Difficult, Not able to make this change, Didn’t need to make this change, and Don’t know) 
+
+a. Making recruiting locations accessible to people with disabilities 
+b. Changing wording of job  applications 
+c. Changing questions asked in interviews 
+d. Making interview locations  accessible to people with disabilities 
+e. Modifying pre-employment  testing (e. g. time flexibility) 
+f. Arranging for medical tests post-offer 
+g. Making new employee  orientation accessible to people with disabilities 
+h. Making information accessible  for a hearing impaired person (e. g. sign language interpreter; text telephone; captioning on video) 
+i. Making information accessible  for a person with a visual or learning impairment (e. g. a reader, Braille, large print, or  audio-cassette or telephone version of application) 
+j. Making restrooms accessible  to people with disabilities 
+k. Other (Please specify) 
+
+
+PTF3. How familiar are you with your agency's goals for employment of persons with disabilities that are included in your agency's Affirmative Employment Plan? 
+
+1 Very familiar
+ 2 Familiar 
+3 Neither familiar nor unfamiliar 
+4 Unfamiliar 
+5 Very unfamiliar 
+8 Don't know 
+
+
+PTF4. To what extent does your agency set reasonable affirmative employment goals and make an effort to achieve them? 
+
+1 A great deal 
+2 Somewhat 
+3 Minimally
+ 4 Not at all 
+8 Don't know 
+
+
+3. Generally, how familiar with the following are your agency's staff who are responsible for applicant interviewing?
+ (Please circle one response per item) 
+(choices are:  Very familiar, Familiar, Neither familiar nor unfamiliar, Unfamiliar, Very unfamiliar, Don’t know)
+
+
+a. Framing questions to applicants about the  ability to perform specific job tasks rather than about disability 
+b. Restrictions on obtaining medical  examinations and medical history information 
+c. Restrictions on eliciting information about  medical issues affecting applicants' health and safety on the job 
+d. Knowing when to ask an applicant about  how s/ he would perform specific job tasks 
+e. Accessing sign language interpreters  
+f. Using a teletypewriter (TTY) or relay  service to set up interviews 
+g. Using a reader to assist a person with  a learning disability or vision impairment 
+h. Adapting print materials used in the  interview to large print, diskette, or Braille 
+i. Knowing when to test for illegal drugs  
+
+Section C has been eliminated for the purposes of this survey. 38 
+
+
+D. Opportunities for Promotion/ Training 
+
+
+1. In your opinion, do any of the following pose a barrier to employment or advancement for persons with disabilities in your agency? (Please circle all that apply) 
+
+1 Cost of accommodations 
+2 Cost of training 
+3 Additional cost of supervision 
+4 Attitudes/ stereotypes 
+5 Supervisor knowledge of which accommodation to make
+ 6 Lack of requisite skills and training 
+7 Lack of related experience 
+8 Other (Please specify) 
+9 No barriers 
+
+
+2. How effective or ineffective would each of the following be in reducing barriers to employment or advancement for persons with disabilities within your agency? (Please circle one response for each item) 
+
+(each option is to be ranked from  1 – very effective to 5 – very ineffective, or can choose “don’t know”)
+
+a. Special budget allocation  
+b. Short-term outside assistance with  job supervision (e. g. outside job coach) 
+c. Staff training  
+d. On-site consultation or technical assistance  
+e. Mentoring  
+f. Visible top management commitment  
+g. Other (Please specify) 8 
+
+
+3. In order to meet the needs of employees with disabilities, how easy or difficult was it for your agency to make the following changes? (Please circle one response for each item) 
+(choices are Very easy, Easy, Neither easy nor difficult, Very difficult, Didn’t make this change, Didn’t need to make this change, and Don’t know)
+
+a. Change in leave policy   
+b. Adjusting policies regarding   medical questions and medical examinations of employees 
+c. Changing co-worker or supervisor   attitudes towards employees with disabilities 
+d. Ensuring equal pay and benefits   for employees with disabilities 
+e. Creating flexibility within the   performance management system 
+f. Modifying the return to work or   transitional employment policy 
+
+
+4. Has your agency used the following to ensure that people with disabilities have access to meetings, promotional, social opportunities and/ or training? (Please circle one response for each item) 
+(responses are Yes; No, not able to provide; No, never needed to provide, and Don’t know)
+
+a. Wheelchair access 
+b. Communication access for a hearing-impaired person (e. g. sign  language interpreter; text telephone; captioning on video; etc.) 
+c. Communication access for a person with a visual or learning  impairment (e. g., Braille, large print, or audiocassette version  of application; reader) 
+d. Time flexibility in test taking 
+e. Removing volatile or scented substances from the air
+f. Other (Please specify) 
+
+
+E. Disciplinary Process, Grievance, Discharge, or Termination 
+
+1. Does your agency have a grievance or dispute resolution process to deal with disability and accommodation issues? (Please circle one response) 
+
+1 Yes 
+2 No 
+8 Don't know 
+
+
+2. Has your agency experienced any of the following filed disability claims under the ADA? 
+(Please circle one response for each item) 
+(options are:  Yes, No, and Don't know)
+
+a. Wrongful discharge 
+b. Failure to provide reasonable accommodation 
+c. Failure to hire 
+d. Harassment 
+e. Unfair discipline 
+f. Failure to rehire 
+g. Layoff 
+h. Denied or reduced benefits 
+i. Failure to promote 
+j. Wage dispute 
+k. Suspension
+
+F. Interaction with Labor Relations/ Collective Bargaining Issues 
+
+1. Are any of your employees covered by a collective bargaining agreement? (Please circle one response) 
+
+1 Yes 
+2 No (Please go to Section G, Question 1 )
+8 Don't know (Please go to Section G, Question 1)
+
+2. Is the union involved in the accommodation process? (Please circle one response) 
+1 Yes 
+2 No (Ü Please go to Section G, Question 1)
+8 Don't know (Please go to Section G, Question 1)
+
+3. In which of the following ways have unions been involved? (Please circle all that apply) 
+
+1 Provided information on the rights of employees with disabilities 
+2 Provided advice/ information on ways to accommodate employees with disabilities 
+3 Provided representation in reasonable accommodation discussions 
+4 Provided representation in grievance discussions when accommodation requests have been denied 
+5 Consulted with employers on revising employment policies 
+6 Other (Please specify_________________________________) 
+
+
+G. Interaction with Other Employment Legislation 
+
+1. How often has your agency been uncertain about how to handle the following concerning the ADA and 
+Workers' Compensation? (Please circle one response for each item) 
+(responses are: Frequently, Occasionally, Never, Not applicable, and Don’t know)
+
+a. When an injured worker is also covered by the ADA 
+b. When an injured worker returning to work following a work-related injury is entitled to reasonable accommodation 
+c. Whether an injured worker who cannot return to full duties can be terminated 
+d. How long the agency and injured worker must search for modified or alternate work before beginning vocational rehabilitation 
+e. Whether transitional, light duty work can be considered a permanent reassignment for reasonable accommodation  purposes 
+f. Safety issues involved in returning an injured worker to the job 
+
+
+2. How often has your agency been uncertain about how to handle the following concerning the ADA and the Family and Medical Leave Act? (Please circle one response for each item) 
+(responses are: Frequently, Occasionally, Never, Not applicable, and Don’t know)
+
+a. Whether an employee who requests FMLA leave is also covered by the ADA 
+b. Coordination of leave under the ADA and the FMLA, Workers' Comp., STD/ LTD, sick leave/ salary continuation 
+
+
+3. How often has your agency been uncertain about how to handle the following concerning the ADA and the Occupational Safety and Health Act? (Please circle one response for each item) 
+(responses are: Frequently, Occasionally, Never, Not applicable, and Don’t know)
+
+a. Whether it is permissible to discipline an employee who is a risk to self or others 
+b. Whether health and safety regulations supersede the confidentiality requirements of the ADA 
+c. Whether worksite modifications or ergonomic changes constitute reasonable accommodations 
+
+
+4. How often has your agency been uncertain about how to handle the following concerning the ADA and the Drug Free Workplace Act or the Omnibus Transportation Employee Testing Act? (Please circle one response for each item) 
+(responses are: Frequently, Occasionally, Never, Not applicable, and Don’t know)
+
+a. Whether an employee who is currently using alcohol is covered by the ADA 
+b. Whether an employee who is currently using illegal drugs is covered by the ADA 
+c. Whether a past drug user is covered by the ADA 
+d. Whether it is permissible to suspend or fire an employee whose alcohol or drug use impairs job performance 
+
+
+PTF5. How often has your agency been uncertain about how to handle the following concerning the Rehabilitation  Act requirements? (Please circle one response for each item)  
+(responses are: Frequently, Occasionally, Never, Not applicable, and Don’t know)
+
+a. Designing and implementing affirmative action requirements of Section 501 
+b. Purchasing accessible technology/ equipment in compliance with Section 508
+
+
+H. General 
+
+PTF1. Have any of your employees  been trained in the Rehabilitation 
+Act requirements? 
+(Responses for this question are: Yes, No, and Don’t know.  If yes, check which employees have received the training:  HR staff, managerial staff, EEO, Other staff.  Would you like more information in this area?  Yes/No)
+
+PTF2. Have any of your employees  been trained in Federal Hiring  Schedules? 
+(Responses for this question are: Yes, No, and Don’t know.  If yes, check which employees have received the training:  HR staff, managerial staff, EEO, Other staff.  Would you like more information in this area?  Yes/No)
+
+1. Have any of your  employees been trained in the following ADA topics?
+(Responses for this question are: Yes, No, and Don’t know.  If yes, check which employees have received the training:  HR staff, managerial staff, EEO, Other staff.  Would you like more information in this area?  Yes/No)
+
+a. Non-discriminatory recruitment  and hiring practices 
+b. The accommodation process  
+c. Equal access in promotional  opportunities and training 
+d. Accommodation for mental  disabilities 
+e. Defining essential job functions  
+f. Confidentiality requirements of  medical information 
+g. Limitations and exclusions the  ADA and other Federal laws allow 
+health plans to impose 
+h. Non-discrimination in the  disciplinary process or termination 
+i. Conflict resolution in the  accommodation process 
+j. Disability awareness and/ or  sensitivity training 
+k. Interaction with other  employment legislation 
+l. Available print or  organizational resources to assist in the accommodation process 
+m. Other (Please specify) 
+
+
+2. Please indicate which of the following resources your agency utilizes to help resolve ADA issues and rate their degree of helpfulness. Please check if utilized and circle one response for each item utilized. 
+(for each option the choices are: Utilize? (a check-box), followed by a rating of 1 (very helpful) to 5 (not helpful at all), and Don’t Know)
+
+a. State vocational rehabilitation agencies 
+b. Local independent living centers or other disability organizations 
+c. Job Accommodation Network (toll-free number) 
+d. The Regional ADA Technical Assistance Center (toll-free number) 
+e. U. S. EEOC 
+f. Your agency's EEO office 
+g. Internal legal counsel 
+g2. External legal counsel 
+h. Your safety/ ergonomics staff 
+i. Disability management/ benefits staff 
+j. Union representative 
+k. Other Federal agencies or professional society or business agency (e. g., OPM, MSPB, SHRM, IPMA) 
+l. Dispute resolution center/ mediator 
+
+
+3. Please indicate which of the following informational mediums you use to address your ADA issues and rate their degree of helpfulness. Please check if utilized and circle one response for each item utilized. 
+(for each option the choices are: Utilize? (a check-box), followed by a rating of 1 (very helpful) to 5 (not helpful at all), and Don’t Know)
+
+a. Print or video materials 
+b. Telephone consultation/ information hotline 
+c. On-site consultation/ training 
+d. Web sites/ list serve/ U. S. EEOC homepage 
+e. Organizational newsletter 
+f. Other (Please specify) 
+
+
+4. Does your agency have a return to work or disability management program for employees who are injured or become disabled? (Please circle one response) 
+
+1 Yes, formal program with written policies/ procedures 
+2 Yes, informal program with no formal written procedures 
+3 No return to work/ disability management system 44 
+
+
+5. To what extent has your agency's disability management program contributed to the following? 
+Please circle one response for each item. 
+(choices are: A great deal, Somewhat, Minimally, Not at all, Don’t Know)
+
+a. Supervisor awareness of the accommodation process 
+b. An organizational structure for providing accommodations 
+c. Recognition of the importance of confidentiality  of medical information 
+d. Raising the acceptance of employees with disabilities  by other employees 
+
+
+6. If you would like a copy of the executive summary of the study results, please provide the following information: 
+
+Name: 
+Agency: 
+Street address: 
+City: 
+State: Zip: 
+Telephone: 
+
+7. Would you be willing to participate in a follow-up in-person interview for this project? 
+1 Yes 
+2 No 
+
+Thank you for your assistance! 
+If you have any questions, 
+
+please contact: Lisa Horn 
+Telephone (toll-free): (888) 367-8404 
+TDD: 607-255-2891 
+E-mail: LLH5@ cornell. edu 
+44 
+Appendix C: Respondent Demographics 
+
+Organization Size at Location 
+(columns are Number of employees, percentage of all respondents)
+
+0-14, 2% 
+15-25, 1 
+26-50, 2 
+51-249, 16 
+250-499, 6 
+500-1499, 22 
+1500-2499, 13 
+2500-3499, 6 
+3500-4999, 7 
+5000+, 23 
+Refused, 1 
+
+
+Title of Respondent 
+(columns are title, percentage of all respondents)
+
+Director/ Chief, 41% 
+Deputy Assistant Secretary, 2
+Deputy Director, 4 
+Personnel Manager, 18
+Officer, 9
+Specialist, 10 
+Program Co-ordinator, 3
+Other, 13
+Don't Know, 0
+Refused, 0
+
+
+Level of Organization Where Reporting From 
+(columns are level, percent of all respondents)
+
+Entire agency (including regions), 49% 
+Headquarters only, 9 
+Regional only, 40 
+Refused, 2 
+
+
+Function of Respondent 
+(columns are function, percent of all respondents)
+** means Less than one percent 
+
+Administrative, 9% 
+Equal Opportunity, 35 
+Benefits , 0 
+Compensation,  0 
+Disability, 3 
+Diversity, 1 
+Employee Relations, 1 
+Employment/ Recruitment, 2 
+Health/ Safety/ Security, 0 
+Human Resources (HR), 41 
+Labor/ Industrial Relations, ** 
+Legal, ** 
+Organizational Development, 0 
+Training & Development, 0 
+Other, 8 
+Don't Know, 0 
+Refused, 0 
+
+
+Number of Years with Organization 
+(columns are range of years, percent of all respondents)
+<2, 6 
+2-5, 16 
+6-10, 20 
+11-20, 30 
+20+ 29, 
+
+
+
+Appendix D: List of Participating Agencies 
+
+List of All Agencies Who Participated 
+(columns are agency, frequency, percent, cumulative frequency, cumulative percent)
+
+Administrative Office of the U. S. Courts, 1, 0.2, 1, 0.2
+Agency for International Development, 1, 0.2, 2, 0.5
+Agriculture, 22, 5.5, 24, 6.0 
+Air Force, 10, 2.5, 34, 8.4
+Arms Control and Disarmament Agency, 1, 0.2, 35, 8.7
+Army, 14, 3.5, 49, 12.2 
+Central Intelligence Agency, 1, 0.2, 50, 12.4 
+Commerce, 6, 1.5, 56, 13.9 
+Commission on Civil Rights, 1, 0.2, 57, 14.1 
+Commodity Futures Trading Commission, 2, 0.5, 59, 14.6 
+Congressional Budget Office, 1, 0.2, 60, 14.9 
+Consumer Product Safety Commission, 2, 0.5, 62, 15.4 
+Corporation for National Service, 2, 0.5, 64, 15.9 
+Defense, 8, 2.0, 72, 17.9 
+Defense Contract Audit Agency, 2, 0.5, 74, 18.4 
+Defense Information Systems Agency, 2, 0.5, 76, 18.9 
+Defense Intelligence Agency, 1, 0.2, 77, 19.1 
+Defense Logistics Agency, 12, 3.0, 89, 22.1 
+Defense Nuclear Facilities Board, 2, 0.5, 91, 22.6 
+Defense Security Service, 1, 0.2, 92, 22.8 
+Defense Threat Reduction Agency, 2, 0.5, 94, 23.3 
+Education, 9, 2.2, 103, 25.6 
+Energy, 14, 3.5, 117, 29.0 
+Environmental Protection Agency, 19, 4.7, 136, 33.7 
+Equal Employment Opportunity Commission, 2, 0.5, 138, 34.2 
+Executive Office of the President, 2, 0.5, 140, 34.7 
+Export-Import Bank of the United States, 1, 0.2, 141, 35.0 
+Farm Credit Administration, 2, 0.5, 143, 35.5 
+Federal Communications Commission, 2, 0.5, 145, 36.0 
+Federal Deposit Insurance Corporation, 7, 1.7, 152, 37.7 
+Federal Election Commission, 1, 0.2, 153, 38.0 
+Federal Emergency Management Agency, 9, 2.2, 162, 40.2 
+Federal Energy Regulatory Commission, 1, 0.2, 163, 40.4 
+Federal Housing Finance Board, 1, 0.2, 164, 40.7 
+Federal Labor Relations Authority, 1, 0.2, 165, 40.9 
+Federal Mediation and Conciliation Service, 2, 0.5, 167, 41.4 
+Federal Reserve System, 2, 0.5, 169, 41.9 
+Federal Retirement Thrift Investment Board, 1, 0.2, 170, 42.2 
+Federal Trade Commission, 2, 0.5, 172, 42.7 
+Federal Maritime Commission, 2, 0.5, 174, 43.2 
+General Services Administration, 3, 0.7, 177, 43.9 
+Health & Human Services, 16, 4.0, 193, 47.9 
+Housing & Urban Development, 2, 0.5, 195, 48.4 
+Interior, 6, 1.5, 201, 49.9 
+International Trade Commission, 1, 0.2, 202, 50.1 
+Justice, 20, 5.0, 222, 55.1 
+Labor, 11, 2.7, 233, 57.8 
+Library of Congress, 1, 0.2, 234, 58.1 
+Merit Systems Protection Board, 2, 0.5, 236, 58.6 
+National Aeronautics & Space Administration, 17, 4.2, 253, 62.8 
+National Archives & Records Administration, 2, 0.5, 255, 63.3 
+National Endowment for the Arts, 1, 0.2, 256, 63.5 
+National Endowment for the Humanities, 2, 0.5, 258, 64.0 
+National Gallery of Art, 2, 0.5, 260, 64.5 
+National Guard Bureau, 1, 0.2, 261, 64.8 
+National Imagery & Mapping Agency, 1, 0.2, 262, 65.0 
+National Labor Relations Board, 2, 0.5, 264, 65.5 
+National Mediation Board, 1, 0.2, 265, 65.8 
+National Science Foundation, 2, 0.5, 267, 66.3 
+National Transportation Safety Board, 1, 0.2, 268, 66.5 
+Navy, 49, 12.2, 317, 78.7 
+Nuclear Regulatory Commission, 3, 0.7, 320, 79.4 
+Occupational Safety & Health Review Commission, 2, 0.5, 322, 79.9
+Office of Government Ethics, 2, 0.5, 324, 80.4 
+Office of Personnel Management, 1, 0.2, 325, 80.6 
+Office of Special Counsel, 1, 0.2, 326, 80.9 
+Overseas Private Investment Corporation, 1, 0.2, 327, 81.1 
+Peace Corps, 2, 0.5, 329, 81.6 
+Pension Benefit Guaranty Corporation, 2, 0.5, 331, 82.1 
+Postal Rate Commission, 2, 0.5, 333, 82.6 
+Railroad Retirement Board, 3, 0.7, 336, 83.4 
+Securities and Exchange Commission, 6, 1.5, 342, 84.9 
+Selective Service System, 1, 0.2, 343, 85.1 
+Small Business Administration, 2, 0.5, 345, 85.6 
+Smithsonian Institution, 1, 0.2, 346, 85.9 
+Social Security Administration, 16, 4.0, 362, 89.8 
+Soldiers and Airmen's Home, 1, 0.2, 363, 90.1 
+State, 2, 0.5, 365, 90.6 
+Tax Court of the United States, 1, 0.2, 366, 90.8 
+Tennessee Valley Authority, 1, 0.2, 367, 91.1 
+The Architect of the Capitol, 2, 0.5, 369, 91.6 
+Transportation, 15, 3.7, 384, 95.3 
+Treasury, 2, 0.5, 386, 95.8 
+U. S. General Accounting Office, 8, 2.0, 394, 97.8 
+U. S. Information Agency, 2, 0.5, 396, 98.3 
+Veterans Affairs, 6, 1.5, 402 99.8 
+Voice of America, 1, 0.2, 403, 100.0 
+
+
+Source: Disability Employment Policies and Practices in U. S. Federal Government Agencies. Presidential Task Force on Employment of Adults with Disabilities/ Cornell University, 1999. 
+
+
+Appendix E: Additional Resources 
+
+1) President's Committee on Employment of People with Disabilities (PCEPD) 
+1331 F Street, NW 
+Washington, DC 20004-1107 
+Phone: (Voice) 202-376-6200 
+(TDD) 202-376-6205 
+Website: http:// www. pcepd. gov 
+Email: info@ pcepd. gov 
+
+2) President's Committee Job Accommodation Network (JAN) 
+918 Chestnut Ridge Road, Suite 1 
+West Virginia University
+PO Box 6080 
+Morgantown, WV 26506-6080 
+Phone: (Voice) 800-526-7234 
+(TDD) 800-232-9675 
+Website: http:// www. pcepd. gov and click on JAN 
+or go directly to JAN at http:// 
+janweb. icdi. wvu. edu/ english/ homeus. htm 
+
+3) Equal Employment Opportunity Commission 
+1801 L Street NW (Federal Sector Programs) 
+Washington, DC 20507 
+Phone: (Voice) 800-669-3362 
+(TDD) 800-800-3302 
+Website: http:// www. eeoc. gov 
+For specific Federal employment questions, call the "ATTORNEY OF THE DAY" at 202-663-4599. 
+
+4) Department of Labor: Office of Federal Contractor Compliance Programs (OFCCP) 
+Department of Labor 
+Frances Perkins Building 
+200 Constitution Avenue NW 
+Washington, DC 20210 
+Phone: (Voice) 888-376-3227 
+(Voice) 202-219-9475 
+(TDD) 202-208-0452 
+Website: http:// www. dol. gov/ dol/ esa 
+
+5) U. S. Office of Personnel Management (for Federal employment information) 
+1900 E Street, NW 
+Washington, DC 20415 
+Phone: (Voice) 202-606-2700 
+(TDD) 912-744-2299 
+Website: www. opm. Gov
+
+
+For additional information, contact: 
+Richard L. Horne 
+Senior Policy Advisor 
+
+Presidential Task Force on 
+Employment of Adults with Disabilities 
+
+200 Constitution Avenue NW 
+Room S2220D 
+Washington, DC 20210 
+
+202-693-4939 (Voice) 
+202-693-4920 (TTY) 
+202-693-4929 (Fax) 
+
+e-mail: horne-richard@ dol. gov 
+web: http:// www. dol. gov 
+
+Susanne M. Bruyère 
+Director 
+
+Program on Employment and Disability 
+School of Industrial and Labor Relations 
+106 ILR Extension 
+Cornell University 
+Ithaca, NY 14853-3901 
+
+607-255-7727 (Voice) 
+607-255-2891 (TTY) 
+607-255-2763 (Fax) 
+
+e-mail: ilr_ ped@ cornell. edu 
+web: http:/// www. ilr. cornell. edu/ ped 52

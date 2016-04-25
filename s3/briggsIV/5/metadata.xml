@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Colorado Clif</title>
+<publication-date>1995-06-16T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>vmb2@cornell.edu</email>
+<lname>Briggs</lname>
+<fname>Vernon</fname>
+<mname>M.</mname>
+<suffix>Jr.</suffix>
+</author>
+</authors>
+<keywords>
+<keyword>Colorado</keyword>
+<keyword>economic</keyword>
+<keyword>Clif Grubbs</keyword>
+<keyword>Roosevelt National Forest</keyword>
+</keywords>
+<coverpage-url>http://digitalcommons.ilr.cornell.edu/briggsIV/5</coverpage-url>
+<fulltext-url>http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1004&amp;amp;context=briggsIV&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1004</articleid>
+<submission-date>2005-05-12T10:59:58-07:00</submission-date>
+<publication-title>Briggs Volume IV</publication-title>
+<context-key>71530</context-key>
+<submission-path>briggsIV/5</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>Volume 4 - Paper #60</value>
+</field>
+<field name="publication_date" type="date">
+<value>1995-06-16T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

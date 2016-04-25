@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Intrafirm Mobility and Sex Differences in Pay</title>
+<publication-date>2005-01-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<institution>Brigham Young University</institution>
+<lname>Ransom</lname>
+<fname>Michael</fname>
+</author>
+<author>
+<institution>University of Arizona</institution>
+<lname>Oaxaca</lname>
+<fname>Ronald</fname>
+<mname>L</mname>
+</author>
+</authors>
+<keywords>
+<keyword>intrafirm mobility</keyword>
+<keyword>sex differences in pay</keyword>
+<keyword>gender wage differential</keyword>
+<keyword>gender discrimination</keyword>
+<keyword>job assignment</keyword>
+<keyword>inter-departmental mobility</keyword>
+<keyword>promotions</keyword>
+<keyword>intrafirm mobility</keyword>
+<keyword>affirmative action</keyword>
+</keywords>
+<abstract>&lt;p&gt;The authors analyze eleven years of employment data for a regional grocery store chain in the United States that faced a class-action lawsuit over gender discrimination. The data include all employees’ job titles, wage rates, and earnings, allowing an examination of initial job assignments, mobility between departments, and mobility into supervisory and management positions. An analysis that models the flows of individuals between different departments and jobs within the firm as a Markov process shows a pattern of intrafirm mobility and initial job assignment that generally penalized women, even when the analysis accounts for individuals’ characteristics. Although the court-mandated affirmative action remedies were not formally implemented until after the period of the study, there were clear signs of relative improvement in the economic status of the firm’s female employees as a result of the filing of the lawsuit and subsequent trial.&lt;/p&gt;</abstract>
+<coverpage-url>http://digitalcommons.ilr.cornell.edu/ilrreview/vol58/iss2/3</coverpage-url>
+<fulltext-url>http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1123&amp;amp;context=ilrreview&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1123</articleid>
+<submission-date>2005-07-13T10:11:19-07:00</submission-date>
+<publication-title>ILR Review</publication-title>
+<context-key>83200</context-key>
+<submission-path>ilrreview/vol58/iss2/3</submission-path>
+<fields>
+<field name="acknowledgements" type="string">
+<value>The authors gratefully acknowledge the helpful comments of seminar participants at the Universidad del Pais Vasco in Bilbao, Spain, the University of Arizona, IZA in Bonn, Germany, Utah State University, ERMES at University of Paris II, the National University of Ireland at Maynooth, the University of Wales at Swansea, Tulane University, the University of Macedonia in Thessaloniki, Greece, and the AEA Summer Program at the University of Colorado–Denver.  They also gratefully acknowledge the capable research assistance of Lane Delano, Francesco Renna, and Simona Lup.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

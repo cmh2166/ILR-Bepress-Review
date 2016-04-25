@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Inequality Around the World</title>
+<publication-date>2004-01-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Freeman</lname>
+<fname>Richard</fname>
+<mname>B</mname>
+</author>
+</authors>
+<coverpage-url>http://digitalcommons.ilr.cornell.edu/ilrreview/vol57/iss2/86</coverpage-url>
+<fulltext-url>http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1067&amp;amp;context=ilrreview&amp;amp;unstamped=1</fulltext-url>
+<label>86</label>
+<document-type>bookreview</document-type>
+<type>article</type>
+<articleid>1067</articleid>
+<submission-date>2005-07-11T12:30:16-07:00</submission-date>
+<publication-title>ILR Review</publication-title>
+<context-key>82921</context-key>
+<submission-path>ilrreview/vol57/iss2/86</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

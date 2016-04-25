@@ -1,0 +1,169 @@
+The Benefits Planner
+Keys to Effective Benefits Planning, Assistance and Outreach
+
+Spring 2002
+Vol. 2, Issue 1
+
+This publication is sponsored in part by the NYS Developmental Disabilities Planning Council and the Social Security Administration through the NYS Department of Labor (NY Works Project), and is a collaborative publication of Cornell University's Program on Employment and Disability and Neighborhood Legal Services, Inc. (NLS) of Buffalo, NY.  The editors and primary authors are James R. Sheldon, Jr. of NLS and Edwin J. Lopez-Soto of Cornell University.
+
+*******
+
+In this Issue:
+
+•  Introduction
+•  Overview of the Ticket Program
+•  Agreements Between Beneficiaries and Employment Networks
+•  How Will Tickets Be Distributed
+•  Elimination of Continuing Disability Reviews while Using a Ticket
+•  The Role of MAXIMUS
+•  The Role of Employment Networks
+•  The Role of State Vocational Rehabilitation Agencies
+•  The Two Payment Systems
+•  Dispute Resolution
+•  Final Thoughts
+
+Special Features:
+
+•  Abbreviations and Acronyms Used in this Article
+•  How to Contact MAXIMUS
+•  Where to Find the Law, Regulations and Policy Regarding the Ticket Program
+•  When to Call our Toll-free Line for Technical Assistance
+
+*******
+
+ABBREVIATIONS USED IN THIS ARTICLE
+
+BPA&O - Benefits Planning, Assistance and Outreach Project
+CBVH - Commission for the Blind and Visually Handicapped
+CDR - Continuing Disability Review
+EN - Employment Network
+IPE - Individualized Plan of Employment
+IWP - Individual Work Plan
+SGA - Substantial Gainful Activity
+SSA - Social Security Administration
+SSDI - Social Security Disability Insurance
+SSI - Supplemental Security Income
+VESID - Office of Vocational and Educational Services to Individuals with Disabilities
+VR - Vocational Rehabilitation
+
+*******
+
+INTRODUCTION
+Supplemental Security Income (SSI) and Social Security Disability Insurance (SSDI) beneficiaries face a complex maze of rules governing how work will influence their benefits. Previous issues of the Benefits Planner discussed many of these SSI and SSDI rules and how the new Benefits Planning, Assistance and Outreach (BPA&O) projects can assist beneficiaries to understand these rules.
+Beneficiaries also face the need to secure timely and appropriate services as they return to work.  This challenge should now become easier.  The long-awaited Ticket to Work regulations finally arrived in December 2001.  Then, the first week of February 2002, the Social Security Administration (SSA) sent Tickets to 10 percent of SSI and SSDI beneficiaries in 13 states, including New York. With the start-up of the Ticket program, people with disabilities who receive SSI or SSDI are now, more than ever before, being put in control of when, where, and how they access vocational rehabilitation (VR), employment, and other support services. 
+This article will summarize the Ticket program, explaining who is eligible and what a Ticket looks like.  It will also discuss the elimination of medical continuing disability reviews (CDRs) while a Ticket is used; program administration, including the roles of MAXIMUS and the Employment Networks (ENs); and the two ways ENs can be paid for serving beneficiaries.  Finally, it will discuss the process for resolving disputes between ENs and beneficiaries.
+OVERVIEW OF THE TICKET PROGRAM
+The Ticket to Work and Work Incentives Improvement Act became law in December 1999.  It directed SSA to establish a Ticket to Work and Self-Sufficiency program to expand the universe of service providers available to SSI and SSDI beneficiaries and provide them with a Ticket they may use to obtain VR services, employment services, and other support services from an EN of their choice.
+Under this program a beneficiary may decide whether and when to use a Ticket to obtain services from an EN, or from a State VR agency.  New York has two State VR agencies, the Office of Vocational and Educational Services to Individuals with Disabilities (VESID) and the Commission for the Blind and Visually Handicapped (CBVH).  A beneficiary with a Ticket may assign it to the EN of their choosing, or a State VR agency, as long as that EN or State VR agency is willing to accept the Ticket.
+The EN or State VR agency will provide services and supports to assist a beneficiary to obtain, regain or maintain self-supporting employment as specified in an Individual Work Plan (IWP), developed with an EN, or Individualized Plan for Employment (IPE), if developed with VESID or CBVH.  A beneficiary can retrieve their Ticket from an EN or State VR agency at any time and reassign it if they continue to meet Ticket eligibility rules.
+Who Is Eligible For a Ticket?
+SSA will send a Ticket to all SSI and SSDI beneficiaries, ages 18 through 64, whose disabilities are classified by SSA as either medical improvement possible or not expected.  Beneficiaries classified as medical improvement expected will be sent a Ticket once they go through one CDR and are found to be still disabled.  SSI beneficiaries who are 18 years old and received SSI as children will only receive a Ticket if SSA has found them eligible for SSI under the adult disability standard.
+What is a Ticket?  What Does It Look Like?
+A Ticket provides evidence of SSA’s agreement to pay an EN or State VR agency for providing services and supports to the beneficiary if certain conditions are met.  The Ticket is red, white and blue, and approximately 6 by 9 inches in size.  The left side includes the person’s name, ticket number, claim account number, and the date SSA issued it.  The Ticket number is 12 characters and includes the beneficiary’s Social Security number, the letters “TW” and a number 1 or higher.  A number 1 in the last position signifies that this is the beneficiary’s first Ticket.  The right side includes the SSA Commissioner’s signature and language explaining why the Ticket was issued, how to use it, and that any services provided through the Ticket will be free.
+AGREEMENTS BETWEEN BENEFICIARIES AND EMPLOYMENT NETWORKS
+A beneficiary can assign a Ticket if he or she finds an EN or State VR agency willing to take it.  No EN, other than a State VR agency, is required to serve any beneficiary.  Once both parties have agreed, the beneficiary and a representative of the EN or State VR agency must develop and sign an IWP or IPE. The EN must then submit a copy of the signed IWP or IPE along with appropriate forms to MAXIMUS, the Program Manager.  The effective date of the Ticket assignment will be the first day these requirements are met and the IWP or IPE has been signed.
+Services provided under the IWP “may include case management, work incentives planning, supported employment, career planning, career plan development, vocational assessment, job training, placement, follow-up services, and such other services as may be specified by [SSA] under the Program.”  For individuals served by VESID or CBVH, services available are as required under the federal VR regulations.  The IWP must include, among other things, statements referencing: the employment goal; services and supports necessary to achieve the goal; terms and conditions for receiving services; conditions under which the EN may amend the IWP or terminate the relationship; the individual’s right to seek amendment of the IWP; and, the individual’s right to retrieve the Ticket from the EN if dissatisfied in any way.
+Can A Beneficiary Re-Assign the Ticket 
+To A Different EN?
+A beneficiary may retrieve a Ticket for any reason, but must notify MAXIMUS of this in writing.  The Ticket will no longer be assigned to that EN or State VR agency effective with the first day of the month following the month in which the beneficiary notifies MAXIMUS.  A beneficiary must then reassign the Ticket during the next three months, known as the extension period, or SSA will consider the beneficiary to not be using the Ticket.
+A beneficiary may reassign their Ticket to a new EN or State VR agency as long as they continue to meet Ticket eligibility rules.  SSA will treat the assignment to the new EN or state VR agency, in some cases, as if it was a new and initial assignment.  This is important if the beneficiary was in the initial 24 months allowed for job readiness, discussed later in this article, as that period will begin to run again.
+Are There Other Ways In Which A Ticket 
+Can Be Unassigned?
+If an EN goes out of business or is no longer approved as an EN, MAXIMUS will take a Ticket out of assignment. The Ticket will no longer be assigned to that EN or State VR agency effective with the first day of the month after MAXIMUS notifies the beneficiary of this decision.  A beneficiary must then reassign the Ticket during the three-month extension period, or SSA will consider the beneficiary to not be using the Ticket. As noted below, only individuals who are using a Ticket are protected from a medical CDR.  If the beneficiary’s EN can no longer provide services, or if the State VR agency stops providing services because the beneficiary is determined to be ineligible for services, the EN or State VR agency may ask MAXIMUS to take the Ticket out of assignment.
+HOW WILL TICKETS BE DISTRIBUTED
+During the first half of 2002, Tickets are to be distributed in 13 states, including New York.  The remaining states and territories will be phased into the program during the second half of 2002 and 2003.  The distribution schedule announced by SSA is as follows:
+•	February: 10 percent of Tickets were distributed
+•	No distribution in March
+•	April: 20 percent of Tickets to be distributed
+•	May: 30 percent of Tickets to be distributed
+•	June: 40 percent of Tickets to be distributed
+After the first 10 percent of Tickets had gone out, SSA announced in late February that it would delay distribution of Tickets in New York.  No Tickets will be distributed during April and the future New York distribution schedule should be announced during April.  The schedule remains as stated in the other 12 states.
+ELIMINATION OF CONTINUING DISABILITY REVIEWS WHILE USING A TICKET
+A medical CDR is conducted to determine whether a beneficiary continues to meet SSA’s disability standard.  SSA will not conduct a medical CDR while the beneficiary is using a Ticket.  However, this protection does not stop reviews SSA may conduct to determine whether a beneficiary is engaging in substantial gainful activity (SGA). 
+SSA defines “using a Ticket” as a period during which the beneficiary is actively following the approved plan to become self-supporting.  The EN monitors progress, but MAXIMUS actually decides if the beneficiary is “using” the Ticket.  SSA cannot start a medical CDR while the beneficiary is using the Ticket.  If a Ticket has been assigned after a medical CDR has started, SSA will complete that CDR. If, during that CDR, SSA decides that the beneficiary has medically recovered, benefits will usually be terminated.  However, in some circumstances, SSA may continue benefits if the Ticket assignment was made prior to the date of the medical improvement.
+Using A Ticket: Initial 24-Month Period
+During the initial 24-month period, a beneficiary is using the Ticket if he or she is engaging in activities outlined in the IWP or IPE on a regular basis and within appropriate time frames.  If the beneficiary is not following the plan, the EN must notify MAXIMUS.  If MAXIMUS decides the beneficiary is not making timely progress toward self-supporting employment, he or she will no longer be protected from medical CDRs, but may continue to participate in the Ticket program.  In all cases, MAXIMUS will conduct a Progress Review at the end of the initial 24-month period to see if the beneficiary met the using a Ticket requirements.  (Note: For each progress review period, a beneficiary who is found to be not using a Ticket can re-enter in-use status by meeting guidelines that appear in the final regulations.)
+First 12-Month Progress Review
+After the initial 24-month period, to be considered using a Ticket, the beneficiary must work at least 3 months at the non-blind SGA level within the next 12 months.  For example, in 2002 the person would be required to earn $780 during these three months, prior to any income exclusions.  These three months do not need to be consecutive. If a beneficiary engages in one or more months of employment during their initial 24 months, those months can count toward the three months of employment required for the first 12-month review.
+The 12-month review is a two-step process. During step one, MAXIMUS will determine if the beneficiary completed the work requirements in the just completed 12-month period.  If they have, then MAXIMUS will go to step two.  If not, MAXIMUS will find that the person is not making timely progress toward self-supporting employment (i.e., not using a Ticket).  During step two, MAXIMUS must determine whether both the beneficiary and the EN or State VR agency expects the person to work at the required level during the next 12 months.  If yes, the beneficiary is using a Ticket.  If no, the beneficiary will not be considered using the Ticket and could be subject to a medical CDR.
+Second and Subsequent 12-Month Reviews
+During the second 12-month period, the beneficiary must work at least 6 of 12 months at the non-blind SGA level prior to income exclusions.  During the third and any subsequent 12-month review periods the beneficiary must work for 6 of 12 months with enough earnings to eliminate federal SSI and SSDI cash payments for those six months worked.  MAXIMUS will go through the same two-step process during each 12-month review.
+When Will Using A Ticket End?
+A beneficiary will not be considered “using a ticket” with the earliest of the following:
+•	The 60th month for which an outcome payment is made to an EN or State VR agency;
+•	For State VR agencies that chose the cost reimbursement method, the 60th month for which an outcome payment would be due if the agency had chosen to serve the beneficiary as an EN;
+•	The beneficiary no longer meets timely progress requirements;
+•	The beneficiary fails to reassign the Ticket by the end of a 3-month extension period; or
+•	Entitlement to SSDI or eligibility for federal SSI cash benefits based on disability ends for reasons other than work activity or earnings.
+If MAXIMUS finds that the person no longer meets the Ticket eligibility requirements and terminates the use of a Ticket, a beneficiary will no longer be able to assign it and an EN or State VR agency will not receive milestone or outcome payments, discussed below, achieved in or after the month in which the Ticket was terminated.
+THE ROLE OF MAXIMUS
+In September 2001, SSA awarded a five-year contract to MAXIMUS, Inc. of McLean, Virginia to serve as Program Manager to assist SSA in administration of the Ticket program. MAXIMUS is required to recruit, recommend, and monitor ENs; facilitate access by beneficiaries to ENs; and facilitate payments to ENs.  MAXIMUS must also review IWPs and IWP amendments; ensure that ENs only refer to a State VR agency for services pursuant to an agreement regarding the conditions under which such services will be provided; resolve disputes between ENs and State VR agencies with respect to agreements; resolve disputes between a beneficiary and an EN which cannot be resolved by the EN’s internal grievance process; and refer disputes between beneficiaries and ENs to SSA for a final decision if requested by either party.
+THE ROLE OF EMPLOYMENT NETWORKS
+An EN is any qualified entity that has entered into an agreement with the SSA to function as an EN. The EN must coordinate and deliver employment services, VR services, or other support services to beneficiaries who have assigned a Ticket to them.   An EN may be either a single provider of services or a group of providers organized to combine resources into a single entity, and could consist of a one-stop delivery system established under the Workforce Investment Act of 1998.  Unlike the State VR agency, an EN can choose a limited number of services it will offer beneficiaries.
+An EN provides services either directly or by entering into agreements with other providers, which can furnish appropriate services.  It serves prescribed service areas and takes measures to ensure that services provided meet the requirements of IWPs.  An EN must develop and implement IWPs in partnership with each beneficiary they have agreed to serve in a manner that affords the beneficiary the opportunity to exercise informed choice in selecting a work goal and specific services needed to achieve that goal.
+Finally, the EN must report to MAXIMUS each time it accepts a Ticket; submit a copy of each signed IWP or IWP amendment to MAXIMUS; submit to MAXIMUS a copy of any agreement the EN has with a State VR agency; submit information to help MAXIMUS conduct progress reviews; report to MAXIMUS the specific outcomes achieved with respect to specific services the EN provided or secured for a beneficiary; provide a copy of its most recent annual report on outcomes to each beneficiary considering assigning a Ticket to it; meet all financial reporting requirements; collect and record such data as SSA requires; and, adhere to all requirements specified in the agreement with SSA.
+THE ROLE OF STATE VOCATIONAL REHABILITATION AGENCIES
+A State VR agency must participate in the Ticket program if it wishes to receive payments from SSA for serving beneficiaries who are issued a Ticket.  
+A State VR agency participates in the program in one of two ways.  On a case-by-case basis the State agency may participate either as an EN or under the cost reimbursement system.  The cost reimbursement system, which has been around for many years, allows VESID or CBVH to receive from SSA full reimbursement for its rehabilitation costs if a beneficiary performs at least nine months of work at the SGA level. When the State agency serves a beneficiary with a Ticket as an EN, the agency will use the EN payment system it has elected for this purpose, either the outcome or outcome-milestone payment system.  The State VR agency will have periodic opportunities to change the payment system it uses when serving as an EN.  An agency can choose to function as an EN or to receive payment under the cost reimbursement system each time a Ticket is assigned or reassigned to it if payment has not previously been made with respect to that Ticket. 
+An EN may refer a beneficiary it is serving to a State VR agency for some services if the State agency and EN have an agreement that specifies the conditions under which services will be provided by the State agency.  This agreement must be in writing and signed by both parties prior to the EN referring any beneficiary to the State agency for services.
+THE TWO PAYMENT SYSTEMS
+ENs, including State VR Agencies serving as ENs, may elect to be paid under one of two systems – the Outcome Payment System or the Outcome Milestone Payment System.  Payments under the new outcome formulas will differ depending on the option chosen and the type of benefits received by the beneficiary.  The pace of payments to an EN will also depend on how quickly the beneficiary achieves the expected work outcomes.
+The EN will elect one of the two payment systems when it signs an agreement with SSA to serve as an EN.  The EN can then change its chosen payment system one time during its first 12 months after becoming an EN, or within 12 months of the Ticket program starting in their state, whichever occurs later.  Thereafter, SSA will periodically allow an EN to change its elected payment system.
+Under the Outcome Payment System, SSA can pay up to 60 monthly payments to an EN.  The EN is eligible for a payment for each month that SSDI payments are not payable because the beneficiary engaged in SGA, or for each month that federal SSI payments are not payable because of earnings.  A payment under this system will be equal to 40 percent of the payment calculation base for the calendar year in which the month occurs, rounded to the nearest dollar. Based on figures available for 2002, this would allow payments as follows: for SSI, monthly payments of $191, or a total of $11,460 for 60 months and for SSDI, monthly payments of $317, or a total of $19,020 for 60 months.
+Under the Outcome Milestone Payment System, SSA can pay the EN for up to four milestones achieved by a beneficiary.  In addition, SSA can pay up to 60 monthly payments to the EN for each month that SSDI payments are not payable because the beneficiary engaged in SGA, or for each month that federal SSI payments are not payable because of earnings.
+Milestone 1 is met when the individual has worked one calendar month with gross earnings above the SGA level ($780 per month, or $1300 per month for legally blind in 2002)(based on 2002 figures, this milestone payment to the EN would be $162 for individuals on SSI and $269 for individuals on SSDI).  Milestone 2 is due when the individual has worked 3 calendar months within a 12 month period, with gross earnings above the SGA level (based on 2002 figures, this total milestone payment would be $324 for individuals on SSI and $538 for individuals on SSDI).  The months used to meet milestone 1 can be included in the three milestones needed to meet milestone 2.  Milestone 3 is due when the individual has worked 7 calendar months within a 12 month period, with gross earnings above the SGA level (based on 2002 figures, this milestone payment would be $648 for individuals on SSI and $1,077 for individuals on SSDI).  Any of the months used to meet the first two milestones can be included in the 7 months needed to meet milestone 3.  Milestone 4 is due when the individual has worked 12 calendar months within a 15 month period, with gross earnings above the SGA level (based on 2002 figures, the total milestone payment would be $811 for individuals on SSI and $1,346 for individuals on SSDI).  Any of the months used to meet the first three milestones can be included in the 12 months needed to meet milestone 4.
+Thereafter, the EN can be paid for up to 60 non-consecutive months under the same terms, but at a lower payment rate than available under the outcome payment system. Based on figures currently available, this would allow payments as follows: for SSI, monthly payments of $162 per month, for a total of $9,720 for 60 months;  for SSDI, monthly payments of $269 per month, for a total of $16,140 for 60 months.  These monthly payments would be reduced if the EN received one or more milestone payments.  For example, if $1,800 was paid in milestone payments each outcome payment would be reduced by $30.
+DISPUTE RESOLUTION
+Disputes Between Beneficiaries and 
+VESID/CBVH
+VESID or CBVH must follow the requirements of federal VR regulations.  Thus, an individual who is dissatisfied with a decision of the agency has the right to seek mediation or an administrative hearing.  [A comprehensive article on the services available through VESID and CBVH appears in the Fall 2001 issue of IMPACT, the newsletter of the New York State Assistive Technology Advocacy Project.  This newsletter appears on the Neighborhood Legal Services website at: www.nls.org/at/atfall01.htm.
+Disputes Between Beneficiaries and Other ENs
+The Ticket program provides a three-step dispute resolution process.  First, the beneficiary can file a complaint through the EN’s internal grievance procedures.  Second, if these procedures do not result in an agreeable solution, either the beneficiary or the EN may seek a resolution with MAXIMUS.  Finally, if either the beneficiary or the EN is dissatisfied with the resolution proposed by MAXIMUS, either party may file a request for review by SSA.  This SSA decision, rendered through a dispute resolution board, is final and not appealable.
+FINAL THOUGHTS
+While implementation of the Ticket to Work and Work Incentives Improvement Act is a huge national undertaking and not without its challenges, it is important for us to remember why many of us advocated so strongly for reform within SSA’s return-to-work programs: choice, empowerment and removal of disincentives to work.
+Many will argue that the Ticket program has yet to provide real choice for beneficiaries with disabilities and falls far short of its mark – citing that the number of employment networks are limited, fiscal restraints inhibit EN participation, and that people with disabilities have not been prepared adequately to use this new system.  Maybe it is true.  However, people with disabilities are saying otherwise!  Over 2,000 “Tickets on Demand” requests came in the first week from initial roll-out states and are beginning to be processed by MAXIMUS, with over 500 in New York alone.  Thousands who have returned to work have already recognized and benefited from the expedited reinstatement (EXR) provisions of the law, providing an important safety net that never existed before passage of this law (see the Summer 2001 issue of The Benefits Planner for a discussion of the EXR provisions, located on the Neighborhood Legal Services website at: www.nls.org/planner/summer01.htm).  At the same time, beneficiaries now have two types of protection from medical CDRs while pursuing their vocational and employment aspirations.
+ We truly stand on the verge of a new era in how we prepare and support people with disabilities in accessing employment services and supports. Sure, we still face many implementation challenges. But with the same vigor and enthusiasm with which we sought this new day, let’s commit to ensuring its success.  
+We can and will do this – together!
+
+*******
+
+HOW TO CONTACT MAXIMUS
+
+Toll-Free Number:  1-866-968-7842
+Toll-Free Number (hearing & speech impaired): 1-866-833-2967
+Website:  www.yourtickettowork.com
+
+*******
+
+WHEN TO CALL OUR TOLL-FREE LINE FOR TECHNICAL ASSISTANCE
+
+	Our State Work Incentives Support Center offers a statewide, toll-free number to call for information and technical assistance on a wide range of issues involving benefits and work.  The staff of Neighborhood Legal Services are available to take calls concerning any of the topics you see discussed in these newsletters.  For example, if a caller seeks information about any of the overpayment information discussed in this article, you can call us at 1-888-224-3272 for more information on these issues.
+
+*******
+
+WHERE TO FIND THE LAW, REGULATIONS AND POLICY REGARDING THE TICKET PROGRAM
+Statutes:  42 U.S.C. § 1301 et seq.
+Regulations:  20 C.F.R. Part 411, published as final regulations at 66 Federal Register 67370-67442 (Dec. 28, 2001).  These final regulations were effective on January 28, 2002.
+Policy:  Program Operations Manual Systems (POMS) DI 55001.000 et seq. (Feb. 2002).
+
+*******
+
+In Our Next Issue 
+…  SSI’s Plan for Achieving Self Support (PASS)
+
+*******
+The NY State Work Incentives Support Center will provide statewide services, including: training through traditional means and through use of the latest technology for distance learning; a toll-free technical assistance line, 1-888-224-3272; and a quarterly newsletter, The Benefits Planner.  To subscribe to the Center's listserv, send your name and email address to tpg3@cornell.edu.  To request a print copy of this newsletter, contact the toll-free number above.
+
+*******
+
+If you have special needs and would like The Benefits Planner sent in a special format, would like our Spanish version or would like the newsletter delivered by email, please call our toll-free technical assistance line, 1-888-224-3272.
+
+*******
+
+Welcome to The Benefits Planner, a Quarterly Newsletter of  The NY State Work Incentives Support Center
+This newsletter will provide valuable information on how work for persons with disabilities affects government benefits, with an emphasis on the Supplemental Security Income (SSI) and Social Security Disability Insurance (SSDI) work incentives.  Each newsletter will contribute to an ongoing dialogue on topics related to benefits and work.  Back issues will appear on the Cornell University website, www.ilr.cornell.edu/ped and on the Social Security section of the Neighborhood Legal Services website, www.nls.org.
+
+NEIGHBORHOOD LEGAL SERVICES, INC.
+295 Main Street, Room 495
+Buffalo, NY 14203
+

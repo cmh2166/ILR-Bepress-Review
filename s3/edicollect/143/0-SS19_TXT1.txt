@@ -1,0 +1,370 @@
+The Benefits Planner
+Keys to Effective Benefits Planning, Assistance and Outreach
+
+Fall 2004
+Vol. 4, Issue 3
+
+This publication is sponsored in part by the NYS Developmental Disabilities Planning Council and is a collaborative publication of Cornell University's Employment and Disability Institute and Neighborhood Legal Services, Inc. (NLS) of Buffalo, NY.  The editors and primary authors are James R. Sheldon, Jr. of NLS and Edwin J. López-Soto of Cornell University.
+
+*******
+
+Welcome to The Benefits Planner, a Quarterly Newsletter of The NY State Work Incentives Support Center
+
+This newsletter will provide valuable information on how work for persons with disabilities affects government benefits, with an emphasis on the Supplemental Security Income (SSI) and Social Security Disability Insurance (SSDI) work incentives.  Each newsletter will contribute to an ongoing dialogue on topics related to benefits and work.  Back issues will appear on the Cornell University website, www.ilr.cornell.edu/ped and on the Social Security section of the Neighborhood Legal Services website, www.nls.org.
+
+*******
+
+In this issue...
+
+Assistive Technology can make work a Reality: Funding for Work-Related AT Through Special Education Programs, VESID, Medicaid, Medicare, and SSI's PASS Program
+
+• What is AT?
+• The Sharon Case Scenario
+• Preliminary Discussion: Sharon's Future Eligibility for SSI, SSDI, Medicaid and Medicare
+• Discussion of Five Potential Funding Sources for the AT Needed by Sharon
+• Conclusion
+
+Special Features...
+
+• Benefits Planning, Assistance & Outreach Projects in New York
+• Additional Resources Available on Topics Covered In This Article
+• When To Call Our Toll-Free Line For Technical Assistance
+• Key 2005 Social Security and Medicare Changes
+• State AT Project Can Help When AT is Denied
+
+*******
+
+Assistive Technology can make work a Reality:
+
+Funding for Work-Related AT Through Special Education Programs, VESID, Medicaid, Medicare, and SSI's PASS Program
+
+Individuals with a wide range of disabilities share many of the same barriers to employment.  The need to retain a safety net of cash Supplemental Security Income (SSI) or Social Security Disability Insurance (SSDI) and publicly-funded health insurance (Medicaid or Medicare) are the most common issues facing individuals with disabilities on the road to work.  For this reason, the majority of our quarterly newsletters have focused on the work incentives available through SSI, SSDI, Medicaid, and Medicare.
+
+Many individuals with disabilities, who are moving from benefits to work, may remain in the lower income brackets for years to come.  In fact, many will continue to need a range of other publicly-funded supports.  For example, they will need a stable, suitable, and affordable source of housing and may also need help to take advantage of special tax credits available for low-income taxpayers.  Our past articles on public and subsidized housing (Spring 2004) and the earned income tax credit (Winter 2003-04) sought to address those needs.
+
+This issue addresses another critical need faced by many with the most severe physical or sensory (i.e., deafness or blindness) disabilities - - the need to obtain assistive technology (AT).  In the work context AT, like a power wheelchair or adapted computer equipment, may make it possible to participate in an education or training program; prepare to leave the home for work or training; travel to and from work; or do the work itself.
+
+This article will describe five key funding sources that can pay for AT devices and services to help individuals prepare for, get to, and succeed in employment.  Specifically, we will discuss the public school special education system, state vocational rehabilitation agencies (like VESID or the Commission for the Blind), Medicaid, Medicare, and SSI's Plan for Achieving Self Support (PASS).  We will not provide a comprehensive summary of each program.  Instead, we will give enough information on each program to look at meeting the AT-related needs of the hypothetical Sharon whose situation is described below.  For additional resources on these programs, readers can call our statewide toll-free hotline at 1-888-224-3272.
+
+What is AT?
+
+The term assistive technology gained popularity after it appeared in the Technology Related Assistance for Individuals with Disabilities Act of 1988.  More recently renamed the AT Act, this law provides definitions for AT devices and services:
+
+[An AT device is] any item, piece of equipment, or product system, whether acquired commercially off the shelf, modified, or customized, that is used to increase, maintain, or improve functional capabilities of individuals with disabilities.
+
+* * * * *
+
+[An AT service is] any service that directly assists an individual with a disability in the selection, acquisition, or use of an [AT] device.  29 U.S.C. §§ 3002(a)(3) & (4).
+An AT service includes evaluations to determine the need for a device, customizing or adapting the device for its user, repairs, maintenance, and training on how to use the device.
+
+Two programs discussed below - - special education and VESID - - incorporate these terms into program rules.  Two others, Medicaid and Medicare (and most private insurance plans), capture most of what we'd think of as AT in the durable medical equipment coverage category.  Both Medicaid and Medicare will also cover AT-type devices through the prosthetic devices category.
+Many persons with disabilities can benefit from AT, including those with physical, visual, cognitive, and hearing impairments.  The following is a list of AT devices that a person may need to receive training, leave the home, travel to work, or perform work:
+
+• Power and custom-made wheelchairs
+• Augmentative and alternative communication devices
+• Environmental control units
+• Lifting devices, such as Hoyer lifts and ceiling track lifts
+• Vehicle modifications, including wheelchair lifts and hand controls
+• Computer equipment and adaptations, including braille printers, voice output, touch screens, and switches which allow computer access through eye blinks or head movements
+• Assistive listening devices, including hearing aids and personal FM units
+• Home modifications, including ramps, lifts and stair glides
+• Work site modifications, including adapted office equipment and environmental control devices
+• Classroom modifications, including adaptive seating systems
+
+These devices and others have been obtained through a wide range of funding sources, including those mentioned above.
+
+Low-tech AT may cost under $50.  Some devices are much more expensive.  For example, a package of computer equipment for a computer programmer who is blind may cost more than $10,000.  Similarly, many power wheelchairs may cost more than $10,000.  As the cost escalates, the likelihood that a funding source will deny or seriously question approval increases.
+
+The Sharon Case Scenario
+
+This article focuses on an individual who needs AT to receive training, leave the home, travel to work, and perform work.  In order to touch on several funding sources for children and adults, we will discuss an older teen who will have certain needs as she transitions to become a young adult.  While our hypothetical Sharon expects to attend college, AT may be equally useful to the individual who will go straight from a public school to work or a non-college training program.
+Consider Sharon, who is 17 and has had cerebral palsy since birth.  She is completing her junior year in high school, has above average grades, and plans to attend college to become an attorney.  Her 18th birthday will occur in December of her senior year.  Although Sharon attends all regular classes, she receives support from a special education teacher in the classroom, as well as speech therapy, occupational therapy, and physical therapy from her school's special education department.
+
+Sharon resides with her mother, stepfather and 12 year old brother who does not have a disability.  Her father died six years ago and she now collects $420 in Social Security survivor's benefits on her father's Social Security record.  Her parents' combined annual income of $60,000 makes her ineligible for SSI at this point because both the parent's and step-parent's income is considered available to Sharon.
+
+Sharon has visited the School of Industrial and Labor Relations at Cornell University in Ithaca and hopes to attend college there.  Her good grades and SAT scores should ensure acceptance at the school.  Her home is a 30-mile, round-trip commute from the campus, but public transportation is not available for this travel.  Sharon plans to continue living at home and commute to the campus.
+
+Sharon and her parents have identified the following AT, which she needs now or will need over the next five years:
+
+• A power wheelchair: Sharon can self propel her existing lightweight wheelchair on level terrain for distances up to about 200 feet.  If she attends college at Cornell (the university and the village of Ithaca are extremely hilly), she will be incapable of independent mobility without a power wheelchair.  Even in flat areas, the buildings on this campus (and most campuses) are spaced far enough apart that she could not propel her manual wheelchair between classes.
+
+• An augmentative and alternative communication (AAC) device: Sharon's speech is understandable only to listeners familiar with her voice.  She currently has a seven-year old device that allows her to speak by electronic means.  This device is constantly in for repairs and it has become more difficult to find parts to repair it.
+
+• A laptop computer with adapted keyboard and voice input software: Sharon has extreme difficulty writing and currently has a note taker in school, funded through the special education program.  She uses her family's six-year-old computer at home, with an adapted keyboard, to do all school assignments.  Despite her severe speech problems, a local university's evaluation recommends the latest in software technology to allow her to dictate notes, assignments and papers into the computer.  The evaluators tell Sharon that the software program will pick up her speech patterns and capture what she says with up to 90 percent accuracy.  (Her speech pathologist is recommending that she consider a combination laptop computer/AAC device that can meet both the speech output and personal computer functions at a fraction of the cost of the two devices combined.)
+
+• A ceiling track lift: Sharon's parents use a traditional Hoyer lift to get her into and out of bed, and to meet her needs in the bathroom.  Her mother finds it increasingly difficult to operate the lift and her stepfather's business requires frequent out-of-town trips.  The more expensive, state-of-the-art ceiling track lift would allow Sharon to more safely and efficiently meet her needs in order to get out of the home to attend college.
+
+• Access ramp at the home: Sharon and her wheelchair must go up and down stairs to enter or exit the home.  The family uses a makeshift method with two long planks to allow her to move up and down the stairs.  She also needs two persons to guide the wheelchair up or down.  A ramp will allow Sharon to safely come and go without a second person's help.  The ramp will become very important when Sharon starts using the heavier power wheelchair.
+
+• A van, specifically modified for a wheelchair user: A driver evaluation found Sharon capable of driving a van equipped with modifications to allow her to drive from her wheelchair (hydraulic lift, wheelchair lock down, hand controls, etc.).  If she can obtain the van while she is in college, she will avoid the expense of a private wheelchair van service to take her to college.  The van will be needed for travel to work after she leaves college.
+
+Preliminary Discussion: Sharon's Future Eligibility for SSI, SSDI, Medicaid and Medicare
+
+A key component of transition planning, often overlooked by special education personnel, is to consider a student's future eligibility for key cash benefit and health insurance programs.  For Sharon, this early identification of future eligibility will pave the way to determining her use of four of the funding sources discussed below.
+
+Currently, at age 17, Sharon receives Social Security dependent's benefits which are not based on disability.  When she turns 18, in December of her senior year, her Social Security benefits will convert to SSDI benefits as a Disabled Adult Child, at the rate of $420 per month plus any 2005 cost-of-living increase.  She is not currently eligible for SSI because a part of her mother's and stepfather's income ($60,000 combined) will be counted toward Sharon's SSI eligibility until she turns 18.  When Sharon turns 18, the SSI program will stop counting the parents' income and resources.  Based on the 2005 SSI rate for persons living with others ($602 per month) and assuming a $420 SSDI rate, Sharon will be eligible for an SSI check of $202 per month.
+
+Importantly, Sharon will be automatically eligible for Medicaid when she becomes eligible for SSI.  This is critical in planning her future, as Medicaid can probably pay for the AAC device and the power wheelchair.  Her SSI and SSDI eligibility will also mean that Sharon will automatically meet the financial needs test for VESID, another key element as VESID is a likely funding source for some of the other items.  Sharon must wait two years after her 18th birthday to establish Medicare eligibility because Medicare will have a two-year waiting period, following her first month of SSDI eligibility.
+
+Discussion of Five Potential Funding Sources for the AT Needed by Sharon
+
+This section will not provide an exhaustive description of the eligibility rules for each program.  Instead, we will provide enough information to discuss Sharon's eligibility for each program and eligibility for the AT in question under each program.  We will not separately discuss the appeals process for each program.  All five programs offer an administrative hearing as part of its appeal process, with some programs requiring or offering other appeal or dispute resolution processes before the case goes to a hearing.
+
+The Public Schools' Special Education Program
+
+Eligibility under IDEA.  The federal Individuals with Disabilities Education Act (IDEA) governs special education programs.  Sharon qualifies for special education services because her physical disability and speech impairment require a combination of special education services (a special education teacher's support services in the classroom) and related services (physical, occupational and speech therapy).  All services must be at no cost to Sharon or her parents, so the family's $60,000 in annual income is not relevant to what she can receive.
+Eligibility for AT.  Under IDEA, as implemented through state regulations, AT may be considered as special education services, related services, or supplementary aids and services.  Their purpose is to allow Sharon to benefit from her education, ensure her placement in the least restrictive environment, or allow her to successfully transition from the public school to college and eventual employment.  The decision concerning what services, including AT, Sharon will get must be made by a Committee on Special Education.
+
+The AAC device is an item that special education programs have frequently funded as it meets the definition of an AT device as a supplementary aid, special education, or related service.  Sharon should be eligible for the device as it will provide her only effective means of communicating with teachers and peers so that she can effectively participate in school.  If specialized software or training is needed, those would meet the definitions of AT device and AT service and could be funded.  Finally, if home use is needed to allow Sharon to fully benefit from this device, federal guidelines permit her to take it home.
+
+The laptop computer with specialized keyboard and voice input software are items that can be funded through a special education system.  It appears that Sharon will have a strong case for the computer and accessories, which may depend on how well she is able to succeed in high school and prepare for the transition to college without them.  Her best arguments will be that the laptop is needed to meet the increased homework demands during her last two years of high school and to prepare her for the transition to college when her ability to efficiently use the laptop and its adapted keyboard/software will be a necessity.  A combination AAC device/laptop computer could appeal to the school district based on the cost savings over buying the items separately.
+We should add a note of caution.  These items will ordinarily remain the property of the school district and will stay with the school when Sharon graduates.  For this reason, Sharon and her parents may want to look toward Medicaid to pay for the AAC device (after Sharon turns 18) and develop a plan for VESID to purchase the computer from the school upon her graduation.
+The special education program will not be responsible for the ceiling track lift, the access ramp, or the modified vehicle as they are not directly connected to whether Sharon benefits from her education or needed to prepare her for the transition to adult life.  However, a special education system is required to provide Sharon with accessible transportation to and from school, including any off-site programs that are part of her curriculum.  The school is also not responsible for the power wheelchair, as it is not needed for Sharon to benefit from her education.  Special education programs have been required to pay for mobility equipment, like wheelchairs, under limited circumstances.  In Sharon's case, it appears that she can propel her manual wheelchair to meet her needs in the public school.  Her problem will occur when she goes to Cornell or another college.
+
+VESID or the Commission for the Blind
+
+New York offers two state vocational rehabilitation (VR) agencies: the Office of Vocational and Educational Services for Individuals with Disabilities (VESID) and the Commission for the Blind and Visually Handicapped (CBVH).  Both are governed by Title I of the federal Rehabilitation Act.  CBVH serves individuals who are legally blind and VESID serves individuals with all other disabilities.  Since Sharon is not legally blind, our discussion will focus on VESID, although a similar analysis would apply to CBVH.
+
+VESID eligibility.  To be eligible, an individual must be disabled and require VR services "to prepare for, secure, retain or regain employment."  29 U.S.C. § 722(a)(1).  Persons must have a mental, physical or learning disability that interferes with the ability to work.  It need not be so severe as to qualify for SSDI or SSI benefits.  It need only be a substantial impediment to employment.  Based on her combination of disabilities, Sharon will clearly meet this standard.  
+The federal law contains no lower age limit for eligibility and would allow VESID's involvement as early as Sharon's junior year in high school.  VESID's practice, however, is for limited involvement in a case until the last semester of the child's senior year.  Sharon's parents may want to push for earlier involvement of VESID in order to work out any transfer of ownership for the laptop computer.
+
+The written Individualized Plan for Employment (IPE) lists the individual's employment goal and specific services to be provided.  Federal law contemplates that this IPE will be in place before the student graduates.  This plan is to be developed by the consumer, with assistance from the VR counselor if requested, and approved by VESID.
+
+VESID's financial needs test governs eligibility for most of its services.  However, SSI and SSDI recipients will be exempt from any financial needs test.  This is critical for Sharon as she will become eligible for both SSI and SSDI at age 18.  At that point, the most important requirement, from a financial standpoint, will be Sharon's obligation to seek out "comparable benefits."  This means that if another funding source can be expected to pay for an item (e.g., Medicaid could probably pay for the wheelchair and AAC device), she has an obligation to seek funding through that source.  Interestingly, AT devices and services are exempt from the comparable benefits requirement, suggesting that Sharon would not have an obligation to pursue Medicaid funding for the wheelchair and AAC device.  As a practical matter, we would suggest that Sharon get those items noted on her IPE but agree to first pursue their funding through Medicaid.
+
+Eligibility for AT through VESID.  Most of the items needed by Sharon can potentially be funded by VESID if needed to reach her work goal.  More than likely, VESID will refer Sharon to Medicaid to fund the power wheelchair and AAC device, even though those items are exempt from the comparable benefit requirements. Sharon should be encouraged to foster good will with VESID by first seeking Medicaid funding for these items.
+
+The laptop computer, with accessories, and the access ramp are likely to be funded through VESID if Sharon can show they are necessary for the success of her vocational plan.  We can expect both Medicaid and Medicare to claim that a ramp cannot be funded through them.  While a challenge to Medicaid's position may be in order, federal guidelines would require that VESID pay for the ramp pending any appeal to pursue Medicaid funding.  Sharon need not exhaust SSI's PASS as a potential funding source as that is not considered a comparable benefit.
+
+The ceiling track lift is a bit more challenging.  VESID can fund home modifications, under the category of rehabilitation technology, when necessary to allow a person to leave the house to attend a training program or go to work.  The ceiling track lift, typically used to get a person to and from the bed or bath, may be viewed more like a personal hygiene aid.  Sharon's best approach is to argue that the ceiling track lift, like the access ramp and the van modifications, is necessary to get her out of the house and to school.
+
+Under state guidelines, VESID will not fund a vehicle lease or purchase even if needed to participate in a VR program.  It is clear that the federal VR regulations permit a state to fund vehicles, but less clear whether it would require that they do so in a case like Sharon's.  VESID can, however, pay for the vehicle modifications once Sharon obtains a van to make it useable for her as a driver in a wheelchair.  Sharon should be able to use SSI's PASS (see discussion below) to fund the van purchase and use VESID funds to pay for the modifications.
+
+Medicaid
+
+Medicaid eligibility.  Sharon will be eligible for Medicaid when she becomes eligible for SSI at age 18.  Before that, her parents' annual income of $60,000 was enough to make her ineligible for SSI, eliminating that pathway to Medicaid eligibility.  Prior to age 18, she should investigate eligibility under a Medicaid waiver program (which would not count the income and resources of her parents), such as the Home and Community-Based Services waiver that is run through the state Office of Mental Retardation and Developmental Disabilities.  (A discussion of waiver programs is beyond the scope of this article.)
+
+Eligibility for the AT through Medicaid.  New York's Medicaid program will routinely pay for items like the power wheelchair and AAC device if they are medically necessary and the least costly alternative to meet a person's needs.  The critical question for the wheelchair may be whether Sharon will need it only because she will be attending Cornell University with its hilly campus.  While we believe that factor should be enough to establish eligibility, her best argument to support funding would be that the power wheelchair will be needed for all significant mobility, i.e., that the ability to self propel at distances up to 200 feet does not equate with functional mobility.  Based on the facts, Sharon should be eligible for Medicaid funding of the AAC device.  
+
+Dual-purpose AAC device/laptop computer.  Based on our experience, New York's Medicaid program has denied funding if the AAC device is not "dedicated" (i.e., where it is simultaneously available for use as a laptop computer), even if the dual purpose device is cheaper than the dedicated device.  Sharon may need to go to a Medicaid hearing or even court (a court challenge to this policy is pending) to seek funding for the dual purpose device.
+
+The ceiling track lift could also be covered under Medicaid's DME category.  The controversy will not focus on whether a lifting device is needed; instead, Medicaid may argue that a less costly, stationary lifting device can meet her needs.  Again, Sharon may need to appeal to establish her right to the ceiling track lift.  If Medicaid seeks to limit the person to the less expensive device, it will be critical to have the supporting documents from doctors and other health professionals' address why the lesser item falls short of meeting the person's needs.  If a Medicaid-funded personal care aide is needed to operate the stationary lift, but is not needed to operate the ceiling track lift, that may show that the stationary lift is a more expensive alternative in the long run.
+
+Our state's Medicaid program takes the position that access ramps cannot be funded.  The Medicaid agency may state that the ramp is not primarily medical in nature or is a matter of convenience rather than a medical necessity, both factors that would be contrary to the facts in Sharon's case.  We are aware of several cases, in New York and other states, in which access ramps or stair glides within the home have been approved following a hearing.  A separate Medicaid waiver program may cover a range of home modifications as an exception to general rules for those who qualify for the waiver.  (A court appeal is currently pending to challenge Medicaid's policy on access ramps.)
+
+Medicaid would not be expected to pay for a laptop computer, its accessories, or the van.  These are not items that would meet the DME definition or be considered medically necessary.
+Medicaid will also balk at paying for the van modifications.  We are aware of two hearing decisions in which vehicle modifications were approved to meet the needs of either a driver or a passenger with a disability, but Sharon can expect to go to a hearing or even court to challenge a denial of this item.  One of New York's waiver programs will, under limited circumstances, pay for van modifications in a van owned by the parent or parents if they are needed for the transport of a child with a disability.  (See N.Y. State Department of Health, Administrative Directive, Transmittal # 00 OMM/ADM-4 (May 22, 2000), explaining the criteria for approving home adaptations and vehicle modifications under the state's Care at Home I and Care at Home II waiver programs.)
+
+Medicare
+
+Medicare eligibility.  This federal health insurance program covers persons age 65 or older; persons receiving SSDI payments or railroad retirement benefits based on disability; and persons with end stage renal disease.  There is also a class of Medicare-Qualified Federal Employees who can qualify for benefits.  The Centers for Medicare and Medicaid Services (CMS) oversees this program.
+
+SSDI recipients who exhaust their nine-month trial work period and lose SSDI benefits because they perform substantial gainful activity can retain Medicare for at least 93 months during an extended period of Medicare coverage.  During the extended coverage period, the individual can receive Medicare under the same terms as described below (i.e., cost-free Part A coverage; optional Part B coverage, with a premium).
+
+Medicare Part A, known as hospital insurance, covers inpatient care, including nursing home care and hospice care.  Most beneficiaries pay no premium for Part A coverage.  Medicare Part B, known as supplemental medical insurance, covers various outpatient services, including physician services, durable medical equipment, prosthetic and orthotic devices, and home health services.  Part B requires a monthly premium ($78.20 in 2005).  The local Medicaid agency may pay the Part B premiums for persons with low income, typically through the Qualified Medicare Beneficiaries (QMB) or Specified Low-Income Medicare Beneficiary (SLMB) programs.
+
+Most beneficiaries receive Medicare through the "traditional" program.  Generally, this means they can obtain benefits and submit claims to a company which contracts with Medicare to oversee the claims reimbursement process.  A minority of Medicare recipients receives benefits through a "managed care" option, now referred to as Medicare+Choice (Medicare Part C) and soon to be renamed the Medicare Advantage program.  This option exists in most parts of the country and is run through any number of local or regional health maintenance organizations.  The managed care option, as it relates to claims for AT coverage, is subject to a prior approval process.
+Sharon, at age 17, receives Social Security survivor's benefits on her father's record.  She will cease eligibility for survivor's benefits when she graduates from high school at age 18.  At that time, based on her severe disability, she should qualify for SSDI as a Disabled Adult Child.  After 24 months of eligibility for SSDI, she will become eligible for Medicare.
+
+Sharon's Eligibility for the AT under Medicare's DME Category.  Medicare Part B will cover AT devices, such as the wheelchair or AAC device, under its durable medical equipment (DME) coverage category.  Medicare has defined DME as equipment which: can withstand repeated use; is primarily and customarily used to serve a medical purpose; generally is not useful to a person in the absence of an illness or injury; and is appropriate for use in the home.
+
+When it covers DME, Medicare pays for 80 percent of an approved rate.  The 20 percent co-payment would be Sharon's obligation, but could be covered through Medicaid or a private insurance program.  The Medicare approved rate is sometimes less than what the vendor traditionally charges for a piece of DME.  If the vendor agrees to accept the lower approved rate, the individual will owe 20 percent of the approved rate.  However, if the vendor refuses to accept that rate, the individual could owe far more than 20 percent of the purchase price.  The DME vendor should be familiar with Medicare's process for approving payment.
+
+The Medicare Coverage Issues Manual, maintained by CMS, contains a DME reference list.  The list contains the names of more than 100 pieces of DME and then indicates either 1) that the item is "covered," and under what circumstances it can be approved; or 2) that the item must be "denied."  For example, the reference list provides that power wheelchairs are covered if the person would be unable to propel a manual wheelchair, a criteria that Sharon should be able to meet.  It would be important that any medical letters to support the request indicate that Sharon needs the power wheelchair for all significant mobility, not just for travel on the college campus.
+
+We must issue a note of caution for individuals who, like Sharon, have very severe mobility impairments but intend to use a power wheelchair for extensive travel outside the home.  The definition of DME, that appears in federal Medicare law, "includes ... wheelchairs ... used in the ... home."  CMS's interpretation of that language, including the requirement that the individual be "bed or chair-bound without the use of a wheelchair," has created considerable controversy as many individuals have been unable to obtain Medicare funding for power wheelchairs and scooters if their only real need for powered mobility is for functioning outside the home.  As this publication goes to press, CMS, through an interagency working group, has invited public comment through an "Open Door Forum," as it goes through the process of reviewing the criteria it uses to approve funding for power wheelchairs and scooters.
+
+Medicare will cover AAC devices.  Under a 2001 policy, Sharon should be eligible for Medicare funding of the AAC device because she cannot effectively communicate without one.
+There will be AT devices which appear to meet Medicare's DME definition and do not appear on the reference list.  In those cases, the decision maker is authorized to approve funding on a case-by-case basis if the item is "reasonable and necessary for the individual."  The ceiling track lift would appear to fit into this category, as this category of DME does not appear on the list.  Sharon's best argument is that the lift performs the same mobility or travel function as the wheelchair, cane, crutches, or walkers, which are all covered to allow the individual to ambulate.
+
+Medicare will not cover the laptop computer, the van or the van modifications.  The laptop computer does not meet that part of the DME definition that requires that the item be "primarily and customarily" used to serve a medical purpose.   For this same reason, they will not cover the dual purpose AAC device/laptop computer unless the personal computer functions are disabled. Regarding the van and modifications, since part of the definition of DME requires that an item be "appropriate for use in the home," even the van modifications (which, arguably, are medical equipment) cannot be covered under Medicare's DME category.
+
+A better argument can be made for Medicare to cover the access ramps, but Medicare has traditionally not covered items like ramps, and stairway elevators specifically appear on the reference list as non-covered convenience items that are not considered medical in nature.  Since we are aware of at least one case in which funding for a stair lift was awarded on appeal, Sharon could be encouraged to seek funding for the ramp in an appeal.  Keep in mind, however, that to the extent that the exclusion for stairway elevators were to apply (arguably, it would not apply to an access ramp), recent amendments to the Medicare Act would make that policy binding on administrative law judges.
+
+SSI's Plan for Achieving Self Support
+
+Eligibility for a PASS.  The PASS allows an individual to exclude income and/or resources which would otherwise be countable under SSI, when the excluded money is used for an occupational objective.  By doing so, the person retains SSI, becomes eligible for more SSI, or becomes eligible for SSI as a new applicant.
+
+The PASS allows an individual to achieve an occupational objective through use of this excluded income and resources. In a case like Sharon's, the PASS can be used to purchase items like the van or laptop computer to help pave the way to her vocational goals.
+
+A number of items must be contained in the written PASS proposal, including:  the occupational objective; specific savings/planned disbursement goals; a list of items or activities requiring savings or payments and anticipated amounts; a specific period of time for achieving the objective; and a detailed business plan when self-employment is a goal.
+
+A PASS can generally be approved for up to 48 months or a longer period as necessary to allow the person to achieve his or her goal.  For example, Sharon could be allowed a longer approval period because her goal includes undergraduate school and law school.
+
+Using a PASS to Fund AT.  Money set aside under a PASS can be used for anything that is tied to achieving an occupational objective.   The following is a sample list of uses for the income or resources set aside under the PASS for a person who, like Sharon, may be looking at a long-term goal that involves college.  Any of these items can be funded if reasonable and necessary to achieve the individual's vocational goal:
+
+• Costs for room and board when attending college;
+• Access modifications to vehicles to accommodate disabilities;
+• Tuition, books, supplies and all fees and costs imposed by or in connection with an educational facility including tutoring, testing, counseling, etc.;
+• Transportation costs, including: lease, rental or purchase of vehicle, fuel costs, registration fees and initial cost of insurance premiums;
+• Maintenance, finance, and service charges for any of the above items;
+• Job search or relocation services.
+
+Many of the items listed could also be funded through VESID.  Much of what is medically related can be funded through Medicaid or Medicare.  College-related expenses could be covered by grants and scholarships.  The person should be advised to look to the PASS as a source of supplemental funding for these items, or as the source of funding for items that generally cannot be funded through other means.
+
+Using the PASS for Sharon.  Since the income of Sharon's parents, including her stepparent, will count until her 18th birthday, we should consider the PASS to take effect on or after her 18th birthday (i.e., December 2005).  If the facts do not change, Sharon will be eligible for an SSI check to supplement her $420 SSDI check (e.g., a $202 SSI check based on New York's living with others rate for 2005).
+
+Sharon's need for a specially modified van could be funded under a PASS in order to pursue her career goal of becoming a lawyer.  In fact, all of the needed items could potentially be funded under a PASS if Sharon can show that they are necessary to achieve her vocational goal.  The vehicle purchase, however, is the one item for which she may have to rely on the PASS.  If she buys a van, VESID will most likely be able to pay for most, if not all, of the special modifications needed.
+
+Sharon proposes a PASS to help fund the purchase of a van.  As of her 18th birthday, she will deposit $400 of her monthly SSDI check into a specially-designated account.  Under SSI policy, the $400 that is set aside will not be countable income for SSI purposes.  In addition, the money in the special bank account will not be considered a countable resource.  Therefore, her SSI payment will be increased from $202 to $602.  Thus, in 48 months' time, without affecting the amount of her disposable income for monthly living expenses, Sharon will be able to accumulate $19,200 plus interest, nearly enough to pay for the van.
+
+The PASS will enable Sharon to achieve a number of things:
+
+• accumulation of more than $19,000 toward the van purchase;
+• the leveraging of $10,000 or more from VESID to pay for van modifications;
+• maintenance of monthly income, for living expenses, at or near the same level;
+• retaining automatic eligibility for Medicaid.
+
+Using "Deemed Income" to Fund Sharon's PASS.  In Sharon's case, since she is under 18 a part of her parents' $60,000 in wages would be deemed available to her and make her ineligible for SSI.  Like any other form of income that is considered available to an SSI recipient, deemed income can be used to fund items in a PASS.
+
+Let's change the facts in Sharon's case.  Assume she is 16 years old and lives with her mother and 12-year-old brother.  There is no other parent in the household.  She was getting a full $602 SSI check until her mother went to work.  In this changed set of facts, Sharon does not receive a Social Security check on the account of her deceased father.  The countable deemed income is now $50 over the monthly limit for SSI - i.e., the deemed income is $662 per month.  Accordingly, Sharon will no longer be eligible for SSI.  (Note: In order for $662 per month of Sharon's mother's wages to be deemed available to her, her mother's gross monthly wages would have to be $2896.50 per month in 2005, about $34,752 per year in gross wages.)
+
+A PASS is proposed to put $662 of the mother's monthly wage into an account to save for the van to allow Sharon to attend college to prepare to become a lawyer.  When the PASS is approved, the deemed income will no longer be counted by SSI and Sharon will qualify once again for a $602 SSI check.  She will also qualify for automatic Medicaid.  If Sharon saves this money for two full years, or until deeming stops on her eighteenth birthday, she will be able to save nearly $16,000 in her PASS fund.
+
+In Sharon's case, the PASS can also be used to fund any number of other items which specifically relate to her long-term vocational goal.  For example, she may wish to save money toward the specially adapted computer equipment or a specially designed computer desk and seating system.
+Unfortunately, the PASS has been ignored as a way to use deemed income to fund items related to a person's vocational goal.  For example, based on the most recent statistics compiled by SSA, there were only five PASSes in existence, nationwide, for a child under age 18 that involved the exclusion of income.  Hopefully, that number will go up dramatically as we all look to the PASS as an option for children under age 18.
+
+Conclusion
+
+Based on a thorough review of Sharon's AT-related needs and the funding criteria of the programs discussed, the likely plan is as follows:
+
+• A power wheelchair: Medicaid will be the most likely funding source, with Medicaid eligibility to begin upon Sharon's 18th birthday.
+
+• An augmentative and alternative communication (AAC) device: Medicaid will also be the most likely funding source when Sharon turns 18.  Although the special education system could probably pay for it, the device would stay with the school when Sharon graduates.
+
+• A laptop computer with adapted keyboard and voice input software: With some proactive advocacy from the family or an advocate, the best plan would be for the special education system to purchase the computer when Sharon is a high school junior.  VESID will either pay a share of the cost or purchase it from the school for Sharon (at a discounted rate) when Sharon graduates.
+
+• A ceiling track lift: Medicaid is the most likely funding source.  There is a good chance that funding will be denied and the case will go to a hearing.  VESID is the second choice for payment.
+
+• Access ramp at the home: VESID is the most likely funding choice.  The family may want to propose to VESID that they will pursue the matter through Medicaid, with VESID picking up payment if an appeal is not successful.
+
+• A van, specifically modified for a wheelchair user: The PASS is the only real choice to purchase the van (unless Sharon is prepared for a court challenge on VESID's policy - not a great idea under the facts).  VESID should be able to pay for the modifications.
+
+As always, readers with questions about the subject matter of this newsletter are encouraged to call our toll-free hotline at 1-888-224-3272.  Readers may also want to directly call the State AT Advocacy Project (see box, p.126) to discuss specific issues involving Medicaid or Medicare in particular.
+
+
+*******
+
+Benefits Planning, Assistance & Outreach Projects in New York
+
+The following are the Benefits Planning, Assistance and Outreach (BPA&O) projects serving New York State and the contact persons for each office.  The BPA&Os are funded by the Social Security Administration and are available to inform SSI and SSDI beneficiaries of the work incentives available to them and how going to work will affect their SSI, SSDI, Medicaid, or Medicare benefits.
+
+Resource Center for Independent Living	
+Connie Angelini	
+315-797-4642	
+401-409 Columbia Street
+P.O. Box 210
+Utica, NY 13503-0210
+
+Research Foundation for Mental Hygiene ("Brooklyn Works")	
+Olga Ivnitsky	
+718-368-7923	
+NY State Department of Labor
+17-17 Avenue Z
+Brooklyn, NY 11235
+
+Neighborhood Legal Services, Inc.	
+Krista McDonald	
+716-847-0650	
+295 Main Street Room 495 
+Buffalo, NY 14203
+
+Abilities, Inc., National Center for Disability Services	
+Leslie Monsen	
+516-465-1522	
+201 I.U. Willets Road
+Albertson, NY 11507
+
+Barrier Free Living, Inc.	
+Angel Caula	
+212-677-6668   	
+270 East Second Street
+New York, NY 10009
+
+Queens Independent Living Center	
+Luis Rivera	
+718-515-2800	
+140-40 Queens Blvd.
+Jamaica, NY 11435
+
+Independent Living, Inc.	
+Ian Weinstein	
+845-565-1162    	
+5 Washington Terrace
+Newburgh, NY 12550
+
+*******
+
+Additional Resources Available on Topics Covered in this Article
+
+Funding of Assistive Technology to Make Work a Reality (Sept. 2004), 28 pages with extensive citations to law, regulation, and policy.  Complimentary copy available by calling 1-888-224-3272 or on the web at www.nls.org/Work%20&%20AT.htm or www.nls.org/pdf/Work%20&%20AT.pdf 
+
+The Public School's Special Education System as an Assistive Technology Funding Source: The Cutting Edge (April 2003), 70 pages with extensive citations to law, regulation, and policy.  Complimentary copy available by calling 1-888-224-3272 or on the web at www.nls.org/specedat.htm or www.nls.org/pdf/special-ed-booklet-03.pdf 
+
+The State/Federal Vocational Rehabilitation Program (2001), 14 pages with extensive citations to law, regulation, and policy.  Available on the web at www.ilr.cornell.edu/ped/dep/PP_1.txt  or www.ilr.cornell.edu/ped/dep/PP_1.pdf
+
+Medicare: An Overview for AT Advocates (2004), 28-page training handout, with extensive citations to law, regulation, policy.  Available by calling 1-888-224-3272.
+
+Spring 2001 issue of the IMPACT Newsletter: Prior Approval of Assistive Technology, Fair Hearings and Court Appeals, available on web at www.nls.org/at/atspr01.htm
+
+PASS: SSI's Plan for Achieving Self Support (2003), 46 pages including sample letters and PASS proposal.  Available on the web at www.ilr.cornell.edu/ped/dep/PP_12.txt or www.ilr.cornell.edu/ped/dep/PP_12.pdf
+
+*******
+
+WHEN TO CALL OUR TOLL-FREE LINE FOR TECHNICAL ASSISTANCE
+
+Our State Work Incentives Support Center offers a statewide, toll-free number to call for information and technical assistance on a wide range of issues involving benefits and work.  The staff of Neighborhood Legal Services is available to take calls concerning any of the topics you see discussed in these newsletters.  For example, if a caller seeks information about any of the  information discussed in this article, you can call us at 1-888-224-3272 for more information on these issues.
+
+*******
+
+Key 2005 Social Security and Medicare Changes 
+
+SSI Monthly Payment Rates for New York:
+
+Living alone - $666
+Living with others - $602
+Living in the household of another - $411
+Couple - $973
+
+Social Security Disability Insurance Thresholds:
+
+Substantial gainful activity  (SGA) - $830 per month ($1,380 for legally blind)
+Trial work period (TWP) month - $590
+
+SSI Student Earned Income Exclusion Amounts:
+
+Up to $1,410 per month excluded
+Up to $5,670 per year excluded 
+
+Section 1619(b) Eligibility Thresholds:
+
+Base amount - $17,004
+Title 19 or Medicaid amount - $20,571
+Total threshold - $37,575
+
+Medicare Part B Premium
+
+$78.20 per month in 2005
+
+
+*******
+
+State AT Project Can Help When AT is Denied
+
+This statewide project can help when programs like Medicaid deny funding for durable medical equipment (DME).  For assistance, call Marge Gustas at 716-847-0655 ext. 256 or Monika Bhatt at ext. 267.
+
+The State AT Advocacy Project and its referral network have successfully handled hundreds of Medicaid DME appeals over the last 10 years (including 10 or more successful court appeals).  Currently, the project is appealing two of the issues that have come up in the Sharon hypothetical: one involving portable ramps for the home; the other involving a dual-purpose AAC device.
+
+*******
+
+The NY State Work Incentives Support Center will provide statewide services, including: training through traditional means and through use of the latest technology for distance learning; a toll-free technical assistance line, 1-888-224-3272; and a quarterly newsletter, The Benefits Planner.  To subscribe to the Center's listserv, send your name and email address to tpg3@cornell.edu.  To request a print copy of this newsletter, contact the toll-free number above.
+
+*******
+
+If you have special needs and would like The Benefits Planner sent in a special format, would like our Spanish version or would like the newsletter delivered by email, please call our toll-free technical assistance line, 1-888-224-3272.
+
+*******
+
+NEIGHBORHOOD LEGAL SERVICES, INC.
+295 Main Street, Room 495
+Buffalo, NY 14203

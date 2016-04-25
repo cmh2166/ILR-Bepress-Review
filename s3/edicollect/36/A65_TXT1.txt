@@ -1,0 +1,579 @@
+Occupational Safety and Health
+and Disability Nondiscrimination in the Workplace: 
+Complying with Dual Requirements  
+
+
+Why should HR professionals be informed about the 
+intersection of disability nondiscrimination laws and health 
+and safety requirements in the workplace? 
+
+Human resource professionals often have responsibilities 
+for implementing the requirements of state and federal 
+legislation, including disability nondiscrimination and health 
+and safety laws.  Sometimes the interaction of different 
+legal requirements can be confusing.  In a random sample 
+survey of the membership of the Society for Human 
+Resource Management (SHRM) conducted in 1998 by 
+Cornell University,  respondents indicated that they were 
+frequently or occasionally uncertain of selected areas 
+where the Americans with Disabilities Act of 1990 (ADA) 
+and the Occupational Safety and Health Act of 1970 (OSH 
+Act) intersect.  For example, approximately one-half of the 
+respondents expressed uncertainty about whether OSHA 
+regulations supersede the confidentiality requirements of 
+the ADA.  Other areas of uncertainty included whether 
+worksite modifications or ergonomic changes constitute 
+reasonable accommodation (46% of respondents), and 
+whether it is permissible to discipline an employee who is a 
+risk to self or others (40%).  
+
+The following discussion will provide an overview of the 
+employment sections of the ADA, the requirements of the 
+OSH Act, a discussion of key areas where these laws 
+intersect, and resources for future reference.  Staying 
+current on agency guidance and emerging case law in 
+these areas will further assist the HR professional in 
+helping businesses resolve questions involving workplace 
+safety and the rights of employees with disabilities.
+
+What does Title I of the ADA require? 
+
+Title I of the ADA protects qualified individuals with 
+disabilities from employment discrimination on the basis of 
+disability.  Title I is enforced by the U.S. Equal 
+Employment Opportunity Commission (EEOC).   These 
+protections apply to the entire employment relationship, 
+including the application process, hiring, training, 
+promotion, termination, compensation, and other benefits 
+and privileges of employment, such as health and 
+retirement benefits, and employer-sponsored social 
+functions.  Providing necessary reasonable 
+accommodations is considered to be part of the ADA's 
+nondiscrimination requirements.   
+
+The ADA requires employers to provide necessary 
+reasonable accommodations for qualified individuals with 
+disabilities.  Potential reasonable accommodations include 
+making existing facilities accessible, job-restructuring, 
+part-time or modified work schedules, assistive 
+technology, providing aides or qualified interpreters, 
+modifying tests or policies, and reassignment to a vacant 
+position.  Generally, the individual with a disability must 
+inform the employer that an accommodation is needed.  
+
+The employer should confer with the employee about what 
+sorts of accommodations would enable him/her to perform 
+the essential functions of the position.  When no 
+accommodation is readily identified or alternative options 
+are desired, technical assistance may be helpful in 
+determining how to accommodate an employee in a 
+specific situation.  If the individual cannot perform an 
+essential function of the job, even with accommodation, 
+the individual is not considered "a qualified individual with a 
+disability" under the law (and you may have to consider 
+reassignment as a reasonable accommodation).  In 
+addition, the ADA does not require employers to provide 
+accommodations that would pose an "undue hardship" on 
+the operation of the business.  
+
+What does the Occupational Safety and Health Act 
+require? 
+
+The Occupational Safety and Health Administration's 
+(OSHA) mission is to prevent work-related injuries, 
+illnesses and deaths.  Since the agency was created in 
+1971, occupational deaths have been cut in half and injuries 
+have declined by 40 percent.  Congress created OSHA 
+under the Occupational Safety and Health Act (OSH Act), 
+signed into law on December 29, 1970 .  
+
+The OSH Act is based on the premise that every worker 
+has a right to a workplace that is free from recognized 
+hazards.  When a potential hazard is identified, the 
+Occupational Safety and Health Administration (OSHA), 
+which is part of the U.S.  Department of Labor, develops a 
+standard against which workplace practices or conditions 
+should be measured.  Unlike some other employment 
+regulations, OSHA requirements are applied universally to 
+all employers, regardless of the volume of business they 
+conduct or the number of people in their employ.
+
+After the implementation of a standard, the Labor 
+Department can determine which workplaces will be 
+inspected, either by the request of an employee in the 
+particular workplace, or at OSHA's discretion.  
+Inspections are conducted with the permission of the 
+employer, and according to OSHA guidelines.  Violations 
+of a standard are punishable by government-ordered 
+abatement and monetary fines, set according to the size of 
+the business, the seriousness of the violation, the good 
+faith of the employer, and the record of prior violations.  
+Violations that result in the death of an employee are 
+punishable under criminal law. 
+
+Some of the requirements of the OSH Act overlap with 
+provisions of the ADA.  The HR professional is likely to 
+encounter questions about the intersection of these laws in 
+the areas of employee testing and screening, confidentiality 
+of medical records, and reasonable accommodation.   
+
+How do the ADA and OSH Act requirements intersect in 
+the area of employment testing and screening?
+
+Some employers have used pre-employment physical 
+fitness tests and other exams to screen out applicants 
+prone to ergonomic hazard injuries.  The ADA places 
+limitations on employee testing.  If an individual with a 
+disability or a class of individuals with disabilities is 
+screened out by a test or other qualification standard, the 
+employer must show that the test or standard is job-related 
+and consistent with business necessity and that the 
+standard cannot be met with a reasonable accommodation. 
+ In most instances, a risk of future injury won't satisfy this 
+ADA standard.  The ADA also prohibits an employer from 
+making medical inquiries or requiring physicals before a job 
+offer is made, and places certain restrictions on post-offer, 
+pre-employment inquiries and exams.  After the person is 
+hired and becomes an employee, any medical inquiries and 
+examinations must be job-related and consistent with 
+business necessity.  All of these restrictions on medical 
+exams and inquiries are designed to prevent potential 
+discrimination based on disability.  
+
+The OSH Act, in contrast, affirmatively requires employers 
+to monitor and test employees in a variety of situations to 
+assure safety.  For example, employees exposed to high 
+noise levels are required to be included within an 
+audiometric testing program, which includes among other 
+things, annual hearing tests .  The ADA's limits on 
+employee and applicant testing might initially appear to 
+conflict with OSHA's need for testing in furtherance of 
+workplace safety goals.  However, the ADA regulations 
+recognize that if the employer's alleged discriminatory 
+action was taken in order to comply with another federal 
+law or regulation, the employer may assert this as a 
+defense to the charge of discrimination.  The employer's 
+defense may be rebutted by a showing of pretext, or by 
+showing that the federal standard did not require the 
+discriminatory action or could have been complied with in 
+a non-exclusionary way .  A survey of the case law does 
+not reveal any significant cases illustrating a conflict 
+between the ADA's limits on medical inquiries and testing 
+and OSHA's testing requirements, which leads this author 
+to surmise that the differing goals and requirements of the 
+ADA and the OSH Act are being harmoniously construed 
+in a common sense way.  Knowledgeable HR professionals 
+can assist in resolving these conflicts early on, determining 
+whether the requirements of both laws can be met or 
+whether the ADA's conflicting federal law defense is 
+applicable.   
+
+What are the considerations in complying with the ADA's 
+confidentiality requirements regarding medical records and 
+the OSH Act's recordkeeping requirements relating to 
+occupational illness and injury? 
+
+The ADA requires strict confidentiality of medical records. 
+ All information obtained from post-offer medical exams 
+and inquiries must be collected and maintained on separate 
+forms, in separate medical files and must be treated as a 
+confidential medical record.  Employers should take steps 
+to guarantee the security of the employee's medical infor-
+mation, including keeping the information in a medical file 
+in a separate locked cabinet, apart from the location of per-
+sonal files, and should designate a specific person or 
+persons to have access to the medical file.  Employers may 
+disclose the records, if necessary, to supervisors and 
+managers in regard to work restrictions or necessary 
+accommodations, to first aid and safety personnel, and to 
+government officials investigating ADA and other disability 
+discrimination laws.  In addition, relevant information can 
+be disclosed to state workers' compensation offices and to 
+insurance companies that require a medical exam to 
+provide employees with health or life insurance.
+
+The OSH Act requires employers to keep records of 
+workplace injuries and illnesses, and grants OSHA 
+personnel access to such records in the interest of 
+exposing potential hazards and their causes .  About 1.3 
+million employers with 11 or more employees - 20 percent 
+of the establishments OSHA covers - must keep records 
+of work-related injuries and illnesses.  Workplaces in low-
+hazard industries such as retail, service, finance, insurance 
+and real estate are exempt from record keeping 
+requirements.  
+
+OSHA has recently issued a new ruling on recordkeeping 
+to improve the system that employers use to track and 
+record workplace injuries and illnesses .  OSHA Forms 300 
+and 301 both note that they contain information about 
+employee health and that this information must be used in a 
+manner that protects the confidentiality of employees to the 
+extent possible while the information is being used for 
+occupational safety and health purposes.   
+
+OSHA compliance personnel may also conduct an 
+examination of employee medical records solely to verify 
+employer compliance with the medical surveillance 
+recordkeeping requirements of an occupational safety and 
+health standard.  However, the OSHA regulations note that 
+an examination of this nature shall be conducted on-site 
+and, that OSHA compliance personnel shall not record and 
+take off-site any information from medical records other 
+than documentation of the fact of compliance or non-
+compliance.
+
+In addition, OSHA takes the position that access to 
+employee medical records will in certain circumstances be 
+important to the agency's performance of its statutory 
+functions.  Due to the substantial personal privacy interests 
+involved, OSHA authority to gain access to personally 
+identifiable employee medical information will be exercised 
+only after the agency has made a careful determination of 
+its need for this information, and only with appropriate 
+safeguards to protect individual privacy .  
+
+Overall, the OSHA regulations appear to be concerned 
+about the confidentiality of employee medical information 
+in a manner that is generally consistent with the ADA's 
+confidentiality requirements.  H.R.  personnel should guide 
+employers to construe OSHA requirements in a manner 
+that also complies with the ADA's confidentiality 
+provisions whenever possible.  Clearly, however, OSHA 
+personnel and other individuals designated in the OSHA 
+regulations, including representatives from the National 
+Institute for Occupational Safety and Health (NIOSH), will 
+insist upon access to those medical records they deem vital 
+to their mission .  While these parties are not listed in the 
+ADA as having access to confidential medical records, the 
+ADA's conflicting federal law and regulation defense 
+would protect an employer who grants access to OSHA 
+representatives acting pursuant to federal law.  
+
+How does the ADA's reasonable accommodation 
+requirement interact with the OSH Act?
+
+The ADA does not override federal health and safety 
+requirements.  If OSHA requires a standard, an employer 
+must comply with it.  However, an employer cannot just 
+screen out a person with a disability as a result of health 
+and safety testing.  The ADA requires that the employer 
+consider the possibility of reasonable accommodation to 
+enable the employee to perform his or her current job in 
+accordance with OSH Act requirements.  For example, if 
+an audiometric test required by OSHA identifies that an 
+employee has a hearing loss because of exposure to loud 
+equipment, the employer might want to terminate the 
+employee, seeing this as a potential risk, or perhaps 
+transfer the person to another job.  The ADA would 
+require that the employer first consider an accommodation, 
+such as sound abatement equipment, to enable the 
+individual to continue in his/her current job, and as a last 
+resort, reassignment to another position.  
+
+Sometimes the OSHA regulations will not permit a 
+particular type of accommodation.  For instance, OSHA's 
+respirator requirements are clear and specific.  The 
+employer would not have to keep an employee in a position 
+that requires a respirator if the worker is not able to wear a 
+respirator.  However, the ADA would still require that the 
+employer consider transferring this employee to an 
+equivalent, vacant position.  
+
+What is "direct threat" under the ADA and how does it 
+relate to the OSH Act?
+
+Some employers are concerned that a worker with a 
+disability could be a safety hazard, either to him or herself 
+or to co-workers or customers.  The ADA takes this 
+concern into account, but only if it is founded upon clear, 
+documented evidence that the individual is a "direct threat" 
+to himself or others because of the nature of the job and 
+the specific characteristics of that individual's disability.
+
+In determining whether an individual with a disability poses 
+a direct threat, including an individual with a contagious 
+disease, the factors to be considered include: (1) the 
+duration of the risk; (2) the nature and severity of the 
+potential harm; (3) the likelihood that the potential harm 
+will occur; and (4) the imminence of the potential harm.  
+Even if the person is found to pose a significant risk of 
+substantial harm, part of the reasonable accommodation 
+determination is an analysis of whether the individual can 
+be accommodated in a way that eliminates the direct threat 
+or reduces it to an acceptable level.
+
+The direct threat standard is a tough standard for an 
+employer to meet.  Employers are not required to do a 
+direct threat analysis, however, if an OSHA standard 
+mandates the removal of an employee from a particular job 
+for health and safety reasons.  Again, the employer must 
+always consider whether there is an effective 
+accommodation that will allow the employee to come into 
+compliance with OSHA rules, and if not, must consider 
+reassigning the worker to an equivalent, vacant position. 
+
+What other experts can help the HR professional dealing 
+with OSHA and ADA requirements?
+
+Larger employers may employ their own specialists to 
+assist with health and safety considerations and 
+accommodation issues, including health and safety 
+specialists, ergonomists, occupational health specialists, 
+physical therapists, and occupational therapists.  Smaller 
+employers may hire these services as needed from outside 
+agencies.  Knowing which professionals to call is often the 
+first important step for HR professionals, who will often be 
+assisting supervisors in dealing with these issues.  The HR 
+professional will work closely with these service providers 
+in applying and utilizing their advice within the framework 
+of ADA and OSHA requirements.  
+
+For example, orthopedic or musculoskeletal injury, 
+specifically back injury, is the type of disability that has the 
+highest number of claims before the EEOC for alleged 
+disability discrimination under the ADA (approximately 
+16% of total claims to date) .  H.R. professionals will 
+often encounter accommodation and health and safety 
+questions about persons with musculoskeletal injuries .  
+Supervisors or HR professionals may want to seek the 
+assistance of an ergonomist, physical or occupational 
+therapist, industrial hygienist, or health and safety 
+specialist.  Ergonomists integrate knowledge derived from 
+the human sciences to match jobs, systems, products, and 
+environments to the physical and mental abilities and 
+limitations of people .  
+
+An ergonomist uses information about people, for example 
+their size (height, etc.),  ability to handle information and 
+make decisions,  ability to see and hear, and  ability to 
+work in extreme temperatures, to match people to jobs .  
+Physical therapists, or PTs, are health care professionals 
+who evaluate and treat people with health problems 
+resulting from injury or disease.  PTs assess joint motion, 
+muscle strength and endurance, function of heart and 
+lungs, and performance of activities required in daily 
+living .  
+
+Occupational therapists (OTs) evaluate and treat individuals 
+with injuries, illnesses, cognitive impairments, psychosocial 
+dysfunctions, mental illness, developmental learning 
+disabilities, physical disabilities, or other disorders or 
+conditions.  Evaluation and intervention by an OT focuses 
+on an individual's level of function and involves 
+assessment of performance components, and performance 
+context .  
+
+An industrial hygienist plays a role in insuring that the 
+workplace is as free as possible from hazards and that the 
+workers in the community at large are protected from 
+potential health threats.  Some of the areas that industrial 
+hygienists may get involved in include: testing for and 
+possibly removing toxic materials in the work environment; 
+helping to limit disabilities caused by repetitive 
+and/prolonged movement, such as typing at a keyboard, or 
+sitting at a desk all day; and setting limits on exposure 
+levels and providing guidelines for control of chemicals, 
+noise, and radiation in the workplace.  
+
+Further information about the services provided and the 
+credentials required for an industrial hygienist, as well as 
+safety engineers, may be gained from the relevant 
+professional associations. ,  ,  
+
+The HR professional is also likely to get many questions 
+about mental health disabilities.  Employers often express 
+concern that people with certain psychiatric disabilities or a 
+history of treatment may pose a safety concern.  
+According to the National Mental Health Association, 
+"Violent acts committed by persons with mental illness 
+represent a small fraction of the violence perpetrated in our 
+country, yet these acts are frequently highly sensationalized 
+by the media and lead to the continued stigmatization of 
+persons with mental illness."  Getting more information 
+about mental health or psychiatric disabilities in general, 
+and consultation on the unique accommodation 
+considerations for a particular individual, is imperative 
+when there are questions surrounding a mental health 
+disability .  A mental health professional or employee 
+assistance program (EAP) professional may be of 
+assistance in this situation. 
+
+
+
+Moving Forward
+
+HR professionals can play a pivotal role in helping 
+employers to understand and effectively navigate the dual 
+requirements of the ADA and OSH Act.  By working 
+closely with frontline supervisors and technical experts 
+who deal with health, safety and accommodation issues, 
+HR professionals can assist their organizations in fully 
+complying with OSHA's health and safety requirements, 
+without needlessly screening out or discriminating against 
+applicants or employees with disabilities.  
+
+Resources
+
+ADA Technical Assistance Program and Disability and IT 
+Technical Assistance Centers
+(800) 949-4232 (voice/TTY), www.adata.org
+
+U.S. Equal Employment Opportunity Commission
+(800) 669-4000 (Voice), (800) 669-6820 (TTY), 
+www.eeoc.gov
+
+Cornell University Tips for HR Professionals -
+Tools to help HR professionals build inclusive workplaces.
+(607) 255-7727 (voice); 607-255-2891 (TDD)
+www.ilr.cornell.edu/ped/hr_tips
+
+Occupational Safety and Health Administration
+For Workplace Safety and Health Questions:
+(800) 321-OSHA (6742)
+U.S.  Department of Labor, 200 Constitution Avenue, 
+N.W., Washington, D.C.  20210
+www.osha.gov
+
+Job Accommodation Network
+(800) ADA-WORK (voice/TTY), 
+www.dol.gov/dol/odep/public/pubs/ek98/jan.htm 
+
+This brochure is one of a series on human resources practices 
+and workplace accommodations for persons with disabilities 
+edited by Susanne M. Bruyère, Ph.D., CRC, SPHR, Director, 
+Program on Employment and Disability, School of Industrial 
+and Labor Relations - Extension Division, Cornell 
+University.  It was written in June, 2002  by Susanne M. 
+Bruyere, Ph.D., CRC, SPHR, Director, Program on 
+Employment and Disability, Cornell University
+
+Cornell University was funded in the early 1990's by the U.S. 
+Department of Education National Institute on Disability and 
+Rehabilitation Research as a National Materials 
+Development Project on the employment provisions (Title I) of 
+the ADA (Grant #H133D10155).  These updates, and the 
+development of new brochures, have been funded by Cornell's 
+Program on Employment and Disability, the Pacific 
+Disability and Business Technical Assistance Center, and 
+other supporters.
+
+Cornell University currently serves as the Northeast 
+Disability and Business Technical Assistance Center. Cornell 
+is also conducting employment policy and practices research, 
+examining private and federal sector employer responses to 
+disability civil rights legislation.  This research has been 
+funded by the U.S. Department of Education National 
+Institute on Disability and Rehabilitation Research  (Grant 
+#H133A70005) and the Presidential Task Force on 
+Employment of Adults with Disabilities.  
+
+The full text of this brochure, and others in this series, can be 
+found at: www.ilr.cornell.edu/ped/ada.  Research reports 
+relating to employment practices and policies on disability 
+civil rights legislation, are available at: 
+www.ilr.cornell.edu/ped/surveyresults.html.
+
+For further information, contact the Program on Employment 
+and Disability, Cornell University, 102 ILR Extension, Ithaca, 
+New York 14853-3901; 607/255-2906 (Voice), 607/255-2891 
+(TTY), or 607/255-2763 (Fax).
+
+More information is also available from  the ADA Technical 
+Assistance Program and Regional Disability and Business 
+Technical Assistance Centers, (800) 949-4232 (voice/TTY), 
+www.adata.org
+
+Disclaimer
+This material was produced by the Program on Employment 
+and Disability, School of Industrial and Labor Relations-
+Extension Division, Cornell University, and funded by a grant 
+from the National Institute on Disability and Rehabilitation and 
+Rehabilitation Research (grant #H133D10155).  The U.S. Equal 
+Employment Opportunity Commission has reviewed it for 
+accuracy.  However, opinions about the Americans with 
+Disabilities Act (ADA) expressed in this material are those of 
+the author, and do not necessarily reflect the viewpoint of the 
+Equal Employment Opportunity Commission or the publisher.  
+The Commission's interpretations of the ADA are reflected in 
+its ADA regulations (29 CFR Part 1630), Technical Assistance 
+Manual for Title I of the Act, and EEOC Enforcement Guidance.
+
+Cornell University is authorized by the National Institute on 
+Disability and Rehabilitation Research (NIDRR) to provide 
+information, materials, and technical assistance to individuals 
+and entities that are covered by the Americans with Disabilities 
+Act (ADA).  However, you should be aware that NIDRR is not 
+responsible for enforcement of the ADA.  The information, 
+materials, and/or technical assistance are intended solely as 
+informal guidance, and are neither a determination of your legal 
+rights or responsibilities under the Act, nor binding on any 
+agency with enforcement responsibility under the ADA.
+
+The Equal Employment Opportunity Commission has issued 
+enforcement guidance which provides additional clarification 
+of various elements of the Title I provisions under the ADA.  
+Copies of the guidance documents are available for viewing 
+and downloading from the EEOC web site at:  
+http://www.eeoc.gov 
+
+ A copy of the full report of this study is available from the 
+Society for Human Resource Management (SHRM) at the 
+SHRMStore at 800-444-5006 (item code 62.17023).  The cost is 
+$39.95 for SHRM members and $49.95 for nonmembers.  An 
+Executive Summary of this report is available from the Cornell 
+University web site at http://www.ilr.cornell.edu/ped/daa/.
+ For more information, please consult the U.S. Equal 
+Employment Opportunity website at www.eeoc.gov.
+  For more information, see the Occupational Safety and Health 
+Administration website at www.osha.gov.
+  29 U.S.C.  Section 666(e).
+  See 29 C.F.R. Section 1910.95. 
+  29 C.F.R. Section 1630.15(e)
+  29 C.F.R. Section 1904.
+  For further information, see http://www.osha-
+slc.gov/recordkeeping/OSHArecordkeepingforms.xls 
+  29 C.F.R. Section 1913.
+  29 C.F.R. Section 1904.40.
+  See U.S. EEOC web site at URL 
+http://www.eeoc.gov/stats/ada-receipts.html.
+  See Workplace Accommodations for Persons with 
+Musculoskeletal Injuries, produced by Cornell University, 
+available at 
+http://www.ilr.cornell.edu/extension/files/download/Musculos
+keletal_Disorders.pdf. 
+  For further information, contact the Human Factors in 
+Ergonomics Society, PO Box 1369, Santa Monica, CA. 90406-
+1369, Telephone 310/394-1811, Fax 310/394-2410, and Email 
+HRES@compuserve.com.
+  Congress and the President took action in 2000 to rescind 
+the major ergonomics rule that DOL had published at the end 
+of 1999. OSHA is currently developing voluntary guidelines to 
+assist employers in recognizing and controlling hazards. 
+  The American Physical Therapy Association, 1111 N. Fairfax 
+St., Alexandria, VA. 22314, Telephone 703/684-APTA, Fax 
+703/684-7343, Internet http://www.apta.org.
+  American Occupational Therapy Association, Inc., 4720 
+Montgomery Lane, Bethesda, MD. 20814-3425, Telephone 
+301/652-2682, Fax 301/652-7711, Internet http://www.aota.org.
+  American Industrial Hygiene Association, 2700 Prosperity 
+Avenue, Suite 250, Fairfax, VA.  22031, Telephone 703/849-
+8888, Fax 703/207-3561.
+  American Society of Safety Engineers, 1800 East Oakton 
+Ave., Des Plaines, IL 60018-2187, Telephone 703/692-4121.
+  National Safety Council, 444 North Michigan Ave., Chicago, 
+IL 60611, Telephone 800/621-7619.
+  Position Statement adopted by the Board of Directors of the 
+National Mental Health Association on June 13, 1999 regarding 
+"Constitutional Rights and Mental Illness."
+  See Employing and Accommodating Workers with 
+Psychiatric Disabilities, produced by Cornell University, 
+available at 
+http://www.ilr.cornell.edu/extension/files/download/Psychiatric
+_Disabilities.pdf.
+  Further information about employee assistance program 
+professionals can be found at www.eap-association.com.
+
+
+Occupational Safety and Health and Disability Nondiscrimination in the Workplace
+Cornell University		June 2002

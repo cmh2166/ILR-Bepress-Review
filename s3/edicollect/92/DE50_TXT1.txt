@@ -1,0 +1,437 @@
+Cornell Rehabilitation Research and Training Center for Economic Research on Employment Policy for Persons with Disabilities
+
+Has the Employment Rate of People with Disabilities Declined?
+Policy Brief
+December 2004
+
+
+Introduction
+
+A major debate has begun over reports of an unprecedented decline in the employment rate of working-age people with disabilities by those using currently available data sources to track the health employment and economic well-being of the United States population. Many question whether the decline is real, and some have even called on the Federal government to end its financial support for the dissemination of employment estimates for people with disabilities using currently available data. In this policy brief we summarize the arguments and evidence on the issue, and reflect on the importance of the issue for the ongoing debate on disability policy.  We conclude that the decline is real and it has important implications for public policy.1
+
+The Employment Rate Statistics
+
+The Current Population Survey (CPS), the Federal government’s official survey for the measurement of employment in the United States, has been administered consistently over a very long period. Employment rate trends for men aged 18 to 64 with and without disabilities from the CPS show that both groups experienced little change in the 1980s, excluding a small dip for both during the recession that occurred early in the decade (Figure 1). The trends are quite different in the 1990s, however. During the 1990s, the employment rate for men with disabilities fell by 22 percent from 1989 to 2000 while that of men without disabilities dropped only slightly, by 1 percent.2 There is also a divergence in the employment rate trends for women with and without disabilities in the 1990s, although it is somewhat different in nature. In the 1980s, the employment rates of women with and without disabilities both grew. That growth continued for women without disabilities in the 1990s, but not for women with disabilities; instead, their rate fell by one percentage point.
+
+
+Figure 1: CPS Employment Rates by Disability Status and Sex
+
+Category 1: Men without disabilities
+in Year 1981: 93.8%
+in Year 1982: 93.4%
+in Year 1983: 91.8%
+in Year 1984: 91.4%
+in Year 1985: 92.6%
+in Year 1986: 93.1%
+in Year 1987: 93.3%
+in Year 1988: 93.0%
+in Year 1989: 93.2%
+in Year 1990: 93.4%
+in Year 1991: 91.1%
+in Year 1992: 92.4%
+in Year 1993: 91.9%
+in Year 1994: 91.4%
+in Year 1995: 92.0%
+in Year 1996: 91.8%
+in Year 1997: 92.0%
+in Year 1998: 92.1%
+in Year 1999: 92.1%
+in Year 2000: 92.1%
+in Year 2001: 91.9%
+in Year 2002: 91.1%
+
+Category 2: Women without disabilities
+in Year 1981: 69.6%
+in Year 1982: 69.8%
+in Year 1983: 68.9%
+in Year 1984: 69.8%
+in Year 1985: 71.9%
+in Year 1986: 72.4%
+in Year 1987: 73.7%
+in Year 1988: 74.6%
+in Year 1989: 75.5%
+in Year 1990: 75.7%
+in Year 1991: 76.1%
+in Year 1992: 76.1%
+in Year 1993: 77.3%
+in Year 1994: 76.7%
+in Year 1995: 77.3%
+in Year 1996: 77.8%
+in Year 1997: 78.3%
+in Year 1998: 78.9%
+in Year 1999: 78.9%
+in Year 2000: 79.6%
+in Year 2001: 79.4%
+in Year 2002: 78.4%
+
+Category 3: Men with disabilities
+in Year 1981: 41.4%
+in Year 1982: 41.7%
+in Year 1983: 39.5%
+in Year 1984: 39.1%
+in Year 1985: 39.5%
+in Year 1986: 40.4%
+in Year 1987: 41.7%
+in Year 1988: 41.6%
+in Year 1989: 41.2%
+in Year 1990: 42.6%
+in Year 1991: 40.6%
+in Year 1992: 39.9%
+in Year 1993: 40.1%
+in Year 1994: 36.1%
+in Year 1995: 36.5%
+in Year 1996: 34.3%
+in Year 1997: 37.4%
+in Year 1998: 34.6%
+in Year 1999: 33.9%
+in Year 2000: 33.6%
+in Year 2001: 32.4%
+in Year 2002: 32.2%
+
+Category 4: Women with disabilities
+in Year 1981: 28.3%
+in Year 1982: 27.4%
+in Year 1983: 28.4%
+in Year 1984: 28.0%
+in Year 1985: 29.5%
+in Year 1986: 31.0%
+in Year 1987: 30.2%
+in Year 1988: 32.9%
+in Year 1989: 34.3%
+in Year 1990: 35.9%
+in Year 1991: 33.4%
+in Year 1992: 34.0%
+in Year 1993: 33.3%
+in Year 1994: 31.9%
+in Year 1995: 34.1%
+in Year 1996: 33.0%
+in Year 1997: 33.2%
+in Year 1998: 31.6%
+in Year 1999: 29.0%
+in Year 2000: 32.5%
+in Year 2001: 32.3%
+in Year 2002: 29.7%
+
+Source of figure 1 information: www.diabilitystatistics.org
+
+Bad Data?
+
+At face value the decline in the employment rates of men and women with disabilities from the CPS is unprecedented. There are those who argue, however, that it is not possible to measure trends in the employment rate of people with disabilities in a meaningful way with these data. The root causes of the disagreement are the conceptual and practical difficulties in measuring disability in surveys. The old medical model, which posits that a disability is a deficiency within the individual, has been replaced by the widely held view that a disability is caused by an interaction between the individual’s functional limitation and the social environment. When a person is asked if he or she has a “disability,” or, more specifically, a “work limiting condition,” as in the CPS, the answer might depend on the person’s current employment status, which in turn is related to the economic climate. A person who works despite a significant physical or mental impairment might answer “no,” but the identical person might say “yes” if he or she is not employed. 
+
+Work limitation-based measures of the population with disabilities from the CPS and other surveys significantly underestimate the number of persons in the broader population with impairments and over represent those people with impairments who are not employed.3 Hence, work limitation-based measures of disabilities are potentially sensitive to changes in the social environment in which the questions are asked. The passage of the Americans with Disabilities Act, changes in the Social Security Administration’s disability income support programs, and changes in the economy could influence employment prospects and, hence, the likelihood that a person with an impairment will report a work limitation in response to a survey question. 
+Concerns of this type have led some researchers to argue that the CPS and its work limitation-based measure cannot be used to provide credible information to policy makers with respect to the employment of working age people with disabilities.4 Along these lines, the National Council on Disability recommended that “[t]he Federal Government should not encourage or support the dissemination of employment data until a methodology for assessing employment rates among people with disabilities that is acceptable to leading researchers and demographers in the field and credible to persons with disabilities can be developed.”5 
+
+Although clearly problematic, the evidence from the CPS is corroborated by evidence from two other surveys, using several other definitions of disability that are arguably less sensitive to the social environment. Findings from one other major survey, the National Health Interview Survey (NHIS), for men and women aged 18 to 64, appear in Figure 2.6 These findings use an “activity limitation” measure of disability, based on the person’s reported ability to participate in a variety of major activities, not just work. Because of this, the employment rates are at different levels than the corresponding rates from the CPS, but the trends during the 1980s and 1990s are quite similar to those observed in the CPS.  These series also show a decline in the employment rate for men with disabilities, but not for any of the other three groups, in the 1970s. Similar results have been found with other measures of disability, available in the NHIS and the Survey of Income and Program Participation, which are likely to be less sensitive to changes in the social environment.7
+
+Figure 2: NHIS Employment Rates by Disability Status and Sex
+
+Category 1: Men without disabilities
+in Year 1970: 89.8%
+in Year 1971: 88.4%
+in Year 1972: 89.1%
+in Year 1973: 85.5%
+in Year 1974: 87.6%
+in Year 1975: 88.4%
+in Year 1976: 89.0%
+in year 1977: 89.2%
+in Year 1978: 87.6%
+in Year 1979: 86.9%
+in Year 1980: 84.5%
+in Year 1981: 83.7%
+in Year 1982: 84.5%
+in Year 1983: 83.7%
+in Year 1984: 86.6%
+in Year 1985: 87.2%
+in Year 1986: 86.7%
+in Year 1987: 87.6%
+in Year 1988: 88.4%
+in Year 1989: 88.7%
+in Year 1990: 87.8%
+in Year 1991: 86.8%
+in Year 1992: 86.6%
+in Year 1993: 86.9%
+in Year 1994: 87.5%
+in Year 1995: 87.9%
+in Year 1996: 88.4%
+in Year 1997: 87.3%
+in Year 1998: 87.6%
+in Year 1999: 87.1%
+in Year 2000: 86.7%
+in Year 2001: 88.2%
+
+Category 2: Women without disabilities
+in Year 1970: 50.3%
+in Year 1971: 49.3%
+in Year 1972: 50.8%
+in Year 1973: 52.6%
+in Year 1974: 53.1%
+in Year 1975: 53.0%
+in Year 1976: 55.0%
+in year 1977: 57.4%
+in Year 1978: 58.3%
+in Year 1979: 61.0%
+in Year 1980: 61.0%
+in Year 1981: 60.7%
+in Year 1982: 60.5%
+in Year 1983: 61.4%
+in Year 1984: 63.5%
+in Year 1985: 65.5%
+in Year 1986: 67.3%
+in Year 1987: 67.4%
+in Year 1988: 69.1%
+in Year 1989: 69.5%
+in Year 1990: 69.9%
+in Year 1991: 68.8%
+in Year 1992: 69.9%
+in Year 1993: 70.2%
+in Year 1994: 70.9%
+in Year 1995: 71.9%
+in Year 1996: 72.1%
+in Year 1997: 71.8%
+in Year 1998: 72.2%
+in Year 1999: 72.6% 
+in Year 2000: 73.6%
+in Year 2001: 73.8%
+
+Category 3: Men with disabilities
+in Year 1970: 71.3%
+in Year 1971: 68.9%
+in Year 1972: 69.5%
+in Year 1973: 70.4%
+in Year 1974: 67.8%
+in Year 1975: 64.8%
+in Year 1976: 65.7%
+in year 1977: 64.7%
+in Year 1978: 67.4%
+in Year 1979: 67.0%
+in Year 1980: 63.8%
+in Year 1981: 62.5%
+in Year 1982: 60.8%
+in Year 1983: 61.7%
+in Year 1984: 63.6%
+in Year 1985: 63.3%
+in Year 1986: 64.5%
+in Year 1987: 62.5%
+in Year 1988: 65.1%
+in Year 1989: 65.6%
+in Year 1990: 62.7%
+in Year 1991: 60.6%
+in Year 1992: 60.1%
+in Year 1993: 61.1%
+in Year 1994: 61.3%
+in Year 1995: 61.3%
+in Year 1996: 60.5%
+in Year 1997: 51.0%
+in Year 1998: 53.6%
+in Year 1999: 52.3%
+in Year 2000: 51.1%
+in Year 2001: 48.6%
+
+Category 4: Women with disabilities
+in Year 1970: 32.9%
+in Year 1971: 33.2%
+in Year 1972: 33.6%
+in Year 1973: 35.8%
+in Year 1974: 36.1%
+in Year 1975: 35.2%
+in Year 1976: 36.7%
+in year 1977: 39.0%
+in Year 1978: 39.5%
+in Year 1979: 42.8%
+in Year 1980: 42.2%
+in Year 1981: 42.5%
+in Year 1982: 39.3%
+in Year 1983: 40.1%
+in Year 1984: 41.3%
+in Year 1985: 44.5%
+in Year 1986: 47.2%
+in Year 1987: 45.6%
+in Year 1988: 47.6%
+in Year 1989: 48.4%
+in Year 1990: 50.0%
+in Year 1991: 48.4%
+in Year 1992: 47.9%
+in Year 1993: 48.1%
+in Year 1994: 47.8%
+in Year 1995: 50.3%
+in Year 1996: 47.7%
+in Year 1997: 41.0%
+in Year 1998: 42.8%
+in Year 1999: 40.6%
+in Year 2000: 39.7%
+in Year 2001: 38.8%
+
+Source of figure 2 information: Trupin and Yellin, 2003.  Estimates control for age, race, ethnicity, marital status, rural residence, region, and education. 1982 estimates not included due to invalid activity limitation responses.
+
+A new study addresses two other limitations of the CPS data.8 First, the CPS work limitation question refers to the month of the interview, and might therefore elicit positive responses from people with only temporary limitations. However, by taking advantage of the rotating panel design of the CPS it is possible to overcome this limitation and determine which respondents report a work limitation in two consecutive March surveys.  Second, for the single-period disability measure, the employment measure refers to a period that precedes the work limitation measure, but the two-period measure also overcomes this problem because it essentially spans the employment measure’s period. The employment rate series for this longer-term disability population, calculated for a somewhat narrower age range (21 to 58) than in the series reported above, also shows a substantial decline in the 1990s (Figure 3).  A difference between these series and those reported above, however, is that the decline appears to start in the mid-1980s rather than at the end of that decade.
+
+Figure 3: CPS Employment Rates by Long-term Disability Status and Sex
+
+Category 1: Men without disabilities
+in Year 1981: 96.1%
+in Year 1982: 94.6%
+in Year 1983: 94.3%
+in Year 1984: 95.5%
+in Year 1986: 95.9%
+in Year 1987: 96.2%
+in Year 1988: 95.9%
+in Year 1989: 96.2%
+in Year 1990: 95.5%
+in Year 1991: 95.5%
+in Year 1992: 94.2%
+in Year 1993: 94.8%
+in Year 1994: 94.5%
+in Year 1996: 94.9%
+in Year 1997: 94.7%
+in Year 1998: 95.4%
+in Year 1999: 94.8%
+in Year 2000: 94.7%
+in Year 2001: 94.1%
+in Year 2002: 93.3%
+
+Category 2: Women without disabilities
+in Year 1981: 70.8%
+in Year 1982: 69.1%
+in Year 1983: 70.6%
+in Year 1984: 72.2%
+in Year 1986: 74.2%
+in Year 1987: 75.7%
+in Year 1988: 76.8%
+in Year 1989: 78.1%
+in Year 1990: 77.5%
+in Year 1991: 78.4%
+in Year 1992: 78.0%
+in Year 1993: 78.5%
+in Year 1994: 79.1%
+in Year 1996: 80.2%
+in Year 1997: 71.6%
+in Year 1998: 80.9%
+in Year 1999: 81.4%
+in Year 2000: 81.4%
+in Year 2001: 80.3%
+in Year 2002: 79.7%
+
+Category 3: Men with disabilities
+in Year 1981: 31.2%
+in Year 1982: 23.5%
+in Year 1983: 24.0%
+in Year 1984: 24.1%
+in Year 1986: 29.8%
+in Year 1987: 26.6%
+in Year 1988: 26.5%
+in Year 1989: 28.0%
+in Year 1990: 23.1%
+in Year 1991: 24.2%
+in Year 1992: 27.5%
+in Year 1993: 25.7%
+in Year 1994: 22.9%
+in Year 1996: 27.4%
+in Year 1997: 21.5%
+in Year 1998: 18.9%
+in Year 1999: 19.2%
+in Year 2000: 18.4%
+in Year 2001: 21.3%
+in Year 2002: 17.7%
+
+Category 4: Women with disabilities
+in Year 1981: 15.9%
+in Year 1982: 17.1%
+in Year 1983: 16.0%
+in Year 1984: 22.6%
+in Year 1986: 24.2%
+in Year 1987: 23.6%
+in Year 1988: 24.0%
+in Year 1989: 20.7%
+in Year 1990: 24.0%
+in Year 1991: 19.1%
+in Year 1992: 23.0%
+in Year 1993: 19.8%
+in Year 1994: 23.9%
+in Year 1996: 19.5%
+in Year 1997: 21.8%
+in Year 1998: 16.4%
+in Year 1999: 18.8%
+in Year 2000: 16.5%
+in Year 2001: 17.7%
+in Year 2002: 17.2%
+
+Source of figure 3 information: Houtenville and Burkhauser, 2004.
+
+People with Disabilities Who Are “Able to Work"
+
+The CPS also asks respondents with work limitations if they are “able to work at all.” The proportion of people with disabilities who say they are able to work at all also declined during the 1990s.9 This finding is perhaps not very remarkable given the overall decline in the employment rate of people with disabilities, but its magnitude is. The behavior of such “able to work at all” rates plays a central role in the evidence concerning the causes of the employment rate decline. Researchers have consistently found that the employment rate for those with disabilities who say they are able to work at all has increased in both the CPS and NHIS. In fact, those increases are comparable to increases in the employment rate for people without work limitations. Some would interpret this finding as at least some “good news” on employment of people with disabilities, but such an interpretation is tenuous.  For example, the CPS employment rate of people with disabilities who report being "able to work" increased from 45.1 percent to 48.5 percent between 1989 and 2000, but the increase occurred because the number of persons with disabilities reporting they are able to work (the denominator) decreased from 6.0 million to 5.2 million persons, not because the numerator (the number of people with disabilities who are employed) increased; in fact, the numerator declined, from 2.7 million to 2.5 million.   
+
+Findings Supported by Growth in the Social Security Disability Insurance Rolls
+
+If any doubt remains about whether the declines in the measured employment rates reflect real declines in employment, those doubts must be dispelled by growth in the share of working-age adults who receive Social Security Disability Insurance (SSDI) or Supplemental Security Income (SSI) benefits.10 The tight relationship between 1) the number of working-age males who are not employed and who report they are not able to work, and 2) the number of males receiving SSDI benefits,11 is particularly compelling evidence that the survey measures are capturing a real phenomenon. 
+
+Conclusion
+
+Among researchers, there is broad agreement that while disability measures in major surveys leave much to be desired, and some are likely to be sensitive to the social environment, they can be used to identify trends in the overall employment level of people with disabilities. Research based on these data has clearly established that: employment of working-age people with disabilities declined substantially during the 1990s; the proportion of people with disabilities who say they are able to work at all declined substantially during the same period; but that the employment rate for people with disabilities who say they are able to work at all increased. There is much less agreement on the causes of these changes.
+
+For policy purposes, it is important to recognize that the employment of working-age people with disabilities declined in the 1990s, regardless of why the decline occurred, because of its social consequences. One consequence of the decline is that people with disabilities did not fully share in the remarkably strong economic expansion of the 1990s, as illustrated by poverty rate trends for households of adults with and without disabilities. In 1989, 26.6 percent of working-age adults with disabilities lived in households with incomes below the poverty line; in 2000, at the peak of the expansion, the same group's poverty rate was actually higher – 28.5 percent. In contrast, the poverty rate for working-age adults without disabilities fell over the same period, from 9.0 percent to 8.1 percent.12
+
+A second consequence is rapid and unsustainable growth in Federal support programs for people with disabilities.  In 2002, the federal government spent $213 billion to support working-age people with disabilities and their dependents under these and other programs – the equivalent of 10.6 percent of all federal outlays and 2.0 percent of the nation’s gross domestic product (GDP).13 State governments spent another $44 billion under these same federal programs.  Over two decades, federal expenditures for this population under the four programs that account for the bulk of federal expenditures—SSDI, SSI, Medicare and Medicaid—grew at a rate that is twice the growth rate for federal outlays and 70 percent greater than the growth rate for the GDP.  There are other factors, besides the declining employment of working-age people with disabilities, that contribute to the growth of these programs’ expenditures (the rapid growth in the cost of health care, and the aging of the baby boom generation are the most important), but clearly the increased reliance of working-age people with disabilities on these programs rather than their own employment makes a substantial contribution. 
+
+Thus, working-age people with disabilities are not enjoying the benefits of our nation’s economic prosperity even though the burden of expenditures for their support is growing faster than the economy. The decline in their employment rate appears to be a significant proximate cause of both. It is difficult to have a serious discussion about disability policy without recognizing, and better understanding, the role that this employment decline has played in these adverse trends.   
+
+End Notes:
+1. A separate brief summarizes evidence on the reasons for the decline, and discusses further policy implications.  Both briefs are based on material that appears in Stapleton and Burkhauser, eds. 2003, updated with more recent findings.
+2. We compare 2000 to 1989 because employment rates are sensitive to business cycles and both of these years are business cycle peaks.
+3. Burkhauser et al. 2003.
+4. Hale 2001.
+5. National Council on Disability 2002.
+6. Trupin and Yelin 2003.
+7. Burkhauser et al. 2002 and 2003.
+8. Houtenville and Burkhauser 2004.
+9. Burkhauser et al. 2003; Kaye 2003.
+10.Burkhauser et al. 2003; Goodman and Waidmann 2003; Social Security Advisory Board 2004.
+11.Bound and Waidmann 2002. 
+12.Burkhauser, Houtenville and Rovba 2004.
+13.Goodman 2004.
+
+
+REFERENCES
+Bound, J., & Waidmann, T. (2000). Accounting for recent declines in employment rates among the working-aged disabled. National Bureau of Economic Research, 20, [7]. 
+Burkhauser, R., Houtenville, A., & Wittenburg, D. (2003). A user guide to current statistics on the employment of people with disabilities. In D. Stapleton  & R. V. Burkhauser (Eds.), The Decline in the Employment of People with Disabilities: A Policy Puzzle. Kalamazoo, MI: W.E. Upjohn Institute for Employment Research. 
+Burkhauser, R. V., Daly, M. C., Houtenville, A. J., & Nargis, N. (2002). Self-reported work limitation data: What they can and cannot tell us. Demography, 39(3), 541-555. 
+Burkhauser, R. V., Houtenville, A. J. & Rovba, L. Rising Poverty in the Midst of Plenty: The Case of Working-Age people with Disabilities in the 1980s and 1990s.   Journal of Income Distribution. Rehabilitation Research and Training Center for Economic Research on Employment Policy for People with Disabilities: Cornell University; Ithaca, NY.
+Goodman, N. & Stapleton, D. (2004). Federal Program Expenditures for Working-age People with Disabilities. Rehabilitation Research and Training Center for Economic Research on Employment Policy for People with Disabilities: Cornell University; Ithaca, NY. 
+Goodman, N., & Waidman, T. (2003). The role of disability insurance in explaining the recent decline in the employment rate of people with disabilities. In D. Stapleton & R. V. Burkhauser (Eds.), The Decline in Employment of People with Disabilities: A Policy Puzzle. Kalamazoo, MI: W.E. Upjohn Institute for Employment Research. 
+Hale, T. W. (2001). The lack of a disability measure in today's Current Population Survey. Monthly Labor Review, 124(6), 38-40. 
+Houtenville, A. J., & Burkhauser, R. V. (2004). Did the Employment of Those with Disabilities Fall in the 1990s and was the ADA Responsible: A Replication and Robustness Check of Acemoglu and Angrist (2001). Research and Rehabilitation Training Center for Economic Research on Employment Policy for People with Disabilities: Cornell University; Ithaca, NY. 
+Kaye, H. S. (2003). Were employment rates affected by changes in the prevalence and severity of disability? In D. Stapleton & R. V. Burkhauser (Eds.), The Decline in Employment of People with Disabilities: A Policy Puzzle. Kalamazoo, MI: W.E. Upjohn Institute for Employment Research. 
+National Council on Disability. (2002). National Disability Policy: A Progress Report (December 2000-December 2001). , from http://www.ncd.gov/newsroom/publications/2002/pdf/progressreport_07-26-02.pdf
+Social Security Advisory Board. (2003). The Social Security Definition of Disability. Retrieved 7/21/04, from http://www.ssab.gov/
+Stapleton, D., & Burkhauser, R. V. (Eds.). (2003). The Decline in Employment of People with Disabilities: A Policy Puzzle. Kalamazoo, MI: W.E Upjohn Institute for Employment Research. 
+Trupin, L., & Yelin, E. (2003). Impact of Structural Change in the Distribution of Occupations and Industries on the Employment of persons with Disabilities in the US, 1970-2001. Retrieved 12/20/04, from http://www.dri.uiuc.edu/research/p03-01c/p03_01c_w_figures_tables.pdf
+
+For further information about this paper contact:
+David C. Stapleton, Director
+Cornell University Institute for Policy Research
+4301 Connecticut Ave., NW, Suite 330
+Washington, DC 20008 
+tel (202) 719-7835
+fax (202) 719-7878
+email dcs28@cornell.edu
+web www.cuipr.cornell.edu
+
+Research on this paper was funded by the Department of Education’s National Institute for Disability and Rehabilitation Research (NIDRR) and Cornell University (Cooperative Agreement No. H133B980038). The views expressed in this paper are those of the authors and are not necessarily those of NIDRR. 
+This paper is being distributed by the Rehabilitation Research and Training Center for Economic Research on Employment Policy for Persons with Disabilities at Cornell University.
+This center is funded to Cornell University, in collaboration with The Urban Institute(Washington, DC), by the U.S. Department of Education, National Institute on Disability and Rehabilitation Research (Cooperative Agreement No. H133B980038).
+This center is an across college effort at Cornell University between the Employment and Disability Institute in the Extension Division of the School of Industrial and Labor Relations and the Department of Policy Analysis and Management in the College of Human Ecology, and the Institute for Policy Research in Washington, DC, and in collaboration with The Urban Institute.
+
+The Co-Principal Investigators are:
+Susanne M. Bruyère— Director, Employment and Disability Institute, School of Industrial and Labor Relations, Extension Division, Cornell University
+Richard V. Burkhauser— Sarah Gibson Blanding Professor and Chair, Department of Policy Analysis and Management, College of Human Ecology, Cornell University
+David C. Stapleton—Director, Cornell University Institute for Policy Research
+
+For further information:Susanne M. Bruyère, PhD, Project Director
+Cornell University
+201 ILR Extension Building
+Ithaca,  NY  14853-3901
+tel(607) 255-7727
+fax (607) 255-2763
+TDD(607) 255-2891
+email smb23@cornell.edu
+web www.ilr.cornell.edu/rrtc
