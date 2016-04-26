@@ -1,7 +1,7 @@
 import hashlib
 import os
 import argparse
-
+import xmltodict
 
 
 def grabS3(s3url, rootdir):
@@ -18,7 +18,19 @@ def grabS3(s3url, rootdir):
         print('have s3 copy locally.')
 
 
-def convertXMLtoDict():
+def convertXMLtoDict(xmlfile):
+    with open(xmlfile) as f:
+        data = xmltodict.parse(f.read())
+    return(data)
+
+
+def addDoctoDocs(xmldict, output):
+    doc = data['documents']
+    output['documents'].append(doc)
+    return(output)
+
+
+def parseS3(rootdir, output):
 
 
 
@@ -37,6 +49,9 @@ def main():
         parser.exit()
 
     grabS3(args.s3url, args.rootdir)
+
+    output = {}
+    output['documents'] = []
 
 
 
