@@ -1,7 +1,7 @@
-import hashlib
 import os
 import argparse
 import xmltodict
+import pprint
 
 
 def grabS3(s3url, rootdir):
@@ -19,19 +19,23 @@ def grabS3(s3url, rootdir):
 
 
 def convertXMLtoDict(xmlfile):
-    with open(xmlfile) as f:
-        data = xmltodict.parse(f.read())
-    return(data)
-
-
-def addDoctoDocs(xmldict, output):
+    with open(xmlfile) as fh:
+        data = xmltodict.parse(fh.read())
     doc = data['documents']
-    output['documents'].append(doc)
-    return(output)
+    return(doc)
 
 
 def parseS3(rootdir, output):
-
+    for subdir, dirs, files in os.walk(rootdir):
+        if 'archive_manifest.json' not in files and 'metadata.xml' in files:
+            workingdir = subdir.replace(rootdir, '')
+            for file in files:
+                if file == 'metadata.xml':
+                    doc = convertXMLtoDict(os.path.join(subdir, file))
+                    doc['document'].update({'files': files})
+                    doc['document'].update({'file_dir': workingdir})
+                    output['documents'].append(doc)
+    return(output)
 
 
 def main():
@@ -44,7 +48,7 @@ def main():
 
     args = parser.parse_args()
 
-    if not len(sys.argv) > 0:
+    if not args.rootdir and not args.s3url:
         parser.print_help()
         parser.exit()
 
@@ -53,7 +57,23 @@ def main():
     output = {}
     output['documents'] = []
 
+    output = parseS3(args.rootdir, output)
+    fields = set()
+    for n in range(len(output['documents'])):
+        for key in output['documents'][n]['document'].keys():
+            fields.add(key)
+            try:
+                for key2 in output['documents'][n]['document'][key].keys():
+                    fields.add(key + '/' + key2)
+                    try:
+                        for key3 in output['documents'][n]['document'][key][key2].keys():
+                            fields.add(key + '/' + key2 + '/' + key3)
+                    except:
+                        pass
+            except:
+                pass
 
+    pprint.pprint(fields)
 
 
 if __name__ == "__main__":
