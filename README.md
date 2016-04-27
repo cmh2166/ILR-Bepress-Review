@@ -18,42 +18,48 @@ OAI-PMH Metadata Formats available via the Bepress OAI feed:
 
 **Overview**:
 ```
-oai:header/oai:datestamp: |=========================|  24829/24829 | 100%
-oai:header/oai:identifier: |=========================|  24829/24829 | 100%
-  oai:header/oai:setSpec: |=========================|  24829/24829 | 100%
-oai:metadata/document-export/documents/document/abstract: |======                   |   6680/24829 |  26%
-oai:metadata/document-export/documents/document/articleid: |=========================|  24829/24829 | 100%
-oai:metadata/document-export/documents/document/authors: |==========               |  10864/24829 |  43%
-oai:metadata/document-export/documents/document/authors/author/email: |==                       |   2300/24829 |   9%
-oai:metadata/document-export/documents/document/authors/author/fname: |======                   |   6685/24829 |  26%
-oai:metadata/document-export/documents/document/authors/author/institution: |=====                    |   5000/24829 |  20%
-oai:metadata/document-export/documents/document/authors/author/lname: |======                   |   6685/24829 |  26%
-oai:metadata/document-export/documents/document/authors/author/mname: |===                      |   3869/24829 |  15%
-oai:metadata/document-export/documents/document/authors/author/organization: |=======                  |   7406/24829 |  29%
-oai:metadata/document-export/documents/document/authors/author/suffix: |                         |    343/24829 |   1%
-oai:metadata/document-export/documents/document/context-key: |=========================|  24829/24829 | 100%
-oai:metadata/document-export/documents/document/coverpage-url: |=========================|  24829/24829 | 100%
-oai:metadata/document-export/documents/document/disciplines/discipline: |=                        |   1395/24829 |   5%
-oai:metadata/document-export/documents/document/document-type: |=========================|  24829/24829 | 100%
-oai:metadata/document-export/documents/document/fields/field: |                         |      1/24829 |   0%
-oai:metadata/document-export/documents/document/fields/field/value: |======================== |  24787/24829 |  99%
-oai:metadata/document-export/documents/document/fulltext-url: |======================== |  24622/24829 |  99%
-oai:metadata/document-export/documents/document/keywords/keyword: |=======================  |  23526/24829 |  94%
-oai:metadata/document-export/documents/document/label: |=========================|  24829/24829 | 100%
-oai:metadata/document-export/documents/document/native-url: |                         |    503/24829 |   2%
-oai:metadata/document-export/documents/document/publication-date: |=========================|  24829/24829 | 100%
-oai:metadata/document-export/documents/document/publication-title: |=========================|  24829/24829 | 100%
-oai:metadata/document-export/documents/document/subject-areas: |                         |     56/24829 |   0%
-oai:metadata/document-export/documents/document/subject-areas/subject-area: |                         |    344/24829 |   1%
-oai:metadata/document-export/documents/document/submission-date: |=========================|  24829/24829 | 100%
-oai:metadata/document-export/documents/document/submission-path: |=========================|  24829/24829 | 100%
+
+
+
+                                                            oai:header/oai:datestamp: |=========================|  24829/24829 | 100%
+                                                           oai:header/oai:identifier: |=========================|  24829/24829 | 100%
+                                                              oai:header/oai:setSpec: |=========================|  24829/24829 | 100%
+                            oai:metadata/document-export/documents/document/abstract: |======                   |   6680/24829 |  26%
+                           oai:metadata/document-export/documents/document/articleid: |=========================|  24829/24829 | 100%
+                             oai:metadata/document-export/documents/document/authors: |==========               |  10864/24829 |  43%
+                oai:metadata/document-export/documents/document/authors/author/email: |==                       |   2300/24829 |   9%
+                oai:metadata/document-export/documents/document/authors/author/fname: |======                   |   6685/24829 |  26%
+          oai:metadata/document-export/documents/document/authors/author/institution: |=====                    |   5000/24829 |  20%
+                oai:metadata/document-export/documents/document/authors/author/lname: |======                   |   6685/24829 |  26%
+                oai:metadata/document-export/documents/document/authors/author/mname: |===                      |   3869/24829 |  15%
+         oai:metadata/document-export/documents/document/authors/author/organization: |=======                  |   7406/24829 |  29%
+               oai:metadata/document-export/documents/document/authors/author/suffix: |                         |    343/24829 |   1%
+                         oai:metadata/document-export/documents/document/context-key: |=========================|  24829/24829 | 100%
+                       oai:metadata/document-export/documents/document/coverpage-url: |=========================|  24829/24829 | 100%
+              oai:metadata/document-export/documents/document/disciplines/discipline: |=                        |   1395/24829 |   5%
+                       oai:metadata/document-export/documents/document/document-type: |=========================|  24829/24829 | 100%
+                        oai:metadata/document-export/documents/document/fields/field: |                         |      1/24829 |   0%
+                  oai:metadata/document-export/documents/document/fields/field/value: |======================== |  24787/24829 |  99%
+                        oai:metadata/document-export/documents/document/fulltext-url: |======================== |  24622/24829 |  99%
+                    oai:metadata/document-export/documents/document/keywords/keyword: |=======================  |  23526/24829 |  94%
+                               oai:metadata/document-export/documents/document/label: |=========================|  24829/24829 | 100%
+                          oai:metadata/document-export/documents/document/native-url: |                         |    503/24829 |   2%
+                    oai:metadata/document-export/documents/document/publication-date: |=========================|  24829/24829 | 100%
+                   oai:metadata/document-export/documents/document/publication-title: |=========================|  24829/24829 | 100%
+                       oai:metadata/document-export/documents/document/subject-areas: |                         |     56/24829 |   0%
+          oai:metadata/document-export/documents/document/subject-areas/subject-area: |                         |    344/24829 |   1%
+                     oai:metadata/document-export/documents/document/submission-date: |=========================|  24829/24829 | 100%
+                     oai:metadata/document-export/documents/document/submission-path: |=========================|  24829/24829 | 100%
 oai:metadata/document-export/documents/document/supplemental-files/file/archive-name: |                         |    451/24829 |   1%
-oai:metadata/document-export/documents/document/supplemental-files/file/description: |                         |    316/24829 |   1%
-oai:metadata/document-export/documents/document/supplemental-files/file/mime-type: |                         |    451/24829 |   1%
-oai:metadata/document-export/documents/document/supplemental-files/file/upload-name: |                         |    451/24829 |   1%
-oai:metadata/document-export/documents/document/supplemental-files/file/url: |                         |    451/24829 |   1%
-oai:metadata/document-export/documents/document/title: |=========================|  24829/24829 | 100%
-oai:metadata/document-export/documents/document/type: |=========================|  24829/24829 | 100% 
+ oai:metadata/document-export/documents/document/supplemental-files/file/description: |                         |    316/24829 |   1%
+   oai:metadata/document-export/documents/document/supplemental-files/file/mime-type: |                         |    451/24829 |   1%
+ oai:metadata/document-export/documents/document/supplemental-files/file/upload-name: |                         |    451/24829 |   1%
+         oai:metadata/document-export/documents/document/supplemental-files/file/url: |                         |    451/24829 |   1%
+                               oai:metadata/document-export/documents/document/title: |=========================|  24829/24829 | 100%
+                                oai:metadata/document-export/documents/document/type: |=========================|  24829/24829 | 100%
+
+
+
 ```
 
 ###OAI-DC Review
