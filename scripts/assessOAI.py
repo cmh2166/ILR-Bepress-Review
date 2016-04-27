@@ -63,8 +63,15 @@ class Record:
         rec = etree.ElementTree(metadata)
         if metadata is not None:
             for desc in metadata.iterdescendants():
-                # ignore empties, does NOT have children elements
-                if len(desc) == False and desc.text:
+                if desc.tag == 'field':
+                    output = ''
+                    if desc.get('name') is not None:
+                        output += ('oai:metadata/document-export/documents/document/fields/field[@name=' + desc.get('name'))
+                    if desc.get('type') is not None:
+                        output += ('][@type=' + desc.get('type') + ']/value')
+                    stats.setdefault(output, 0)
+                    stats[output] += 1
+                elif len(desc) == False and desc.text is not None and not(re.match('^\s+$', desc.text)): #ignore empties, does NOT have children elements
                     stats.setdefault(re.sub('\[\d+\]','', rec.getelementpath(desc).replace(OAI_NS, 'oai:')), 0)
                     stats[re.sub('\[\d+\]','', rec.getelementpath(desc).replace(OAI_NS, 'oai:'))] += 1
         return stats
