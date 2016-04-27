@@ -32,18 +32,6 @@ class Record:
         except:
             raise RepoInvestigatorException("Record does not have a valid ID")
 
-    def get_elements(self):
-        out = []
-        metadata = self.elem
-        if metadata is not None:
-            for desc in metadata.iterdescendants():
-                if desc.tag == self.args.element and desc.text:
-                    out.append(desc.text.encode("utf-8").strip())
-            if len(out) == 0:
-                out = None
-            self.elements = out
-            return self.elements
-
     def get_xpath(self):
         out = []
         metadata = self.elem
@@ -66,14 +54,15 @@ class Record:
                 if desc.tag == 'field':
                     output = ''
                     if desc.get('name') is not None:
-                        output += ('oai:metadata/document-export/documents/document/fields/field[@name=' + desc.get('name'))
+                        output += ('document/fields/field[@name=' + desc.get('name'))
                     if desc.get('type') is not None:
                         output += ('][@type=' + desc.get('type') + ']/value')
                     stats.setdefault(output, 0)
                     stats[output] += 1
-                elif len(desc) == False and desc.text is not None and not(re.match('^\s+$', desc.text)): #ignore empties, does NOT have children elements
-                    stats.setdefault(re.sub('\[\d+\]','', rec.getelementpath(desc).replace(OAI_NS, 'oai:')), 0)
-                    stats[re.sub('\[\d+\]','', rec.getelementpath(desc).replace(OAI_NS, 'oai:'))] += 1
+                elif len(desc) == False and desc.text is not None and not(re.match('^\s+$', desc.text)):
+                    val = re.sub('\[\d+\]','', rec.getelementpath(desc).replace(OAI_NS, 'oai:').replace('oai:metadata/document-export/documents/', ''))
+                    stats.setdefault(val, 0)
+                    stats[val] += 1
         return stats
 
     def has_element(self):
@@ -181,12 +170,15 @@ def main():
     }
 
     parser = ArgumentParser(usage='%(prog)s [options] data_filename.xml')
-    parser.add_argument("-e", "--element", dest="element", help="element to print to screen")
-    parser.add_argument("-x", "--xpath", dest="xpath", help="get response of xpath expression on mods:mods record")
-    parser.add_argument("-i", "--id", action="store_true", dest="id", default=False, help="prepend meta_id to line")
-    parser.add_argument("-s", "--stats", action="store_true", dest="stats", default=False, help="only print stats for repository")
-    parser.add_argument("-p", "--present", action="store_true", dest="present", default=False, help="print if there is value of defined element in record")
-    parser.add_argument("datafile", help="put the datafile you want analyzed here")
+    parser.add_argument("-x", "--xpath", dest="xpath",
+                        help="get response of xpath expression on record")
+    parser.add_argument("-i", "--id", action="store_true", dest="id",
+                        default=False, help="prepend meta_id to line")
+    parser.add_argument("-s", "--stats", action="store_true", dest="stats",
+                        default=False, help="only print stats for repository")
+    parser.add_argument("-p", "--present", action="store_true", dest="present",
+                        default=False, help="if there is that value in record")
+    parser.add_argument("datafile", help="the datafile you want analyzed")
 
     args = parser.parse_args()
 
@@ -194,7 +186,7 @@ def main():
         parser.print_help()
         parser.exit()
 
-    if args.element is None and args.xpath is None:
+    if args.xpath is None:
         args.stats = True
 
     s = 0
@@ -202,14 +194,6 @@ def main():
         if elem.tag == OAI_NS + "record":
             r = Record(elem, args)
             record_id = r.get_record_id()
-
-            if args.stats is False and args.present is False and args.element is not None:
-                if r.get_elements() is not None:
-                    for i in r.get_elements():
-                        if args.id:
-                            print("\t".join([record_id, i]))
-                        else:
-                            print(i)
 
             if args.stats is False and args.present is False and args.xpath is not None:
                 if r.get_xpath() is not None:
@@ -219,13 +203,10 @@ def main():
                         else:
                             print(i)
 
-            if args.stats is False and args.element is not None and args.present is True:
-                print("%s %s" % (record_id, r.has_element()))
-
             if args.stats is False and args.xpath is not None and args.present is True:
                 print("%s %s" % (record_id, r.has_xpath()))
 
-            if args.stats is True and args.element is None:
+            if args.stats is True:
                 if (s % 1000) == 0 and s != 0:
                     print("%d records processed" % s)
                 s += 1
