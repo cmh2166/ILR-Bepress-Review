@@ -26,16 +26,18 @@ def convertXMLtoDict(xmlfile):
 
 
 def parseS3(rootdir, output):
+    records = 0
     for subdir, dirs, files in os.walk(rootdir):
         if 'archive_manifest.json' not in files and 'metadata.xml' in files:
             workingdir = subdir.replace(rootdir, '')
             for file in files:
                 if file == 'metadata.xml':
+                    records += 1
                     doc = convertXMLtoDict(os.path.join(subdir, file))
                     doc['document'].update({'files': files})
                     doc['document'].update({'file_dir': workingdir})
                     output['documents'].append(doc)
-    return(output)
+    return(output, records)
 
 
 def main():
@@ -57,9 +59,12 @@ def main():
     output = {}
     output['documents'] = []
 
-    output = parseS3(args.rootdir, output)
+    (output, records) = parseS3(args.rootdir, output)
     fields = set()
+    print(records)
     for n in range(len(output['documents'])):
+        if 'supplemental-files' in output['documents'][n]['document'].keys():
+            output['documents'][n]['document']['supplemental-files']
         for key in output['documents'][n]['document'].keys():
             fields.add(key)
             try:
@@ -72,7 +77,6 @@ def main():
                         pass
             except:
                 pass
-
     pprint.pprint(fields)
 
 
