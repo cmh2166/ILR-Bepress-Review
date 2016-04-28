@@ -1,5 +1,56 @@
 #ILR Bepress Review
 
+##S3 Backup Metadata Review
+
+Total records in all feeds as of this review: 1108 (waiting for full repopulation)
+Data harvested last on April 27th, 2016.
+
+```
+                            abstract: |==========               |    478/1108 |  43%
+                           articleid: |=========================|   1108/1108 | 100%
+                             authors: |=========================|   1108/1108 | 100%
+                      authors/author: |=====================    |    944/1108 |  85%
+                authors/author/email: |===                      |    167/1108 |  15%
+                authors/author/fname: |==========               |    480/1108 |  43%
+          authors/author/institution: |======                   |    307/1108 |  27%
+                authors/author/lname: |==========               |    480/1108 |  43%
+                authors/author/mname: |======                   |    269/1108 |  24%
+         authors/author/organization: |==                       |    124/1108 |  11%
+               authors/author/suffix: |=                        |     84/1108 |   7%
+                         context-key: |=========================|   1108/1108 | 100%
+                       coverpage-url: |=========================|   1108/1108 | 100%
+                         disciplines: |===                      |    133/1108 |  12%
+              disciplines/discipline: |===                      |    133/1108 |  12%
+                       document-type: |=========================|   1108/1108 | 100%
+                              fields: |=========================|   1108/1108 | 100%
+                        fields/field: |=========================|   1108/1108 | 100%
+                  fields/field/@name: |                         |      2/1108 |   0%
+                  fields/field/@type: |                         |      2/1108 |   0%
+                  fields/field/value: |                         |      2/1108 |   0%
+                            file_dir: |=========================|   1108/1108 | 100%
+                               files: |=========================|   1108/1108 | 100%
+                        fulltext-url: |======================== |   1105/1108 |  99%
+                            keywords: |===================      |    852/1108 |  76%
+                    keywords/keyword: |===================      |    852/1108 |  76%
+                               label: |=========================|   1108/1108 | 100%
+                          native-url: |==                       |    103/1108 |   9%
+                    publication-date: |=========================|   1108/1108 | 100%
+                   publication-title: |=========================|   1108/1108 | 100%
+                       subject-areas: |==                       |     89/1108 |   8%
+          subject-areas/subject-area: |==                       |     89/1108 |   8%
+                     submission-date: |=========================|   1108/1108 | 100%
+                     submission-path: |=========================|   1108/1108 | 100%
+                  supplemental-files: |====                     |    188/1108 |  16%
+             supplemental-files/file: |====                     |    188/1108 |  16%
+supplemental-files/file/archive-name: |====                     |    181/1108 |  16%
+ supplemental-files/file/description: |====                     |    181/1108 |  16%
+   supplemental-files/file/mime-type: |====                     |    181/1108 |  16%
+ supplemental-files/file/upload-name: |====                     |    181/1108 |  16%
+         supplemental-files/file/url: |====                     |    181/1108 |  16%
+                               title: |=========================|   1108/1108 | 100%
+                                type: |=========================|   1108/1108 | 100%
+```
+
 ##OAI-PMH Metadata Review
 
 Total records in all feeds as of this review: 24,824
@@ -18,9 +69,6 @@ OAI-PMH Metadata Formats available via the Bepress OAI feed:
 
 **Overview**:
 ```
-
-
-
                                                                                             oai:header/oai:datestamp: |=========================|  24829/24829 | 100%
                                                                                            oai:header/oai:identifier: |=========================|  24829/24829 | 100%
                                                                                               oai:header/oai:setSpec: |=========================|  24829/24829 | 100%
@@ -85,8 +133,6 @@ oai:metadata/document-export/documents/document/fields/field[@name=publication_d
                                          oai:metadata/document-export/documents/document/supplemental-files/file/url: |                         |    451/24829 |   1%
                                                                oai:metadata/document-export/documents/document/title: |=========================|  24829/24829 | 100%
                                                                 oai:metadata/document-export/documents/document/type: |=========================|  24829/24829 | 100%
-
-
 
 ```
 

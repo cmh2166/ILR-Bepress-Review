@@ -213,7 +213,7 @@ def main():
                 collect_stats(stats_aggregate, r.get_stats())
             elem.clear()
 
-    if args.stats is True and args.element is None:
+    if args.stats is True:
         stats_averages = create_stats_averages(stats_aggregate)
         pretty_print_stats(stats_averages)
 

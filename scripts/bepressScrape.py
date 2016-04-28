@@ -1,6 +1,7 @@
 import requests
 from lxml import html
-import pprint
+import json
+
 
 def grabURLs():
     URLS = []
@@ -20,11 +21,13 @@ def scrapeURLs(URLS):
                 metatags[meta.get('name')] = meta.get('content')
         webdata[url] = {}
         webdata[url]['meta'] = metatags
-        series_titles = tree.xpath("//div[@id='series-header']/h2[@id='series-title']/a")
+        sertitle_xp = "//div[@id='series-header']/h2[@id='series-title']/a"
+        series_titles = tree.xpath(sertitle_xp)
         for title in series_titles:
             series_title = title.text
             webdata[url]['series_title'] = series_title
-        series_urls = tree.xpath("//div[@id='series-header']/h2[@id='series-title']/a")
+        serurl_xp = "//div[@id='series-header']/h2[@id='series-title']/a"
+        series_urls = tree.xpath(serurl_xp)
         for url in series_urls:
             series_url = url.get('href')
             webdata[url]['series_url'] = series_url
@@ -36,12 +39,14 @@ def scrapeURLs(URLS):
             else:
                 for val in elem.xpath('p'):
                     webdata[url][elem.get('id')] = val.text
-    pprint.pprint(webdata)
+    return(webdata)
 
 
 def main():
     URLS = grabURLs()
-    scrapeURLs(URLS)
+    resp = scrapeURLs(URLS)
+    with open('data/webscrape/data.json', 'wb') as fh:
+        json.dump(resp, fh)
 
 if __name__ == '__main__':
     main()

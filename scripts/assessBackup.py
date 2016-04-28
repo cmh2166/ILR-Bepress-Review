@@ -40,6 +40,56 @@ def parseS3(rootdir, output):
     return(output, records)
 
 
+def collect_stats(stats_aggregate, stats):
+    # increment the record counter
+    stats_aggregate["record_count"] += 1
+    for field in stats:
+        # get the total number of times a field occurs
+        stats_aggregate["field_info"].setdefault(field, {"field_count": 0})
+        stats_aggregate["field_info"][field]["field_count"] += 1
+        # get average of all fields
+        stats_aggregate["field_info"][field].setdefault("field_count_total", 0)
+        stats_aggregate["field_info"][field]["field_count_total"] += stats[field]
+
+
+def create_stats_averages(stats_aggregate):
+    for field in stats_aggregate["field_info"]:
+        field_count = stats_aggregate["field_info"][field]["field_count"]
+        field_count_total = stats_aggregate["field_info"][field]["field_count_total"]
+
+        field_count_total_average = (float(field_count_total) / float(stats_aggregate["record_count"]))
+        stats_aggregate["field_info"][field]["field_count_total_average"] = field_count_total_average
+
+        field_count_element_average = (float(field_count_total) / float(field_count))
+        stats_aggregate["field_info"][field]["field_count_element_average"] = field_count_element_average
+
+    return stats_aggregate
+
+
+def pretty_print_stats(stats_averages):
+    record_count = stats_averages["record_count"]
+    # get header length
+    element_length = 0
+    for element in stats_averages["field_info"]:
+        if element_length < len(element):
+            element_length = len(element)
+
+    print("\n\n")
+    for element in sorted(stats_averages["field_info"]):
+        percent = (stats_averages["field_info"][element]["field_count"] / float(record_count)) * 100
+        percentPrint = "=" * (int((percent) / 4))
+        columnOne = " " * (element_length - len(element)) + element
+        print("%s: |%-25s| %6s/%s | %3d%% " % (
+                    columnOne,
+                    percentPrint,
+                    stats_averages["field_info"][element]["field_count"],
+                    record_count,
+                    percent
+                ))
+
+    print("\n")
+
+
 def main():
     """Assess the S3 Bepress backup instance data."""
     parser = argparse.ArgumentParser()
@@ -58,27 +108,39 @@ def main():
 
     output = {}
     output['documents'] = []
-
     (output, records) = parseS3(args.rootdir, output)
+
+    stats_aggregate = {
+            "record_count": 0,
+            "field_info": {}
+        }
+
     fields = set()
-    print(records)
     for n in range(len(output['documents'])):
+        stats = {}
         if 'supplemental-files' in output['documents'][n]['document'].keys():
             output['documents'][n]['document']['supplemental-files']
         for key in output['documents'][n]['document'].keys():
             fields.add(key)
+            stats.setdefault(key, 0)
+            stats[key] += 1
             try:
                 for key2 in output['documents'][n]['document'][key].keys():
                     fields.add(key + '/' + key2)
+                    stats.setdefault(key + '/' + key2, 0)
+                    stats[key + '/' + key2] += 1
                     try:
                         for key3 in output['documents'][n]['document'][key][key2].keys():
                             fields.add(key + '/' + key2 + '/' + key3)
+                            stats.setdefault(key + '/' + key2 + '/' + key3, 0)
+                            stats[key + '/' + key2 + '/' + key3] += 1
                     except:
                         pass
             except:
                 pass
-    pprint.pprint(fields)
-
+        collect_stats(stats_aggregate, stats)
+    stats_averages = create_stats_averages(stats_aggregate)
+    pretty_print_stats(stats_averages)
 
 if __name__ == "__main__":
     main()
