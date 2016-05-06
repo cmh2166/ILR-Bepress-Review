@@ -8,8 +8,6 @@ Data harvested last on April 27th, 2016.
 ```
                             abstract: |==========               |    497/1147 |  43%
                            articleid: |=========================|   1147/1147 | 100%
-                             authors: |=========================|   1147/1147 | 100%
-                      authors/author: |=====================    |    983/1147 |  85%
                 authors/author/email: |===                      |    168/1147 |  14%
                 authors/author/fname: |==========               |    492/1147 |  42%
           authors/author/institution: |======                   |    319/1147 |  27%
@@ -48,7 +46,7 @@ supplemental-files/file/archive-name: |===                      |    181/1147 | 
  supplemental-files/file/upload-name: |===                      |    181/1147 |  15%
          supplemental-files/file/url: |===                      |    181/1147 |  15%
                                title: |=========================|   1147/1147 | 100%
-                                type: |=========================|   1147/1147 | 100% 
+                                type: |=========================|   1147/1147 | 100%
 ```
 
 ##Web Scraping Metadata/Microdata Review
@@ -92,9 +90,9 @@ OAI-PMH Metadata Formats available via the Bepress OAI feed:
 
 **Overview**:
 ```
-                                                            oai:header/oai:datestamp: |=========================|  24829/24829 | 100%
-                                                            oai:header/oai:identifier: |=========================|  24829/24829 | 100%
-                                                            oai:header/oai:setSpec: |=========================|  24829/24829 | 100%
+                                                     oai:header/oai:datestamp: |=========================|  24829/24829 | 100%
+                                                    oai:header/oai:identifier: |=========================|  24829/24829 | 100%
+                                                       oai:header/oai:setSpec: |=========================|  24829/24829 | 100%
                                                             document/abstract: |======                   |   6680/24829 |  26%
                                                            document/articleid: |=========================|  24829/24829 | 100%
                                                 document/authors/author/email: |==                       |   2300/24829 |   9%

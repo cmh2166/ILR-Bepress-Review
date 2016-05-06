@@ -1,7 +1,40 @@
+for url in URLS:
+    print('scraping ' + url)
+    webdata[url] = {}
+    resp = requests.get(url)
+    tree = html.fromstring(resp.content)
+    metatags = {}
+    for meta in tree.xpath('//meta'):
+        name = meta.get('name')
+        if name is not 'viewport':
+            metatags[meta.get('name')] = meta.get('content')
+    webdata[url]['meta'] = metatags
+    series_title = series_url = None
+    sertitle_xp = "//div[@id='series-header']/h2[@id='series-title']/a"
+    series_titles = tree.xpath(sertitle_xp)
+    for title in series_titles:
+        series_title = title.text
+    serurl_xp = "//div[@id='series-header']/h2[@id='series-title']/a"
+    series_urls = tree.xpath(serurl_xp)
+    for ser_url in series_urls:
+        series_url = ser_url.get('href')
+    webdata[url]['series_title'] = series_title
+    webdata[url]['series_url'] = series_url
+    for elem in tree.xpath('//div[@id="alpha"]/*'):
+        if elem.get('id') == 'title':
+            for val in elem.xpath('p/a'):
+                webdata[url]['fulltext_url'] = val.get('href')
+                webdata[url][elem.get('id')] = val.text
+        else:
+            for val in elem.xpath('p'):
+                webdata[url][elem.get('id')] = val.text
+    with open('data/webscrape/data.json', 'w') as fh:
+        json.dump(webdata, fh)
+
+
 import requests
 from lxml import html
 import json
-import pprint
 
 
 def grabURLs():
@@ -18,6 +51,7 @@ def getMetatags(html):
         name = meta.get('name')
         if name is not 'viewport':
             metatags[meta.get('name')] = meta.get('content')
+    return(metatags)
 
 
 def getSeries(html):
@@ -53,7 +87,6 @@ def scrapeURLs(URLS):
         webdata[url] = {}
         resp = requests.get(url)
         tree = html.fromstring(resp.content)
-        print(html.tostring(tree, pretty_print=True))
         webdata[url]['meta'] = getMetatags(tree)
         (series_title, series_url) = getSeries(tree)
         webdata[url]['series_title'] = series_title
@@ -71,3 +104,38 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+for url in URLS:
+    print('scraping ' + url)
+    webdata[url] = {}
+    resp = requests.get(url)
+    tree = html.fromstring(resp.content)
+    metatags = {}
+    for meta in tree.xpath('//meta'):
+        name = meta.get('name')
+        if name is not 'viewport':
+            metatags[meta.get('name')] = meta.get('content')
+    webdata[url]['meta'] = metatags
+    series_title = series_url = None
+    sertitle_xp = "//div[@id='series-header']/h2[@id='series-title']/a"
+    series_titles = tree.xpath(sertitle_xp)
+    print(series_titles[0].tag)
+    for title in series_titles:
+        series_title = title.text
+    serurl_xp = "//div[@id='series-header']/h2[@id='series-title']/a"
+    series_urls = tree.xpath(serurl_xp)
+    for url in series_urls:
+        series_url = url.get('href')
+    webdata[url]['series_title'] = series_title
+    webdata[url]['series_url'] = series_url
+    for elem in tree.xpath('//div[@id="alpha"]/*'):
+        if elem.get('id') == 'title':
+            for val in elem.xpath('p/a'):
+                webdata[url]['fulltext_url'] = val.get('href')
+                webdata[url][elem.get('id')] = val.text
+        else:
+            for val in elem.xpath('p'):
+                webdata[url][elem.get('id')] = val.text
+    with open('data/webscrape/data.json', 'w') as fh:
+        json.dump(webdata, fh)
