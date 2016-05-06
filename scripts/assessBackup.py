@@ -18,6 +18,16 @@ def grabS3(s3url, rootdir):
         print('have s3 copy locally.')
 
 
+def removeS3(rootdir):
+    """Remove S3 directory stored locally."""
+    print('removing s3 copy locally.')
+    if not os.listdir(rootdir):
+        print('no s3 backup copy locally.')
+    else:
+        s3rm = 'rm -rf ' + rootdir
+        os.system(s3rm)
+
+
 def convertXMLtoDict(xmlfile):
     with open(xmlfile) as fh:
         data = xmltodict.parse(fh.read())
@@ -104,41 +114,54 @@ def main():
         parser.print_help()
         parser.exit()
 
-    grabS3(args.s3url, args.rootdir)
-
-    output = {}
-    output['documents'] = []
-    (output, records) = parseS3(args.rootdir, output)
+    s3colls = []
+    with open('data/s3colls.txt') as fh:
+        s3colls = fh.read().splitlines()
 
     stats_aggregate = {
             "record_count": 0,
             "field_info": {}
         }
+    for coll in s3colls:
+        print(coll)
+        if not os.path.exists(args.rootdir + coll):
+            os.makedirs(args.rootdir + coll)
+        grabS3(args.s3url + coll, args.rootdir + coll)
 
-    fields = set()
-    for n in range(len(output['documents'])):
-        stats = {}
-        if 'supplemental-files' in output['documents'][n]['document'].keys():
-            output['documents'][n]['document']['supplemental-files']
-        for key in output['documents'][n]['document'].keys():
-            fields.add(key)
-            stats.setdefault(key, 0)
-            stats[key] += 1
+        output = {}
+        output['documents'] = []
+        (output, records) = parseS3(args.rootdir, output)
+
+        fields = set()
+        for n in range(len(output['documents'])):
+            stats = {}
+            if 'supplemental-files' in output['documents'][n]['document'].keys():
+                output['documents'][n]['document']['supplemental-files']
+            for key in output['documents'][n]['document'].keys():
+                fields.add(key)
+                stats.setdefault(key, 0)
+                stats[key] += 1
+                try:
+                    for key2 in output['documents'][n]['document'][key].keys():
+                        fields.add(key + '/' + key2)
+                        stats.setdefault(key + '/' + key2, 0)
+                        stats[key + '/' + key2] += 1
+                        try:
+                            for key3 in output['documents'][n]['document'][key][key2].keys():
+                                fields.add(key + '/' + key2 + '/' + key3)
+                                stats.setdefault(key + '/' + key2 + '/' + key3, 0)
+                                stats[key + '/' + key2 + '/' + key3] += 1
+                        except:
+                            pass
+                except:
+                    pass
+                collect_stats(stats_aggregate, stats)
+
             try:
-                for key2 in output['documents'][n]['document'][key].keys():
-                    fields.add(key + '/' + key2)
-                    stats.setdefault(key + '/' + key2, 0)
-                    stats[key + '/' + key2] += 1
-                    try:
-                        for key3 in output['documents'][n]['document'][key][key2].keys():
-                            fields.add(key + '/' + key2 + '/' + key3)
-                            stats.setdefault(key + '/' + key2 + '/' + key3, 0)
-                            stats[key + '/' + key2 + '/' + key3] += 1
-                    except:
-                        pass
-            except:
+                removeS3(args.rootdir + coll)
+            except Exception as e:
+                print(e)
                 pass
-        collect_stats(stats_aggregate, stats)
     stats_averages = create_stats_averages(stats_aggregate)
     pretty_print_stats(stats_averages)
 
