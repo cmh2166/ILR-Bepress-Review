@@ -2,8 +2,8 @@
 
 ##S3 Backup Metadata Review
 
-Total records in all feeds as of this review: 1147 (waiting for full repopulation)
-Data harvested last on April 27th, 2016.
+Total records in all feeds as of this review: 24889
+Data harvested last on May 9th, 2016.
 
 ```
                             abstract: |======                   |   6685/24889 |  26%
