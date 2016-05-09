@@ -155,13 +155,13 @@ def main():
                             pass
                 except:
                     pass
-                collect_stats(stats_aggregate, stats)
-
-            try:
-                removeS3(args.rootdir + coll)
-            except Exception as e:
-                print(e)
-                pass
+            collect_stats(stats_aggregate, stats)
+        pprint.pprint(stats_aggregate)
+        try:
+            removeS3(args.rootdir + coll)
+        except Exception as e:
+            print(e)
+            pass
     stats_averages = create_stats_averages(stats_aggregate)
     pretty_print_stats(stats_averages)
 

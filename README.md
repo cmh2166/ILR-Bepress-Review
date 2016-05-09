@@ -6,47 +6,50 @@ Total records in all feeds as of this review: 1147 (waiting for full repopulatio
 Data harvested last on April 27th, 2016.
 
 ```
-                            abstract: |==========               |    497/1147 |  43%
-                           articleid: |=========================|   1147/1147 | 100%
-                authors/author/email: |===                      |    168/1147 |  14%
-                authors/author/fname: |==========               |    492/1147 |  42%
-          authors/author/institution: |======                   |    319/1147 |  27%
-                authors/author/lname: |==========               |    492/1147 |  42%
-                authors/author/mname: |=====                    |    275/1147 |  23%
-         authors/author/organization: |===                      |    144/1147 |  12%
-               authors/author/suffix: |=                        |     84/1147 |   7%
-                         context-key: |=========================|   1147/1147 | 100%
-                       coverpage-url: |=========================|   1147/1147 | 100%
-                         disciplines: |===                      |    140/1147 |  12%
-              disciplines/discipline: |===                      |    140/1147 |  12%
-                       document-type: |=========================|   1147/1147 | 100%
-                              fields: |=========================|   1147/1147 | 100%
-                        fields/field: |=========================|   1147/1147 | 100%
-                  fields/field/@name: |                         |      2/1147 |   0%
-                  fields/field/@type: |                         |      2/1147 |   0%
-                  fields/field/value: |                         |      2/1147 |   0%
-                            file_dir: |=========================|   1147/1147 | 100%
-                               files: |=========================|   1147/1147 | 100%
-                        fulltext-url: |======================== |   1144/1147 |  99%
-                            keywords: |===================      |    891/1147 |  77%
-                    keywords/keyword: |===================      |    891/1147 |  77%
-                               label: |=========================|   1147/1147 | 100%
-                          native-url: |==                       |    103/1147 |   8%
-                    publication-date: |=========================|   1147/1147 | 100%
-                   publication-title: |=========================|   1147/1147 | 100%
-                       subject-areas: |==                       |    100/1147 |   8%
-          subject-areas/subject-area: |==                       |    100/1147 |   8%
-                     submission-date: |=========================|   1147/1147 | 100%
-                     submission-path: |=========================|   1147/1147 | 100%
-                  supplemental-files: |====                     |    188/1147 |  16%
-             supplemental-files/file: |====                     |    188/1147 |  16%
-supplemental-files/file/archive-name: |===                      |    181/1147 |  15%
- supplemental-files/file/description: |===                      |    181/1147 |  15%
-   supplemental-files/file/mime-type: |===                      |    181/1147 |  15%
- supplemental-files/file/upload-name: |===                      |    181/1147 |  15%
-         supplemental-files/file/url: |===                      |    181/1147 |  15%
-                               title: |=========================|   1147/1147 | 100%
-                                type: |=========================|   1147/1147 | 100%
+                            abstract: |======                   |   6685/24889 |  26%
+                           articleid: |=========================|  24889/24889 | 100%
+                             authors: |=========================|  24889/24889 | 100%
+                      authors/author: |==============           |  14021/24889 |  56%
+                authors/author/email: |=                        |   1237/24889 |   4%
+                authors/author/fname: |====                     |   4316/24889 |  17%
+          authors/author/institution: |==                       |   2859/24889 |  11%
+                authors/author/lname: |====                     |   4316/24889 |  17%
+                authors/author/mname: |==                       |   2301/24889 |   9%
+         authors/author/organization: |=======                  |   6990/24889 |  28%
+               authors/author/suffix: |                         |    264/24889 |   1%
+                         context-key: |=========================|  24889/24889 | 100%
+                       coverpage-url: |=========================|  24889/24889 | 100%
+                         disciplines: |=                        |   1397/24889 |   5%
+              disciplines/discipline: |=                        |   1397/24889 |   5%
+                       document-type: |=========================|  24889/24889 | 100%
+                              fields: |======================== |  24847/24889 |  99%
+                        fields/field: |======================== |  24847/24889 |  99%
+                  fields/field/@name: |=                        |   1956/24889 |   7%
+                  fields/field/@type: |=                        |   1956/24889 |   7%
+                  fields/field/value: |=                        |   1956/24889 |   7%
+                            file_dir: |=========================|  24889/24889 | 100%
+                               files: |=========================|  24889/24889 | 100%
+                        fulltext-url: |======================== |  24682/24889 |  99%
+                            keywords: |=======================  |  23586/24889 |  94%
+                    keywords/keyword: |=======================  |  23586/24889 |  94%
+                               label: |=========================|  24889/24889 | 100%
+                          native-url: |                         |    503/24889 |   2%
+                    publication-date: |=========================|  24889/24889 | 100%
+                   publication-title: |=========================|  24889/24889 | 100%
+                       subject-areas: |                         |    404/24889 |   1%
+          subject-areas/subject-area: |                         |    348/24889 |   1%
+                     submission-date: |=========================|  24889/24889 | 100%
+                     submission-path: |=========================|  24889/24889 | 100%
+                  supplemental-files: |                         |    451/24889 |   1%
+             supplemental-files/file: |                         |    451/24889 |   1%
+supplemental-files/file/archive-name: |                         |    429/24889 |   1%
+ supplemental-files/file/description: |                         |    296/24889 |   1%
+   supplemental-files/file/mime-type: |                         |    429/24889 |   1%
+ supplemental-files/file/upload-name: |                         |    429/24889 |   1%
+         supplemental-files/file/url: |                         |    429/24889 |   1%
+                               title: |=========================|  24889/24889 | 100%
+                                type: |=========================|  24889/24889 | 100%
+                           withdrawn: |                         |      1/24889 |   0%
 ```
 
 ##Web Scraping Metadata/Microdata Review
