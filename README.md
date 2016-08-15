@@ -3,78 +3,54 @@
 ##S3 Backup Metadata Review
 Data harvested, reviewed last on August 15th, 2016.
 
-S3 backup record total:
+**S3 backup record total**: 21433 (missing 4547 records in backup?)
 
 ```
-                            abstract: |=======                  |   6718/23441 |  28%
-                           articleid: |=========================|  23441/23441 | 100%
-                             authors: |=========================|  23441/23441 | 100%
-                      authors/author: |==============           |  13385/23441 |  57%
-                authors/author/email: |=                        |   1242/23441 |   5%
-                authors/author/fname: |====                     |   4328/23441 |  18%
-          authors/author/institution: |===                      |   2871/23441 |  12%
-                authors/author/lname: |====                     |   4328/23441 |  18%
-                authors/author/mname: |==                       |   2307/23441 |   9%
-         authors/author/organization: |======                   |   6321/23441 |  26%
-               authors/author/suffix: |                         |    264/23441 |   1%
-                         context-key: |=========================|  23441/23441 | 100%
-                       coverpage-url: |=========================|  23441/23441 | 100%
-                         disciplines: |=                        |   1418/23441 |   6%
-              disciplines/discipline: |=                        |   1418/23441 |   6%
-                       document-type: |=========================|  23441/23441 | 100%
-                              fields: |======================== |  23399/23441 |  99%
-                        fields/field: |======================== |  23399/23441 |  99%
-                  fields/field/@name: |==                       |   1956/23441 |   8%
-                  fields/field/@type: |==                       |   1956/23441 |   8%
-                  fields/field/value: |==                       |   1956/23441 |   8%
-                            file_dir: |=========================|  23441/23441 | 100%
-                               files: |=========================|  23441/23441 | 100%
-                        fulltext-url: |======================== |  23234/23441 |  99%
-                            keywords: |=======================  |  22138/23441 |  94%
-                    keywords/keyword: |=======================  |  22138/23441 |  94%
-                               label: |=========================|  23441/23441 | 100%
-                          native-url: |                         |    503/23441 |   2%
-                    publication-date: |=========================|  23441/23441 | 100%
-                   publication-title: |=========================|  23441/23441 | 100%
-                       subject-areas: |                         |    413/23441 |   1%
-          subject-areas/subject-area: |                         |    357/23441 |   1%
-                     submission-date: |=========================|  23441/23441 | 100%
-                     submission-path: |=========================|  23441/23441 | 100%
-                  supplemental-files: |                         |    451/23441 |   1%
-             supplemental-files/file: |                         |    451/23441 |   1%
-supplemental-files/file/archive-name: |                         |    429/23441 |   1%
- supplemental-files/file/description: |                         |    296/23441 |   1%
-   supplemental-files/file/mime-type: |                         |    429/23441 |   1%
- supplemental-files/file/upload-name: |                         |    429/23441 |   1%
-         supplemental-files/file/url: |                         |    429/23441 |   1%
-                               title: |=========================|  23441/23441 | 100%
-                                type: |=========================|  23441/23441 | 100%
-                           withdrawn: |                         |      1/23441 |   0%
+                            abstract: |=======                  |   6777/21433 |  31%
+                           articleid: |=========================|  21433/21433 | 100%
+                             authors: |=========================|  21433/21433 | 100%
+                      authors/author: |================         |  14424/21433 |  67%
+                authors/author/email: |=                        |   1256/21433 |   5%
+                authors/author/fname: |=====                    |   4674/21433 |  21%
+          authors/author/institution: |===                      |   2905/21433 |  13%
+                authors/author/lname: |=====                    |   4674/21433 |  21%
+                authors/author/mname: |==                       |   2557/21433 |  11%
+         authors/author/organization: |========                 |   7000/21433 |  32%
+               authors/author/suffix: |                         |    282/21433 |   1%
+                         context-key: |=========================|  21433/21433 | 100%
+                       coverpage-url: |=========================|  21433/21433 | 100%
+                         disciplines: |=                        |   1440/21433 |   6%
+              disciplines/discipline: |=                        |   1440/21433 |   6%
+                       document-type: |=========================|  21433/21433 | 100%
+                              fields: |======================== |  21387/21433 |  99%
+                        fields/field: |======================== |  21387/21433 |  99%
+                  fields/field/@name: |==                       |   2223/21433 |  10%
+                  fields/field/@type: |==                       |   2223/21433 |  10%
+                  fields/field/value: |==                       |   2223/21433 |  10%
+                            file_dir: |=========================|  21433/21433 | 100%
+                               files: |=========================|  21433/21433 | 100%
+                        fulltext-url: |======================== |  21225/21433 |  99%
+                            keywords: |=======================  |  20134/21433 |  93%
+                    keywords/keyword: |=======================  |  20134/21433 |  93%
+                               label: |=========================|  21433/21433 | 100%
+                          native-url: |                         |    498/21433 |   2%
+                    publication-date: |=========================|  21433/21433 | 100%
+                   publication-title: |=========================|  21433/21433 | 100%
+                       subject-areas: |                         |    414/21433 |   1%
+          subject-areas/subject-area: |                         |    358/21433 |   1%
+                     submission-date: |=========================|  21433/21433 | 100%
+                     submission-path: |=========================|  21433/21433 | 100%
+                  supplemental-files: |                         |    452/21433 |   2%
+             supplemental-files/file: |                         |    452/21433 |   2%
+supplemental-files/file/archive-name: |                         |    429/21433 |   2%
+ supplemental-files/file/description: |                         |    296/21433 |   1%
+   supplemental-files/file/mime-type: |                         |    429/21433 |   2%
+ supplemental-files/file/upload-name: |                         |    429/21433 |   2%
+         supplemental-files/file/url: |                         |    429/21433 |   2%
+                               title: |=========================|  21433/21433 | 100%
+                                type: |=========================|  21433/21433 | 100%
+                           withdrawn: |                         |     22/21433 |   0%
 ```
-
-##Web Scraping Metadata/Microdata Review
-Total URLs/records scraped: 24,829 URLS (OAI document/coverpage-url).
-
-Data harvested last on April 28th, 2016.
-
-###Fields pulled from the HTML:
-
-- meta[@name] and meta[@content] when meta[@name] is not 'viewport'
-- div[@id='alpha']/div[@id=title]/p/a[@href] attribute and text
-- div[@id='alpha']/div[@id=author]/p text
-- div[@id='alpha']/div[@id=publication-date]/p text
-- div[@id='alpha']/div[@id=comments]/p text
-
-
-###HTML Analysis
-
-```
-
-```
-
-###Present in OAI feed and/or backup metadata?
-
-
 
 ##OAI-PMH Metadata Review
 
@@ -177,7 +153,7 @@ oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc
      oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}source: |=========================|  26069/26069 | 100%
     oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}subject: |=======================  |  24799/26069 |  95%
       oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}title: |=========================|  26069/26069 | 100%
-       oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}type: |=========================|  26069/26069 | 100% 
+       oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}type: |=========================|  26069/26069 | 100%
 
 ```
 
@@ -186,7 +162,18 @@ oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc
 
 **Overview**:
 ```
-
+                                                                                  oai:header/oai:datestamp: |=========================|  26116/26116 | 100% 
+                                                                                 oai:header/oai:identifier: |=========================|  26116/26116 | 100%
+                                                                                    oai:header/oai:setSpec: |=========================|  26116/26116 | 100%
+   oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}coverage: |==                       |   3020/26116 |  11%
+    oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}creator: |=============            |  14396/26116 |  55%
+       oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}date: |======================== |  25320/26116 |  96%
+oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}description: |=======================  |  24394/26116 |  93%
+ oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}identifier: |======================== |  25403/26116 |  97%
+  oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}publisher: |=                        |   1623/26116 |   6%
+    oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}subject: |=======================  |  24846/26116 |  95%
+      oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}title: |======================== |  25403/26116 |  97%
+       oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}type: |==                       |   2485/26116 |   9%
 ```
 
 
@@ -205,3 +192,56 @@ oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc
 ```
 
 ```
+
+##Web Scraping Metadata/Microdata Review
+Total URLs/records scraped: 24,829 URLS (OAI document/coverpage-url).
+
+Data harvested last on April 28th, 2016.
+
+###Fields pulled from the HTML:
+
+- meta[@name] and meta[@content] when meta[@name] is not 'viewport':
+    - /meta[@name="bepress_citation_pdf_url"][@content]
+    - /meta[@name="bepress_citation_publisher"][@content]
+    - /meta[@name="description"][@content]
+    - /meta[@name="bepress_citation_online_date"][@content]
+    - /meta[@name="bepress_citation_author"][@content]
+    - /meta[@name="bepress_citation_author_institution"][@content]
+    - /meta[@name="bepress_citation_abstract_html_url"][@content]
+    - /meta[@name="bepress_citation_volume"][@content]
+    - /meta[@name="bepress_citation_issue"][@content]
+    - /meta[@name="bepress_citation_firstpage"][@content]
+    - /meta[@name="bepress_is_article_cover_page"][@content]
+    - /meta[@name="bepress_citation_title"][@content]
+    - /meta[@name="keywords"][@content]
+    - /meta[@name="bepress_citation_journal_title"][@content]
+    - /meta[@name="bepress_citation_date"][@content]
+    - /meta[@name="bepress_citation_series_title"][@content]
+- Content divs:
+    - div[@id='alpha']/div[@id=title]/p
+    - div[@id='alpha']/div[@id=publication_date]/p
+    - div[@id='alpha']/div[@id=comments]/p
+    - div[@id='alpha']/div[@id=sector]/p
+    - div[@id='alpha']/div[@id=abstract]/p
+    - div[@id='alpha']/div[@id=fulltext_url]/p
+    - div[@id='alpha']/div[@id=keywords]/p
+    - div[@id='alpha']/div[@id=city]/p
+    - div[@id='alpha']/div[@id=union]/p
+    - div[@id='alpha']/div[@id=employer]/p
+    - div[@id='alpha']/div[@id=bp_categories]/p
+    - div[@id='alpha']/div[@id=number_workers]/p
+    - div[@id='alpha']/div[@id=contract_location]/p
+    - div[@id='alpha']/div[@id=playback_time]/p
+    - div[@id='alpha']/div[@id=authors]/p
+    - div[@id='alpha']/div[@id=item_id]/p
+    - div[@id='alpha']/div[@id=document_type]/p
+    - div[@id='alpha']/div[@id=publisher]/p
+    - div[@id='alpha']/div[@id=recommended_citation]/p
+    - div[@id='alpha']/div[@id=naics]/p
+    - div[@id='alpha']/div[@id=expiration_date]/p
+    - div[@id='alpha']/div[@id=series_url]/p
+    - div[@id='alpha']/div[@id=union_local]/p
+
+###Present in OAI feed and/or backup metadata?
+
+Most of the fields in the HTML paths targeted is captured in the various other metadata sources, albeit sometimes the HTML metadata display/generation is a number of fields concatenated (i.e. author first and last names going into a meta tag for author), or the fields are taken from 1 metadata field value (i.e. the object in context URL from which you can get journal volume, issue, and starting page number).
