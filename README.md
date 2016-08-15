@@ -162,6 +162,7 @@ oai:metadata/oai_dc:dc/dc:description: |======                   |   6779/26069 
 
 **Overview**:
 ```
+
              oai:header/oai:datestamp: |=========================|  26116/26116 | 100%
             oai:header/oai:identifier: |=========================|  26116/26116 | 100%
                oai:header/oai:setSpec: |=========================|  26116/26116 | 100%
@@ -182,7 +183,22 @@ oai:metadata/oai_dc:dc/dc:description: |=======================  |  24394/26116 
 
 **Overview**:
 ```
-
+                       oai:header/oai:datestamp: |=========================|  26116/26116 | 100%
+                      oai:header/oai:identifier: |=========================|  26116/26116 | 100%
+                         oai:header/oai:setSpec: |=========================|  26116/26116 | 100%
+     oai:metadata/oai_dc:dc/dc:coverage.spatial: |                         |    113/26116 |   0%
+ oai:metadata/oai_dc:dc/dc:coverage.spatial.lat: |==                       |   2907/26116 |  11%
+oai:metadata/oai_dc:dc/dc:coverage.spatial.long: |==                       |   2907/26116 |  11%
+              oai:metadata/oai_dc:dc/dc:creator: |=============            |  14396/26116 |  55%
+       oai:metadata/oai_dc:dc/dc:date.available: |                         |     10/26116 |   0%
+         oai:metadata/oai_dc:dc/dc:date.created: |======================== |  25318/26116 |  96%
+          oai:metadata/oai_dc:dc/dc:description: |======================   |  23131/26116 |  88%
+ oai:metadata/oai_dc:dc/dc:description.abstract: |======                   |   6779/26116 |  25%
+           oai:metadata/oai_dc:dc/dc:identifier: |======================== |  25403/26116 |  97%
+            oai:metadata/oai_dc:dc/dc:publisher: |=                        |   1623/26116 |   6%
+              oai:metadata/oai_dc:dc/dc:subject: |=======================  |  24846/26116 |  95%
+                oai:metadata/oai_dc:dc/dc:title: |======================== |  25403/26116 |  97%
+                 oai:metadata/oai_dc:dc/dc:type: |==                       |   2485/26116 |   9%
 ```
 
 ###ETDMS Review
