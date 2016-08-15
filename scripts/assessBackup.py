@@ -51,7 +51,7 @@ def parseS3(rootdir, output):
 
 
 def collect_stats(stats_aggregate, stats):
-    # increment the record counter
+    """Increment the record counter."""
     stats_aggregate["record_count"] += 1
     for field in stats:
         # get the total number of times a field occurs

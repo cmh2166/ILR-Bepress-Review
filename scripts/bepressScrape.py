@@ -1,4 +1,15 @@
-for url in URLS:
+import requests
+from lxml import html
+import json
+
+URLS = []
+webdata = {}
+with open('data/urls.txt') as fh:
+    URLS = fh.read().splitlines()
+with open('data/webscrape/data.json') as fh:
+    webdata = json.load(fh)
+
+for url in URLS[24388:]:
     print('scraping ' + url)
     webdata[url] = {}
     resp = requests.get(url)
@@ -32,15 +43,10 @@ for url in URLS:
         json.dump(webdata, fh)
 
 
-import requests
-from lxml import html
-import json
-
-
 def grabURLs():
     URLS = []
     with open('data/urls.txt') as fh:
-        URLS = fh.readlines()
+        URLS = fh.read().splitlines()
     return(URLS)
 
 

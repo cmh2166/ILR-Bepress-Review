@@ -1,2 +1,0 @@
-Labor Photos
-Kassoy Cartoons
