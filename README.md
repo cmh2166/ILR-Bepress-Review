@@ -141,19 +141,19 @@ document/fields/field[@name=publication_date_date_format][@type=string]/value: |
 
 **Overview**:
 ```
-                                                                                  oai:header/oai:datestamp: |=========================|  26069/26069 | 100%
-                                                                                 oai:header/oai:identifier: |=========================|  26069/26069 | 100%
-                                                                                    oai:header/oai:setSpec: |=========================|  26069/26069 | 100%
-    oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}creator: |=============            |  14396/26069 |  55%
-       oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}date: |=========================|  26069/26069 | 100%
-oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}description: |======                   |   6779/26069 |  26%
-     oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}format: |======================== |  26047/26069 |  99%
- oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}identifier: |=========================|  26069/26069 | 100%
-  oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}publisher: |=========================|  26069/26069 | 100%
-     oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}source: |=========================|  26069/26069 | 100%
-    oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}subject: |=======================  |  24799/26069 |  95%
-      oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}title: |=========================|  26069/26069 | 100%
-       oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}type: |=========================|  26069/26069 | 100%
+             oai:header/oai:datestamp: |=========================|  26069/26069 | 100%
+            oai:header/oai:identifier: |=========================|  26069/26069 | 100%
+               oai:header/oai:setSpec: |=========================|  26069/26069 | 100%
+    oai:metadata/oai_dc:dc/dc:creator: |=============            |  14396/26069 |  55%
+       oai:metadata/oai_dc:dc/dc:date: |=========================|  26069/26069 | 100%
+oai:metadata/oai_dc:dc/dc:description: |======                   |   6779/26069 |  26%
+     oai:metadata/oai_dc:dc/dc:format: |======================== |  26047/26069 |  99%
+ oai:metadata/oai_dc:dc/dc:identifier: |=========================|  26069/26069 | 100%
+  oai:metadata/oai_dc:dc/dc:publisher: |=========================|  26069/26069 | 100%
+     oai:metadata/oai_dc:dc/dc:source: |=========================|  26069/26069 | 100%
+    oai:metadata/oai_dc:dc/dc:subject: |=======================  |  24799/26069 |  95%
+      oai:metadata/oai_dc:dc/dc:title: |=========================|  26069/26069 | 100%
+       oai:metadata/oai_dc:dc/dc:type: |=========================|  26069/26069 | 100%
 
 ```
 
@@ -162,18 +162,18 @@ oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc
 
 **Overview**:
 ```
-                                                                                  oai:header/oai:datestamp: |=========================|  26116/26116 | 100% 
-                                                                                 oai:header/oai:identifier: |=========================|  26116/26116 | 100%
-                                                                                    oai:header/oai:setSpec: |=========================|  26116/26116 | 100%
-   oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}coverage: |==                       |   3020/26116 |  11%
-    oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}creator: |=============            |  14396/26116 |  55%
-       oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}date: |======================== |  25320/26116 |  96%
-oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}description: |=======================  |  24394/26116 |  93%
- oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}identifier: |======================== |  25403/26116 |  97%
-  oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}publisher: |=                        |   1623/26116 |   6%
-    oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}subject: |=======================  |  24846/26116 |  95%
-      oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}title: |======================== |  25403/26116 |  97%
-       oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}type: |==                       |   2485/26116 |   9%
+             oai:header/oai:datestamp: |=========================|  26116/26116 | 100%
+            oai:header/oai:identifier: |=========================|  26116/26116 | 100%
+               oai:header/oai:setSpec: |=========================|  26116/26116 | 100%
+   oai:metadata/oai_dc:dc/dc:coverage: |==                       |   3020/26116 |  11%
+    oai:metadata/oai_dc:dc/dc:creator: |=============            |  14396/26116 |  55%
+       oai:metadata/oai_dc:dc/dc:date: |======================== |  25320/26116 |  96%
+oai:metadata/oai_dc:dc/dc:description: |=======================  |  24394/26116 |  93%
+ oai:metadata/oai_dc:dc/dc:identifier: |======================== |  25403/26116 |  97%
+  oai:metadata/oai_dc:dc/dc:publisher: |=                        |   1623/26116 |   6%
+    oai:metadata/oai_dc:dc/dc:subject: |=======================  |  24846/26116 |  95%
+      oai:metadata/oai_dc:dc/dc:title: |======================== |  25403/26116 |  97%
+       oai:metadata/oai_dc:dc/dc:type: |==                       |   2485/26116 |   9%
 ```
 
 
