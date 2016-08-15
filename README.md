@@ -94,7 +94,7 @@ OAI-PMH Metadata Formats available via the Bepress OAI feed:
 
 **Overview**:
 ```
-                                                            document/abstract: |======                   |   6778/25980 |  26% 
+                                                            document/abstract: |======                   |   6778/25980 |  26%
                                                            document/articleid: |=========================|  25980/25980 | 100%
                                                 document/authors/author/email: |==                       |   2345/25980 |   9%
                                                 document/authors/author/fname: |======                   |   7061/25980 |  27%
@@ -165,6 +165,19 @@ document/fields/field[@name=publication_date_date_format][@type=string]/value: |
 
 **Overview**:
 ```
+                                                                                  oai:header/oai:datestamp: |=========================|  26069/26069 | 100%
+                                                                                 oai:header/oai:identifier: |=========================|  26069/26069 | 100%
+                                                                                    oai:header/oai:setSpec: |=========================|  26069/26069 | 100%
+    oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}creator: |=============            |  14396/26069 |  55%
+       oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}date: |=========================|  26069/26069 | 100%
+oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}description: |======                   |   6779/26069 |  26%
+     oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}format: |======================== |  26047/26069 |  99%
+ oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}identifier: |=========================|  26069/26069 | 100%
+  oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}publisher: |=========================|  26069/26069 | 100%
+     oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}source: |=========================|  26069/26069 | 100%
+    oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}subject: |=======================  |  24799/26069 |  95%
+      oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}title: |=========================|  26069/26069 | 100%
+       oai:metadata/{http://www.openarchives.org/OAI/2.0/oai_dc/}dc/{http://purl.org/dc/elements/1.1/}type: |=========================|  26069/26069 | 100% 
 
 ```
 
