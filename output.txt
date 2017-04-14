@@ -1,2 +1,3 @@
-2016-05-04 04:01   1879010   s3://dc-ilr-cornell-edu-archive/archive/digitalcommons.ilr.cornell.edu/perbcontracts/427/4899.pdf
-2016-05-04 04:01      1557   s3://dc-ilr-cornell-edu-archive/archive/digitalcommons.ilr.cornell.edu/perbcontracts/427/metadata.xml
+2016-05-10 01:11    671990   s3://dc-ilr-cornell-edu-archive/archive/digitalcommons.ilr.cornell.edu/manuals/15/Greener__Safer_Guide.pdf
+2016-08-11 21:16      4661   s3://dc-ilr-cornell-edu-archive/archive/digitalcommons.ilr.cornell.edu/manuals/15/metadata.xml
+2016-08-11 21:16    777575   s3://dc-ilr-cornell-edu-archive/archive/digitalcommons.ilr.cornell.edu/manuals/15/stamped.pdf
